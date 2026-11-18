@@ -57,6 +57,10 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
   **B+ and above only**. `youtube/ETRextCcwCo @ 00:08:22`
 - "Even with an A rating, not a good entry" if it doesn't start from an HTF level.
 
+### His checklist (✓ seen on his chart, Oct 2026)
+Liquidity Sweep · HTF PDA Delivery · Delta Imbalance · IFVG · Clear Targets · SMT w/ ES.
+More ✓ = higher grade. Chart: NQ1! on the 2-minute. See `codex/visual/README.md`.
+
 ### Visual examples
-_Pending: frames from his charts are being captured. Each example will link the
+_In progress: frames from his charts are arriving. Each example will link the
 frame that shows the gap, the sweep, the inversion candle, entry, stop and target._
