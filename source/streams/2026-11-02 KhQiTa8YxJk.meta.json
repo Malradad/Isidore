@@ -1,0 +1,20 @@
+{
+  "title": "🟢100K Special Stream !Giveaway !Trading !Challenges | DodgysDD",
+  "id": "KhQiTa8YxJk",
+  "url": "https://www.youtube.com/watch?v=KhQiTa8YxJk",
+  "duration_s": 5981,
+  "duration": "01:39:41",
+  "live_status": "was_live",
+  "release_timestamp": 1793629011,
+  "live_start_utc": "2026-11-02T14:16:51Z",
+  "live_start_ny": "2026-11-02 09:16:51 EST (Monday)",
+  "timestamp": 1793643811,
+  "timestamp_ny": "2026-11-02 13:23:31 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:16:51 + stream time. Check: he says 'open in 30 seconds' at stream 00:13:18 -> 09:30:09, so the map is good to about +/-30 s (caption lines start every ~10-20 s and stream delay applies).",
+  "chart": "NQ1! on TradingView, 30s (trades 1-2) and 1m (later)",
+  "transcript_source": "YouTube auto-captions (en), ~10 s lines",
+  "video_local": "%USERPROFILE%\isidore-videos\KhQiTa8YxJk.webm (1280x720, downloaded earlier by Bot; left in place)",
+  "kind": "trading + giveaway (100K subscriber special)",
+  "collected_by": "Audrey",
+  "collected": "2026-11-18"
+}
