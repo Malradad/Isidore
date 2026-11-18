@@ -28,6 +28,32 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
 6. **Direction matches his bias.** He ignores setups against it, even graded A.
    `youtube/ETRextCcwCo @ 00:02:27`
 
+### His order of importance (Jul + Oct 2026)
+**Target first, location second, inversion third, risk last.** `youtube/Rcf2t7ebjPg`, `youtube/KB4yG424nfk`
+1. **Draw on liquidity — "fuel" (most important).** Engineered highs/lows that haven't
+   been taken: lower highs that never took the previous high, equal highs/lows, trend lines.
+   The target is the **top of the fuel** (the last high in the unbroken chain).
+   A low that already took the low before it is *not* fuel.
+2. **One-sided liquidity ("the holy grail").** Trade only after **one side's stops have been
+   run and the other side's are still there.** Fuel on **both** sides → sit out, "trading is
+   supposed to be boring."
+3. **Location.** Enter in discount for longs (premium for shorts), near the sweep, not
+   **overextended** after the move has already gone. Risk small relative to the target.
+4. **The inversion + "what's to the left?"** It must come off a higher-timeframe gap / PD
+   array (or demand zone / low-volume node). Use the timeframe where it's a single clean gap.
+   Must **close** through; a wick doesn't count.
+5. **Push-through ratio:** the number of candles it takes to invert the gap. 1 giant candle
+   through 4 small ones is good; **more than ~7 candles → avoid** (mainly for beginners).
+6. **Risk.** Same risk every time; no revenge trading; never move the stop away.
+   "A professional takes an A+ setup, loses, and says I'd take that exact trade again."
+
+**His four questions before entry:** Where is price trying to go? Is the iFVG located
+somewhere that makes sense? Has price given enough confirmation? Is the risk worth it?
+All four yes → enter. `youtube/Rcf2t7ebjPg`
+
+**Timeframes (✓ matches maker):** iFVG on 30s–5m; 15m and above for bias only. Can drop to
+30s for a tighter-stop confirmation entry. Don't use a higher-timeframe iFVG alone as bias.
+
 ### 2026 additions (his "new model", Aug 2026)
 - **Base model unchanged:** delivery from an HTF fair value gap + sweep of a key level
   (London low, Asia low, news low, equal lows) + iFVG. `youtube/E1BIVjBwLxQ @ 00:00:13–00:01:06`

@@ -84,3 +84,14 @@ _Session entries: date · what was learned · decision · maker response · perf
   mechanics testing; for performance, compare all-hours vs 09:30–11:00 (claim 9).
 - **Code next (v0.4 candidates):** momentum-candle filter (body/range), max 1 trade/day option,
   "first false move only" after 09:30, trend-line liquidity detection (harder).
+
+## 2026-11-18 · Studied: "Simplest IFVG Model" (Jul 2026), "How I Trade IFVGs Differently" (Oct 2026)
+- **Learned:** his ranking — target first (fuel), one-sided liquidity, location, inversion
+  off an HTF gap, push-through ≤ ~7 candles, then risk. Fuel on both sides = no trade.
+  Four questions before entry. iFVG 30s–5m, bias 15m+.
+- **Code v0.4 candidates (in priority order):** (1) fuel target = top of the unbroken
+  lower-high chain; (2) skip when untaken fuel is on both sides; (3) push-through ≤ 7 candles;
+  (4) momentum candle body filter; (5) location: entry in the lower/upper half of the
+  sweep→target range; (6) max 1 trade/day option.
+- **Remaining:** Masterclass, Comparing top 3 models, Scalping, Best trade 10R, $73K month,
+  three live streams.
