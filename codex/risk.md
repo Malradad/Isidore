@@ -20,6 +20,19 @@ _Almost nothing known yet. This is the biggest gap in the codex._
 - Strong volume: just beyond the inversion candle (tighter, better R).
 - The stop sets the size: wider stop → fewer contracts, so risk per trade stays fixed.
 
+## The maker's own sizing (✓ maker, 2026-11-18)
+- **1, 2 or 3 MNQ** per trade, depending on the setup and the risk.
+- **Risk per trade: $200–$250.**
+- What that implies for the stop (risk ÷ ($2 × contracts)):
+  | Contracts | Stop at $200 | Stop at $250 |
+  |---|---|---|
+  | 1 MNQ | 100 pts | 125 pts |
+  | 2 MNQ | 50 pts  | 62 pts  |
+  | 3 MNQ | 33 pts  | 42 pts  |
+- So: tight stop (strong-volume candle stop) → 3 contracts; wide stop (swing stop)
+  → 1 contract. Risk in dollars stays roughly fixed; contracts flex.
+- These are Isidore's **starting limits** for paper and live trading.
+
 ## Sizing in MNQ (✓ maker trades MNQ)
 - Contracts = risk in $ ÷ (stop distance in points × $2).
 - Example: $200 risk, 25-point stop → 200 ÷ (25 × 2) = 4 MNQ.

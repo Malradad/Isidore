@@ -27,7 +27,8 @@ The Geppetto goal: Level 5 in every domain. A real trader, trusted alone.
 - **4 → 5:** 90+ trading days live, positive after costs, never broke a risk rule.
 
 ## Instrument
-Paper and live trading start in **MNQ** (the maker's instrument). Moving up to NQ
+Paper and live trading start in **MNQ** (the maker's instrument), at the maker's
+own size: **1–3 contracts, $200–$250 risk per trade**. Moving up to NQ
 is a capital-allocation decision, so it stays with the maker.
 
 ## Fixed at every level

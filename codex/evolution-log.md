@@ -55,3 +55,10 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Learned (✓ maker):** the maker trades MNQ most of the time; NQ is too large for now. Be flexible.
 - **Decision:** study and backtest on NQ charts (identical price, longer history);
   size, paper trade and trade in MNQ ($2/point). NQ only when the maker raises the allocation.
+
+## 2026-11-18 · Maker's sizing
+- **Learned (✓ maker):** 1–3 MNQ per trade, $200–$250 risk, depending on setup and risk.
+- **Implication:** stop distance sets the contract count: ~33–42 pts → 3 MNQ,
+  ~50–62 → 2, ~100–125 → 1. Fixed-dollar risk, flexible size.
+- **Decision:** these are Isidore's starting limits.
+- **Open:** account size, daily loss limit, max trades per day.
