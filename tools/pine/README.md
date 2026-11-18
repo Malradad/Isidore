@@ -25,7 +25,7 @@ Izzy reads the alert log during the session, decides TAKE / SKIP, then enters wi
 | Fair value gap (3-candle gap) | gaps ≥ 4 ticks, live 40 bars | playbook |
 | Inversion = candle **closes** through the gap | long: close above a bearish gap; short: close below a bullish gap | playbook |
 | One clean liquidity sweep first | price takes a swing low/high, inversion within 15 bars, **first sweep only** | Dodgy, "Wrong Way to Trade IFVGs" |
-| Trade window | 09:30–11:00 New York (input) | maker / killzones |
+| Trade window | **all hours by default (v0.3, maker)**; optional 09:30–11:00 New York window | maker / killzones |
 | Stops ✓ | Auto: strong volume → under inversion candle; weak → swing; normal → close back through gap (swing as hard stop) | maker |
 | Target | nearest untaken swing high/low if ≥ 1R, else 1R | Dodgy (engineered liquidity, 1:1 live) |
 | Size ✓ | $225 risk ÷ (stop × $2), max 3 MNQ, skip if < 1 | maker |

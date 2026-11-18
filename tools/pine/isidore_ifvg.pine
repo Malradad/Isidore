@@ -1,8 +1,8 @@
 //@version=5
-// Isidore (Izzy) — iFVG strategy v0.2 (v0.2: alert on every setup)
+// Isidore (Izzy) — iFVG strategy v0.3 (v0.2: alert on every setup · v0.3: trade all hours option, on by default)
 // Rules come from codex/playbook.md (✓ = confirmed by the maker).
 // Paper and backtest use only. Not financial advice.
-strategy("Isidore iFVG v0.2", shorttitle="Izzy iFVG", overlay=true,
+strategy("Isidore iFVG v0.3", shorttitle="Izzy iFVG", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
      commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
@@ -21,8 +21,9 @@ sweepWindow  = input.int(15, "Inversion must come within N bars of the sweep", m
 maxSweeps    = input.int(1,  "Max sweeps in that window (1 = first sweep only)", minval=1, group=G2)
 
 G3 = "Session and bias"
+allHours   = input.bool(true, "Trade all hours (ignore trade window)", group=G3)
 kzSession  = input.session("0930-1100", "Trade window (New York time)", group=G3)
-flatTime   = input.session("1555-1600", "Flatten window (New York time)", group=G3)
+flatTime   = input.session("1655-1700", "Flatten window (New York time, before CME daily break)", group=G3)
 biasMode   = input.string("Both", "Manual bias", options=["Both", "Long only", "Short only"], group=G3)
 useHTF     = input.bool(false, "HTF filter: close vs EMA", group=G3)
 htfTF      = input.timeframe("60", "HTF timeframe", group=G3)
@@ -180,7 +181,7 @@ htfShortOK = not useHTF or htfC < htfE
 biasLongOK  = biasMode != "Short only" and htfLongOK
 biasShortOK = biasMode != "Long only"  and htfShortOK
 
-inKZ   = inWindow(kzSession)
+inKZ   = allHours or inWindow(kzSession)
 inFlat = inWindow(flatTime)
 
 // ───────── Daily limits ─────────
