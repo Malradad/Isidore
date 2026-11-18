@@ -44,3 +44,12 @@ _Almost nothing known yet. This is the biggest gap in the codex._
 - Position size, risk per trade, daily loss limit.
 - Max trades per day; what he does after a loss.
 - Whether he trades live, funded, or sim, and whether he shows it.
+
+## Execution in TradingView paper (tested 2026-11-18, journal Tests 1–2)
+- **Shift+B / Shift+S:** market order in ~1–2 s, no dialog, but **no stop attaches**
+  (TradingView has no default-stop setting). Adding the stop took Izzy 20–33 s.
+- **Rule:** never use bare hotkeys for real money. On paper, allowed only if the stop
+  is added immediately after.
+- **Preferred:** keep the order ticket pre-staged during the session (qty, SL and TP
+  toggles on, distances in ticks), so one click on Buy/Sell enters *with* the bracket.
+  Then adjust the stop/target to the real levels.
