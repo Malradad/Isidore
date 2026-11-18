@@ -1,0 +1,163 @@
+[00:00:00] I'm sure you guys would know what IPGs are by now and you've probably seen the multiple creators teaching their own way of using IVG in the training space.
+[00:00:07] That's why in today's video I'm going to be comparing the top three most popular IVG models.
+[00:00:16] Now, before we get started, I just want to let everyone know that these models are actually all mine and stuff that I created years ago on my YouTube channel.
+[00:00:22] If you go back, these creators just kind of took it their own way and just renamed them essentially.
+[00:00:27] But out of respect for XCT in my mentor, I'm never going to rename them and I never will rename any concept that I make up.
+[00:00:33] So without further ado, let's get started.
+[00:00:34] Coming in at number one, we had PB Blake's Mech model.
+[00:00:38] Okay, this is a model that I...
+[00:00:40] This is a model that he trades with IVG's that he ended up renaming.
+[00:00:43] Again, it's just a variation of one of the models I taught years ago.
+[00:00:46] But again, you have to respect them and people who renamed these concepts because this is the only way you're going to sell mentorships.
+[00:00:52] Now, with huge respect to PB Blake, I think he's one of the best traders in the entire trading industry.
+[00:00:56] But without further ado, let me just talk about the smarter real quick.
+[00:00:59] Now, for the Mech model, which he renamed, he's basically waiting for a retracement to a 15-minute free valid gap and on the way down or up,
+[00:01:07] he's trying to catch some sort of IVG like this back down to that 15-minute gap.
+[00:01:11] And this is a great way to use the model, but I think this is a terrible way to use the model as well if you don't know what you're doing.
+[00:01:19] So I just want to kind of explain that real quick.
+[00:01:21] So, essentially what he does is he's waiting for a 15-minute gap unfilled and again,
+[00:01:26] he's going to look for that IVG, he's going to look for some delivery up of a hard time frame, you know, if I really got there.
+[00:01:31] And then for us, we're tracing here and then when we get back in the 15-minute free valid gap, but it doesn't really matter what happens,
+[00:01:36] you know, we could go up down, but it doesn't matter because he's essentially taking this trade right here, okay?
+[00:01:42] And he's going for like a 1-2 or a 1-3, maybe even a 1-1, and that's the trade he's taking, okay?
+[00:01:47] However, this model can be deadly if you use it properly, but not just doing what I just said.
+[00:01:54] It can be deadly if there's a ton of buildup of trend line liquidity above the fair value gap.
+[00:02:00] So let's say we have once our green counts up, boom, boom, boom, and then we have a giant manipulation like,
+[00:02:05] and then an IVG and then an unfilled gap beneath.
+[00:02:08] This is what I call the deadly back model.
+[00:02:11] Now, no, ICT, I'm not renaming this model, it's just a joke, but this is a lot more deadly than PB Blake's model,
+[00:02:17] and while it's a good model, I think that you need to add this into the model a lot more
+[00:02:22] because this is going to make the draw the 15-minute fair value gap that's unfilled 10 times stronger, okay?
+[00:02:29] If you delete all this and you just have a straight 15-minute gap, and there's just a single immersion going down,
+[00:02:35] that does not mean that we're going to go down, okay?
+[00:02:38] I would be 10 times more confident if it looked like this, okay? This would be 10 times more confident.
+[00:02:43] I'm not just going to store it into a random unfilled 15-minute gap.
+[00:02:46] As you guys know, the market likes to move into the two things, imbalances and liquidity,
+[00:02:50] and while imbalances are strong, liquidity is stronger, and I always like for there to be liquidity lined up
+[00:02:55] with the imbalance if we're going to be taking the back model, which is what he calls it.
+[00:03:00] Now, coming at number two, we have the motion model, okay? This is another renamed concept.
+[00:03:05] Basically, something I taught in my video years ago.
+[00:03:07] However, this is by Riley Brother, if you know him on Instagram, okay?
+[00:03:11] This is probably my least favorite, and don't worry, at the end, I will be comparing which ones I'd like to best,
+[00:03:16] how I like them, and just give my rankings to them. But, the motion model is something that I don't like a lot,
+[00:03:21] and I'll tell you why. Essentially, what the motion model is, is it's where we get like a double SMT,
+[00:03:26] and then an IVG off the double SMT. So, they'll likely be some higher time from SMT, and then a lower time from SMT.
+[00:03:32] Again, you could literally name a model, the triple SMT model, and just like for three SMTs,
+[00:03:38] you can rename a model, the quadruple SMT, digga, whatever you want to name it, model, okay?
+[00:03:43] This is just getting repetitive at this point. But, the reason I don't love this model, and is because it's too SMT dependent.
+[00:03:50] Like, the main goal of this model is to find the two SMTs. SMTs are secondary. You don't need SMTs for reversals, okay?
+[00:03:56] You need liquidity, you need fuel. You need so much more than just an SMT, and when you're looking and hunting for two SMTs like this,
+[00:04:03] this doesn't mean liquidity is up there. This could just mean it's a choppy, or it just, it's just not the greatest.
+[00:04:08] At the end of the video, I'm gonna back test one mech model, one motion model, and then the third model, which I'm about to talk about.
+[00:04:14] So, yeah, well, this can work sometimes for actually extremely higher arm, the win rate on something like this is much lower.
+[00:04:20] But, I will say, it's still technically profitable because on these plays that Riley's brother's taking or teaching, he is going for a very high arm.
+[00:04:27] So, well, this does not have the highest one rate, which I don't like because it's not good for my psychology personally.
+[00:04:33] It can still somewhat be profitable. Again, this is my least favorite though.
+[00:04:36] Now, last but not least, before we get into some back test, this is the lotion model.
+[00:04:41] Okay, this is by somebody who will options, care, will trades, he's bigger on TikTok, and if you haven't seen this model yet, it's basically just a model where we are buying the inverse of a very old for a rally gap that maybe it was respected, or maybe it wasn't respected yet, or not even filled.
+[00:04:57] And you're just taking like a low RR to like some drawn liquidity that we're really close to.
+[00:05:02] So, like, let's say there's a really obvious like equal higher hourly high there, we haven't hit it yet.
+[00:05:07] And let's say you missed like an entry, you know, maybe the entry was here, this is where I proud enter it.
+[00:05:12] And let's say you missed that entry to equal highs, you look for a very rally gap way far to the left and just use that.
+[00:05:18] Okay, this is called the lotion model, and this is actually probably my second favorite model.
+[00:05:22] I don't mind this model, actually, I've done this before for little chases.
+[00:05:26] But again, it's just a preference thing, and, you know, I think as a will keep streaming, this will probably gain popularity.
+[00:05:31] It can be risky, but the win rate can be decently high if you wait for the right type of candles.
+[00:05:36] All right, let's go to the back test and get into some live examples of actually testing and showing you what these look like in a lot of time.
+[00:05:42] All right, starting off with the mech model, we have an unbalanced 15 minute gap here.
+[00:05:46] Okay, so theoretically, we'd be looking for any sort of retracement into this for the mech model.
+[00:05:51] So we're on the 15 minutes unfilled, we're going to go like to maybe the three minute, five minute, okay, five and it does look the best.
+[00:05:56] So we have a potential five minute gap back to the upside here.
+[00:06:00] Okay, now if we inverse this, well, long, we have a little manipulation like here,
+[00:06:05] and this would be the mech model because it's going the targets that unbalanced the team.
+[00:06:09] Now, remember what I said, I only like targeting these if there's a build up liquidity.
+[00:06:13] Is there a build up liquidity here?
+[00:06:14] Yeah, I'm going to say there is, you know, equal highs here.
+[00:06:17] So this could be decent.
+[00:06:18] Okay, let's just see how the candle closure maybe looks, and then I'll decide if I want to take it.
+[00:06:22] Ooh, okay, so really good candle, really good candle again, definitely a really good one. We'll go for like, we're going to go for one R here.
+[00:06:30] This is definitely one of those like lower R plays.
+[00:06:32] And that's another reason why this mech model can be just not great because you're not targeting highs and lows.
+[00:06:37] You're just targeting unfilled gaps with RRS lower.
+[00:06:39] And it's the reason I don't love it.
+[00:06:41] But again, I don't love any of these models.
+[00:06:43] I think trading discretionary and having all these models in one is the best way to trade.
+[00:06:47] I trade liquidity, not these dumb model names.
+[00:06:50] Okay, so right here we kind of have these old single highs.
+[00:06:53] This would be considered a mech model.
+[00:06:54] We have an manipulation like here.
+[00:06:56] So this is a trade that PB Blake would probably take.
+[00:06:59] So we're just going to mark in this here and see what happens.
+[00:07:02] Okay, pretty bad rejection there, but let's see.
+[00:07:05] Okay, okay, okay, and bang.
+[00:07:07] Okay, so looks scary there for a minute, but TP did hit.
+[00:07:11] And again, all that work, all that sitting for an hour, almost two hours, would have gotten you just a one R.
+[00:07:18] Again, not my favorite model at all, but that's how I trades it.
+[00:07:22] Again, I would have probably tried getting better R on this one.
+[00:07:24] Maybe there was, yeah, there's probably a better one than entry.
+[00:07:26] So like here would have been a decent entry with higher R, but yeah, that's just me.
+[00:07:31] And like at that point, I know we're building liquidity right here and then here.
+[00:07:35] So I'm more focused on liquidity cutting us higher R like liquidity runs, but that's just my personal preference.
+[00:07:41] Now, this would be an example of the motion model where you can see this is NQ and then this is yes.
+[00:07:46] And you can see we have a giant, higher time frame SMT here.
+[00:07:50] I'm like the five minute, if I go five minute.
+[00:07:52] And if you go to the one minute, there's an internal time frame SMT too.
+[00:07:55] So there's an SMT here and an SMT here.
+[00:07:58] But like I said, you're becoming so, like you're becoming so SMT dependent here,
+[00:08:03] where it's just, I don't love it.
+[00:08:04] Okay, because you're only looking for SMT's, but you're not looking for liquidity.
+[00:08:07] Right, I believe the reason we go up here is because we left a data high from A30.
+[00:08:11] Not had nothing to do in SMT. So this motion model to be minus two SMT's, which for me,
+[00:08:17] are more confluences.
+[00:08:18] And then you do stop below the original family gap and then target the high.
+[00:08:22] And you can see it worked out nicely.
+[00:08:24] Don't forget though, this is actually complete hindsight.
+[00:08:26] The other one I do is live time.
+[00:08:28] It's just hard for me to find this in live time and FX replay because I don't want to sit there
+[00:08:32] looking for these 15, 30 second plays, which Riley usually takes, which is much easier to spot on live time.
+[00:08:38] But that's essentially what this model is. You can see and cue the entry would have been
+[00:08:42] a little tighter with a better RR. And you can see how higher R you can get here.
+[00:08:46] Now, for stop loss, you can do invalidation below the SMT. That's probably smarter.
+[00:08:51] But if there's a double SMT and price is truly bullish, we really shouldn't go that much below
+[00:08:56] the fair rally gap. So this is how you can catch higher RR.
+[00:08:59] All right, third. And finally, we're going to test the lotion model.
+[00:09:03] So what the lotion model would look like in an example like this is I don't even know.
+[00:09:08] I mean, I would probably say like inversing these gaps down here, you know, to run like this draw.
+[00:09:14] I feel like we have equal lows and maybe like traumatic put it in.
+[00:09:17] But that's really all I see right now. Oh, okay. It's actually looks really good.
+[00:09:20] All right. So this would be an example of the lotion model where we kind of missed the
+[00:09:25] entry up there. You know, we missed this one miniature right there.
+[00:09:28] So now we're going to take that like last gap in versing here.
+[00:09:31] And I'm not going to lie. I think this looks good enough to take regardless.
+[00:09:37] I guess this is an entry here. Okay, boom. So there would be entry.
+[00:09:40] Would we stop here? You know, we kind of inverse all this, all these gaps.
+[00:09:44] You've been drawing the code down there. And he's pretty much going for like a lower R.
+[00:09:47] So like a 1.25 here because, you know, the last of these are all typical lows.
+[00:09:51] But this would be like a good example of what he typically takes.
+[00:09:54] And the reason why I don't love it is again, it's just lower R every time.
+[00:09:57] So it's hard to catch higher R plays with this. And boom, there it is.
+[00:10:01] So again, just a quick one R. This would be the lotion model.
+[00:10:04] It's like where we miss the initial move, but then we chase like a gap.
+[00:10:07] That's like at the end of the leg, right before a good draw.
+[00:10:10] The two key things here for this model are waiting for a good draw at the end.
+[00:10:13] Right. It needs to be something where we know price can fuel against or fuel into
+[00:10:18] or spool into because it has fuel. And it has to be like a good can of closure
+[00:10:22] against some gaps to the left. But that would be an example of the lotion model.
+[00:10:26] Now, if I had to rank them, okay, I would actually say the mech model with engineered liquidity
+[00:10:31] above the gap is the best, then the lotion model and then the motion model.
+[00:10:35] But I would change the lotion model and the mech model if there is no engineered liquidity.
+[00:10:40] Okay, if there's no engineered liquidity above that 15 minute gap that, you know,
+[00:10:43] PB Blake likes to target, I think it's substantially worse.
+[00:10:46] That's like the key, especially for that model.
+[00:10:49] This is something I teach, you know, every day to people.
+[00:10:52] Again, I don't rename any of this stuff and make up and all these models.
+[00:10:55] I just trade them all versatile because they're all how I trade an IPG.
+[00:10:59] So different days will just show us different stuff.
+[00:11:02] And, you know, one day I might take a half chase lotion model, which was renamed and another day
+[00:11:07] I might take a retracement to the 15 minute for a rally gap because there might be loads there.
+[00:11:10] And that's just everything I teach. And I've been teaching for years.
+[00:11:13] So that's going to be it for this video. Let me know if you guys want me to showcase more
+[00:11:17] creators, IPG models on this channel. And I can compare and contrast and maybe do a little
+[00:11:21] back-tasting of them. As always, don't break the use code dodgy for every prop firm, Apex,
+[00:11:26] if you're broke, Lucid, if you're getting TISA payouts and TPT, if you want to really
+[00:11:30] get a live program. I will see you guys in the next one. Peace.
