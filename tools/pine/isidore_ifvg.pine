@@ -1,12 +1,12 @@
 //@version=5
-// Isidore (Izzy) — iFVG strategy v0.4
+// Isidore (Izzy) — iFVG strategy v0.4.1 (v0.4.1: each alert fires once per bar — fixes duplicate fires / webhook 429s)
 // v0.2 alert on every setup · v0.3 trade all hours (default on)
 // v0.4 two-stage alerts (ARMED before close → CONFIRMED / CANCELLED at close),
 //      alerts no longer blocked by the strategy's simulated trades or daily limits,
 //      grade from 5 checks (sweep, strong volume, engineered target, momentum candle, push-through),
 //      min gap 8 ticks.
 // Rules come from codex/playbook.md (✓ = confirmed by the maker). Paper and backtest use only.
-strategy("Isidore iFVG v0.4", shorttitle="Izzy iFVG", overlay=true,
+strategy("Isidore iFVG v0.4.1", shorttitle="Izzy iFVG", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
      commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
@@ -246,6 +246,8 @@ f_alert(string ev, string side, int score, string mode, float entry, float sl, f
 
 varip int    armedBar  = -1
 varip string armedSide = ""
+varip int    confBar   = -1   // bar a CONFIRMED was sent on (send once)
+varip int    cancBar   = -1   // bar a CANCELLED was sent on (send once)
 barMs     = time_close - time
 armMs     = math.min(armSec * 1000, barMs / 2)
 nearClose = barstate.isrealtime and not barstate.isconfirmed and (time_close - timenow) <= armMs
@@ -260,12 +262,15 @@ if nearClose and armedBar != bar_index
         armedBar := bar_index
         armedSide := "SHORT"
 
-if barstate.isconfirmed
+if barstate.isconfirmed and barstate.isrealtime and confBar != bar_index and (longSig or shortSig)
+    confBar := bar_index
     if longSig
         f_alert("CONFIRMED", "LONG", lScore, lMode, close, lSL, lTP, lQty, lDist, longSweepOK, strongVol, lEng, momentum, lPush, longGapBot)
     else if shortSig
         f_alert("CONFIRMED", "SHORT", sScore, sMode, close, sSL, sTP, sQty, sDist, shortSweepOK, strongVol, sEng, momentum, sPush, shortGapTop)
+if barstate.isconfirmed and barstate.isrealtime and cancBar != bar_index
     if armedBar == bar_index and not ((armedSide == "LONG" and longSig) or (armedSide == "SHORT" and shortSig))
+        cancBar := bar_index
         alert('{"izzy":"CANCELLED","side":"' + armedSide + '","symbol":"' + syminfo.ticker + '","tf":"' + timeframe.period +
              '","bar_close":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}', alert.freq_all)
 
