@@ -3,7 +3,7 @@
 One entry per setup. Add the first time it appears; strengthen or weaken as evidence comes in.
 
 ## iFVG — inversion fair value gap (his core setup)
-- **Status:** ~ · videos studied: 3 · tested on price: 0 · hit rate: —
+- **Status:** ~ · videos studied: 8 · tested on price: ✓ v0.4 deep 1m 2025-01→2026-11, 1,264 trades, win 41.9%, PF 0.91, −$5,863 (no edge as coded; max 1 trade/day PF 1.05). `journal/backtests/2026-11-18-deep.md`
 - **Market & timeframe:** NQ (also ES, gold).
   ✓ (maker, 2026-11-18) He finds gaps on the **30-second, 1-, 2-, 3- and 5-minute**
   charts. Seen on his screen: 2-minute. In videos: 3-minute examples.
