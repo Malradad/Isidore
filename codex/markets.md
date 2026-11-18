@@ -5,6 +5,10 @@
 - **ES** (E-mini S&P 500), gold, forex majors: secondary.
 - Many members trade through prop-firm evaluation accounts; he promotes prop firms.
 
+## Timeframes (✓ maker, 2026-11-18)
+- Gaps / entries: 30 s, 1 m, 2 m, 3 m, 5 m.
+- Bias: 1 H, 4 H, 1 D, 1 W, 1 M (~, from web sources).
+
 ## Sessions: killzones (~)
 His named windows: London, New York AM, New York PM.
 Standard ICT times (New York time), not yet confirmed as his exact times:

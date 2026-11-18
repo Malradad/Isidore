@@ -4,7 +4,9 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
 
 ## iFVG — inversion fair value gap (his core setup)
 - **Status:** ~ · videos studied: 3 · tested on price: 0 · hit rate: —
-- **Market & timeframe:** NQ (also ES, gold). Example entries on the 3-minute chart.
+- **Market & timeframe:** NQ (also ES, gold).
+  ✓ (maker, 2026-11-18) He finds gaps on the **30-second, 1-, 2-, 3- and 5-minute**
+  charts. Seen on his screen: 2-minute. In videos: 3-minute examples.
   Bias from higher timeframes (1H–1M) and higher-timeframe PD arrays.
 - **Background:** a fair value gap (FVG) is a three-candle imbalance. An inversion
   is a candle *closing* through it, so the gap flips from resistance to support (or the reverse).

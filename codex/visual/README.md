@@ -4,6 +4,7 @@ Frames live in `source/frames/<video id>/` (frame N = (N-1)×10 s; live streams 
 
 ## His chart setup (✓ seen, `frames/ETRextCcwCo/0014.jpg`, `0030.jpg`, Oct 2026)
 - **Instrument / timeframe:** `NQ1!` (front-month NQ futures) on the **2-minute** chart, TradingView.
+  ✓ (maker) he also checks **30 s, 1 m, 3 m and 5 m** for gaps.
 - **Indicator:** "iFVG Ultimate+ Deluxe | DodgysDD (2m)".
 - **Grey boxes:** fair value gaps.
 - **Short horizontal lines labelled `DD+` (blue) / `DD-` (red):** where an inversion fired —

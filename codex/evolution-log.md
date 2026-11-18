@@ -44,3 +44,9 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Maker response:** confirmed ("what he says is also true").
 - **Lesson:** stop placement follows the strength of the inversion. Backtest all three
   and compare, and test the volume rule that picks between them.
+
+## 2026-11-18 · Maker teaches the gap timeframes
+- **Learned (✓ maker):** he looks for gaps on 30 s, 1 m, 2 m, 3 m and 5 m.
+- **Open:** how he chooses between them for a given trade, and whether the stop
+  close is read on the same timeframe as the entry.
+- **Backtest implication:** run the setup on all five timeframes and compare.
