@@ -11,6 +11,16 @@ Paper / research only.
 4. Open **Strategy Tester** (bottom panel) → *Overview* and *List of trades*.
 5. Screenshot both tabs and save them to `journal/backtests/` (or send them to Izzy).
 
+## v0.4 changes
+- **Two-stage alerts:** ARMED ~45 s before the candle closes (forming candle already through the gap
+  and all rules pass) → CONFIRMED at the close, or CANCELLED if it didn't close through.
+- **Alerts are no longer blocked** by the strategy's own simulated position or daily limits
+  (those now apply to the backtest only).
+- **Grade from 5 checks:** sweep, strong volume, engineered target, momentum candle (body ≥ 60% of
+  range), push-through (inversion within 7 bars of the gap). A+ = 5, A = 4, B = 3, C ≤ 2.
+- **Min gap 8 ticks** (2 pts) to cut noise on 30s / 1m.
+- Webhook relay + waiter: see `tools/waiter/README.md`.
+
 ## Alerts (v0.2)
 Every setup the strategy takes also fires a TradingView alert, once, at the bar close, with JSON:
 `{"izzy":"setup","side":"LONG","grade":"A","symbol":"MNQ1!","tf":"2","entry":…,"stop":…,"target":…,"qty":2,"risk_pts":…,"stop_mode":"Swing","sweep":true,"strong_vol":false,"engineered_target":true,"time":"2026-11-18 09:42:00"}`

@@ -1,18 +1,24 @@
 //@version=5
-// Isidore (Izzy) — iFVG strategy v0.3 (v0.2: alert on every setup · v0.3: trade all hours option, on by default)
-// Rules come from codex/playbook.md (✓ = confirmed by the maker).
-// Paper and backtest use only. Not financial advice.
-strategy("Isidore iFVG v0.3", shorttitle="Izzy iFVG", overlay=true,
+// Isidore (Izzy) — iFVG strategy v0.4
+// v0.2 alert on every setup · v0.3 trade all hours (default on)
+// v0.4 two-stage alerts (ARMED before close → CONFIRMED / CANCELLED at close),
+//      alerts no longer blocked by the strategy's simulated trades or daily limits,
+//      grade from 5 checks (sweep, strong volume, engineered target, momentum candle, push-through),
+//      min gap 8 ticks.
+// Rules come from codex/playbook.md (✓ = confirmed by the maker). Paper and backtest use only.
+strategy("Isidore iFVG v0.4", shorttitle="Izzy iFVG", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
      commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
      slippage=1, pyramiding=0, process_orders_on_close=false,
+     calc_on_every_tick=true,
      max_labels_count=300, max_lines_count=300)
 
 // ───────── Inputs ─────────
 G1 = "Gaps"
-minGapTicks = input.int(4,  "Min gap size (ticks)", minval=1, group=G1)
+minGapTicks = input.int(8,  "Min gap size (ticks)", minval=1, group=G1)
 maxGapAge   = input.int(40, "Max gap age (bars)",   minval=3, group=G1)
+maxPush     = input.int(7,  "Push-through: inversion within N bars of the gap (Dodgy: ≤ 7)", minval=1, group=G1)
 
 G2 = "Liquidity sweep"
 requireSweep = input.bool(true, "Require a liquidity sweep before the inversion", group=G2)
@@ -47,14 +53,21 @@ beAtR      = input.float(0.0, "Move stop to breakeven at +R (0 = off)", step=0.2
 G6 = "Risk (✓ maker: 1–3 MNQ, $200–250)"
 riskUSD    = input.float(225, "Risk per trade ($)", group=G6)
 maxQty     = input.int(3, "Max contracts", minval=1, group=G6)
-maxTrades  = input.int(3, "Max trades per day", group=G6)
-maxLosses  = input.int(2, "Stop after N losses per day", group=G6)
-maxDayLoss = input.float(500, "Stop after daily loss ($)", group=G6)
-minScore   = input.int(1, "Min checklist score (0–3)", minval=0, maxval=3, group=G6)
+momMin     = input.float(0.6, "Momentum candle: body ≥ x of range", step=0.05, group=G6)
+
+G7 = "Backtest only (do NOT affect alerts)"
+maxTrades  = input.int(3, "Max trades per day", group=G7)
+maxLosses  = input.int(2, "Stop after N losses per day", group=G7)
+maxDayLoss = input.float(500, "Stop after daily loss ($)", group=G7)
+minScore   = input.int(1, "Min checklist score to enter (0–5)", minval=0, maxval=5, group=G7)
+
+G8 = "Alerts"
+armSec     = input.int(45, "ARMED alert: seconds before candle close (max half a candle)", minval=5, group=G8)
 
 // ───────── Helpers ─────────
 tick = syminfo.mintick
 inWindow(sess) => not na(time(timeframe.period, sess, "America/New_York"))
+f_b(bool x) => x ? "true" : "false"
 
 f_nearestAbove(array<float> arr, float px) =>
     float best = na
@@ -96,7 +109,6 @@ if not na(pl)
     if array.size(pls) > 40
         array.shift(pls)
 
-// A sweep = price trades through an untaken swing low/high. The level is then taken.
 sweptLowNow = false
 if array.size(pls) > 0
     for i = array.size(pls) - 1 to 0
@@ -151,40 +163,113 @@ bool  longInv  = false
 bool  shortInv = false
 float longGapBot = na
 float shortGapTop = na
+int   longAge  = na
+int   shortAge = na
 if array.size(gaps) > 0
     for i = array.size(gaps) - 1 to 0
         g = array.get(gaps, i)
         if bar_index - g.bar > maxGapAge
             array.remove(gaps, i)
         else if bar_index > g.bar
-            // Bearish gap closed ABOVE → support → long
             if g.dir == -1 and close > g.top and close > open
                 longInv := true
                 longGapBot := na(longGapBot) ? g.bot : math.min(longGapBot, g.bot)
+                longAge := na(longAge) ? bar_index - g.bar : math.min(longAge, bar_index - g.bar)
                 array.remove(gaps, i)
-            // Bullish gap closed BELOW → resistance → short
             else if g.dir == 1 and close < g.bot and close < open
                 shortInv := true
                 shortGapTop := na(shortGapTop) ? g.top : math.max(shortGapTop, g.top)
+                shortAge := na(shortAge) ? bar_index - g.bar : math.min(shortAge, bar_index - g.bar)
                 array.remove(gaps, i)
 
 // ───────── Filters ─────────
-volAvg   = ta.sma(volume, volLen)
-volRatio = volAvg > 0 ? volume / volAvg : 1.0
+volAvg    = ta.sma(volume, volLen)
+volRatio  = volAvg > 0 ? volume / volAvg : 1.0
 strongVol = volRatio >= strongMult
 weakVol   = volRatio < weakMult
+rng       = high - low
+momentum  = rng > 0 and math.abs(close - open) / rng >= momMin
 
 htfC = request.security(syminfo.tickerid, htfTF, close[1], lookahead=barmerge.lookahead_on)
 htfE = request.security(syminfo.tickerid, htfTF, ta.ema(close, htfLen)[1], lookahead=barmerge.lookahead_on)
-htfLongOK  = not useHTF or htfC > htfE
-htfShortOK = not useHTF or htfC < htfE
-biasLongOK  = biasMode != "Short only" and htfLongOK
-biasShortOK = biasMode != "Long only"  and htfShortOK
+biasLongOK  = biasMode != "Short only" and (not useHTF or htfC > htfE)
+biasShortOK = biasMode != "Long only"  and (not useHTF or htfC < htfE)
 
 inKZ   = allHours or inWindow(kzSession)
 inFlat = inWindow(flatTime)
 
-// ───────── Daily limits ─────────
+f_mode() =>
+    stopMode == "Auto (volume)" ? (strongVol ? "Inversion candle" : weakVol ? "Swing" : "Close back through gap") : stopMode
+
+f_qty(float dist) =>
+    d = dist * syminfo.pointvalue
+    d > 0 ? math.min(math.floor(riskUSD / d), maxQty) : 0
+
+f_grade(int s) => s >= 5 ? "A+" : s == 4 ? "A" : s == 3 ? "B" : "C"
+
+// ───────── Signals (independent of the strategy's own position) ─────────
+lMode  = f_mode()
+lSL    = lMode == "Inversion candle" ? low - bufTicks * tick : (na(sweepLowPx) ? low : sweepLowPx) - bufTicks * tick
+lDist  = close - lSL
+lLiq   = f_nearestAbove(phs, close)
+lEng   = f_countNear(phs, lLiq, eqTolTicks * tick) >= 2
+lTP    = tgtMode == "Liquidity, fallback R" and not na(lLiq) and (lLiq - close) >= minRR * lDist ? lLiq : close + rr * lDist
+lPush  = not na(longAge) and longAge <= maxPush
+lScore = (longSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (lEng ? 1 : 0) + (momentum ? 1 : 0) + (lPush ? 1 : 0)
+lQty   = f_qty(lDist)
+longSig = longInv and inKZ and biasLongOK and (longSweepOK or not requireSweep) and lDist > 0 and lQty >= 1
+
+sMode  = f_mode()
+sSL    = sMode == "Inversion candle" ? high + bufTicks * tick : (na(sweepHighPx) ? high : sweepHighPx) + bufTicks * tick
+sDist  = sSL - close
+sLiq   = f_nearestBelow(pls, close)
+sEng   = f_countNear(pls, sLiq, eqTolTicks * tick) >= 2
+sTP    = tgtMode == "Liquidity, fallback R" and not na(sLiq) and (close - sLiq) >= minRR * sDist ? sLiq : close - rr * sDist
+sPush  = not na(shortAge) and shortAge <= maxPush
+sScore = (shortSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (sEng ? 1 : 0) + (momentum ? 1 : 0) + (sPush ? 1 : 0)
+sQty   = f_qty(sDist)
+shortSig = shortInv and inKZ and biasShortOK and (shortSweepOK or not requireSweep) and sDist > 0 and sQty >= 1
+
+// ───────── Alerts: ARMED → CONFIRMED / CANCELLED ─────────
+f_alert(string ev, string side, int score, string mode, float entry, float sl, float tp, float qty, float dist,
+     bool sw, bool sv, bool eng, bool mom, bool push, float gapEdge) =>
+    msg = '{"izzy":"' + ev + '","side":"' + side + '","grade":"' + f_grade(score) + '","score":' + str.tostring(score) +
+         ',"symbol":"' + syminfo.ticker + '","tf":"' + timeframe.period +
+         '","entry":' + str.tostring(entry) + ',"stop":' + str.tostring(sl) + ',"target":' + str.tostring(tp) +
+         ',"qty":' + str.tostring(qty) + ',"risk_pts":' + str.tostring(dist) + ',"risk_usd":' + str.tostring(qty * dist * syminfo.pointvalue) +
+         ',"stop_mode":"' + mode + '","gap_edge":' + str.tostring(gapEdge) +
+         ',"sweep":' + f_b(sw) + ',"strong_vol":' + f_b(sv) + ',"engineered_target":' + f_b(eng) +
+         ',"momentum":' + f_b(mom) + ',"push_ok":' + f_b(push) +
+         ',"bar_close":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") +
+         '","sent":"' + str.format_time(timenow, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}'
+    alert(msg, alert.freq_all)
+
+varip int    armedBar  = -1
+varip string armedSide = ""
+barMs     = time_close - time
+armMs     = math.min(armSec * 1000, barMs / 2)
+nearClose = barstate.isrealtime and not barstate.isconfirmed and (time_close - timenow) <= armMs
+
+if nearClose and armedBar != bar_index
+    if longSig
+        f_alert("ARMED", "LONG", lScore, lMode, close, lSL, lTP, lQty, lDist, longSweepOK, strongVol, lEng, momentum, lPush, longGapBot)
+        armedBar := bar_index
+        armedSide := "LONG"
+    else if shortSig
+        f_alert("ARMED", "SHORT", sScore, sMode, close, sSL, sTP, sQty, sDist, shortSweepOK, strongVol, sEng, momentum, sPush, shortGapTop)
+        armedBar := bar_index
+        armedSide := "SHORT"
+
+if barstate.isconfirmed
+    if longSig
+        f_alert("CONFIRMED", "LONG", lScore, lMode, close, lSL, lTP, lQty, lDist, longSweepOK, strongVol, lEng, momentum, lPush, longGapBot)
+    else if shortSig
+        f_alert("CONFIRMED", "SHORT", sScore, sMode, close, sSL, sTP, sQty, sDist, shortSweepOK, strongVol, sEng, momentum, sPush, shortGapTop)
+    if armedBar == bar_index and not ((armedSide == "LONG" and longSig) or (armedSide == "SHORT" and shortSig))
+        alert('{"izzy":"CANCELLED","side":"' + armedSide + '","symbol":"' + syminfo.ticker + '","tf":"' + timeframe.period +
+             '","bar_close":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}', alert.freq_all)
+
+// ───────── Backtest simulation (daily limits apply here only) ─────────
 newDay = ta.change(time("D")) != 0
 var float dayStartNet = 0.0
 var int   dayTrades = 0
@@ -199,104 +284,58 @@ if strategy.closedtrades > seenClosed
         if strategy.closedtrades.profit(k) < 0
             dayLosses += 1
     seenClosed := strategy.closedtrades
-dayPL = strategy.netprofit - dayStartNet
-canTrade = dayTrades < maxTrades and dayLosses < maxLosses and dayPL > -maxDayLoss
+canTrade = dayTrades < maxTrades and dayLosses < maxLosses and (strategy.netprofit - dayStartNet) > -maxDayLoss
 
-// ───────── Trade state ─────────
-var float tradeGap  = na      // gap edge for the close-back-through exit
+var float tradeGap  = na
 var bool  useCloseX = false
 var float tradeRisk = na
 var float tradeTP   = na
 var float tradeSL   = na
 
-f_qty(float dist) =>
-    d = dist * syminfo.pointvalue
-    d > 0 ? math.min(math.floor(riskUSD / d), maxQty) : 0
-
-f_mode() =>
-    stopMode == "Auto (volume)" ? (strongVol ? "Inversion candle" : weakVol ? "Swing" : "Close back through gap") : stopMode
-
-f_grade(int s) => s >= 3 ? "A+" : s == 2 ? "A" : s == 1 ? "B" : "C"
-
-flat = strategy.position_size == 0
-
-f_alert(string side, string grade, string mode, float entry, float sl, float tp, float qty, float dist, bool sw, bool sv, bool eng) =>
-    msg = '{"izzy":"setup","side":"' + side + '","grade":"' + grade + '","symbol":"' + syminfo.ticker +
-         '","tf":"' + timeframe.period + '","entry":' + str.tostring(entry) + ',"stop":' + str.tostring(sl) +
-         ',"target":' + str.tostring(tp) + ',"qty":' + str.tostring(qty) + ',"risk_pts":' + str.tostring(dist) +
-         ',"stop_mode":"' + mode + '","sweep":' + (sw ? "true" : "false") + ',"strong_vol":' + (sv ? "true" : "false") +
-         ',"engineered_target":' + (eng ? "true" : "false") + ',"time":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}'
-    alert(msg, alert.freq_once_per_bar_close)
-
-// ── Long ──
-if flat and longInv and inKZ and canTrade and biasLongOK and (longSweepOK or not requireSweep)
-    mode = f_mode()
-    swingSL  = (na(sweepLowPx) ? low : sweepLowPx) - bufTicks * tick
-    candleSL = low - bufTicks * tick
-    hardSL   = mode == "Inversion candle" ? candleSL : swingSL
-    dist     = close - hardSL
-    liq      = f_nearestAbove(phs, close)
-    engineered = f_countNear(phs, liq, eqTolTicks * tick) >= 2
-    tp = tgtMode == "Liquidity, fallback R" and not na(liq) and (liq - close) >= minRR * dist ? liq : close + rr * dist
-    score = (longSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (engineered ? 1 : 0)
-    qty = f_qty(dist)
-    if dist > 0 and qty >= 1 and score >= minScore
-        f_alert("LONG", f_grade(score), mode, close, hardSL, tp, qty, dist, longSweepOK, strongVol, engineered)
-        strategy.entry("L", strategy.long, qty=qty, comment=f_grade(score))
-        strategy.exit("L-x", "L", stop=hardSL, limit=tp)
+if barstate.isconfirmed
+    flat = strategy.position_size == 0
+    if flat and canTrade and longSig and lScore >= minScore
+        strategy.entry("L", strategy.long, qty=lQty, comment=f_grade(lScore))
+        strategy.exit("L-x", "L", stop=lSL, limit=lTP)
         tradeGap := longGapBot
-        useCloseX := mode == "Close back through gap"
-        tradeRisk := dist
-        tradeTP := tp
-        tradeSL := hardSL
+        useCloseX := lMode == "Close back through gap"
+        tradeRisk := lDist
+        tradeTP := lTP
+        tradeSL := lSL
         dayTrades += 1
-        label.new(bar_index, low, "LONG " + f_grade(score) + "\n" + mode + "\n" + str.tostring(qty) + " ct · " + str.tostring(math.round(dist / tick) * tick) + " pts",
-             style=label.style_label_up, color=color.new(color.teal, 10), textcolor=color.white, size=size.small)
-
-// ── Short ──
-if flat and shortInv and inKZ and canTrade and biasShortOK and (shortSweepOK or not requireSweep)
-    mode = f_mode()
-    swingSL  = (na(sweepHighPx) ? high : sweepHighPx) + bufTicks * tick
-    candleSL = high + bufTicks * tick
-    hardSL   = mode == "Inversion candle" ? candleSL : swingSL
-    dist     = hardSL - close
-    liq      = f_nearestBelow(pls, close)
-    engineered = f_countNear(pls, liq, eqTolTicks * tick) >= 2
-    tp = tgtMode == "Liquidity, fallback R" and not na(liq) and (close - liq) >= minRR * dist ? liq : close - rr * dist
-    score = (shortSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (engineered ? 1 : 0)
-    qty = f_qty(dist)
-    if dist > 0 and qty >= 1 and score >= minScore
-        f_alert("SHORT", f_grade(score), mode, close, hardSL, tp, qty, dist, shortSweepOK, strongVol, engineered)
-        strategy.entry("S", strategy.short, qty=qty, comment=f_grade(score))
-        strategy.exit("S-x", "S", stop=hardSL, limit=tp)
+    else if flat and canTrade and shortSig and sScore >= minScore
+        strategy.entry("S", strategy.short, qty=sQty, comment=f_grade(sScore))
+        strategy.exit("S-x", "S", stop=sSL, limit=sTP)
         tradeGap := shortGapTop
-        useCloseX := mode == "Close back through gap"
-        tradeRisk := dist
-        tradeTP := tp
-        tradeSL := hardSL
+        useCloseX := sMode == "Close back through gap"
+        tradeRisk := sDist
+        tradeTP := sTP
+        tradeSL := sSL
         dayTrades += 1
-        label.new(bar_index, high, "SHORT " + f_grade(score) + "\n" + mode + "\n" + str.tostring(qty) + " ct · " + str.tostring(math.round(dist / tick) * tick) + " pts",
-             style=label.style_label_down, color=color.new(color.maroon, 10), textcolor=color.white, size=size.small)
 
-// ───────── Managing an open trade ─────────
-if strategy.position_size > 0
-    // ✓ maker: exit when a candle closes back below the gap
-    if useCloseX and not na(tradeGap) and close < tradeGap
-        strategy.close("L", comment="close thru gap")
-    if beAtR > 0 and high >= strategy.position_avg_price + beAtR * tradeRisk
-        strategy.exit("L-x", "L", stop=strategy.position_avg_price, limit=tradeTP)
-if strategy.position_size < 0
-    if useCloseX and not na(tradeGap) and close > tradeGap
-        strategy.close("S", comment="close thru gap")
-    if beAtR > 0 and low <= strategy.position_avg_price - beAtR * tradeRisk
-        strategy.exit("S-x", "S", stop=strategy.position_avg_price, limit=tradeTP)
+    if strategy.position_size > 0
+        if useCloseX and not na(tradeGap) and close < tradeGap
+            strategy.close("L", comment="close thru gap")
+        if beAtR > 0 and high >= strategy.position_avg_price + beAtR * tradeRisk
+            strategy.exit("L-x", "L", stop=strategy.position_avg_price, limit=tradeTP)
+    if strategy.position_size < 0
+        if useCloseX and not na(tradeGap) and close > tradeGap
+            strategy.close("S", comment="close thru gap")
+        if beAtR > 0 and low <= strategy.position_avg_price - beAtR * tradeRisk
+            strategy.exit("S-x", "S", stop=strategy.position_avg_price, limit=tradeTP)
 
-if inFlat and strategy.position_size != 0
-    strategy.close_all(comment="EOD flat")
+    if inFlat and strategy.position_size != 0
+        strategy.close_all(comment="EOD flat")
 
 // ───────── Visuals ─────────
+if barstate.isconfirmed and longSig
+    label.new(bar_index, low, "LONG " + f_grade(lScore) + "\n" + lMode + "\n" + str.tostring(lQty) + " ct",
+         style=label.style_label_up, color=color.new(color.teal, 10), textcolor=color.white, size=size.small)
+if barstate.isconfirmed and shortSig
+    label.new(bar_index, high, "SHORT " + f_grade(sScore) + "\n" + sMode + "\n" + str.tostring(sQty) + " ct",
+         style=label.style_label_down, color=color.new(color.maroon, 10), textcolor=color.white, size=size.small)
 plotshape(longInv  and inKZ, "Bullish inversion", shape.triangleup,   location.belowbar, color.new(color.teal, 40),   size=size.tiny)
 plotshape(shortInv and inKZ, "Bearish inversion", shape.triangledown, location.abovebar, color.new(color.maroon, 40), size=size.tiny)
 plot(strategy.position_size != 0 ? tradeSL : na, "Stop",   color.red,   style=plot.style_linebr)
 plot(strategy.position_size != 0 ? tradeTP : na, "Target", color.green, style=plot.style_linebr)
-bgcolor(inKZ ? color.new(color.blue, 94) : na, title="Trade window")
+bgcolor(not allHours and inKZ ? color.new(color.blue, 94) : na, title="Trade window")
