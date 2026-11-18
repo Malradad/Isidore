@@ -107,3 +107,32 @@ _Session entries: date · what was learned · decision · maker response · perf
   prices after the fill. Proposal for the maker: skip a fill that would be more than ~25% of
   the stop distance away from the alert entry.
 - **Maker:** approved the test (all hours, the alert as the plan). No level change; one trade is not evidence.
+
+## 2026-11-18 · TradingView connector, Python backtester, first deep test
+- **Did:** confirmed the official TradingView MCP connector (35 tools, no order tools). Pulled MNQ1! bars:
+  1m 7,683 (10–18 Nov), 5m 5,537 (21 Oct–18 Nov); 2m/3m not offered. Built `tools/backtest/izzy_bt.py`,
+  a bar-by-bar port of v0.4 that matches TradingView trade for trade (5m 49/49, 1m 15/15). Built the lab
+  script "Izzy iFVG lab" (v0.5 filters as inputs) and ran Deep Backtesting on 1m, Jan 2025 – Nov 2026.
+- **Learned ✓ (price):** **v0.4 loses**: 1,264 trades, PF 0.91, −$5,863 after costs, DD $8,007.
+  Max 1 trade/day is the only positive variant (PF 1.05, +$1,107, DD $1,978). First vs 3rd+ sweep,
+  momentum candles and 09:30–10:00 made no real difference. Engineered targets slightly better than
+  single highs, still negative. My fuel target hurt (win rate 14%). His full A+ stack: 13 trades in 23 months.
+- **Claims judged:** 4 ✗, 5 ~, 8 ✓, 9 ✗, 10 ✗. `journal/backtests/2026-11-18-deep.md`.
+- **Decided ~:** no live-trading proposal can rest on v0.4. Paper trading v0.4 alerts is execution
+  practice only. If paper continues, use max 1 trade/day. The edge, if any, lives in judgement I have not
+  yet coded (HTF delivery, bias, "what's to the left") — next study must extract that from his charts.
+- **Maker:** not yet reviewed.
+
+## 2026-11-18 · NY killzones + Dodgy's filters (maker request)
+- **Did:** deep 1m test, Jan 2025 – Nov 2026, AM 08:30–11:00 + PM 13:30–16:00, only setups Dodgy would take
+  (engineered target, momentum, push ≤ 7, first sweep, grade ≥ B, 1/day).
+- **Learned ✓ (price):** 103 trades, PF 0.80, −$1,346. All killzone signals: PF 0.85, −$12,348. Killzones and
+  his filters do not create an edge in my model. Longs PF 1.14 vs shorts 0.57: the edge that shows is the trend.
+- **Decided ~:** next test is HTF bias on (trade with the 1h/4h trend), AM only. `journal/backtests/2026-11-18-deep.md`.
+- **Maker:** asked for this test; review pending.
+
+## 2026-11-18 · + HTF bias (maker request)
+- **Learned ✓ (price):** killzones + Dodgy's filters + HTF EMA bias: 1h PF 0.62 (56 tr, −$1,509), 4h PF 0.77
+  (55 tr, −$808). An EMA bias does not create an edge. Every mechanical variant tested so far is negative.
+- **Decided ~:** stop tuning filters. Next: code his real bias (HTF PD array delivery / draw on liquidity) from
+  chart examples, or conclude the edge is discretionary.

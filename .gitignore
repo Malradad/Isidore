@@ -1,3 +1,5 @@
 tools/waiter/.topic
 tools/waiter/.last-id
 CLAUDE.local.md
+data/
+__pycache__/
