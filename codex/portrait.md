@@ -19,6 +19,11 @@ from his streams. It is what he says about himself and what others say about him
   other way, toward internal liquidity, in the direction of higher-timeframe bias,
   only inside a killzone.
 
+## How his model has changed
+- ~ 2025–mid 2026: iFVG + liquidity sweep + HTF bias + killzones.
+- ~ Oct 2026: adds **order flow** (volume, delta) as confirmation, built into
+  his paid indicator. Says he traded order flow for ~4 years before.
+
 ## His edge, if real
 - ✓ Entry and exit are both on candle closes: in on a close through the gap,
   out on a close back through it. The whole trade is defined by the gap.
@@ -27,6 +32,9 @@ from his streams. It is what he says about himself and what others say about him
   good: Isidore can backtest this on NQ data and find out.
 
 ## His noise
+- ~ Every video ends in a sale: prop-firm discount codes (Apex, Lucid, TPT, Blue
+  Guardian, FTMO), indicator at "40% off" ("I never, never give discounts"),
+  an AI journal "programmed to be my mind".
 - ~ Marketing claims: "80% winrate", "beats 90% of strategies". Unverified.
 - ~ One ex-member: losses were often explained away as "not on a live or funded account."
   If true, his public record is filtered. Never use his recaps as results.

@@ -25,3 +25,15 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Isidore's concern:** close-based stops make loss size variable. Backtest must
   measure the tail of losses and test a backup hard stop.
 - **Still open:** which timeframe's close; whether he keeps a hard stop; sizing.
+
+## 2026-11-18 · First three videos (newest first)
+- **Studied:** "The Most Accurate IFVG Indicator" (2026-10-26), "The Wrong Way to
+  Trade IFVG's" (2026-06-05), "Watch This if You Think You Know How Liquidity Works" (2026-05-28).
+- **Learned:** the A+ iFVG: HTF level → one clean sweep → V-shape → inversion close →
+  strong volume → target engineered liquidity, in his direction. Repeated sweeps and
+  random targets are his named failure modes. Oct 2026 model adds order flow.
+- **Conflict found:** the maker's stop (close back through the gap) is one of three
+  stops he uses. He also uses swing stops and stops under strong candles.
+- **Decision:** default to the maker's close stop; ask the maker which stop when.
+- **Maker response:** pending. Agreed earlier to study newest first.
+- **Next:** frames from his charts to see the A+ setup; then backtest claims 4 and 5.
