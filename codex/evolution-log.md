@@ -136,3 +136,12 @@ _Session entries: date · what was learned · decision · maker response · perf
   (55 tr, −$808). An EMA bias does not create an edge. Every mechanical variant tested so far is negative.
 - **Decided ~:** stop tuning filters. Next: code his real bias (HTF PD array delivery / draw on liquidity) from
   chart examples, or conclude the edge is discretionary.
+
+## 2026-11-18 · Every timeframe, out of sample, exits, session-end fix (maker: "yes")
+- **Did:** deep 1m (from 2023-11-19) and 5m (from 2019-06) runs of v0.4 baseline and max 1/day, split by era;
+  three exits on 5m; added the session-end flatten to Python and the lab (TradingView v2.0). 30s/2m/3m not
+  available through the connector.
+- **Learned ✓ (price):** no variant holds in both halves. Best: 5m max 1/day, 1,820 trades, PF 1.05, +$5.5K over
+  7.5 years (~$3/trade), negative in 2019–22. Exits barely matter. Session-end fix cut the worst loss −$2,063 → −$233.
+- **Decided ~:** stop tuning the mechanical model. Priority moves to auditing Dodgy's on-stream trades.
+- **Maker:** approved the plan; review of the summary pending.

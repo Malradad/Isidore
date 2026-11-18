@@ -1,5 +1,6 @@
 //@version=5
-// Isidore (Izzy) — iFVG LAB v0.5 (backtest only, no alerts; base = v0.4)
+// Isidore (Izzy) — iFVG LAB v0.5.1 (backtest only, no alerts; base = v0.4). Saved in TradingView as "Izzy iFVG lab" v2.0
+// v0.5.1: flatSess (default on) closes at the close of the last bar of each session (early closes, weekends); no entries on it.
 // v0.2 alert on every setup · v0.3 trade all hours (default on)
 // v0.4 two-stage alerts (ARMED before close → CONFIRMED / CANCELLED at close),
 //      alerts no longer blocked by the strategy's simulated trades or daily limits,
@@ -69,6 +70,7 @@ reqPush    = input.bool(false, "Require push-through <= N bars", group=G9)
 fuelTgt    = input.bool(false, "Fuel target: top of the unbroken lower-high chain", group=G9)
 skipTwo    = input.bool(false, "Skip when fuel sits on the opposite side too (two-sided)", group=G9)
 firstOnly  = input.bool(false, "First signal of the day only (one false move)", group=G9)
+flatSess   = input.bool(true, "Flatten at the close of the last bar of each session (early closes, weekends); no entries on it. Off = v0.4", group=G9)
 
 // ───────── Helpers ─────────
 tick = syminfo.mintick
@@ -292,7 +294,8 @@ if strategy.closedtrades > seenClosed
         if strategy.closedtrades.profit(k) < 0
             dayLosses += 1
     seenClosed := strategy.closedtrades
-canTrade = dayTrades < maxTrades and dayLosses < maxLosses and (strategy.netprofit - dayStartNet) > -maxDayLoss
+lastBar  = flatSess and session.islastbar
+canTrade = not lastBar and dayTrades < maxTrades and dayLosses < maxLosses and (strategy.netprofit - dayStartNet) > -maxDayLoss
 
 var float tradeGap  = na
 var bool  useCloseX = false
@@ -332,7 +335,9 @@ if barstate.isconfirmed
         if beAtR > 0 and low <= strategy.position_avg_price - beAtR * tradeRisk
             strategy.exit("S-x", "S", stop=strategy.position_avg_price, limit=tradeTP)
 
-    if inFlat and strategy.position_size != 0
+    if lastBar and strategy.position_size != 0
+        strategy.close_all(comment="session end", immediately=true)
+    else if inFlat and strategy.position_size != 0
         strategy.close_all(comment="EOD flat")
 
 plot(strategy.position_size != 0 ? tradeSL : na, "Stop",   color.red,   style=plot.style_linebr)

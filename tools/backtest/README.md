@@ -10,6 +10,8 @@ python3 tools/backtest/izzy_bt.py data/ohlcv/MNQ1_5m.csv --list
 python3 tools/backtest/izzy_bt.py data/ohlcv/MNQ1_1m.csv --tf 2      # 2m from 1m
 ```
 
+`Config.flat_session_end` (default on) exits at the close of the last bar before a session break; set it False to reproduce v0.4 exactly.
+
 Data: CSV `t,o,h,l,c,v` (unix seconds UTC, bar open). Pull it with the TradingView connector's
 `get-ohlcv` (columns format); the connector saves large results to a file, convert with a few lines of
 Python. `data/` is git-ignored.
