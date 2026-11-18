@@ -122,3 +122,11 @@ _Session entries: date · what was learned · decision · maker response · perf
   practice only. If paper continues, use max 1 trade/day. The edge, if any, lives in judgement I have not
   yet coded (HTF delivery, bias, "what's to the left") — next study must extract that from his charts.
 - **Maker:** not yet reviewed.
+
+## 2026-11-18 · NY killzones + Dodgy's filters (maker request)
+- **Did:** deep 1m test, Jan 2025 – Nov 2026, AM 08:30–11:00 + PM 13:30–16:00, only setups Dodgy would take
+  (engineered target, momentum, push ≤ 7, first sweep, grade ≥ B, 1/day).
+- **Learned ✓ (price):** 103 trades, PF 0.80, −$1,346. All killzone signals: PF 0.85, −$12,348. Killzones and
+  his filters do not create an edge in my model. Longs PF 1.14 vs shorts 0.57: the edge that shows is the trend.
+- **Decided ~:** next test is HTF bias on (trade with the 1h/4h trend), AM only. `journal/backtests/2026-11-18-deep.md`.
+- **Maker:** asked for this test; review pending.
