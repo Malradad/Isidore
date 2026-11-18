@@ -7,7 +7,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-11-02 | KhQiTa8YxJk | 100K Special Stream !Giveaway !Trading !Challenges - DodgysDD | 1h39m | 2 | 5 | done |
 | 2026-10-02 | JUDH0MmuhQs | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live | 2h22m | 2 (1 news straddle + 1 setup) | 7 | done |
 | | oiJnEazL4Lg |  LIVE TRADING Until I PASS My Eval + Minecraft Stream - DodgysDD | 7h49m | | | todo |
-| | 7vLdDIq4J0A | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h25m | | | todo |
+| 2026-09-11 | 7vLdDIq4J0A | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h25m | 2 (1 news straddle + 1 setup) | 9 | done |
 | | N6eOC8wtapo | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live | 1h51m | | | todo |
 | | chlCV294CTk | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 1h34m | | | todo |
 | | 7ZBHfQC6Nss | Asia Livestream Futures NQ/ES - DodgysDD | 1h45m | | | todo |
