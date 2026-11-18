@@ -136,3 +136,19 @@ _Session entries: date · what was learned · decision · maker response · perf
   (55 tr, −$808). An EMA bias does not create an edge. Every mechanical variant tested so far is negative.
 - **Decided ~:** stop tuning filters. Next: code his real bias (HTF PD array delivery / draw on liquidity) from
   chart examples, or conclude the edge is discretionary.
+
+## 2026-11-18 · First audited live stream (KhQiTa8YxJk, 2 Nov 2026, Audrey's log)
+- **Seen:** ~7 setups, **2 taken** (both 30s longs, ~0.8–1R, both won), 5 skipped (chop, tiny gap,
+  no obvious liquidity, "eval only", already 2/2).
+- **Lesson 1 — selection is the method.** He passes on most inversions. My code takes them all and
+  loses (23-month backtest). The difference is his skip list, so his skips are now training data.
+- **Lesson 2 — his live style ≠ my code:** quick breakeven, ~1:1 targets on 30s, sells early, stops
+  after two wins. My v0.4 holds for far liquidity targets. Test his management, not mine.
+- **Lesson 3 — context he named before entries:** 4h inverse for bias, BPR (balanced price range)
+  holding, Judas swing expected at the open, LRLR (low-resistance liquidity run) above, "momentum
+  candle trading out of chop", CISD + IFVG as the "dream trade".
+- **Lesson 4 — his own grading exists:** live account = A/A+, eval = B in chop. Use as labels.
+- **Doubts:** one stream, two wins, is nothing. "Done for the day" then traded again. Hype
+  ("best trader alive"). Live vs eval claims can't be verified; prices can.
+- **Next:** audit his trades against real NQ prices (connector); code and test: chop filter,
+  30s entries, BE at ~0.5–1R, 1R target, stop after 2 wins/day, require a named HTF PD array.
