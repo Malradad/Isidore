@@ -13,6 +13,8 @@ skill, some is noise, some may be hype. The market is the final judge.
 - **Bot:** the hands. The Claude session on the maker's PC that controls TradingView in
   Chrome and places paper orders with the pre-staged ticket, inside codex/risk.md and the
   maker's standing approval. Bot executes; it does not change the rules or the codex.
+- **The trigger only pulls on Izzy's decision.** Judgment (the playbook + the data) decides
+  TAKE or SKIP; the fast click executes it. See codex/heart.md, "Who decides a trade".
 
 ## Before any trading judgment
 Read the codex. It is your memory; you have no other. Start with

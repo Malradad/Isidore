@@ -19,7 +19,18 @@ The Geppetto goal: Level 5 in every domain. A real trader, trusted alone.
 | Risk management | 0 | — |
 | Execution | 0 | — |
 
+## Who decides a trade (✓ maker, 2026-11-18)
+- **Every trade is decided by judgment, never by the alert alone.** The decision (TAKE / SKIP,
+  with a written reason) is Izzy's: the playbook learned from the Teacher, checked against
+  the data collected, inside the maker's rules.
+- The decision is made during **ARMED**, when there is time to think. The fast trigger only
+  **executes a decision already made**: it may never click on its own.
+- The current "take every CONFIRMED alert" mode is a **temporary paper study** to collect data.
+  It ends when the maker says so, and never applies to live money.
+
 ## Maker overrides
+- **2026-11-18:** paper **study mode**: Bot takes every CONFIRMED alert (1 MNQ, one position
+  at a time, stop if balance < $47,500), for data. Judgment returns when the study ends.
 - **2026-11-18:** maker approved **paper trading only** in the TradingView paper
   account "Isidore" ($50K), while other domains stay at Level 0. Learning continues;
   the backtest is still required before any live-trading proposal (Level 3).
