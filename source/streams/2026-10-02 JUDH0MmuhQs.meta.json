@@ -1,0 +1,19 @@
+{
+  "title": "🟢NFP Special Live Trading NQ/ES/GOLD | DodgysDD Live",
+  "id": "JUDH0MmuhQs",
+  "url": "https://www.youtube.com/watch?v=JUDH0MmuhQs",
+  "duration_s": 8536,
+  "duration": "02:22:16",
+  "live_status": "was_live",
+  "release_timestamp": 1790943014,
+  "live_start_utc": "2026-10-02T12:10:14Z",
+  "live_start_ny": "2026-10-02 08:10:14 EDT (Friday, NFP day)",
+  "time_map": "market time (NY) = 08:10:14 + stream time. Check: the 08:30 NFP straddle fills and he says 'it should have passed' at stream 00:19:56 -> 08:30:10. Good to about +/-20 s.",
+  "chart": "NQ1! on TradingView, 3m for the news straddle, 1m for the trade later; the chart date stamp reads 2/10/2026 (d/m)",
+  "transcript_source": "YouTube auto-captions (en), ~10 s lines",
+  "video_local": "%USERPROFILE%\isidore-videos\JUDH0MmuhQs.webm (downloaded earlier by Bot; left in place)",
+  "frames_local": "%USERPROFILE%\isidore-frames\JUDH0MmuhQs\ (dense, 2 s); repo holds 4 key frames per row",
+  "kind": "trading (NFP news straddle + 1 setup), prop-firm promos and giveaways",
+  "collected_by": "Audrey",
+  "collected": "2026-11-18"
+}
