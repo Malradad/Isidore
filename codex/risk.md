@@ -50,6 +50,12 @@ _Almost nothing known yet. This is the biggest gap in the codex._
   (TradingView has no default-stop setting). Adding the stop took Izzy 20–33 s.
 - **Rule:** never use bare hotkeys for real money. On paper, allowed only if the stop
   is added immediately after.
+- **Tested (journal Test 3):** pre-staged ticket fills in **~0.8 s with the bracket
+  attached**. This is the entry method. ✓
+- **Never click the chart's floating BUY/SELL buttons**: with one-click trading on they
+  are instant market orders with no stop (caused one unplanned 12-s naked trade).
+  Open the ticket with the **Trade** button.
+- After each order the ticket resets and the TP/SL toggles switch off: **re-stage after every entry.**
 - **Preferred:** keep the order ticket pre-staged during the session (qty, SL and TP
   toggles on, distances in ticks), so one click on Buy/Sell enters *with* the bracket.
   Then adjust the stop/target to the real levels.
