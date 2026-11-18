@@ -1,6 +1,16 @@
 # Markets — what works where
 
-Instruments, sessions, volatility regimes, and which of his setups work in
-which conditions.
+## Instruments (~)
+- **NQ** (E-mini Nasdaq-100 futures): main market. Reviewers: "by far the best for trading NQ futures."
+- **ES** (E-mini S&P 500), gold, forex majors: secondary.
+- Many members trade through prop-firm evaluation accounts; he promotes prop firms.
 
-_Empty until the first stream._
+## Sessions: killzones (~)
+His named windows: London, New York AM, New York PM.
+Standard ICT times (New York time), not yet confirmed as his exact times:
+- London: ~02:00–05:00
+- NY AM: ~07:00–10:00 (cash open 09:30)
+- NY PM: ~13:30–16:00
+He also streams the Asia session sometimes ("Asia Livestream Futures NQ/ES").
+
+Sources: `source/web/search-2026-11-18.md`
