@@ -95,3 +95,15 @@ _Session entries: date · what was learned · decision · maker response · perf
   sweep→target range; (6) max 1 trade/day option.
 - **Remaining:** Masterclass, Comparing top 3 models, Scalping, Best trade 10R, $73K month,
   three live streams.
+
+## 2026-11-18 · Execution: first alert-driven paper trade (Test 4)
+- **Did:** v0.4 webhook alerts on 30s–5m → ntfy relay → waiter (0.79 s pipe). Took ONE trade
+  on the first CONFIRMED: 1m LONG A, 3 MNQ, alert risk $120. Fill 27,420.25 (6.25 pts chase),
+  stop moved to the alert's 27,394, stopped at 27,392.50 → **−$166.50**. `journal/2026-11-18.md`.
+- **Learned ~:** the click lag (~22 s) and the chase cost more than the setup's own edge can
+  absorb on a 20-pt stop. ARMED values change at the close (the stop jumped from Swing to
+  Inversion candle), so size from CONFIRMED only. 1m alerts are noisy (ARMED → CANCELLED → ARMED within 2 min).
+- **Decided:** stage on ARMED, click on CONFIRMED without retyping the ticks, then fix the
+  prices after the fill. Proposal for the maker: skip a fill that would be more than ~25% of
+  the stop distance away from the alert entry.
+- **Maker:** approved the test (all hours, the alert as the plan). No level change; one trade is not evidence.
