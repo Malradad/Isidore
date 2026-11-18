@@ -1,0 +1,118 @@
+[00:00:00] In this new video, I'm going to be talking about a simplified IVG model,
+[00:00:03] which can work as your go-to strategy for consistent, profitable models.
+[00:00:07] There's essentially three steps in my IVG model. One is a liquidity sweep, okay?
+[00:00:11] I think that this might be the second most important, okay? The liquidity sweep is important
+[00:00:17] because we always want the market to sweep some sort of higher load, okay? And I'm going to tell
+[00:00:22] you what's the first important, but this is, I'm going to go over the second most important first,
+[00:00:25] because, you know, I need to somehow make you guys learn, okay? But the actual liquidity sweep
+[00:00:31] is important because every single time we form engineer liquidity to the high or lows, you know,
+[00:00:37] such as this, okay, where we're not running these stop losses, see how we're forming a bunch of
+[00:00:41] like lows here that just aren't being ran, right? You can see just they're stacked up and they're
+[00:00:46] stacked up here. Every single time this happens, you have to understand one thing, okay? You would
+[00:00:52] understand there's stop losses here and there's stop losses here. And in order for the market to move,
+[00:00:57] it needs to run those stop losses to the upside or downside, okay? Because without stop losses,
+[00:01:02] it will not move, okay? And what happens is there's so many stop losses built up here
+[00:01:07] that when we run, and when we run this first high, it creates a domino effect where it will
+[00:01:14] launch us and be rocket fueled to the high there, okay? And the problem with this scenario and why
+[00:01:19] I wouldn't take a train in this scenario is because we have liquidity here and we have liquidity here.
+[00:01:24] So we don't know where the mark's gonna go because if we stop losses in two different spots here,
+[00:01:29] I don't know where the mark's gonna go, okay? And ideally, we want to wait for a stop run above
+[00:01:35] old highs or old lows. Now, let me draw a different scenario here. Let's say this week took out all
+[00:01:41] these lows. Let's say it looks like this, and we have no more liquidity here. You can see this
+[00:01:45] to be more of like a broadening formation where, you know, it's this would be called high resistance,
+[00:01:50] basically high resistance where the low already ticks out all these lows. If that were to happen,
+[00:01:55] I'd be way more confident in price going up here because there's no more stop losses on this side,
+[00:02:02] right? This candle's week would have already ran every single stop plus here, right? We're
+[00:02:07] up here. We don't have a wake-through running stop loss. Now we do. Now we don't, right? And
+[00:02:11] we're trying to take trades where one side of stops have been ran and the other side haven't,
+[00:02:15] okay? That is very, very, very key. We are trying to take trades where one side of stops was ran
+[00:02:25] and then other side of stops were not ran. This is the holy grail, okay? This right here is holy
+[00:02:33] grail because if we are going to look for trades in between two stop loss runs where there could
+[00:02:39] be two, you're just going to get wrecked. But if we can look for trades where it's one-sided,
+[00:02:43] where we have maybe equal highs like here and then equal lows right there and then we sweep one,
+[00:02:48] right? We almost know for a fact we're going to run, you know, liquidity back up, right? But
+[00:02:52] between, we don't know, right? I don't know if we have liquidity up there, boom, boom, boom, right?
+[00:02:57] We're in the middle of this range. I don't know if it was going to be ran first. So if we eliminate
+[00:03:01] and we wait for one side to be ran and then we find our model to the downside, then I know we're
+[00:03:06] going to go down, okay? Now, this is the second most important thing in the model, okay? Which
+[00:03:11] is going to be at one, okay? I'm not listening to this in order, okay? I want to make this a little
+[00:03:15] more complicated. So all the, you know, all the prevent traders and people who think they're
+[00:03:20] going to get rich quick, click off the video, okay? The second most important thing is the actual
+[00:03:24] IPG, okay? This is the third most important thing of the home model, okay? Liquidity, sweep,
+[00:03:28] and IPG. And I'm going to combine this with plus fair rally gap delivery. So getting the actual
+[00:03:34] IPG out of the fair rally gap is the next most important thing. So just as I drew before, right?
+[00:03:40] We have a bunch of highs stacked up, boom, boom, boom, boom, boom, boom, boom, boom,
+[00:03:44] okay? What is to the left? What are we missing here? Well, we don't know if there's any fair
+[00:03:49] rally gaps, right? We don't know if we're delivering off of some sort of higher PD array for maybe
+[00:03:54] over here or over here. And our job is to go to the left and come and look for that. Now,
+[00:03:59] if any of you watching this trades order flow or maybe supply and demand, that could count as,
+[00:04:05] you know, you could implement this in the order to an order flow strategy with volume profile
+[00:04:10] into a supply and demand strategy. As long as you have something meaningful to the left,
+[00:04:14] we're delivering off of whether it be a fair rally gap as, you know, a supply zone in your eyes,
+[00:04:19] maybe a low volume node profile, that's what you ideally need, okay? And this is where I want to
+[00:04:24] broaden the, you know, skill a little bit because it can be multiple things. So for example,
+[00:04:29] right here, okay, if we were to wick down here below here, not only do I like this because of the,
+[00:04:37] the liquidity here and because we left the query up here, I would have liked this because we would
+[00:04:42] have also been tapping into and holding a fair rally gap to the left, which maybe a demand zone
+[00:04:48] for you. Maybe it's a low volume node profile zone, whatever it may be, okay, because we'd be
+[00:04:54] holding that zone as well. So that would make the setup 10 times better. Okay, 10 times better.
+[00:04:59] Same thing on up here. If we tap into a bearish rally gap, as you can see right here, this is a
+[00:05:04] bearish BPR. And then we get a setup down or be inverse all of this, that would be an A plus setup.
+[00:05:10] Now, as you can see, we come down and we don't inverse the last gaps in the leg, which is probably
+[00:05:14] why we didn't run line and low. Okay, but a fair rally gap delivery is important, right? If I go
+[00:05:20] to this, you know, low right here, and I say, Oh, this is a fair rally gap. It's an inverse boom,
+[00:05:24] boom, boom. Okay, we can see this is an inverse here. And I ask you, is this a good trade? Your
+[00:05:29] question, your answer to me to be what's to the left? Your answer should be what's to the left?
+[00:05:33] Not yes, this is a good trade. We just have a courtesy. You need to be asking me what's the
+[00:05:37] left? That's the first option to be just to be in your brain. Now if we zoom in, we go to the left,
+[00:05:41] we got a pretty good displacement. So maybe it's like a, you know, 30 minute gap. Yep, it isn't.
+[00:05:46] It's a 30 minute gap. See it? See it? See it? See it? See it? Right. So now when I ask you the question,
+[00:05:51] was this a good trade? You asked me what's to the left? There's a 30 minute gap. Yes,
+[00:05:55] this is a good trade. That's your answer, right? But we need the context to see that. Okay. Now,
+[00:06:00] the third most important thing, draw on liquidity. Where are the engineered mountaintops? Where are
+[00:06:07] the engineered highs? Where are the engineered lows? Where are the engineered draws on liquidity?
+[00:06:11] Okay, this is so important. Today, if you look at today, I want to show you something. Was there
+[00:06:18] any internal draw on the quitties right here? Yes. There was one right here, right? Big, big draw.
+[00:06:25] And then if you go to the 15 minute, there was equal highs up here, right? Draw on the
+[00:06:29] quitty basically means where are the most stacked up highs? So there's a bunch of stacked up highs
+[00:06:34] here because a lot of people think this is a double top and there's a bunch of stacked out
+[00:06:38] lows here because a bunch of people think this is a trend line and they're going to bounce. Okay.
+[00:06:42] So unfortunately, it's for today's the time of making this video, there was no good draw on the
+[00:06:47] quitty because it's just one sided. But let me show you an example of like a really good draw
+[00:06:50] on liquidity. Okay. If I go to the one minute timeframe and I go to, you know, yesterday. Okay.
+[00:06:56] Yesterday, we were chopping around. This is where you kind of say, okay, we're chopping around,
+[00:07:00] I'm going to wait for the next session, right? We're chopping all down here. But as we were
+[00:07:04] chopping, we are forming lower lows and lower highs, which means we're forming engineered liquidity.
+[00:07:10] So we have engineered high here with stop losses, which that stop loss is likely to trigger here,
+[00:07:15] trigger here, trigger here, trigger here. So now we have a a fuel, right? This is our fuel.
+[00:07:22] So if we drag this line over to the left and then we look at the top of that fuel where it ends here,
+[00:07:27] we can say that bicep would be here because it's the last part of the fuel of the bicep
+[00:07:33] ring ramp. Okay. Now some of you would be like, Oh, why don't you include this one right here?
+[00:07:36] I mean, this looks more complete and together with like this, in my opinion. So no, then overnight,
+[00:07:42] we even create more fuel here. So now we have all this fuel. Now, where's the drawn liquidity
+[00:07:48] to the fuel? Is there any fuel to the downside? Nope, this low swept this low. We bounce off our
+[00:07:53] rally gap. This one that when it looks like this is not fuel. Okay, see how this low took up the
+[00:07:59] slow that is not fuel. But see how this high has not taken out this high, which is not taking out
+[00:08:03] this high, which is not taking out this high. That my friends is called fuel. And that it's
+[00:08:08] what you need to look for, whether it be this, whether it be maybe relative equal highs like this,
+[00:08:13] maybe we have a bunch of, you know, orders filled. Okay, like this, this is fuel. Okay. And our job
+[00:08:19] in the market and my job to look for the best model possible to take the best trade possible
+[00:08:24] is looking for that fuel. And unfortunately, right now we have fuel here and we have fuel up here.
+[00:08:30] And when there's fuel to both sides, I kind of just sit tight and don't do anything. It sucks,
+[00:08:34] but that's what trading is and trading is supposed to be boring. And you know, this doesn't happen
+[00:08:38] every day, but sometimes you get fuel on both sides, but you have to wait. You have to wait for the
+[00:08:42] draw to balance out. Okay. So those are the most important things in trading. Okay, there's a lot
+[00:08:48] of other videos where I explain and go in depth on these, but drawing liquidity, equal highs,
+[00:08:52] equal lows, trend line liquidity, where are the rest thing? Okay, liquidity sweep. Did we take out
+[00:08:56] one of those draws already and only have one draw to the opposite side? Okay, one side of stops.
+[00:09:02] And then we have an IPG plus for a rally gap delivery, right? Are we getting our IPG off of a
+[00:09:08] forever rally gap, right? You can see if we were to go to, you know, over here, right? You sub-salt
+[00:09:13] side if I maybe go to the three minute. I like to go to the timeframe where it's like a singular
+[00:09:17] for a rally gap. You can kind of see there's one here. It's all right, right? We have a bearish
+[00:09:22] for rally gaps here. They just completely get smoked, right? You can use that as support. Maybe
+[00:09:26] you buy the market just doesn't really matter. Stop swing low and then boom, I'd be running all
+[00:09:31] those low resistance and putting these stop losses. Okay, so yeah, and with that, that's going to be
+[00:09:36] done in the video. Test this strategy yourself. Let me know what you think. There's definitely
+[00:09:39] a lot more to it, but I wanted to give you the basics in three steps. And as always, don't bring
+[00:09:44] to use code dodgy for APEX, copy, trade 20 accounts, one of the cheapest firms in the game. I'll see
+[00:09:48] you guys in the next one. Peace.
