@@ -15,7 +15,7 @@ Every testable prediction, judged against real prices. Never use his recap as th
 | 9 | youtube/E1BIVjBwLxQ | NQ | Most good setups now come 09:30–10:00 (Judas swing) | Backtest by hour | ✓ 2026-11-18 | ✗ Not supported | 09:30–10:00 only: PF 0.92, −$1,174 (166 tr). Slightly better than all hours, still losing |
 | 10 | youtube/E1BIVjBwLxQ | NQ | Momentum (big-body) inversion candles beat choppy ones | Backtest with body/wick filter | ✓ 2026-11-18 | ✗ Not supported | Body ≥ 60% of range: PF 0.90 (1,242) vs non-momentum PF 0.90 (1,209) |
 
-| 11 | maker, 2026-11-18 | MNQ | Same-direction CONFIRMED on 2+ timeframes within 5 min = stronger setup | Backtest: confluence (≥2 TFs, same side, ≤5 min) vs single-TF signals, PF and win % | Next deep test | — | Maker's hypothesis; define by time window, not same candle close (TF closes only align every 6–30 min) |
+| 11 | maker, 2026-11-18 | MNQ | **A (maker's exact version):** one closing moment inverts gaps on 2+ timeframes in the same direction (identical bar_close) = strong setup. **B:** same direction on 2+ TFs within 5 min | Backtest A: identical-bar_close multi-TF signals vs single-TF signals **at the same aligned close times** (controls for time of day). B: ≤5 min window vs single. PF, win %, by year | Next deep test | — | Maker's hypothesis; define by time window, not same candle close (TF closes only align every 6–30 min) |
 
 **Running record:** 11 claims · 5 judged (1 supported, 1 partly, 3 not) · hit rate 1–1.5 / 5
 
