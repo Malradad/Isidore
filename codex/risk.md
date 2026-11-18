@@ -14,6 +14,12 @@ _Almost nothing known yet. This is the biggest gap in the codex._
   candle, not by a level chosen in advance. A large NQ candle (news, open)
   can make one loss several times the normal size.
 
+## Stop choice (✓ maker, 2026-11-18)
+- Default: close back through the gap.
+- Weak volume behind the inversion: swing low/high of the sweep (wider, survives a dip).
+- Strong volume: just beyond the inversion candle (tighter, better R).
+- The stop sets the size: wider stop → fewer contracts, so risk per trade stays fixed.
+
 ## Unknown (watch for on stream)
 - Which timeframe's close counts for the stop (same as entry?).
 - Whether he also uses a hard stop as a disaster backup.

@@ -42,12 +42,13 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
 - **Stop — three versions, not one:**
   - ✓ (maker) a candle close back through the gap. He calls this "below the close,
     like I taught in previous videos." `youtube/ETRextCcwCo @ 00:02:59`
-  - ~ at the **swing low/high** of the sweep: survives a dip back through the gap
+  - ✓ (maker) at the **swing low/high** of the sweep: survives a dip back through the gap
     when there's no volume behind the move.
-  - ~ **under the strong inversion candle** when volume is strong: tighter stop, better R.
+  - ✓ (maker) **under the strong inversion candle** when volume is strong: tighter stop, better R.
     `youtube/ETRextCcwCo @ 00:05:24`
-  - **Open question for maker:** which stop when? Isidore's reading: close-based
-    by default, swing stop when volume is weak, candle stop when volume is strong.
+  - ✓ (maker, 2026-11-18) **Which stop when:** close-based by default; swing stop
+    when volume behind the inversion is weak; stop under the inversion candle when
+    volume is strong. The stop is chosen by the strength of the move.
 - **Target:** the engineered liquidity. Example trade ~4R. `youtube/ETRextCcwCo @ 00:02:10`
 - **Breakeven:** targeting engineered liquidity "gives good breakeven points."
 

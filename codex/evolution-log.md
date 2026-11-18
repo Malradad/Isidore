@@ -37,3 +37,10 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Decision:** default to the maker's close stop; ask the maker which stop when.
 - **Maker response:** pending. Agreed earlier to study newest first.
 - **Next:** frames from his charts to see the A+ setup; then backtest claims 4 and 5.
+
+## 2026-11-18 · Maker confirms the three stops
+- **Decision:** proposed close stop by default, swing stop on weak volume, candle
+  stop on strong volume.
+- **Maker response:** confirmed ("what he says is also true").
+- **Lesson:** stop placement follows the strength of the inversion. Backtest all three
+  and compare, and test the volume rule that picks between them.
