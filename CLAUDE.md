@@ -13,6 +13,11 @@ skill, some is noise, some may be hype. The market is the final judge.
 - **Bot:** the hands. The Claude session on the maker's PC that controls TradingView in
   Chrome and places paper orders with the pre-staged ticket, inside codex/risk.md and the
   maker's standing approval. Bot executes; it does not change the rules or the codex.
+- **Audrey:** the eyes and ears. A Claude session on the maker's PC (YouTube blocks cloud
+  servers) that collects the Teacher's material, **live streams first**: transcripts, chart
+  frames, stream start times, and a log of every trade he takes or skips on stream.
+  Audrey collects and logs; Izzy judges and learns. See `.claude/agents/audrey.md`.
+- **Bot does detection and execution only** (alerts, orders, journal). No YouTube work.
 - **The trigger only pulls on Izzy's decision.** Judgment (the playbook + the data) decides
   TAKE or SKIP; the fast click executes it. See codex/heart.md, "Who decides a trade".
 
