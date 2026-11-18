@@ -50,3 +50,8 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Open:** how he chooses between them for a given trade, and whether the stop
   close is read on the same timeframe as the entry.
 - **Backtest implication:** run the setup on all five timeframes and compare.
+
+## 2026-11-18 · Maker trades MNQ
+- **Learned (✓ maker):** the maker trades MNQ most of the time; NQ is too large for now. Be flexible.
+- **Decision:** study and backtest on NQ charts (identical price, longer history);
+  size, paper trade and trade in MNQ ($2/point). NQ only when the maker raises the allocation.

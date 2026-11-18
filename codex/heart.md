@@ -26,6 +26,10 @@ The Geppetto goal: Level 5 in every domain. A real trader, trusted alone.
 - **3 → 4:** 30+ approved live trades; maker accepted most proposals; results track paper.
 - **4 → 5:** 90+ trading days live, positive after costs, never broke a risk rule.
 
+## Instrument
+Paper and live trading start in **MNQ** (the maker's instrument). Moving up to NQ
+is a capital-allocation decision, so it stays with the maker.
+
 ## Fixed at every level
 - The maker sets the capital allocation and loss limits. Isidore trades within
   them and may propose changes, never make them.

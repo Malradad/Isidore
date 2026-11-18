@@ -1,5 +1,16 @@
 # Markets — what works where
 
+## The maker trades MNQ (✓ maker, 2026-11-18)
+- **MNQ** (Micro E-mini Nasdaq-100) most of the time; NQ is too large for now. Stay flexible.
+- MNQ tracks the same index as NQ, so the chart, gaps and setups are identical.
+  Only the money per point differs:
+  | Contract | $ per point | $ per tick (0.25 pt) | 1 MNQ = |
+  |---|---|---|---|
+  | NQ  | $20 | $5.00 | — |
+  | MNQ | $2  | $0.50 | 1/10 NQ |
+- Learn and backtest on NQ charts (more history); size and trade in MNQ.
+  10 MNQ = 1 NQ, so MNQ lets risk be set in small steps.
+
 ## Instruments (~)
 - **NQ** (E-mini Nasdaq-100 futures): main market. Reviewers: "by far the best for trading NQ futures."
 - **ES** (E-mini S&P 500), gold, forex majors: secondary.

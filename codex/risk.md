@@ -20,6 +20,11 @@ _Almost nothing known yet. This is the biggest gap in the codex._
 - Strong volume: just beyond the inversion candle (tighter, better R).
 - The stop sets the size: wider stop → fewer contracts, so risk per trade stays fixed.
 
+## Sizing in MNQ (✓ maker trades MNQ)
+- Contracts = risk in $ ÷ (stop distance in points × $2).
+- Example: $200 risk, 25-point stop → 200 ÷ (25 × 2) = 4 MNQ.
+- If that gives less than 1 contract, the stop is too wide for the risk: skip the trade.
+
 ## Unknown (watch for on stream)
 - Which timeframe's close counts for the stop (same as entry?).
 - Whether he also uses a hard stop as a disaster backup.
