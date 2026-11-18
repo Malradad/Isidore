@@ -19,6 +19,11 @@ The Geppetto goal: Level 5 in every domain. A real trader, trusted alone.
 | Risk management | 0 | — |
 | Execution | 0 | — |
 
+## Maker overrides
+- **2026-11-18:** maker approved **paper trading only** in the TradingView paper
+  account "Isidore" ($50K), while other domains stay at Level 0. Learning continues;
+  the backtest is still required before any live-trading proposal (Level 3).
+
 ## Promotion criteria (proposed; maker can change)
 - **0 → 1:** 10 streams studied; maker confirms the portrait is accurate.
 - **1 → 2:** 50+ of his claims judged; Isidore can say which setups have an edge.

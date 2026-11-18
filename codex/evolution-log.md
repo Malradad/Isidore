@@ -62,3 +62,7 @@ _Session entries: date · what was learned · decision · maker response · perf
   ~50–62 → 2, ~100–125 → 1. Fixed-dollar risk, flexible size.
 - **Decision:** these are Isidore's starting limits.
 - **Open:** account size, daily loss limit, max trades per day.
+
+## 2026-11-18 · Paper trading approved
+- **Maker response:** "try one order now" — approval to paper trade in TradingView ("Isidore", $50K).
+- **First order:** a mechanics test (03:00 NY, outside killzones), not a strategy trade.
