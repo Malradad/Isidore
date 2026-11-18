@@ -11,6 +11,14 @@ Paper / research only.
 4. Open **Strategy Tester** (bottom panel) → *Overview* and *List of trades*.
 5. Screenshot both tabs and save them to `journal/backtests/` (or send them to Izzy).
 
+## Alerts (v0.2)
+Every setup the strategy takes also fires a TradingView alert, once, at the bar close, with JSON:
+`{"izzy":"setup","side":"LONG","grade":"A","symbol":"MNQ1!","tf":"2","entry":…,"stop":…,"target":…,"qty":2,"risk_pts":…,"stop_mode":"Swing","sweep":true,"strong_vol":false,"engineered_target":true,"time":"2026-11-18 09:42:00"}`
+
+Create it: chart → **Alerts (⏰) → Create alert** → Condition: **Izzy iFVG** → **"alert() function calls only"** →
+Expiration: open-ended → Notifications: popup + app (+ webhook later) → Create.
+Izzy reads the alert log during the session, decides TAKE / SKIP, then enters with the pre-staged ticket.
+
 ## What it does
 | Rule | Code | Source |
 |---|---|---|

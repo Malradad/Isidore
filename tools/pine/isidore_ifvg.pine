@@ -1,8 +1,8 @@
 //@version=5
-// Isidore (Izzy) — iFVG strategy v0.1
+// Isidore (Izzy) — iFVG strategy v0.2 (v0.2: alert on every setup)
 // Rules come from codex/playbook.md (✓ = confirmed by the maker).
 // Paper and backtest use only. Not financial advice.
-strategy("Isidore iFVG v0.1", shorttitle="Izzy iFVG", overlay=true,
+strategy("Isidore iFVG v0.2", shorttitle="Izzy iFVG", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
      commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
@@ -219,6 +219,14 @@ f_grade(int s) => s >= 3 ? "A+" : s == 2 ? "A" : s == 1 ? "B" : "C"
 
 flat = strategy.position_size == 0
 
+f_alert(string side, string grade, string mode, float entry, float sl, float tp, float qty, float dist, bool sw, bool sv, bool eng) =>
+    msg = '{"izzy":"setup","side":"' + side + '","grade":"' + grade + '","symbol":"' + syminfo.ticker +
+         '","tf":"' + timeframe.period + '","entry":' + str.tostring(entry) + ',"stop":' + str.tostring(sl) +
+         ',"target":' + str.tostring(tp) + ',"qty":' + str.tostring(qty) + ',"risk_pts":' + str.tostring(dist) +
+         ',"stop_mode":"' + mode + '","sweep":' + (sw ? "true" : "false") + ',"strong_vol":' + (sv ? "true" : "false") +
+         ',"engineered_target":' + (eng ? "true" : "false") + ',"time":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}'
+    alert(msg, alert.freq_once_per_bar_close)
+
 // ── Long ──
 if flat and longInv and inKZ and canTrade and biasLongOK and (longSweepOK or not requireSweep)
     mode = f_mode()
@@ -232,6 +240,7 @@ if flat and longInv and inKZ and canTrade and biasLongOK and (longSweepOK or not
     score = (longSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (engineered ? 1 : 0)
     qty = f_qty(dist)
     if dist > 0 and qty >= 1 and score >= minScore
+        f_alert("LONG", f_grade(score), mode, close, hardSL, tp, qty, dist, longSweepOK, strongVol, engineered)
         strategy.entry("L", strategy.long, qty=qty, comment=f_grade(score))
         strategy.exit("L-x", "L", stop=hardSL, limit=tp)
         tradeGap := longGapBot
@@ -256,6 +265,7 @@ if flat and shortInv and inKZ and canTrade and biasShortOK and (shortSweepOK or 
     score = (shortSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (engineered ? 1 : 0)
     qty = f_qty(dist)
     if dist > 0 and qty >= 1 and score >= minScore
+        f_alert("SHORT", f_grade(score), mode, close, hardSL, tp, qty, dist, shortSweepOK, strongVol, engineered)
         strategy.entry("S", strategy.short, qty=qty, comment=f_grade(score))
         strategy.exit("S-x", "S", stop=hardSL, limit=tp)
         tradeGap := shortGapTop
