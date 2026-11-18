@@ -130,3 +130,9 @@ _Session entries: date · what was learned · decision · maker response · perf
   his filters do not create an edge in my model. Longs PF 1.14 vs shorts 0.57: the edge that shows is the trend.
 - **Decided ~:** next test is HTF bias on (trade with the 1h/4h trend), AM only. `journal/backtests/2026-11-18-deep.md`.
 - **Maker:** asked for this test; review pending.
+
+## 2026-11-18 · + HTF bias (maker request)
+- **Learned ✓ (price):** killzones + Dodgy's filters + HTF EMA bias: 1h PF 0.62 (56 tr, −$1,509), 4h PF 0.77
+  (55 tr, −$808). An EMA bias does not create an edge. Every mechanical variant tested so far is negative.
+- **Decided ~:** stop tuning filters. Next: code his real bias (HTF PD array delivery / draw on liquidity) from
+  chart examples, or conclude the edge is discretionary.
