@@ -73,3 +73,14 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Lesson:** 10–18 trades per timeframe is noise; the ranges overlap. No conclusion yet.
   Need far more trades (longer data) before tuning. Max drawdown stayed under $850 everywhere.
 - Alert "Izzy setups" is live on the 2m chart; strategy compiled first try.
+
+## 2026-11-18 · Studied: new 2026 model, "IFVG's Don't Work", "IFVG's can NEVER fail"
+- **Learned:** trend-line liquidity is now his #1 target; momentum candles only; most trades
+  09:30–10:00 on the Judas swing; one false move per morning; one trade a day; breakeven at
+  the internal draw; more confluence (OB, CISD, 50% HTF retracement).
+- **Contradiction resolved:** both titles say the pattern only works with context, momentum
+  and engineered liquidity. "Never fail" is hype (unfalsifiable).
+- **Tension with the maker's all-hours test:** he trades almost only 09:30–10:00. Fine for
+  mechanics testing; for performance, compare all-hours vs 09:30–11:00 (claim 9).
+- **Code next (v0.4 candidates):** momentum-candle filter (body/range), max 1 trade/day option,
+  "first false move only" after 09:30, trend-line liquidity detection (harder).

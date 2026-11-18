@@ -10,5 +10,9 @@ Every testable prediction, judged against real prices. Never use his recap as th
 | 4 | youtube/hd8OyKtQfx0 @ 00:01:47 | NQ | First sweep + iFVG works far more than 3rd+ sweep in the same range | Backtest | When backtester exists | — | Testable rule |
 | 5 | youtube/hd8OyKtQfx0 @ 00:04:28 | NQ | iFVGs targeting engineered liquidity win more than ones targeting a single high | Backtest | When backtester exists | — | Testable rule |
 | 6 | youtube/ETRextCcwCo @ 00:01:03 | NQ | Inversions with a delta flip are stronger | Backtest with volume data | Later | — | Needs order-flow data |
+| 7 | youtube/oenzNA9OHU4 | — | iFVGs "can almost never fail if used properly" | Not testable as stated: failures are blamed on the user | — | — | Hype |
+| 8 | youtube/zAZqCeckrwg | NQ | One trade a day beats several | Backtest: max 1 vs max 3 trades/day | When data exists | — | Testable |
+| 9 | youtube/E1BIVjBwLxQ | NQ | Most good setups now come 09:30–10:00 (Judas swing) | Backtest by hour | When data exists | — | Testable; relevant to the all-hours test |
+| 10 | youtube/E1BIVjBwLxQ | NQ | Momentum (big-body) inversion candles beat choppy ones | Backtest with body/wick filter | When data exists | — | Testable |
 
-**Running record:** 6 claims · 0 judged · hit rate —
+**Running record:** 10 claims · 0 judged · hit rate —

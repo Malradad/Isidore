@@ -28,6 +28,29 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
 6. **Direction matches his bias.** He ignores setups against it, even graded A.
    `youtube/ETRextCcwCo @ 00:02:27`
 
+### 2026 additions (his "new model", Aug 2026)
+- **Base model unchanged:** delivery from an HTF fair value gap + sweep of a key level
+  (London low, Asia low, news low, equal lows) + iFVG. `youtube/E1BIVjBwLxQ @ 00:00:13–00:01:06`
+- **More confluence required** in choppy 2026 markets: order block, CISD, a 50% retracement
+  of the HTF impulse, holding FVGs to the left, 15m/1h taps.
+  `youtube/E1BIVjBwLxQ @ 00:01:12`, `youtube/zAZqCeckrwg @ 15m example`
+- **#1 target = trend-line liquidity:** a ~45° trend line with 2–3 touches, where retail
+  stops pile up. Better than a lone session high/low; best is session low + relative equal lows.
+  A trend line that's already been wicked through is **no longer a target**.
+  `youtube/E1BIVjBwLxQ @ 00:01:41, 00:04:37, 00:07:24`
+- **Momentum candles only:** "death candle" / "birth candle" — big body, little or no wick.
+  "A close over an IFVG doesn't mean much" on its own; choppy, wicky closes are skipped.
+  `youtube/E1BIVjBwLxQ @ 00:04:56`, `youtube/zAZqCeckrwg`
+- **Timing:** most of his trades now 09:30–10:00, catching the **Judas swing** (the
+  false move off the open: opposite move, sweep, then the real move) ~3×/week.
+  **Only one false move per morning:** once it's played, he doesn't take a second.
+  `youtube/E1BIVjBwLxQ @ 00:05:25–00:06:15`, `youtube/zAZqCeckrwg`
+- **One trade a day:** "I tried taking more than one trade a day. Did not work for me."
+  `youtube/zAZqCeckrwg`
+- **Breakeven at the internal draw:** if engineered liquidity sits between entry and the
+  final target, go breakeven there. Wait for internal liquidity to build before entering.
+  `youtube/zAZqCeckrwg`
+
 ### What makes it fail (his own "don't" list)
 - **Repeated sweeps inside the same range:** the 2nd, 3rd, 5th sweep of a low
   makes each new iFVG worse. A sweep far *outside* the range is different.
@@ -36,6 +59,9 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
   `youtube/hd8OyKtQfx0 @ 00:04:47`
 - **No volume behind the inversion:** price dips back below the gap; close-based
   stops get hit. `youtube/ETRextCcwCo @ 00:02:43`
+- **"YouTube price action" trap:** taking setups that don't look like the obvious
+  textbook ones, at random times (e.g. 09:41 after the Judas swing already played),
+  with no engineered liquidity. `youtube/zAZqCeckrwg`
 - **Copying every signal:** "If you copy every signal, you will lose."
   `youtube/ETRextCcwCo @ 00:03:33`
 

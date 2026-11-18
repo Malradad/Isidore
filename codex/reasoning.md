@@ -24,6 +24,16 @@
 - Tiny sweeps inside a range = not enough orders = not real liquidity.
   `youtube/DtX8ohvX4YQ @ 00:00:53–00:05:41`
 
+## Why an inversion works, in his words (~, Aug 2026)
+- A gap = big orders committed one way. A strong candle closing back through it traps
+  them; to exit they must trade the other way, which fuels the move.
+- So it "can almost never fail **if used properly**" — failures mean "your draw on
+  liquidity is wrong". (Isidore: this makes the claim unfalsifiable; logged as claim 7.)
+- "IFVGs don't work" is about traders taking non-obvious setups, not the pattern.
+  `youtube/oenzNA9OHU4`, `youtube/zAZqCeckrwg`
+- The contradiction in his titles resolves: both say the pattern only works with
+  context, momentum and engineered liquidity.
+
 ## Order flow (~, Oct 2026)
 - Candle volume and delta (buys minus sells) confirm the inversion.
 - Watches VPOC (the price with most volume) as support/resistance, but "doesn't really like" it.
