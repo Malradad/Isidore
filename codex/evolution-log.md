@@ -66,3 +66,10 @@ _Session entries: date · what was learned · decision · maker response · perf
 ## 2026-11-18 · Paper trading approved
 - **Maker response:** "try one order now" — approval to paper trade in TradingView ("Isidore", $50K).
 - **First order:** a mechanics test (03:00 NY, outside killzones), not a strategy trade.
+
+## 2026-11-18 · First backtest, strategy v0.2 (TradingView, default inputs)
+- 30s +$191 (13 tr, PF 1.21) · 1m +$996 (13, PF 2.49) · **2m −$407 (10, PF 0.66)** · 3m +$706 (18, PF 1.66) · 5m +$187 (14, PF 1.15).
+- History on the maker's plan was longer than Isidore estimated: 2m ≈ 6 weeks, 5m ≈ 3.5 months.
+- **Lesson:** 10–18 trades per timeframe is noise; the ranges overlap. No conclusion yet.
+  Need far more trades (longer data) before tuning. Max drawdown stayed under $850 everywhere.
+- Alert "Izzy setups" is live on the 2m chart; strategy compiled first try.
