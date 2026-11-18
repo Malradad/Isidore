@@ -59,3 +59,12 @@ _Almost nothing known yet. This is the biggest gap in the codex._
 - **Preferred:** keep the order ticket pre-staged during the session (qty, SL and TP
   toggles on, distances in ticks), so one click on Buy/Sell enters *with* the bracket.
   Then adjust the stop/target to the real levels.
+
+## Alert freshness (✓ maker, 2026-11-18)
+- **An alert seen more than 15 s after its bar_close is never traded.** Log it as
+  "skipped: stale X s" with TradingView delay (sent − bar_close) and browser delay (seen − sent).
+- Bot may not raise this limit. Only the maker can change it.
+- Cause of the 63 s miss: Chrome paused the hidden/covered tab (TradingView fired on time).
+  Chrome must be launched with: `--disable-features=CalculateNativeWinOcclusion
+  --disable-backgrounding-occluded-windows --disable-renderer-backgrounding
+  --disable-background-timer-throttling`, TradingView in its own visible window.
