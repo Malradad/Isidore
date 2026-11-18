@@ -15,3 +15,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   his "internal liquidity rule". Several sources (whop.com, trustpilot.com,
   threadreaderapp.com) were blocked by the session network.
 - **Maker response:** pending.
+
+## 2026-11-18 · Maker teaches the stop
+- **Learned (✓ maker):** the stop is a candle close back through the inverted gap.
+  A green candle inverts a red (bearish) gap → stop is a red candle closing back
+  below it; the reverse for shorts. Wicks don't count.
+- **Lesson:** the setup is symmetrical and close-based end to end. The gap is
+  the whole trade: entry, thesis, and exit.
+- **Isidore's concern:** close-based stops make loss size variable. Backtest must
+  measure the tail of losses and test a backup hard stop.
+- **Still open:** which timeframe's close; whether he keeps a hard stop; sizing.

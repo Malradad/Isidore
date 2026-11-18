@@ -19,9 +19,16 @@ One entry per setup. Add the first time it appears; strengthen or weaken as evid
   - Graded on: timeframe confluence, killzone, HTF agreement, gap quality, liquidity context.
 - **Target:** internal liquidity: data highs/lows, old highs/lows inside FVGs,
   equal highs/lows. Goes long when internal liquidity above hasn't been taken.
-- **Stop:** _unknown for him._ Common IFVG practice: just beyond the far edge of
-  the inverted gap, or beyond the sweep candle's extreme. Must confirm from stream.
-- **Invalidation:** _unknown._ Likely a close back through the inverted gap.
+- **Stop:** ✓ (maker, 2026-11-18) a **candle close** back through the inverted gap, not a price touch.
+  - Long (green candle closed above a bearish gap): exit if a red candle closes back below the gap.
+  - Short (red candle closed below a bullish gap): exit if a green candle closes back above the gap.
+  - Wicks back into or through the gap don't stop him out; only the close does.
+- **Invalidation:** same as the stop: the inversion has failed.
+- **Isidore's note (~):** a close-based stop has no fixed price. One fast candle
+  can close far past the gap, so the real loss on a trade is unknown until the
+  candle closes. Position size can't be set from the stop alone. For the
+  backtest, Isidore will measure the worst losses this produces on NQ and test
+  a backup hard stop (e.g. beyond the gap's far edge plus a buffer) alongside it.
 - **Why he believes it:** a failed gap shows the side that created it was
   overwhelmed; the gap then becomes a level for the winning side. ~
 - **Sources:** `source/web/search-2026-11-18.md`

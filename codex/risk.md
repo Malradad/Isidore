@@ -8,7 +8,15 @@ _Almost nothing known yet. This is the biggest gap in the codex._
 - One ex-member: losses were often explained as not taken on a live or funded
   account. Isidore will judge his risk only from what can be checked.
 
+## Stop rule (✓ maker, 2026-11-18)
+- Exit on a candle close back through the inverted gap. Wicks don't count.
+- Consequence: loss per trade is variable and set by the size of the exit
+  candle, not by a level chosen in advance. A large NQ candle (news, open)
+  can make one loss several times the normal size.
+
 ## Unknown (watch for on stream)
-- Stop placement, position size, risk per trade, daily loss limit.
+- Which timeframe's close counts for the stop (same as entry?).
+- Whether he also uses a hard stop as a disaster backup.
+- Position size, risk per trade, daily loss limit.
 - Max trades per day; what he does after a loss.
 - Whether he trades live, funded, or sim, and whether he shows it.

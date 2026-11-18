@@ -20,6 +20,8 @@ from his streams. It is what he says about himself and what others say about him
   only inside a killzone.
 
 ## His edge, if real
+- ✓ Entry and exit are both on candle closes: in on a close through the gap,
+  out on a close back through it. The whole trade is defined by the gap.
 - ~ A simple, mechanical trigger (candle close through a gap) with filters
   (HTF bias, time of day, target liquidity). Simple rules are testable. That is
   good: Isidore can backtest this on NQ data and find out.
