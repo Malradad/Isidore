@@ -96,6 +96,9 @@ class Config:
     max_sweeps: int = 1
     window: tuple[str, str] | None = None      # None = all hours (v0.4 default); e.g. ("0930","1100")
     flat_window: tuple[str, str] = ("1655", "1700")
+    flat_session_end: bool = True   # v0.5 fix: exit at the close of the last bar before a session break
+                                    # (daily halt, early holiday close, weekend); no entries on that bar.
+                                    # Set False to reproduce v0.4 exactly.
     bias: str = "Both"
     stop_mode: str = "Auto (volume)"
     strong_mult: float = 1.5
@@ -225,6 +228,12 @@ def run(bars: list[Bar], cfg: Config, collect_signals: bool = False):
         pos.r = pts / pos.sig.dist if pos.sig.dist else 0.0
         net += pos.pnl
         trades.append(pos); pos = None
+
+    step = min((bars[k + 1].t - bars[k].t for k in range(min(n - 1, 50))), default=60)
+
+    def session_ends_after(i):
+        """True if bar i is the last bar before a break of >= 30 min (known from the exchange calendar)."""
+        return i + 1 < n and bars[i + 1].t - (bars[i].t + step) >= 1800
 
     for i in range(n):
         b = bars[i]
@@ -395,8 +404,12 @@ def run(bars: list[Bar], cfg: Config, collect_signals: bool = False):
             else:
                 day_first_sig_used = True
 
+        last_bar = cfg.flat_session_end and session_ends_after(i)
+        if last_bar and pos:  # strategy.close_all(immediately=true): fill at this bar's close
+            close_pos(i, slip(b.c, -pos.side), "session end")
+            pending_close = None
         can_trade = day_trades < cfg.max_trades and day_losses < cfg.max_losses and (net - day_start_net) > -cfg.max_day_loss
-        if pos is None and can_trade and sig and sig.score >= cfg.min_score and i + 1 < n:
+        if pos is None and can_trade and not last_bar and sig and sig.score >= cfg.min_score and i + 1 < n:
             pending_entry = sig
             trade_gap = sig.gap; use_close_x = sig.mode == "Close back through gap"; trade_risk = sig.dist
             day_trades += 1
