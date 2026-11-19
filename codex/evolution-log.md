@@ -152,3 +152,15 @@ _Session entries: date · what was learned · decision · maker response · perf
   ("best trader alive"). Live vs eval claims can't be verified; prices can.
 - **Next:** audit his trades against real NQ prices (connector); code and test: chop filter,
   30s entries, BE at ~0.5–1R, 1R target, stop after 2 wins/day, require a named HTF PD array.
+
+## 2026-11-19 · Teacher audit: streams 2–4 (NFP 2 Oct, CPI 11 Sep, gamble stream 29 Sep)
+- **Learned:** his serious trading is ~1 playbook trade a day, then he stops, even on good setups.
+  5 playbook takes so far, all wins in his words; none price-checked yet.
+- **Big finding:** a lot of his stream "results" are not the playbook: (N) news straddles with no stop
+  to pass evals (2) and a gamble stream (26 takes, 4 accounts blown). Any P&L he shows mixes these in.
+- **Rules confirmed on stream:** no close, no trade (waited 10 min); skip when price is in premium,
+  RR is poor, or there's no internal liquidity for a breakeven point; BE at the model entry.
+- **Context terms to code:** news-candle data highs/lows as targets; "last low-resistance high";
+  CPI/NFP-day behaviour after the 08:30 candle.
+- **Next:** price-check the 5 playbook takes (TradingView quota reset today), and test
+  "1 trade/day + his skip filters (premium, RR, no-BE-point)" in the backtester.
