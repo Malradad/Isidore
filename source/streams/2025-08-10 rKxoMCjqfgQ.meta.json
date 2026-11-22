@@ -1,0 +1,20 @@
+{
+  "title": "Sunday Class (Introduction to Liquidity)",
+  "id": "rKxoMCjqfgQ",
+  "url": "https://www.youtube.com/watch?v=rKxoMCjqfgQ",
+  "duration_s": 1563,
+  "duration": "00:26:03",
+  "live_status": "was_live",
+  "release_timestamp": 1754838744,
+  "live_start_utc": "2025-08-10T15:12:24Z",
+  "live_start_ny": "2025-08-10 11:12:24 EDT (Sunday)",
+  "timestamp": 1754846617,
+  "timestamp_ny": "2025-08-10 13:23:37 EDT (VOD publish/processing time, not used)",
+  "time_map": "Not needed: Sunday, no trades. (Windows clock 11:27 at stream 00:14:40 agrees.)",
+  "chart": "NQU2025 charts from Thursday 2025-08-07; liquidity tier-list image",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\rKxoMCjqfgQ.mkv",
+  "kind": "no trading: class on liquidity pools",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
