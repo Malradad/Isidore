@@ -118,3 +118,14 @@ More ✓ = higher grade. Chart: NQ1! on the 2-minute. See `codex/visual/README.m
 ### Visual examples
 _In progress: frames from his charts are arriving. Each example will link the
 frame that shows the gap, the sweep, the inversion candle, entry, stop and target._
+
+## Mechanical model (his 2023 class) — testable as stated
+Source: streams/2023-09-04 ErsWq6j87uY @ 00:18:15–00:55:53. ~
+1. Mark the **previous day's high and low**. Never trade inside them.
+2. Wait for one to be **taken** in London or New York (not Asia).
+3. Entry: the **last single 5m (or 15m) FVG in the opposite direction** is closed through with displacement.
+4. Stop: a candle close back through the inversion (or beyond the order block); hard stop if price wicks far.
+5. Target: the next obvious internal high/low; scale there, runner to a larger pool.
+6. If it already played out in London, no trade in New York. Size: 5 micros on 25K, 8 on 50K.
+Unlike v0.4, this gives the **context** mechanically: a named higher-timeframe level (PDH/PDL) as the sweep,
+a higher timeframe (5m/15m) for the gap, one setup per day.
