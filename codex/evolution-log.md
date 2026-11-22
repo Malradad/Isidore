@@ -182,3 +182,12 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Decided ~:** the gap between my mechanical rules (losing) and his picks (5/5) is the thing to study.
   Next: label every skip/take in Audrey's logs with the context he named and look for what separates them.
 - **Maker:** approved both tasks (relayed); merge to main awaits the maker's direct OK.
+
+## 2026-11-22 · Audit: stream 5 (4 Sep NFP) + Izzy's price check
+- **Price check:** his first 5 playbook takes hold up against real NQ prices (4 hit target before stop,
+  1 right direction). My mechanical versions lose; his picks win → the edge is in selection/context.
+- **Stream 5:** first non-win: a carried long went to BE after nearly hitting target (he planned "out by
+  10:00" and didn't), then a 30s long stopped for −1R after he **widened the stop**. Record now 5W/1BE/1L.
+- **Lesson:** his losses here come from breaking his own rules (time exit, moving the stop). Izzy's rules
+  must include the ones he breaks: honor time exits; never widen a stop (already in codex/risk.md).
+- **New claims:** news-day "data high hits 90% of the time"; "10 AM reversal". Both testable.

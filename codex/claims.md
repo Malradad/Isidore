@@ -17,6 +17,9 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 11 | maker, 2026-11-18 | MNQ | **A (maker's exact version):** one closing moment inverts gaps on 2+ timeframes in the same direction (identical bar_close) = strong setup. **B:** same direction on 2+ TFs within 5 min | Backtest A: identical-bar_close multi-TF signals vs single-TF signals **at the same aligned close times** (controls for time of day). B: ≤5 min window vs single. PF, win %, by year | ✓ 2026-11-22 | ✗ Not supported | Deep 1m 2023-11→2026-11, daily limits off. **A:** confluence PF 0.88 (2,527 tr) vs single-TF at the same aligned closes PF 0.91 (5,818). **B (≤5 min):** PF 0.906 (3,180) vs 0.907 (7,878). No difference; both lose. `journal/backtests/2026-11-22-claim11.md` |
 
-**Running record:** 11 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
+| 12 | streams/2026-09-04 N6eOC8wtapo @ 01:23:48 | NQ | "The data high is going to hit 90% of the time" (news-day high / relative equal highs as target) | Backtest: on CPI/NFP days, % of sessions where price trades above the 08:30 candle's high (and the relative equal highs) by 11:00 | Next quota | — | Testable; core to his news-day trades |
+| 13 | streams/2026-09-04 N6eOC8wtapo @ 00:47:59 | NQ | "10 AM reversals have been so strong" — the 09:30–10:00 move tends to reverse around 10:00 | Backtest: direction 09:30→10:00 vs 10:00→10:30, % opposite, by month | Next quota | — | Testable |
+
+**Running record:** 13 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

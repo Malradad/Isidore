@@ -16,6 +16,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-10-02 JUDH0MmuhQs | 09:42:57 | 1m | L | props (copy) | 31,154.25 ~ (model 31,146.50) | 31,101.75 ~ (OB) | 31,190 partial, runner 31,223 | partial at high, runner BE | ~+0.7 to +1.3 ~ | ✓px partial 31,190 first (fill 31,146.50 = his model entry; worst −1.75 pts) | NFP day; sweep of sellside into 50% discount; 1m IFVG + OB; waited ~10 min for the close; "only trade of the day" |
 | 2026-09-11 7vLdDIq4J0A | 08:38:09 | 1m | L | ? (1 mini) | ~29,350 ~ | swing low (not shown) | data highs ~29,400 ~ | TP (~$1,000, ~+50 pts) | ? | ✓px 29,400 reached (fill 29,371.75; worst −29 pts; his stop not logged) | CPI day; V-shape; inverse to the news candle's data highs; BE at rejection block; then "done for the day" |
 | 2026-09-29 oiJnEazL4Lg | 09:31:42 | 1m | S | live (+eval) | ? | "probably no stop" | equal lows | win (his) | ? | ~px direction right: +110 pts after 2 h (best +132, worst −43); levels not logged | Judas swing off the open; CISD + IFVG after sweeping the high; LLR |
+| 2026-09-04 N6eOC8wtapo | before 09:50 (carried) | 1m | L | funded (~30 copy) | 29,599.50 ~ | 29,539.50 ~ | 29,694 (data high) | **BE** after coming ~2.5 pts from target; gave back ~+92 pts open | ~0 | — | NFP day; Judas swing re-entry; data high = relative equal highs + 08:30 high; planned "out by 10:00" but didn't exit |
+| 2026-09-04 N6eOC8wtapo | 10:14:30 | 30s | L | funded | ~29,629 ~ | 29,603.75 ~ → **widened** to 29,594.75 | 29,694 | **stop (−1R; ~−35 pts vs widened stop)** | −1.0 to −1.3 | — | "A setup", delivering from a gap, data high above; stop widened mid-trade |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -44,10 +46,12 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-11 7vLdDIq4J0A | 09:49:43 | 15s | L | price action already bad: "why trust this setup" | — |
 | 2026-09-11 7vLdDIq4J0A | 10:07:17 | 1m | S | (maybe, if zone breaks) | — |
 | 2026-09-11 7vLdDIq4J0A | 10:21:01 | 3m | L | eval-only ~1R; already done | — |
+| 2026-09-04 N6eOC8wtapo | ~10:29 | 1m | L | external gap above; no CISD; "one confluence is not enough" | price kept falling ~ |
+| 2026-09-04 N6eOC8wtapo | 11:19:57 | — | S | (leaving) "only long if we sweep sell side" | — |
 
 ## Running score
-- Streams audited: **4 of 37** · **(A) playbook takes: 5, all wins by his words** (2 full TP, 1 partial+runner BE,
-  1 TP ~+50 pts, 1 live short "won") · Skips: 18 (+4 in the gamble stream) · **Price-checked: 5/5 (2026-11-22): 4 hit his target first, 1 right direction**
+- Streams audited: **5 of 37** · **(A) playbook takes: 7 → 5 wins, 1 breakeven, 1 loss** (his words; first 5 ✓px) ·
+  Skips: 20 (+4 in the gamble stream) · Price-checked: 5 of 7 (2026-11-22).
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
 
@@ -61,6 +65,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   first high, hold one runner. Targets: news-candle "data highs/lows", "last low-resistance high", equal lows.
 - **Days:** 2 of 4 audited streams are CPI/NFP days; his playbook trade came after the news candle,
   targeting its data highs.
+- **His losses come from breaking his own rules** (4 Sep): planned "out by 10:00", didn't exit, rode a
+  near-target winner back to BE; then widened the stop on the next trade and took −1R+.
+- **Time as a rule:** "10 AM reversals"; "I literally trade based off time."
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
 - Skips cite **chop / no obvious liquidity / gap too small** most often (3 of 5).
