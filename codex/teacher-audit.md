@@ -63,6 +63,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
 | 2025-06-11 IF67n-KIDnA | (O) live personal **Bitcoin** long held overnight (+$1.5K open); (P) paper NQ teaching long → BE | not NQ playbook |
 | 2023-12-19 SVeqDyk3DmA | (P) demo 1m long, "to show you" | BE |
+| 2023-03-24 ksztwIzHgcE | (P) demo scalps before the 09:45 news; one ES scalp (account not said) | not stated |
 | 2023-02-19 hGw1rsg-eGo | (R) recaps only, Sunday class: 2 live ES trades he describes (1 win, 1 BE) — not seen live, excluded | — |
 | 2023-09-04 ErsWq6j87uY | (P) Sunday-night demo long (class) | stopped |
 | 2023-09-05 e7oYxdPNvhY | (P) paper ES 3m short | BE |
@@ -153,10 +154,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-02-24 XGuIB-0gn_A | 09:40:26 | 1m/5m | L (ES) | just hit internal buy side | — |
 | 2025-06-11 IF67n-KIDnA | 10:13:12 | 3m | L | his rule: no trades between the data high and data low (CPI day) | ~+1R, BE where he said ~ |
 | 2023-12-19 SVeqDyk3DmA | 09:29–10:01 | 1m–5m | S/L (YM/NQ) | tape-read only | BE / worked (his) |
+| 2023-03-24 ksztwIzHgcE | 09:38:53 | 1m | S | equal highs above + news: "even if we dump 100 points" | — |
 
 ## Running score
-- Streams audited: **30 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 40 → 20 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
-  Skips: 76 (+4 in the gamble stream) · Price-checked: 5 of 40. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **31 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 40 → 20 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
+  Skips: 77 (+4 in the gamble stream) · Price-checked: 5 of 40. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
