@@ -1,0 +1,20 @@
+{
+  "title": "Weekly Outlook NQ Futures",
+  "id": "8F91svfKM10",
+  "url": "https://www.youtube.com/watch?v=8F91svfKM10",
+  "duration_s": 1590,
+  "duration": "00:26:30",
+  "live_status": "was_live",
+  "release_timestamp": 1780259247,
+  "live_start_utc": "2026-05-31T20:27:27Z",
+  "live_start_ny": "2026-05-31 16:27:27 EDT (Sunday, before the futures open)",
+  "timestamp": 1780261299,
+  "timestamp_ny": "2026-05-31 17:01:39 EDT (VOD publish/processing time, not used)",
+  "time_map": "Not needed: market closed; no live trades.",
+  "chart": "NQ1! 15m/1h weekly outlook, then FX Replay backtests on past days",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Opens with a prop-firm ad read.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\8F91svfKM10.webm (1280x720)",
+  "kind": "no live trading: weekly outlook + replay backtests",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
