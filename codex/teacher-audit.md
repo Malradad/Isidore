@@ -36,6 +36,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-01-22 j0tG6Mj-ds4 | 11:08:55 | 30s | S | eval | ? | ? | equal lows | **loss** (his count) | −1 ~ | — | same day, after his 11:00 cutoff rule |
 | 2025-01-22 j0tG6Mj-ds4 | 11:15:29 | 30s | L | eval | ? | → BE | — | **BE** | 0 | — | after 11:00 |
 | 2025-01-22 j0tG6Mj-ds4 | ~11:21 | 30s | L | eval (micros) | ? | ? | the high | **win** (partial + runner) | +1 ~ | — | after 11:00 |
+| 2024-03-01 d1aj1D87IuM | 10:05:47 | 30s/1m | L | funded (MNQ, light) | ~18,148.75 ~ | below gap → BE | ~18,178 (data high) | **TP, ~+30 pts** | ~+1.5 ~ | — | after the 10:00 ISM news; long in discount; "done on live" already |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -117,10 +118,17 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-01-22 j0tG6Mj-ds4 | 09:45:01 | 30s | L | not obvious; eval trade at most | first target (his) |
 | 2025-01-22 j0tG6Mj-ds4 | 10:01:47 | 15s/30s | L | rule: no longs with equal lows below | — |
 | 2025-01-22 j0tG6Mj-ds4 | 10:36:10 | 2m/3m | L (YM) | "the only live trade I'd take", never triggered | — |
+| 2024-03-01 d1aj1D87IuM | 09:16:47 | 1m | S | internal low already hit → not valid | — |
+| 2024-03-01 d1aj1D87IuM | 09:38:33 | 15s | L | before red-folder news | worked ~ |
+| 2024-03-01 d1aj1D87IuM | 09:52:05 | 1m | L | "A+", but before the 10:00 news | worked ~ |
+| 2024-03-01 d1aj1D87IuM | 10:21:03 | 1m | L | equal lows below; already green | — |
+| 2024-03-01 d1aj1D87IuM | 10:26:57 | — | L | premium | — |
+| 2024-03-01 d1aj1D87IuM | 10:30:13 | 5m | L (gold) | missed | gold printed ~ |
+| 2024-03-01 d1aj1D87IuM | 10:46:27 | 2m/3m | L | "A+", done for the day | target hit ~ |
 
 ## Running score
-- Streams audited: **21 of 37** (4 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 25 → 11 wins (1 small), 8 breakeven, 6 losses** (his words; first 5 ✓px) ·
-  Skips: 59 (+4 in the gamble stream) · Price-checked: 5 of 25. Avg ≈ +0.5R per take ~ (≈ +12R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **22 of 37** (4 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 26 → 12 wins (1 small), 8 breakeven, 6 losses** (his words; first 5 ✓px) ·
+  Skips: 66 (+4 in the gamble stream) · Price-checked: 5 of 26. Avg ≈ +0.5R per take ~ (≈ +13.5R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -147,6 +155,10 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.
+- **No trading before red-folder news** (1 Mar 2024): skipped two "A+" setups before the 10:00 ISM release
+  (both worked); traded the reaction after. "No bias is fine — wait for the reaction."
+- **Skipped "A+" setups that worked:** now ≥ 6 (bias, news timing, done for the day). His discipline costs
+  winners; his record still comes from the few he takes. Test: would taking his skipped A+ setups help?
 - **Between two external PD arrays → no continuation trades;** wait for stop losses to build (engineered
   liquidity), then trade toward them. Count resting orders on each side to pick the draw (7 Aug).
 - **Flagged-bad days cost him:** 22 Jan 2025 he predicted bad PA after a 200+ pt overnight move, traded evals
