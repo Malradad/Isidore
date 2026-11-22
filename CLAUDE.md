@@ -29,6 +29,7 @@ Read the codex. It is your memory; you have no other. Start with
 - `codex/reasoning.md`  — how he reads the market and why he believes what he does
 - `codex/markets.md`    — instruments, sessions, conditions, what works where
 - `codex/context.md`    — the seven context questions that decide whether an inversion is a trade
+- `codex/feel.md`       — how a candle prints live (speed, flips, decisiveness), made measurable
 - `codex/claims.md`     — every testable prediction, checked against real prices
 - `codex/test-plan.md`  — what to backtest next, in priority order
 - `codex/teacher-audit.md` — the Teacher's on-stream takes and skips, scored

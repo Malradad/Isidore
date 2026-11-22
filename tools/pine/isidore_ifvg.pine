@@ -1,12 +1,12 @@
 //@version=5
-// Isidore (Izzy) — iFVG strategy v0.4.1 (v0.4.1: each alert fires once per bar — fixes duplicate fires / webhook 429s)
+// Isidore (Izzy) — iFVG strategy v0.5 (v0.5: live "feel" features in alerts — codex/feel.md) (v0.4.1: each alert fires once per bar — fixes duplicate fires / webhook 429s)
 // v0.2 alert on every setup · v0.3 trade all hours (default on)
 // v0.4 two-stage alerts (ARMED before close → CONFIRMED / CANCELLED at close),
 //      alerts no longer blocked by the strategy's simulated trades or daily limits,
 //      grade from 5 checks (sweep, strong volume, engineered target, momentum candle, push-through),
 //      min gap 8 ticks.
 // Rules come from codex/playbook.md (✓ = confirmed by the maker). Paper and backtest use only.
-strategy("Isidore iFVG v0.4.1", shorttitle="Izzy iFVG", overlay=true,
+strategy("Isidore iFVG v0.5", shorttitle="Izzy iFVG", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
      commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
@@ -230,6 +230,36 @@ sScore = (shortSweepOK ? 1 : 0) + (strongVol ? 1 : 0) + (sEng ? 1 : 0) + (moment
 sQty   = f_qty(sDist)
 shortSig = shortInv and inKZ and biasShortOK and (shortSweepOK or not requireSweep) and sDist > 0 and sQty >= 1
 
+// ───────── Feel: how the candle forms, tick by tick (live only; codex/feel.md) ─────────
+varip int   fCrossMs   = na     // ms after candle open when price first closed beyond the gap edge (this tick)
+varip int   fFlips     = 0      // times the inversion state flipped during the candle
+varip bool  fLastInv   = false
+varip float fVolAtCross = na
+varip int   fBar       = -1
+if barstate.isrealtime
+    if fBar != bar_index
+        fBar := bar_index
+        fCrossMs := na
+        fFlips := 0
+        fLastInv := false
+        fVolAtCross := na
+    nowInv = longInv or shortInv
+    if nowInv != fLastInv
+        fFlips += 1
+        fLastInv := nowInv
+    if nowInv and na(fCrossMs)
+        fCrossMs := int(timenow - time)
+        fVolAtCross := volume
+closeLoc = rng > 0 ? (shortInv ? (high - close) / rng : (close - low) / rng) : 0.5
+bodyPct  = rng > 0 ? math.abs(close - open) / rng : 0.0
+f_feel() =>
+    ',"feel":{"cross_s":' + (na(fCrossMs) ? "null" : str.tostring(fCrossMs / 1000.0, "#.#")) +
+     ',"flips":' + str.tostring(math.max(fFlips - 1, 0)) +
+     ',"close_loc":' + str.tostring(closeLoc, "#.##") + ',"body_pct":' + str.tostring(bodyPct, "#.##") +
+     ',"vol_ratio":' + str.tostring(volRatio, "#.##") +
+     ',"vol_before_cross":' + (na(fVolAtCross) or volume == 0 ? "null" : str.tostring(fVolAtCross / volume, "#.##")) +
+     ',"bar_s":' + str.tostring((time_close - time) / 1000) + '}'
+
 // ───────── Alerts: ARMED → CONFIRMED / CANCELLED ─────────
 f_alert(string ev, string side, int score, string mode, float entry, float sl, float tp, float qty, float dist,
      bool sw, bool sv, bool eng, bool mom, bool push, float gapEdge) =>
@@ -241,7 +271,7 @@ f_alert(string ev, string side, int score, string mode, float entry, float sl, f
          ',"sweep":' + f_b(sw) + ',"strong_vol":' + f_b(sv) + ',"engineered_target":' + f_b(eng) +
          ',"momentum":' + f_b(mom) + ',"push_ok":' + f_b(push) +
          ',"bar_close":"' + str.format_time(time_close, "yyyy-MM-dd HH:mm:ss", "America/New_York") +
-         '","sent":"' + str.format_time(timenow, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"}'
+         '","sent":"' + str.format_time(timenow, "yyyy-MM-dd HH:mm:ss", "America/New_York") + '"' + f_feel() + '}'
     alert(msg, alert.freq_all)
 
 varip int    armedBar  = -1
