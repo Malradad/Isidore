@@ -226,3 +226,11 @@ _Session entries: date · what was learned · decision · maker response · perf
   on both sides each blocked by a BPR, no-context setups). On clean days, his picks win. Context, again.
 - **His rule:** liquidity on both sides, each blocked by a BPR → only 1R plays or no trade.
 - **Next:** with 10 streams, start labelling all takes/skips against the 7 context questions (codex/context.md).
+
+## 2026-11-22 · Audit: streams 11–13 (31 May outlook, 3 Apr NFP, 11 Mar CPI)
+- 11 Mar: live was done pre-stream (overnight short, his words); on-stream eval trades partly chosen by **chat polls**.
+  The poll short he disagreed with lost −1R; his agreed/own calls: a partial+BE and a BE. Record 7W/4BE/2L (13 takes).
+- BE management is doing a lot of work: 4 of 13 takes end at BE — his "go BE at the last line of defense" rule.
+- He admits large off-stream live losses (−$10k in 30 s; −$30k max). Consistent with "I lose off stream".
+- Teaching to code: equal lows are the strongest draw; don't long into perfect equal lows; round numbers
+  (25,000) stack with gaps.
