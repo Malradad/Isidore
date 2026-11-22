@@ -1,0 +1,20 @@
+{
+  "title": "Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY",
+  "id": "d1aj1D87IuM",
+  "url": "https://www.youtube.com/watch?v=d1aj1D87IuM",
+  "duration_s": 8007,
+  "duration": "02:13:27",
+  "live_status": "was_live",
+  "release_timestamp": 1709300717,
+  "live_start_utc": "2024-03-01T13:45:17Z",
+  "live_start_ny": "2024-03-01 08:45:17 EST (Friday)",
+  "timestamp": 1709309056,
+  "timestamp_ny": "2024-03-01 11:04:16 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:45:17 + stream time. Check: the 10:00 ISM news candle at stream ~01:14:43 -> 10:00:00. Good to about +/-30 s.",
+  "chart": "MNQH2024 / NQ1! 30s/1m (TradingView + Tradovate); ES, GC, CL, GBPUSD tabs",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\d1aj1D87IuM.mkv",
+  "kind": "trading (1 funded MNQ long) + tape reading around 10:00 news",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

@@ -30,7 +30,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | | IF67n-KIDnA | 10,000% Win Rate ICT Daytrading Futures (iFVGs - Inversion Fair Value Gaps) | 2h38m | | | todo |
 | 2025-01-22 | j0tG6Mj-ds4 | ICT Live Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 2h21m | 6 eval (~2W 2L + BEs) + 1 paper; no live | 4 | done |
 | | JrAXEtFejNw | ICT Day Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 3h26m | | | todo |
-| | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | | | todo |
+| 2024-03-01 | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | 1 (funded MNQ long, ~+30 pts TP) | 7 | done |
 | | ZAlQEve_WnE | NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream) | 2h48m | | | todo |
 | | SVeqDyk3DmA | NQ Day Trading Futures $NQ $ES $SPY $QQQ | 2h43m | | | todo |
 | | I3AJJI0RY00 | ICT Educational Live Stream - Futures/Forex Tape Reading | 2h8m | | | todo |
