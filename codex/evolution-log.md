@@ -234,3 +234,11 @@ _Session entries: date · what was learned · decision · maker response · perf
 - He admits large off-stream live losses (−$10k in 30 s; −$30k max). Consistent with "I lose off stream".
 - Teaching to code: equal lows are the strongest draw; don't long into perfect equal lows; round numbers
   (25,000) stack with gaps.
+
+## 2026-11-22 · Audit: streams 14–18 (Oct 2025 – Mar 2026)
+- **Record at 18 streams:** 17 playbook takes → 9W / 4BE / 4L, ≈ +0.6R per take, ≈ +10R total (his words; 5 ✓px).
+  Positive, but modest — and two of the losses were trades he himself called invalid.
+- **His own admissions now on record:** more money from Discord than trading; big off-stream losses; on-stream
+  win rate higher than off-stream; his indicator can hide losing setups; hedging across prop accounts.
+- **Rules worth keeping:** one trade a day; 09:30–10:30 (best 09:30–09:50); re-entry only for ≥ 2R ideas, max 3;
+  trend-line targets are where both his best wins and most losses come from.

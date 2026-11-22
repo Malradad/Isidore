@@ -25,6 +25,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-03-11 Lprbu9HeOCI | 09:59:15 | 4m | L | Lucid evals (MNQ) | ~25,103 ~ | 25,062.50 ~ | "up here" | **partial at target, rest BE** (small win) | ~+0.3 ~ | — | CPI day; chat poll said yes and he agreed: "four minute looks really good" |
 | 2026-03-11 Lprbu9HeOCI | 10:32:18 | 1m | S | Lucid evals (MNQ) | ~24,993 ~ | 25,020.75 ~ | equal lows ~24,950 | **BE** ("break even saved me") | 0 | — | his own call, toward equal lows |
 | 2026-02-13 7w6pya1dubs | 10:26:59 | 30s | L | Alpha evals | ~24,818.50 ~ | ~24,805.50 ~ | ~24,850 (the high) | **TP** | ~+2.4 ~ | — | CPI day; "little 30-second inverse" to the high |
+| 2025-10-15 YTBcXcI70io | 09:42:04 | 1m/30s | L | Apex (half size) | ~24,963 ~ | 24,947.25 ~ | 25,045.50 (buy side) | **stop** | −0.5 | — | indicator launch day; "I don't love this… bad play" |
+| 2025-10-15 YTBcXcI70io | 09:44:55 | 30s/1m | L | Apex (full) | ~24,978 ~ | ? | 25,045.50 | **stop** | −1.0 | — | "I know it's invalid, but I'm trying to take what the indicator is gonna alert" |
+| 2025-10-15 YTBcXcI70io | 09:51:48 | 30s | L | Apex (full) | 24,953.25 ~ | 24,926.25 ~ | 25,045.50 | **out early, ~+78 pts** (target hit later) | ~+2.9 | — | third attempt at the same idea; "footprints sold it"; rule: retry only if ≥ 2R |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -101,8 +104,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-11-14 imzrLPjXVxE | 14:30:32 | 1m | L | tape-read only (PM) | failed ("getting cooked") |
 
 ## Running score
-- Streams audited: **17 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 14 → 8 wins (1 small), 4 breakeven, 2 losses** (his words; first 5 ✓px) ·
-  Skips: 54 (+4 in the gamble stream) · Price-checked: 5 of 14. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **18 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 17 → 9 wins (1 small), 4 breakeven, 4 losses** (his words; first 5 ✓px) ·
+  Skips: 54 (+4 in the gamble stream) · Price-checked: 5 of 17. Avg ≈ +0.6R per take ~ (≈ +10R total) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -144,6 +147,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **Bias skips that would have won: 3** so far (2 Nov A+ short, 12 Aug ×0, 13 Feb A+ long): his bias filter costs
   him some winners — test whether it pays overall.
 - **Hedging across prop accounts** (13 Feb): opposite positions on different eval accounts to pass one — gaming firm rules.
+- **Re-entry rule (15 Oct 2025):** up to 3 attempts at the same idea if it's ≥ 2R; never retry a 1R idea.
+  Size down when he doesn't like it ("half size so I'm not down 2R yet").
+- **His indicator can hide losers:** the "remove losing setups" display option means its chart history (and any
+  marketing win rate shown from it) is not evidence.
+- **"I've made more money off of Discord than I have trading"** (15 Oct 2025, his words).
 - **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
