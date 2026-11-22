@@ -1,0 +1,20 @@
+{
+  "title": "🟢NFP Special LIVE Trading NQ/ES/GOLD | DodgysDD",
+  "id": "YKRoRbq1BTU",
+  "url": "https://www.youtube.com/watch?v=YKRoRbq1BTU",
+  "duration_s": 10203,
+  "duration": "02:50:03",
+  "live_status": "was_live",
+  "release_timestamp": 1772802121,
+  "live_start_utc": "2026-03-06T13:02:01Z",
+  "live_start_ny": "2026-03-06 08:02:01 EST (Friday, NFP day)",
+  "timestamp": 1772812821,
+  "timestamp_ny": "2026-03-06 11:00:21 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:02:01 + stream time. Check: NFP fill at stream ~00:28:22 -> 08:30:23. +/-30 s.",
+  "chart": "NQ1! (TradingView) 30s-1h, ES",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\YKRoRbq1BTU.webm",
+  "kind": "trading (NFP straddle on an Alpha eval, failed; 1 real NQ short at the open, ~1R; paper/chat trades)",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

@@ -18,7 +18,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-05-31 | 8F91svfKM10 | Weekly Outlook NQ Futures | 0h26m | 0 | 0 | no-trading (weekly outlook + replay backtests) |
 | 2026-04-03 | jOmHQ7INwFw | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 1h4m | 1 (NFP straddle on ~20 Apex evals, TP; market closed 09:15) | 0 (+3 recap skips) | done |
 | 2026-03-11 | Lprbu9HeOCI |  CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h43m | 4 (paper CPI straddle; 3 Lucid-eval MNQ trades by chat poll: −$167, partial+BE, BE) | 3 | done |
-| | YKRoRbq1BTU | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h50m | | | todo |
+| 2026-03-06 | YKRoRbq1BTU | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h50m | 4 (NFP straddle on Alpha eval failed; real NQ short ~+1R; 2 paper/chat BE) | 1 | done |
 | 2026-03-01 | DqSuUNyjgwg | War News Exclusive LIVE Trading NQ/ES/GOLD - DodgysDD | 1h1m | 0 (1 joke paper trade at the Sunday open) | 0 | no-trading (joke paper clip, Apex news, giveaway) |
 | 2026-02-13 | 7w6pya1dubs | CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h35m | 3 (CPI straddle + Apex hedge on evals; 2 Alpha eval longs: 1 L, 1 TP) | 6 | done |
 | | 8wgnYYcVHuc |  LIVE Futures Trading NQ/ES/GOLD - DodgysDD | 3h20m | | | todo |
