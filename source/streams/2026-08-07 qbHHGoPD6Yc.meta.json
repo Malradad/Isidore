@@ -1,0 +1,20 @@
+{
+  "title": "🟢NFP Special Live Trading NQ/ES/GOLD | DodgysDD Live From Las Vegas!",
+  "id": "qbHHGoPD6Yc",
+  "url": "https://www.youtube.com/watch?v=qbHHGoPD6Yc",
+  "duration_s": 9052,
+  "duration": "02:30:52",
+  "live_status": "was_live",
+  "release_timestamp": 1786104138,
+  "live_start_utc": "2026-08-07T12:02:18Z",
+  "live_start_ny": "2026-08-07 08:02:18 EDT (Friday, NFP day)",
+  "timestamp": 1786114046,
+  "timestamp_ny": "2026-08-07 10:47:26 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:02:18 + stream time. Check: the NFP spike ('there we go') at stream ~00:27:54 -> 08:30:12; he says the data leaked and the move began at 8:29. Good to about +/-30 s.",
+  "chart": "NQ1! on TradingView, 1m/3m; Tenacity Trader competition platform shown for the straddle",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate ('I use'/'Yusuf' = a competitor's name).",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\qbHHGoPD6Yc.webm (1280x720)",
+  "kind": "trading (NFP straddle on a competition account, then patience / no trades) + Q&A",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
