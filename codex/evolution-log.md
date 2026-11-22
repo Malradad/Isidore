@@ -261,3 +261,12 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Maker:** needs ≥ 3 trades/week. Next: widen the model where he actually trades (more sweep levels from his tier
   list, 1–3m entries inside 5m/15m context, PM window, ES/gold) one change at a time, keeping the filters; target
   ≥ 3/week with PF ≥ 1.2 in both halves.
+
+## 2026-11-22 · P6 feel features
+- **Learned ✓ (price):** on 340 P1 trades with feel tags rebuilt from 1m bars, only cross timing holds in both
+  periods. The candles that win cross the gap late (minute 4–5: PF 2.19 / 1.05); early crosses lose (0.67 / 0.65).
+  Body %, chop, volume and reaction size reverse between halves. Claim 18 ~ partly.
+- **Decided ~:** cross timing is the candidate feel rule; feel score v0 = late cross + no flip + volume burst.
+  It ranks trades but alone does not turn the model profitable in 2025–26. Nothing goes live until it also holds
+  on v0.4 and in Bot's forward log.
+- **Maker:** requested P6 (relayed); results pending review. v0.4 run still to do (needs feature logging in the lab).
