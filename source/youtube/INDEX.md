@@ -46,13 +46,16 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
+|  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+|  | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
 |  | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
 |  | lkyLJsrAYGk | Live Day Trading Winning $4,670 (I HAVE THE BEST MODEL IN THE WORLD) | whisper | done |
 |  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
+|  | qlQM7EUyKlo | Mechanical IFVG Trading Strategy That Makes Me Over $100K/Month | whisper | done |
 |  | qqFGUmgrV6c | This Was One of the Most Emotionally Toughest Trading Days in My 6 Years of Daytrading | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
