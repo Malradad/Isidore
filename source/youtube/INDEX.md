@@ -54,3 +54,5 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | yrpp1FTZax0 | This IFVG Strategy Beats 90% Of Trading Strategies | whisper | done |
+|  | z7Um85usvck | How I Made $67 in 1 Minute (TRADE RECAP) | whisper | done |
+|  | z7Um85usvck | How I Made $67 in 1 Minute (TRADE RECAP) | whisper | done |
