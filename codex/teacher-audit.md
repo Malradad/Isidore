@@ -29,6 +29,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-04 chlCV294CTk | (N) NFP straddle "full port", 4 minis, eval | short leg to target, passed (his) |
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
+| 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
 | 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
@@ -65,10 +66,18 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | 09:53:07 | 3m | S | "A plus" from premium, skipped only for bullish bias | — (day chopped; bias wrong per him later) |
 | 2026-08-12 MHyNCqLCI7k | 10:06:22 | 30s | L | pattern trade / eval play | — |
 | 2026-08-12 MHyNCqLCI7k | 10:18:40 | 3m | L | candle never closed above the gap | — |
+| 2026-08-07 qbHHGoPD6Yc | 08:44:28 | — | S | "not interested in any trade" after the news | — |
+| 2026-08-07 qbHHGoPD6Yc | 09:26:22 | 30s | L | "textbook" but no longer bullish | — |
+| 2026-08-07 qbHHGoPD6Yc | 09:31:00 | 1m | L | too close to the data low → would be BE, wants full TP | — |
+| 2026-08-07 qbHHGoPD6Yc | 09:36:40 | 2m | S | against bias: "rather wait for a long" | — |
+| 2026-08-07 qbHHGoPD6Yc | 09:49:32 | 1m | S | middle of the range, two draws on liquidity | — |
+| 2026-08-07 qbHHGoPD6Yc | 09:55:51 | 2m | S | eval play, not funded | — |
+| 2026-08-07 qbHHGoPD6Yc | 10:08:25 | 30s | S | tape-reading only | "just got wrecked" (his) |
+| 2026-08-07 qbHHGoPD6Yc | 10:16:30 | 2m/3m | L | "A" long off data-low sweep + CISD, skipped (psychology/weekend) | **hit target** ~ (R:R 1.23) |
 
 ## Running score
-- Streams audited: **8 of 37** · **(A) playbook takes: 10 → 6 wins, 3 breakeven, 1 loss** (his words; first 5 ✓px) ·
-  Skips: 30 (+4 in the gamble stream) · Price-checked: 5 of 10. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **9 of 37** · **(A) playbook takes: 10 → 6 wins, 3 breakeven, 1 loss** (his words; first 5 ✓px) ·
+  Skips: 38 (+4 in the gamble stream) · Price-checked: 5 of 10. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -85,6 +94,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   targeting its data highs.
 - **His losses come from breaking his own rules** (4 Sep): planned "out by 10:00", didn't exit, rode a
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
+- **Between two external PD arrays → no continuation trades;** wait for stop losses to build (engineered
+  liquidity), then trade toward them. Count resting orders on each side to pick the draw (7 Aug).
+- **No-trade days so far: 2 of 9 streams** (12 Aug, 7 Aug) — both news days where he only did the straddle.
 - **"No trade day" is a real outcome:** 12 Aug (CPI) he took no live trade: "if the market doesn't prove the
   bias, no trade"; skipped an "A plus" short only because it fought his daily bias.
 - **Time as a rule:** "10 AM reversals"; "I literally trade based off time."
@@ -92,6 +104,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   win rate… It's all my own plays off stream I lose on." So on-stream trades may not represent his full
   record. The audit measures his *on-stream selection*, which is still what we can learn from.
 - **"From 60% to 80% win rate: lower your R"** (01:13:05): his high win rate comes partly from small targets.
+- **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
 - Skips cite **chop / no obvious liquidity / gap too small** most often (3 of 5).

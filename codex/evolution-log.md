@@ -212,3 +212,10 @@ _Session entries: date · what was learned · decision · maker response · perf
   as he says himself; it confirms keeping (N) out of anything Izzy does.
 - **Rules he states:** "if the market doesn't prove the bias, no trade"; "I need an IFVG to enter, minimally";
   "don't drop to the 1m in chop". Daily bias overrides even an "A plus" counter-trend setup.
+
+## 2026-11-22 · Audit: stream 9 (7 Aug NFP)
+- **No playbook trade** (only the straddle, +$246 on a competition account); 8 skips. He skipped his one "A"
+  long (data-low sweep + CISD) and it hit target.
+- **New context rule:** price between two external PD arrays (15m BPR and 3m gap) → no continuation trades;
+  wait for engineered liquidity to build, then trade toward it. Also: no longs right on top of a data low.
+- **Bias flag:** ~$65k/month from Discord. Record still 6W/3BE/1L over 10 playbook takes.
