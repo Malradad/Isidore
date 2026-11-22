@@ -31,7 +31,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2025-01-22 | j0tG6Mj-ds4 | ICT Live Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 2h21m | 6 eval (~2W 2L + BEs) + 1 paper; no live | 4 | done |
 | | JrAXEtFejNw | ICT Day Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 3h26m | | | todo |
 | 2024-03-01 | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | 1 (funded MNQ long, ~+30 pts TP) | 7 | done |
-| | ZAlQEve_WnE | NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream) | 2h48m | | | todo |
+| 2024-01-12 | ZAlQEve_WnE | NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream) | 2h48m | 2 (accidental limit fill, loss; MNQ long 10 lots, ~+30 pts scaled) | several | done |
 | 2023-12-19 | SVeqDyk3DmA | NQ Day Trading Futures $NQ $ES $SPY $QQQ | 2h43m | 3 (demo BE; funded +10 pts, −10 pts) | 1 | done |
 | 2023-09-06 | I3AJJI0RY00 | ICT Educational Live Stream - Futures/Forex Tape Reading | 2h8m | 1 live (long 15,488.50, ~+10 pts, runner BE) + 1 demo | 4 | done |
 | 2023-09-05 | e7oYxdPNvhY | ICT Educational Live Stream - Futures/Forex Tape Reading | 1h59m | 1 live (pre-open short, TP) + 2 demo/eval longs (1L, 1W) + 1 paper (BE) | 3 | done |

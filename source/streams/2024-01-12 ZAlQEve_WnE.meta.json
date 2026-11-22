@@ -1,0 +1,20 @@
+{
+  "title": "NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream)",
+  "id": "ZAlQEve_WnE",
+  "url": "https://www.youtube.com/watch?v=ZAlQEve_WnE",
+  "duration_s": 10087,
+  "duration": "02:48:07",
+  "live_status": "was_live",
+  "release_timestamp": 1705067603,
+  "live_start_utc": "2024-01-12T13:53:23Z",
+  "live_start_ny": "2024-01-12 08:53:23 EST (Friday)",
+  "timestamp": 1705078100,
+  "timestamp_ny": "2024-01-12 11:48:20 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:53:23 + stream time (no clock check; ±1 min). Chart time cursor 11:06 near stream 02:17:50.",
+  "chart": "MNQH2024 / NQ, ES, YM, gold (TradingView + Tradovate order panel)",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\ZAlQEve_WnE.webm",
+  "kind": "trading (1 accidental limit fill = loss; 1 MNQ long +~30 pts with runner) + long tape reading",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
