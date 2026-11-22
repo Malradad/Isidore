@@ -30,6 +30,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
+|  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
@@ -50,10 +51,12 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
 |  | S5JNoso6fG0 | How I Built my Trading Empire From Scratch | The Story Behind DodgysDD | whisper | done |
 |  | SvlZTP6kKRs | How to Trade at ATH – My 3 STRICT Rules | whisper | done |
+|  | SvlZTP6kKRs | How to Trade at ATH – My 3 STRICT Rules | whisper | done |
 |  | TSpdkjI3VNs | My "Stupid Simple" ICT Strategy That Actually Works | whisper | done |
 |  | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
+|  | c5Mvs-soag4 | Breaking Down 4 Student Biases (Common Mistakes Explained) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fg1tbrPwcx0 | Understand These Losses or Stay Unprofitable | whisper | done |
