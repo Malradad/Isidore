@@ -59,6 +59,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2025-06-11 IF67n-KIDnA | (O) live personal **Bitcoin** long held overnight (+$1.5K open); (P) paper NQ teaching long → BE | not NQ playbook |
 | 2023-02-19 hGw1rsg-eGo | (R) recaps only, Sunday class: 2 live ES trades he describes (1 win, 1 BE) — not seen live, excluded | — |
 | 2023-09-04 ErsWq6j87uY | (P) Sunday-night demo long (class) | stopped |
 | 2023-09-05 e7oYxdPNvhY | (P) paper ES 3m short | BE |
@@ -147,10 +148,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-09-05 e7oYxdPNvhY | 09:35:44 | 1m | S (ES) | tape-read | +5 pts ES ~ |
 | 2023-09-05 e7oYxdPNvhY | 10:07:34 | — | L | bad PA: "log out of your funded, come back after 1:30" | — |
 | 2023-02-24 XGuIB-0gn_A | 09:40:26 | 1m/5m | L (ES) | just hit internal buy side | — |
+| 2025-06-11 IF67n-KIDnA | 10:13:12 | 3m | L | his rule: no trades between the data high and data low (CPI day) | ~+1R, BE where he said ~ |
 
 ## Running score
-- Streams audited: **28 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 38 → 19 wins (1 small), 9 breakeven, 10 losses** (his words; first 5 ✓px) ·
-  Skips: 74 (+4 in the gamble stream) · Price-checked: 5 of 38. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **29 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 38 → 19 wins (1 small), 9 breakeven, 10 losses** (his words; first 5 ✓px) ·
+  Skips: 75 (+4 in the gamble stream) · Price-checked: 5 of 38. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -192,6 +194,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   liquidity), then trade toward them. Count resting orders on each side to pick the draw (7 Aug).
 - **Flagged-bad days cost him:** 22 Jan 2025 he predicted bad PA after a 200+ pt overnight move, traded evals
   anyway (one against his own rule, three after his 11:00 cutoff): 1W 2BE 2L. Same pattern as 4 Sep and 14 Jul.
+- **News-day rule:** don't trade between the data high and the data low (11 Jun 2025 CPI: no NQ trade all day).
+  "Where I go break even saves me most of the time, 60% at least." Self-reported live win rate 2025: "70%… hasn't been great."
 - **No-trade days so far: 2 of 9 streams** (12 Aug, 7 Aug) — both news days where he only did the straddle.
 - **"No trade day" is a real outcome:** 12 Aug (CPI) he took no live trade: "if the market doesn't prove the
   bias, no trade"; skipped an "A plus" short only because it fought his daily bias.
