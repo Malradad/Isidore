@@ -109,7 +109,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-10-09 q-cngrviF2A | 09:53:15 | — | S (YM) | tape/chase call, no position | YM level hit (his) |
 
 ## Running score
-- Streams audited: **19 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 20 → 10 wins (1 small), 6 breakeven, 4 losses** (his words; first 5 ✓px) ·
+- Streams audited: **20 of 37** (4 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 20 → 10 wins (1 small), 6 breakeven, 4 losses** (his words; first 5 ✓px) ·
   Skips: 55 (+4 in the gamble stream) · Price-checked: 5 of 20. Avg ≈ +0.65R per take ~ (≈ +13R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
