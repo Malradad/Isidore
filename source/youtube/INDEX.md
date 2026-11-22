@@ -69,6 +69,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
 |  | lkyLJsrAYGk | Live Day Trading Winning $4,670 (I HAVE THE BEST MODEL IN THE WORLD) | whisper | done |
 |  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
+|  | pEJwLyVZ8ng | DodgysDD iFVG Model Complete A+ Backtest & Analysis | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | qlQM7EUyKlo | Mechanical IFVG Trading Strategy That Makes Me Over $100K/Month | whisper | done |
@@ -81,6 +82,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
+|  | tkCffe5C2HI | The Best Model for Realistically Quitting Your 9-to-5 Job — Today's Trade Recap | whisper | done |
 |  | tkCffe5C2HI | The Best Model for Realistically Quitting Your 9-to-5 Job — Today's Trade Recap | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
