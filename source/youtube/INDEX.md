@@ -44,6 +44,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
+|  | MwrRzZs8Fqw | ONE OF THE BEST FOMCs WE HAVE EVER GOTTEN (Trade Recap) | whisper | done |
 |  | OJEV8x9wyVg | If You Think Trading Is Getting Easy You Need to Watch This NOW | whisper | done |
 |  | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
 |  | S5JNoso6fG0 | How I Built my Trading Empire From Scratch | The Story Behind DodgysDD | whisper | done |
@@ -68,6 +69,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | qqFGUmgrV6c | This Was One of the Most Emotionally Toughest Trading Days in My 6 Years of Daytrading | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
+|  | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
 |  | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
