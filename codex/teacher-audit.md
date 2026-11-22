@@ -52,6 +52,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-12-19 SVeqDyk3DmA | 11:03:09 | 30s | L | funded (2 MNQ) | ? | below the low | +10 pts | **TP, +10 pts** | ? | — | against his bearish bias; after 11:00 ("outside my window") |
 | 2023-12-19 SVeqDyk3DmA | 11:26:11 | 1m | L | funded (small) | ? | close back beneath FVG | equal highs | **stop, ~−10 pts** | −1 ~ | — | against bias, after 11:00; "for you guys… don't want to go on stream and not take trades" |
 | 2024-01-12 ZAlQEve_WnE | 11:04:09 | 2m | L | not named (10 MNQ) | ~16,955.50 ~ | ~16,937 ~ (hard, 18.5 pts) | data highs ~17,055 (R:R 5.4) | **BE → partials at ~+25–30 pts, runner trailed** | ~+1.5 ~ | — | data highs above; won't short under them |
+| 2026-03-06 YKRoRbq1BTU | 09:34:48 | 30s/1m | S | **real** | after the death-candle close | → BE | ? | **TP ~+1R**, then "done for the day" | ~+1 | — | NFP day; bearish hourly inversion; "I like taking trades off speed… a slow open I don't trade" |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -74,6 +75,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-10-09 q-cngrviF2A | (P) 2 paper trades ("complete pattern trade"; "for fun") | BE; not shown |
 | 2025-11-14 imzrLPjXVxE | (P) two PM paper shorts ("this just shows why I don't trade PM") | 1 likely stopped, 1 open +£319 at stream end |
 | 2026-02-13 7w6pya1dubs | (N) CPI straddle + **hedging across Apex accounts** (long in one, short in another); (P) 1m "F/U long… for fun, accounts I don't really care about" | straddle: "passed five Topsteps"; F/U long cut for a loss |
+| 2026-03-06 YKRoRbq1BTU | (N) NFP straddle on a new Alpha 50K eval ("a gamble, 100%"); (P)/(C) paper and chat-voted trades | straddle **failed**; paper/chat 2 × BE |
 | 2026-03-11 Lprbu9HeOCI | (N) CPI straddle on paper; (C) chat-poll short he disagreed with ("trading through a 15 minute") | straddle ~TP; poll short −$167.50 (−1R) |
 | 2026-04-03 jOmHQ7INwFw | (N) NFP straddle on ~20 Apex evals, 6 minis each ("complete gambling… risk management: nonexistent") | long leg; "all 20 passed" (his) |
 | 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
@@ -157,10 +159,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-06-11 IF67n-KIDnA | 10:13:12 | 3m | L | his rule: no trades between the data high and data low (CPI day) | ~+1R, BE where he said ~ |
 | 2023-12-19 SVeqDyk3DmA | 09:29–10:01 | 1m–5m | S/L (YM/NQ) | tape-read only | BE / worked (his) |
 | 2023-03-24 ksztwIzHgcE | 09:38:53 | 1m | S | equal highs above + news: "even if we dump 100 points" | — |
+| 2026-03-06 YKRoRbq1BTU | 09:40:17 | 1m | L | "A+ if bullish", against his bearish bias | — |
 
 ## Running score
-- Streams audited: **32 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 41 → 21 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
-  Skips: 77 (+4 in the gamble stream) · Price-checked: 5 of 41. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **33 of 37** (4 blocked by YouTube) (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 42 → 22 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
+  Skips: 78 (+4 in the gamble stream) · Price-checked: 5 of 42. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.

@@ -252,3 +252,12 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Decided ~:** this is the first rule set worth forward-testing unchanged. No more tuning on it.
   Next: P4 target tiers, P5 descriptives, P2b news rule; check the rule set against his audited stream days.
 - **Maker:** asked for the plan (relayed); results pending review.
+
+## 2026-11-22 · Audit at 33 of 37 streams; test plan run 1
+- **On-stream record:** 42 playbook takes → 22W / 9BE / 11L (his words; 5 ✓px). Losses cluster on days he flagged
+  bad, trades against his bias/window, and "for the audience". Straddles 2 failed of ~9 seen (vs his "23 for 24").
+- **Test plan run 1 (Izzy backtester):** his mechanical model alone fails; with his four no-trade filters + a 10:00
+  exit it is positive in both halves (PF 1.20 / 1.40) but only ~12 trades/year. Promising, not proven.
+- **Maker:** needs ≥ 3 trades/week. Next: widen the model where he actually trades (more sweep levels from his tier
+  list, 1–3m entries inside 5m/15m context, PM window, ES/gold) one change at a time, keeping the filters; target
+  ≥ 3/week with PF ≥ 1.2 in both halves.
