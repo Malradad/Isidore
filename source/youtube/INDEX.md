@@ -32,8 +32,10 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
 |  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
+|  | 3tznO7UHj74 | My HIGHEST Win Rate "Trap" Setup at Market Open (9:30 AM) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
+|  | 9wl9pSBf8fA | Critiquing 5 Student iFVG Trades (Would YOU Take These?) | whisper | done |
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
@@ -46,6 +48,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
+|  | IkTXIUDag4w | This Liquidity Masterclass Can Change Your Life | whisper | done |
 |  | MwrRzZs8Fqw | ONE OF THE BEST FOMCs WE HAVE EVER GOTTEN (Trade Recap) | whisper | done |
 |  | MwrRzZs8Fqw | ONE OF THE BEST FOMCs WE HAVE EVER GOTTEN (Trade Recap) | whisper | done |
 |  | OJEV8x9wyVg | If You Think Trading Is Getting Easy You Need to Watch This NOW | whisper | done |
@@ -65,6 +68,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+|  | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 |  | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 |  | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
 |  | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
@@ -90,6 +94,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
 |  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
+|  | xSQAygcawZ4 | This is the difference between future millionaires and future brokees (Trade Recap) | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 |  | yrpp1FTZax0 | This IFVG Strategy Beats 90% Of Trading Strategies | whisper | done |
