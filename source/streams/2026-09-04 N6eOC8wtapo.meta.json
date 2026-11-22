@@ -1,0 +1,21 @@
+{
+  "title": "🟢NFP Special Live Trading NQ/ES/GOLD | DodgysDD Live",
+  "id": "N6eOC8wtapo",
+  "url": "https://www.youtube.com/watch?v=N6eOC8wtapo",
+  "duration_s": 6702,
+  "duration": "01:51:42",
+  "live_status": "was_live",
+  "release_timestamp": 1788529813,
+  "live_start_utc": "2026-09-04T13:50:13Z",
+  "live_start_ny": "2026-09-04 09:50:13 EDT (Friday, NFP day)",
+  "timestamp": 1788540684,
+  "timestamp_ny": "2026-09-04 12:51:24 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:50:13 + stream time. Checks: 'six minutes to 10 AM' at 00:03:49 -> 09:54:02; 'it is 9.55' at 00:04:14 -> 09:54:27; he later calls the 00:24:17 entry 'the 10/14 play' -> 10:14:30. Good to about +/-30 s.",
+  "note": "The VOD starts at 09:50, after the 08:30 NFP release and the open: he is already in a long from earlier. The NFP reaction and his first entries are not in this VOD (only recapped).",
+  "chart": "NQ1! on TradingView, 30s and 1m; '#1 Priority' layout with live order lines (copy-trading via Tradecopia)",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions returned HTTP 429 twice. Lower accuracy than captions: names and jargon are often garbled (e.g. 'C.A.C.I.D.' = CISD, 'data high' = day's high/'date high').",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\N6eOC8wtapo.webm (1280x720)",
+  "kind": "trading (NFP day, late part of session) + post-loss recap + Q&A",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
