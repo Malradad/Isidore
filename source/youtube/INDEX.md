@@ -54,6 +54,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fg1tbrPwcx0 | Understand These Losses or Stay Unprofitable | whisper | done |
+|  | fg1tbrPwcx0 | Understand These Losses or Stay Unprofitable | whisper | done |
 |  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
@@ -67,6 +68,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | qqFGUmgrV6c | This Was One of the Most Emotionally Toughest Trading Days in My 6 Years of Daytrading | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
+|  | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
