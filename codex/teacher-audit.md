@@ -51,6 +51,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-04-21 yVWktthvtJQ | 10:51:08 | 1m | L | 1 contract | ~13,018 | ? | the high | **TP early, ~+5–10 pts** | ? | — | |
 | 2023-12-19 SVeqDyk3DmA | 11:03:09 | 30s | L | funded (2 MNQ) | ? | below the low | +10 pts | **TP, +10 pts** | ? | — | against his bearish bias; after 11:00 ("outside my window") |
 | 2023-12-19 SVeqDyk3DmA | 11:26:11 | 1m | L | funded (small) | ? | close back beneath FVG | equal highs | **stop, ~−10 pts** | −1 ~ | — | against bias, after 11:00; "for you guys… don't want to go on stream and not take trades" |
+| 2024-01-12 ZAlQEve_WnE | 11:04:09 | 2m | L | not named (10 MNQ) | ~16,955.50 ~ | ~16,937 ~ (hard, 18.5 pts) | data highs ~17,055 (R:R 5.4) | **BE → partials at ~+25–30 pts, runner trailed** | ~+1.5 ~ | — | data highs above; won't short under them |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -64,6 +65,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-06-11 IF67n-KIDnA | (O) live personal **Bitcoin** long held overnight (+$1.5K open); (P) paper NQ teaching long → BE | not NQ playbook |
 | 2023-12-19 SVeqDyk3DmA | (P) demo 1m long, "to show you" | BE |
 | 2023-03-24 ksztwIzHgcE | (P) demo scalps before the 09:45 news; one ES scalp (account not said) | not stated |
+| 2024-01-12 ZAlQEve_WnE | (O) accidental fill of a limit order "left open" | loss (amount not said) — execution error |
 | 2023-02-19 hGw1rsg-eGo | (R) recaps only, Sunday class: 2 live ES trades he describes (1 win, 1 BE) — not seen live, excluded | — |
 | 2023-09-04 ErsWq6j87uY | (P) Sunday-night demo long (class) | stopped |
 | 2023-09-05 e7oYxdPNvhY | (P) paper ES 3m short | BE |
@@ -157,8 +159,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-03-24 ksztwIzHgcE | 09:38:53 | 1m | S | equal highs above + news: "even if we dump 100 points" | — |
 
 ## Running score
-- Streams audited: **31 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 40 → 20 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
-  Skips: 77 (+4 in the gamble stream) · Price-checked: 5 of 40. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **32 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 41 → 21 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
+  Skips: 77 (+4 in the gamble stream) · Price-checked: 5 of 41. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -227,6 +229,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **Weekly stop:** "once I'm up 5R or more in a week, I'm done" (live). Uses micros on props, minis on live.
 - **"Demo only today" then traded live and hid it** (24 Feb 2023): "I don't want to show you the trades I'm taking";
   admitted a revenge trade at the end. Early-era discipline was weaker.
+- **"I never show any losses… I just don't lose that much"** (12 Jan 2024) — yet 11 losses appear on stream here.
 - **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
