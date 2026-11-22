@@ -1,0 +1,20 @@
+{
+  "title": "ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model)",
+  "id": "imzrLPjXVxE",
+  "url": "https://www.youtube.com/watch?v=imzrLPjXVxE",
+  "duration_s": 3728,
+  "duration": "01:02:08",
+  "live_status": "was_live",
+  "release_timestamp": 1763147313,
+  "live_start_utc": "2025-11-14T19:08:33Z",
+  "live_start_ny": "2025-11-14 14:08:33 EST (Friday afternoon / PM session)",
+  "timestamp": 1763151468,
+  "timestamp_ny": "2025-11-14 15:17:48 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 14:08:33 + stream time. Check: chart cursor 14:21 at stream 00:41:14 is the mouse, not a clock; he says 'the 3:15 macro' near 00:58 (map 15:06:51). Treat as +/-1 min.",
+  "chart": "NQ1! on TradingView, 1m/30s; paper account in GBP",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\imzrLPjXVxE.webm (1280x720)",
+  "kind": "PM-session tape reading with two paper shorts; recap of the AM trade",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

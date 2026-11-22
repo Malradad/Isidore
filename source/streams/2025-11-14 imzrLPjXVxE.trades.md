@@ -1,0 +1,17 @@
+# Trade log: 2025-11-14 imzrLPjXVxE, "ICT Live Trading Futures - 80% Win Rate!" (Audrey)
+
+- Live start **14:08:33 NY** (Friday afternoon, PM session). Market time = 14:08:33 + stream time (treat as ±1 min).
+- Chart: NQ1! (TradingView), 1m/30s. Both trades on stream are **paper** (account shown in GBP). He says PM is not his session: "this just shows why I don't trade PM" (00:23:16).
+- Transcript is Whisper (YouTube captions were rate-limited). Key frames: `frames/imzrLPjXVxE/<stream time>/`; dense frames local (`%USERPROFILE%\isidore-frames\imzrLPjXVxE`).
+
+| # | stream time | market time (NY) | event | side | symbol | tf | account | entry | stop | target | size | result | his words |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | 00:15:11 (recap) | AM, ~09:30–09:45 | RECAP | long | NQ1! | 1m | live + funded | | swing low | equal highs / high | | "up 10K… in funded and live" (his words) | "The one minute entry was a hundred percent live account play… we swept this sell side… it's TGIF… Judas swing right off open and then a giant candle back above, which my indicator alerted." 00:05:05: a separate "paper" tournament account was blown on the same move. |
+| 1 | 00:21:59 → 00:23:16 | 14:30:32 → 14:31:49 | SKIP (tape-read) | long | NQ1! | 1m | none | | | relative equal highs | | ~ failed ("absolutely getting cooked") | "I like this entry because we have relative equal highs… I'm not taking this. I'm just tape reading… if this fails, I'll just show you why I don't trade PM." 00:23:49 (joking): "the market makers are probably in the stream… they stop me out." |
+| 2 | 00:40:34 → 00:41:14 | 14:49:07 → 14:49:47 | TAKE | short | NQ1! | 1m (off 2m/3m gap) | paper | 25,215.25 ~ | 25,241.25 ~ (−£395) | 25,179.25 ~ (+£547; trendline liquidity) | 1 NQ | ~ stopped: the high reached ~25,252 ~ before 00:58 (row 3 re-entry) | "This is a banger setup. I love this short… we're gonna take this on paper for fun… if this fails, PM is the most rigged session in existence." 00:49:17: "I have zero conviction in this trade… low volume means we won't break the trendline." |
+| 3 | 00:58:26 → 01:01:33 | 15:06:59 → 15:10:06 | TAKE (still open at the end) | short | NQ1! | 30s | paper | 25,221.25 ~ | 25,243.25 ~ → BE at 00:59:14 | 25,179 ~ (+£642) | 1 NQ | open +£319 ~ at 01:01:30 (price 25,199.75 ~); exit not shown | "according to my PDF ratings guide this would be an A plus setup… premium, swept the high, delivering from a fair value gap… a lot of good liquidity below… there's a break even." 01:00:00: "If it was a live account I would probably scale half here because it's 1R and bad conditions." 01:01:33: "I'm gonna get off here. I don't care about this play whatsoever." |
+
+## Summary
+- PM session, paper only: 1 paper short likely stopped, 1 paper short open at +£319 when he left. 2 skips (one tape-read long that failed, a 30s he called "garbage").
+- Rules he states: "one trade a day is one of my best rules"; "take the Judas swing off open or a 10 AM reversal" (00:52:24); "most of my losses come from going to trendline liquidity and not being able to break it, but my best wins also occur there" (00:42:33); don't trade a flag with trendline liquidity on both sides (00:31:54).
+- Claims to note: title "80% Win Rate!"; TGIF "probably happens eight out of 10 times" (00:19:10, untested); he holds a trading-competition swing long "to all-time highs" for 20 days (00:08:35).
