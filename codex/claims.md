@@ -20,6 +20,8 @@ Every testable prediction, judged against real prices. Never use his recap as th
 | 12 | streams/2026-09-04 N6eOC8wtapo @ 01:23:48 | NQ | "The data high is going to hit 90% of the time" ("93%", chlCV294CTk 01:33:08). **4 Sep 2026: missed by ~2.5 pts** | Backtest: on CPI/NFP days, % of sessions where price trades above the 08:30 candle's high (and the relative equal highs) by 11:00 | Next quota | — | Testable; core to his news-day trades |
 | 13 | streams/2026-09-04 N6eOC8wtapo @ 00:47:59 | NQ | "10 AM reversals have been so strong" — the 09:30–10:00 move tends to reverse around 10:00 | Backtest: direction 09:30→10:00 vs 10:00→10:30, % opposite, by month | Next quota | — | Testable |
 
-**Running record:** 13 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
+| 14 | streams/2026-07-14 nE8GE9YBd8k @ 00:11:28 | NQ | News straddle "works 85–90%… failed twice out of ~30" | Count straddles in audited streams + backtest stop-entry straddles at 08:30 on CPI/NFP | Ongoing | 1 loss (12 Aug, −$10.7k paper) in 6 seen | Gambling category, never for Izzy |
+
+**Running record:** 14 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

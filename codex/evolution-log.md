@@ -219,3 +219,10 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **New context rule:** price between two external PD arrays (15m BPR and 3m gap) → no continuation trades;
   wait for engineered liquidity to build, then trade toward it. Also: no longs right on top of a data low.
 - **Bias flag:** ~$65k/month from Discord. Record still 6W/3BE/1L over 10 playbook takes.
+
+## 2026-11-22 · Audit: stream 10 (14 Jul CPI) — 10 streams in
+- **Live:** one 2m long, half size, cut at ~−0.5R on a day he had called a no-trade day. Record 6W/3BE/2L (≈ +0.5R/take ~).
+- **Pattern at 10 streams:** his losses and BEs cluster on days he himself flagged as poor (range-bound, liquidity
+  on both sides each blocked by a BPR, no-context setups). On clean days, his picks win. Context, again.
+- **His rule:** liquidity on both sides, each blocked by a BPR → only 1R plays or no trade.
+- **Next:** with 10 streams, start labelling all takes/skips against the 7 context questions (codex/context.md).

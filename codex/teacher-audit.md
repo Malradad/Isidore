@@ -21,12 +21,14 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-04 chlCV294CTk | 08:44:34 | 1m/2m | S | eval | 29,558 ~ | 29,579 ~ | sellside 29,475 ~ | **closed early, ~+47 pts** | ~+2.2 ~ | — | NFP day after the 08:30 candle; "B setup… coming out the two minute"; exited early (eval already passed) |
 | 2026-09-04 chlCV294CTk | 09:14:14 | 2m | L | **live** (+funded, see 09:50 row) | 29,564.50 ~ | 29,535.25 ~ | 29,694.25 (data high) | **BE** (moved to BE before the open) | 0 | — | He called it "not a good trade… a pattern trade due to RR and statistics"; 25 min earlier he said such longs are pattern trading |
 | 2026-08-12 MHyNCqLCI7k | 09:49:12 | 1m (5m inverse) | L | funded (not live) | ~29,970.50 ~ | ~29,915 ~ → BE | buyside above | **BE** | 0 | — | CPI day; bullish daily bias; chop under 30,000; he later: "don't drop to the 1m in chop" |
+| 2026-07-14 nE8GE9YBd8k | 09:45:35 | 2m | L | **live** (micros, half size) | ~29,797 ~ | ~29,743 ~ | ~29,849.75 (1R) | **cut early, ~−0.5R** ("down ~$300") | −0.5 | — | CPI day he had called a no-trade day; "strength of ES"; no 3m close, bad price action |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
 |---|---|---|
 | 2026-10-02 JUDH0MmuhQs | (N) NFP straddle, 4 minis, no stop, to pass a Lucid eval | long leg filled, "+$5,000", passed |
 | 2026-09-04 chlCV294CTk | (N) NFP straddle "full port", 4 minis, eval | short leg to target, passed (his) |
+| 2026-07-14 nE8GE9YBd8k | (N) CPI straddle on paper; (P) 2 funded micro trades "for fun" | straddle ~+$5.1k paper; micros: short −1R, long +1R (net ~0) |
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
@@ -74,10 +76,15 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-07 qbHHGoPD6Yc | 09:55:51 | 2m | S | eval play, not funded | — |
 | 2026-08-07 qbHHGoPD6Yc | 10:08:25 | 30s | S | tape-reading only | "just got wrecked" (his) |
 | 2026-08-07 qbHHGoPD6Yc | 10:16:30 | 2m/3m | L | "A" long off data-low sweep + CISD, skipped (psychology/weekend) | **hit target** ~ (R:R 1.23) |
+| 2026-07-14 nE8GE9YBd8k | 09:23:21 | 30s | L | didn't see it ("textbook… light bulb candle, CISD") | — |
+| 2026-07-14 nE8GE9YBd8k | 09:30:44 | 30s | L | targets not engineered | — |
+| 2026-07-14 nE8GE9YBd8k | 09:37:45 | 3m | L | "A plus" (discount, off FVG, swept) but never closed | — |
+| 2026-07-14 nE8GE9YBd8k | 10:23:47 | 5m | S | pattern trade, shorting into a BPR | — |
+| 2026-07-14 nE8GE9YBd8k | 10:47:00 | 3m/5m | S | "mentally in", not trading (already lost) | — |
 
 ## Running score
-- Streams audited: **9 of 37** · **(A) playbook takes: 10 → 6 wins, 3 breakeven, 1 loss** (his words; first 5 ✓px) ·
-  Skips: 38 (+4 in the gamble stream) · Price-checked: 5 of 10. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **10 of 37** · **(A) playbook takes: 11 → 6 wins, 3 breakeven, 2 losses** (his words; first 5 ✓px) ·
+  Skips: 43 (+4 in the gamble stream) · Price-checked: 5 of 11. Avg ≈ +0.5R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -94,6 +101,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   targeting its data highs.
 - **His losses come from breaking his own rules** (4 Sep): planned "out by 10:00", didn't exit, rode a
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
+- **Both his losses came on days he'd flagged as bad** (4 Sep: no-context pattern trades; 14 Jul: CPI day he
+  called a no-trade day in advance, "inside this range you're just guessing"). On clean days he wins.
 - **Between two external PD arrays → no continuation trades;** wait for stop losses to build (engineered
   liquidity), then trade toward them. Count resting orders on each side to pick the draw (7 Aug).
 - **No-trade days so far: 2 of 9 streams** (12 Aug, 7 Aug) — both news days where he only did the straddle.
