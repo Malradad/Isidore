@@ -65,10 +65,12 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+|  | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 |  | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
 |  | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
 |  | lkyLJsrAYGk | Live Day Trading Winning $4,670 (I HAVE THE BEST MODEL IN THE WORLD) | whisper | done |
 |  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
+|  | pEJwLyVZ8ng | DodgysDD iFVG Model Complete A+ Backtest & Analysis | whisper | done |
 |  | pEJwLyVZ8ng | DodgysDD iFVG Model Complete A+ Backtest & Analysis | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
