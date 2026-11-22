@@ -41,6 +41,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | BFBcJqVFpAI | I Built the Most Accurate Trading Indicator in the World (No Clickbait) | whisper | done |
+|  | CLpAkVI-3sw | Mentorship Interview: Quit His Job, Now Trades Full Time with iFVGs | whisper | done |
 |  | Cn57xwWxVAs | Why Your Premium & Discount Keep Failing – 50 % Reaction Explained | whisper | done |
 |  | Cn57xwWxVAs | Why Your Premium & Discount Keep Failing – 50 % Reaction Explained | whisper | done |
 |  | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
