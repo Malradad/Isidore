@@ -30,6 +30,8 @@ Read the codex. It is your memory; you have no other. Start with
 - `codex/markets.md`    — instruments, sessions, conditions, what works where
 - `codex/context.md`    — the seven context questions that decide whether an inversion is a trade
 - `codex/claims.md`     — every testable prediction, checked against real prices
+- `codex/test-plan.md`  — what to backtest next, in priority order
+- `codex/teacher-audit.md` — the Teacher's on-stream takes and skips, scored
 - `codex/heart.md`      — the autonomy ledger: what you may decide alone
 
 ## Evidence hierarchy
