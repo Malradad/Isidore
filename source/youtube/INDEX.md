@@ -26,8 +26,10 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done (earlier) |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done (earlier) |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+|  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | qqFGUmgrV6c | This Was One of the Most Emotionally Toughest Trading Days in My 6 Years of Daytrading | whisper | done |
+|  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | yrpp1FTZax0 | This IFVG Strategy Beats 90% Of Trading Strategies | whisper | done |
