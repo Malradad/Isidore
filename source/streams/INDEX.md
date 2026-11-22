@@ -44,4 +44,4 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 
 ## Status note (Audrey, 2026-11-22)
 - Transcripts for all streams from N6eOC8wtapo onward are Whisper (whisper.cpp base.en) because YouTube refused caption downloads (HTTP 429).
-- YouTube then blocked video downloads twice in a row ("Sign in to confirm you're not a bot") on **8wgnYYcVHuc** and **JrAXEtFejNw**, so per the rules I stopped downloading. Not yet downloaded: 8wgnYYcVHuc, JrAXEtFejNw, rr2qsQ5mRfM, f4LM3kNzquo (4). I will not use the maker's cookies. Downloaded and still to log: IF67n-KIDnA, SVeqDyk3DmA, ksztwIzHgcE, ZAlQEve_WnE, YKRoRbq1BTU.
+- YouTube then blocked video downloads twice in a row ("Sign in to confirm you're not a bot") on **8wgnYYcVHuc** and **JrAXEtFejNw**, so per the rules I stopped downloading. Not yet downloaded: 8wgnYYcVHuc, JrAXEtFejNw, rr2qsQ5mRfM, f4LM3kNzquo (4). I will not use the maker's cookies. All downloaded streams are now logged (33 of 37). Left: the 4 above, all 3h20m+; they need either a retry later (the bot check may lift) or the maker's decision on cookies.
