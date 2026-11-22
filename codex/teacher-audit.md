@@ -32,6 +32,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2026-04-03 jOmHQ7INwFw | (N) NFP straddle on ~20 Apex evals, 6 minis each ("complete gambling… risk management: nonexistent") | long leg; "all 20 passed" (his) |
 | 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
@@ -81,10 +82,12 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-07-14 nE8GE9YBd8k | 09:37:45 | 3m | L | "A plus" (discount, off FVG, swept) but never closed | — |
 | 2026-07-14 nE8GE9YBd8k | 10:23:47 | 5m | S | pattern trade, shorting into a BPR | — |
 | 2026-07-14 nE8GE9YBd8k | 10:47:00 | 3m/5m | S | "mentally in", not trading (already lost) | — |
+| 2026-04-03 jOmHQ7INwFw | Tue 31 Mar (recap) | — | S | "mechanically good" but don't fade data highs above | — |
+| 2026-04-03 jOmHQ7INwFw | Thu 2 Apr 10:25 (recap) | 5m | S | called it A+, but: first inverse out of a giant pump — don't short it | — |
 
 ## Running score
-- Streams audited: **10 of 37** · **(A) playbook takes: 11 → 6 wins, 3 breakeven, 2 losses** (his words; first 5 ✓px) ·
-  Skips: 43 (+4 in the gamble stream) · Price-checked: 5 of 11. Avg ≈ +0.5R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **12 of 37** (incl. 1 weekly outlook, no trades) · **(A) playbook takes: 11 → 6 wins, 3 breakeven, 2 losses** (his words; first 5 ✓px) ·
+  Skips: 45 (+4 in the gamble stream) · Price-checked: 5 of 11. Avg ≈ +0.5R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -103,6 +106,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
 - **Both his losses came on days he'd flagged as bad** (4 Sep: no-context pattern trades; 14 Jul: CPI day he
   called a no-trade day in advance, "inside this range you're just guessing"). On clean days he wins.
+- **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
+  draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
+  a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.
 - **Between two external PD arrays → no continuation trades;** wait for stop losses to build (engineered
   liquidity), then trade toward them. Count resting orders on each side to pick the draw (7 Aug).
 - **No-trade days so far: 2 of 9 streams** (12 Aug, 7 Aug) — both news days where he only did the straddle.
@@ -113,6 +119,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   win rate… It's all my own plays off stream I lose on." So on-stream trades may not represent his full
   record. The audit measures his *on-stream selection*, which is still what we can learn from.
 - **"From 60% to 80% win rate: lower your R"** (01:13:05): his high win rate comes partly from small targets.
+- **Straddle on ~20 evals at once (3 Apr):** the eval-passing business is a big part of his activity.
 - **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
