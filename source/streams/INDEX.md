@@ -32,7 +32,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | | JrAXEtFejNw | ICT Day Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 3h26m | | | todo |
 | 2024-03-01 | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | 1 (funded MNQ long, ~+30 pts TP) | 7 | done |
 | | ZAlQEve_WnE | NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream) | 2h48m | | | todo |
-| | SVeqDyk3DmA | NQ Day Trading Futures $NQ $ES $SPY $QQQ | 2h43m | | | todo |
+| 2023-12-19 | SVeqDyk3DmA | NQ Day Trading Futures $NQ $ES $SPY $QQQ | 2h43m | 3 (demo BE; funded +10 pts, −10 pts) | 1 | done |
 | 2023-09-06 | I3AJJI0RY00 | ICT Educational Live Stream - Futures/Forex Tape Reading | 2h8m | 1 live (long 15,488.50, ~+10 pts, runner BE) + 1 demo | 4 | done |
 | 2023-09-05 | e7oYxdPNvhY | ICT Educational Live Stream - Futures/Forex Tape Reading | 1h59m | 1 live (pre-open short, TP) + 2 demo/eval longs (1L, 1W) + 1 paper (BE) | 3 | done |
 | 2023-09-04 | ErsWq6j87uY | Simple ICT Strategy - Monday Night Class | 1h3m | 0 live (1 demo long, stopped) | 0 | done (class: prev-day high/low strategy) |

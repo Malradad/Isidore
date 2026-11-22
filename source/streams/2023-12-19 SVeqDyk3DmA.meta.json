@@ -1,0 +1,20 @@
+{
+  "title": "NQ Day Trading Futures $NQ $ES $SPY $QQQ",
+  "id": "SVeqDyk3DmA",
+  "url": "https://www.youtube.com/watch?v=SVeqDyk3DmA",
+  "duration_s": 9823,
+  "duration": "02:43:43",
+  "live_status": "was_live",
+  "release_timestamp": 1702994765,
+  "live_start_utc": "2023-12-19T14:06:05Z",
+  "live_start_ny": "2023-12-19 09:06:05 EST (Tuesday)",
+  "timestamp": 1703005199,
+  "timestamp_ny": "2023-12-19 11:59:59 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:06:05 + stream time (no clock check; treat as +/-1 min).",
+  "chart": "NQ1! / MNQ, ES, YM (TradingView) 30s-15m",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\SVeqDyk3DmA.webm",
+  "kind": "trading (1 demo + 2 funded longs against his bearish bias) + tape reading",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
