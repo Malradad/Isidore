@@ -38,6 +38,8 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
+|  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+|  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
 |  | pyTlXQRswgw | The Complete IFVG Masterclass | whisper | done |
