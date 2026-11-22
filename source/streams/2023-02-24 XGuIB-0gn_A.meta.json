@@ -1,0 +1,20 @@
+{
+  "title": "Live Trading + Education 2/24",
+  "id": "XGuIB-0gn_A",
+  "url": "https://www.youtube.com/watch?v=XGuIB-0gn_A",
+  "duration_s": 6947,
+  "duration": "01:55:47",
+  "live_status": "was_live",
+  "release_timestamp": 1677246260,
+  "live_start_utc": "2023-02-24T13:44:20Z",
+  "live_start_ny": "2023-02-24 08:44:20 EST (Friday)",
+  "timestamp": 1677298822,
+  "timestamp_ny": "2023-02-24 23:20:22 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:44:09 + stream time. On-screen clock 10:25:39 at stream 01:41:30. 10:00 news at ~01:15:50.",
+  "chart": "ESH2023 1m/5m, NQ1!, DXY (TradingView); NinjaTrader orders",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\XGuIB-0gn_A.mkv",
+  "kind": "trading (ES, live; executions partly hidden) + education",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
