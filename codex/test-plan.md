@@ -34,3 +34,12 @@ c. Bias filter cost: P1 with vs without his bias (inside weekly+monthly FVG → 
 
 ## Not worth quota now
 More inversion-trigger tuning; multi-TF confluence (claim 11, done, not supported).
+
+## Priority 6 — feel (codex/feel.md), the maker's "muscle memory" request (2026-11-22)
+Rebuild the live feel features historically from lower-timeframe bars (`request.security_lower_tf`, e.g. 15s/30s
+inside 1m/5m; in Python from 1m inside 5m): **cross speed** (time into the candle when price first closed beyond
+the gap edge), **flips** (crossed back before the close), **close location**, **body %**, **volume burst**,
+**chop before** (overlap of the prior N candles), **reaction sharpness** (bars/points from sweep extreme to the
+inversion close). On the P1 + filters rule set and on v0.4 max-1/day: does each feature separate winners from
+losers, in both halves? Report the thresholds that hold, then a combined "feel score". Live alerts (v0.5) already
+carry cross_s, flips, close_loc, body_pct, vol_ratio, vol_before_cross for the forward test.
