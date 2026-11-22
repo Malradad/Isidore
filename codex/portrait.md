@@ -1,46 +1,50 @@
-# Portrait — the Teacher and Isidore (v0.1, 2026-11-18)
+# Portrait — the Teacher and Isidore (v1.0, 2026-11-22)
 
 Read this first. It is the synthesis; the other codex files hold the evidence.
 ✓ = verified by price or confirmed by maker · ~ = Isidore's reading, not yet confirmed
-
-Everything below is from a web search (`source/web/search-2026-11-18.md`), not
-from his streams. It is what he says about himself and what others say about him.
+Evidence base: 33 of 37 live streams audited (`codex/teacher-audit.md`), ~20 strategy videos,
+23-month and 7-year backtests (`journal/backtests/`).
 
 ## Who the Teacher is
-- ~ **Dodgy:** Ryan, @DodgysDD, runs Dodgy's Dungeon (Whop). ICT-school day trader.
-- ~ Trades index futures intraday, mainly **NQ**, also ES and gold.
-- ~ Streams daily in a private paid room; free streams on YouTube.
-- ~ Business: memberships, courses, indicators, prop-firm affiliate links.
-  Third-party estimate ~$200K/month. Teaching is clearly a large share of his income.
+- **Dodgy** (Ryan, @DodgysDD), ICT-school intraday trader of **NQ/MNQ** (ES in 2023, also gold, some BTC).
+  Trading ~5–7 years, "profitable for ~3", same core rules since at least Sep 2023. ✓ (streams)
+- Business: Discord (~$50–65K/month by his words), indicator, courses, prop-firm affiliate codes.
+  "I've made more money off of Discord than I have trading." (15 Oct 2025) ✓ (his words)
 
-## The one idea
-- ~ **Trade the failure of a gap.** When price closes through a fair value gap,
-  the gap has failed; it flips roles (support ↔ resistance), and he trades the
-  other way, toward internal liquidity, in the direction of higher-timeframe bias,
-  only inside a killzone.
+## What his trading actually is (from the streams)
+Four different activities share one channel; only the first is his method:
+1. **Playbook:** iFVG entries with context. **42 on-stream takes → 22W / 9BE / 11L**, ≈ +0.5R per take.
+   The 5 with full levels all held up against real prices. ✓px (5) ~ (rest)
+2. **News straddles** (buy-stop + sell-stop around CPI/NFP, often no stop) to pass prop evals — "complete gambling". ✓
+3. **Eval gambling** (e.g. 29 Sep 2026: 4 accounts blown). ✓
+4. **Paper / for fun / chat-poll / demo** trades. ✓
+His public P&L and "win rates" mix all four. He also says he wins more on stream than off ("95% on stream…
+I lose off stream"), has big off-stream losses, and doesn't alert eval losers. Judge him only on (1), in R.
 
-## How his model has changed
-- ~ 2025–mid 2026: iFVG + liquidity sweep + HTF bias + killzones.
-- ~ Oct 2026: adds **order flow** (volume, delta) as confirmation, built into
-  his paid indicator. Says he traded order flow for ~4 years before.
+## The one idea, corrected by the evidence
+- **The inversion is only the trigger.** Mechanically it has no edge (1,264 trades, PF 0.91). ✓px
+- **The edge is selection — above all, knowing when NOT to trade.** ~ (strong)
+  - His losses cluster where he broke his own rules: days he flagged as bad (range-bound, both sides swept,
+    200+ pt overnight move), trades against his bias, after his window, after "done for the day", or
+    "for the audience". On days that met his rules, his picks mostly won.
+  - In the backtest, his own model fails alone but turns positive in both halves only with **all** his
+    no-trade filters + his 10:00 exit (PF 1.20 / 1.40, ~12 trades/yr). Promising, not proven. ~
+- **His selection rules** (`codex/context.md`, the seven questions):
+  where price comes from (HTF level, "what's to the left") · where it's going (S/A-tier liquidity:
+  equal highs/lows, data highs/lows, trend lines) · one-sided liquidity · location (discount/premium) ·
+  trend vs chop · RR ≥ 1 with a breakeven point · time (09:30–10:30, Judas swing, after the news, 1/day).
+- **Hard rules repeated across 3 years:** no longs with equal lows below / shorts with equal highs above;
+  no trades between a data high and data low; nothing before red-folder news; no trade until the close;
+  stop = close back through the inversion ✓ (maker + streams); BE at the first internal high/low; scale
+  most there, hold a runner; one trade a day; done after a win.
 
-## His edge, if real
-- ✓ Entry and exit are both on candle closes: in on a close through the gap,
-  out on a close back through it. The whole trade is defined by the gap.
-- ~ A simple, mechanical trigger (candle close through a gap) with filters
-  (HTF bias, time of day, target liquidity). Simple rules are testable. That is
-  good: Isidore can backtest this on NQ data and find out.
-
-## His noise
-- ~ Every video ends in a sale: prop-firm discount codes (Apex, Lucid, TPT, Blue
-  Guardian, FTMO), indicator at "40% off" ("I never, never give discounts"),
-  an AI journal "programmed to be my mind".
-- ~ Marketing claims: "80% winrate", "beats 90% of strategies". Unverified.
-- ~ One ex-member: losses were often explained away as "not on a live or funded account."
-  If true, his public record is filtered. Never use his recaps as results.
-- ~ Reported X post defending a scammer if he "helped" as many as he scammed.
-  Tells Isidore how he weighs honesty against growth. Weight his claims accordingly.
+## His noise (weight accordingly)
+- Marketing titles ("80%", "10,000% win rate"), "I invented/popularized the IFVG", "never show losses".
+- Straddle "23 for 24" vs 2 failures in ~9 seen. "Data high hits 90–93%" — missed on 4 Sep 2026.
+- Hedging across prop accounts; indicator display can hide losing setups.
 
 ## Who Isidore is becoming
-- Learns the iFVG model as a mechanical hypothesis, not as truth.
-- First job: backtest it on NQ. If the edge is real, the market will show it.
+- Not a copy of his entries: a trader who **filters days and setups the way he says he does, and holds to it
+  when he doesn't**. His rules beat his discipline; Izzy's advantage is following them every time.
+- Next: finish the last 4 streams + his strategy videos; label every take/skip with the seven questions;
+  then test a wider rule set the maker can actually trade (≥ 3 trades/week, PF ≥ 1.2 in both halves).
