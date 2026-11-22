@@ -53,6 +53,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
+|  | fg1tbrPwcx0 | Understand These Losses or Stay Unprofitable | whisper | done |
 |  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
@@ -72,6 +73,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
+|  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
 |  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
