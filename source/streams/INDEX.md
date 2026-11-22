@@ -40,4 +40,4 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | | ksztwIzHgcE | ICT Live Trading + Education 3/24 | 2h47m | | | todo |
 | | rr2qsQ5mRfM | Live Trading + Education 3/14 [CPI] | 3h29m | | | todo |
 | 2023-02-24 | XGuIB-0gn_A | Live Trading + Education 2/24 | 1h55m | 4 live ES (pre-stream short +7; small short W; long L; "revenge" short scratch) | 3 | done |
-| | hGw1rsg-eGo | Sunday Night Class (ICT) | 1h17m | | | todo |
+| 2023-02-19 | hGw1rsg-eGo | Sunday Night Class (ICT) | 1h17m | 0 on stream (2 live ES trades recapped: 1 W, 1 BE) | 0 | no-trading (Sunday class, recaps) |

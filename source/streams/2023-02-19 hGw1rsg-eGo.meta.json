@@ -1,0 +1,20 @@
+{
+  "title": "Sunday Night Class (ICT)",
+  "id": "hGw1rsg-eGo",
+  "url": "https://www.youtube.com/watch?v=hGw1rsg-eGo",
+  "duration_s": 4675,
+  "duration": "01:17:55",
+  "live_status": "was_live",
+  "release_timestamp": 1676850914,
+  "live_start_utc": "2023-02-19T23:55:14Z",
+  "live_start_ny": "2023-02-19 18:55:14 EST (Sunday)",
+  "timestamp": 1676899639,
+  "timestamp_ny": "2023-02-20 08:27:19 EST (VOD publish/processing time, not used)",
+  "time_map": "Not needed: class on past days; no trades on stream.",
+  "chart": "ES 1m/2m/5m/1h replays of the previous week; DXY",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\hGw1rsg-eGo.mkv",
+  "kind": "no trading: Sunday class reviewing the week's ES trades",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
