@@ -31,6 +31,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
+|  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
@@ -80,6 +81,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
+|  | tkCffe5C2HI | The Best Model for Realistically Quitting Your 9-to-5 Job — Today's Trade Recap | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
