@@ -24,6 +24,8 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 15 | streams/2025-08-10 rKxoMCjqfgQ @ 00:14:40 | NQ | His liquidity tier list: S/A pools get hit more often than C/F | Backtest: classify pools by tier, measure % reached within the session | Next quota | — | Directly tests context Q2 |
 
-**Running record:** 15 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
+| 16 | streams/2025-01-22 j0tG6Mj-ds4 @ 01:15:55 | NQ | "If we get over a 200-point overnight move, New York AM usually sucks" | Backtest: overnight range > 200 pts vs not → v0.4/1-per-day results 09:30–11:00 | Next quota | — | Would become a no-trade-day filter (context Q7) |
+
+**Running record:** 16 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.
