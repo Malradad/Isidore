@@ -22,6 +22,8 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 14 | streams/2026-07-14 nE8GE9YBd8k @ 00:11:28 | NQ | News straddle "works 85–90%… failed twice out of ~30" | Count straddles in audited streams + backtest stop-entry straddles at 08:30 on CPI/NFP | Ongoing | 1 loss (12 Aug, −$10.7k paper) in 6 seen | Gambling category, never for Izzy |
 
-**Running record:** 14 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
+| 15 | streams/2025-08-10 rKxoMCjqfgQ @ 00:14:40 | NQ | His liquidity tier list: S/A pools get hit more often than C/F | Backtest: classify pools by tier, measure % reached within the session | Next quota | — | Directly tests context Q2 |
+
+**Running record:** 15 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

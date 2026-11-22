@@ -16,6 +16,17 @@ Sources: teacher-audit.md (streams), playbook.md (videos). `~` = Izzy's reading.
 | 6 | **Is the risk worth it?** RR ≥ ~1, and a breakeven point (internal liquidity) exists. | "RR is kind of trash"; "no built-up internal liquidity… no break even point"; "negative R" | Target distance ÷ stop distance; an untaken internal high/low between entry and target |
 | 7 | **Is it the right time and day?** Judas swing off 09:30, the first move after CPI/NFP, first setup of the day, not already done. | "One false move"; "done for the day… following my rules"; data highs after news | Time window; news calendar; trades taken today |
 
+## Q2 detail: his liquidity-target tier list (streams/2025-08-10 rKxoMCjqfgQ @ 00:14:40)
+| Tier | Target |
+|---|---|
+| **S** | perfect equal highs/lows > 3 candles apart; data high/low with a giant wick |
+| **A** | perfect equal highs/lows 1–3 candles apart; trend-line liquidity with 5+ perfect touches |
+| **B** | high/low inside an old FVG; trend line with 2–3 touches; NWOG/NDOG; relative equal highs/lows; previous session highs/lows (day, Asia, London) |
+| **C** | unbalanced inefficiencies; volume imbalances |
+| **F** | "protected" highs/lows (took out another inside an FVG); order blocks |
+Tiers combine: two B's (e.g. a London high inside an FVG) → an A. Prefer S/A targets; C/F alone are weak draws.
+"The IFVGs are the entry model, but the delivery and reactions from previous PD arrays… that's what makes you money."
+
 ## Grades (his own)
 - **Live / A–A+:** 1–7 mostly yes, momentum candle, clean target.
 - **Eval-only / B:** valid inversion but chop, poor location or thin liquidity.
