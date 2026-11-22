@@ -38,6 +38,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-01-22 j0tG6Mj-ds4 | ~11:21 | 30s | L | eval (micros) | ? | ? | the high | **win** (partial + runner) | +1 ~ | — | after 11:00 |
 | 2024-03-01 d1aj1D87IuM | 10:05:47 | 30s/1m | L | funded (MNQ, light) | ~18,148.75 ~ | below gap → BE | ~18,178 (data high) | **TP, ~+30 pts** | ~+1.5 ~ | — | after the 10:00 ISM news; long in discount; "done on live" already |
 | 2023-09-06 I3AJJI0RY00 | 08:49:43 | 1m | L | **live** (1 contract) | 15,488.50 (his) | close back under inversion (~15,481 ~) | first internal high | **partial ~+10 pts, runner ~BE** | ~+1.3 ~ | — | scaled most at the intermediate high inside an FVG |
+| 2023-09-05 e7oYxdPNvhY | 09:12:35 | 1m | S | **live** (his tally) | not shown | ? | internal low before the FVG | **TP**, runner closed small + | ? | — | pre-open short |
+| 2023-09-05 e7oYxdPNvhY | 10:11:45 | 1m | L | demo + eval (light) | ? | close back under inversion | the high | **stop** | −1 | — | bad PA; "I fully expect this to fail" (teaching example) |
+| 2023-09-05 e7oYxdPNvhY | 10:18:22 | 1m | L | demo + eval | ~15,477 ~ | → BE ~15,490 | TP1 ~15,500, TP2 ~15,513 | **TP1 + runner TP2** (~+20 pts) | ~+2 ~ | — | re-entry after the stop |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -48,6 +51,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2023-09-05 e7oYxdPNvhY | (P) paper ES 3m short | BE |
 | 2023-09-06 I3AJJI0RY00 | (P) demo 1m long against his bias, no clear target | not shown |
 | 2025-01-22 j0tG6Mj-ds4 | (P) paper BTC 1m long ("price action is bad when I resort to Bitcoin") | not shown |
 | 2025-10-09 q-cngrviF2A | (P) 2 paper trades ("complete pattern trade"; "for fun") | BE; not shown |
@@ -130,10 +134,12 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-09-06 I3AJJI0RY00 | 09:24:50 | 5m | L | already took the long; wait for news | — |
 | 2023-09-06 I3AJJI0RY00 | 09:55:23 | 1m/2m | L | before 10:00 news; not triggered | news went the other way ~ |
 | 2023-09-06 I3AJJI0RY00 | 10:23:45 | 2m/3m | S (ES/NQ) | missed "exactly the model" | worked ~ |
+| 2023-09-05 e7oYxdPNvhY | 09:35:44 | 1m | S (ES) | tape-read | +5 pts ES ~ |
+| 2023-09-05 e7oYxdPNvhY | 10:07:34 | — | L | bad PA: "log out of your funded, come back after 1:30" | — |
 
 ## Running score
-- Streams audited: **23 of 37** (4 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 27 → 13 wins (1 small), 8 breakeven, 6 losses** (his words; first 5 ✓px) ·
-  Skips: 69 (+4 in the gamble stream) · Price-checked: 5 of 27. Avg ≈ +0.55R per take ~ (≈ +15R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **24 of 37** (4 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 30 → 15 wins (1 small), 8 breakeven, 7 losses** (his words; first 5 ✓px) ·
+  Skips: 71 (+4 in the gamble stream) · Price-checked: 5 of 30. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -164,6 +170,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   (both worked); traded the reaction after. "No bias is fine — wait for the reaction."
 - **Skipped "A+" setups that worked:** now ≥ 6 (bias, news timing, done for the day). His discipline costs
   winners; his record still comes from the few he takes. Test: would taking his skipped A+ setups help?
+- **Time and structure kill inversions (5 Sep 2023):** inversions in Asia or chop fail; take them in killzones;
+  inside a broadening formation (both sides swept) "inverses are not valid".
 - **Consistent for 3 years (Sep 2023 → Nov 2026):** no longs with equal lows below / no shorts with equal highs
   above ("one of my first rules"); stop = close back through the inversion; scale most at the first internal
   high; a single FVG inversion is best, a double one "don't touch it".
