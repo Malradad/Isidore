@@ -1,0 +1,20 @@
+{
+  "title": "Dodgysdd LIVE in Japan 🇯🇵 | Q&A & Live Analysis",
+  "id": "2rLiG2J4eiQ",
+  "url": "https://www.youtube.com/watch?v=2rLiG2J4eiQ",
+  "duration_s": 2114,
+  "duration": "00:35:14",
+  "live_status": "was_live",
+  "release_timestamp": 1761483759,
+  "live_start_utc": "2025-10-26T13:02:39Z",
+  "live_start_ny": "2025-10-26 09:02:39 EDT (Sunday; he is in Japan, ~22:00 local)",
+  "timestamp": 1761529344,
+  "timestamp_ny": "2025-10-26 21:42:24 EDT (VOD publish/processing time, not used)",
+  "time_map": "Not needed: Sunday, market closed; no trades.",
+  "chart": "brief Bitcoin 3m chart only",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\2rLiG2J4eiQ.webm (1280x720)",
+  "kind": "no trading: travel Q&A from Japan",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

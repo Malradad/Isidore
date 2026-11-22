@@ -23,7 +23,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-02-13 | 7w6pya1dubs | CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h35m | 3 (CPI straddle + Apex hedge on evals; 2 Alpha eval longs: 1 L, 1 TP) | 6 | done |
 | | 8wgnYYcVHuc |  LIVE Futures Trading NQ/ES/GOLD - DodgysDD | 3h20m | | | todo |
 | 2025-11-14 | imzrLPjXVxE | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 1h2m | 2 (both paper, PM: 1 ~stopped, 1 open +£319) | 2 | done |
-| | 2rLiG2J4eiQ | Dodgysdd LIVE in Japan  - Q&A & Live Analysis | 0h35m | | | todo |
+| 2025-10-26 | 2rLiG2J4eiQ | Dodgysdd LIVE in Japan  - Q&A & Live Analysis | 0h35m | 0 | 0 | no-trading (Japan travel Q&A) |
 | | YTBcXcI70io |  Launch Day: Trading ICT Futures LIVE with My New iFVG Indicator | 1h51m | | | todo |
 | | q-cngrviF2A | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 2h8m | | | todo |
 | | rKxoMCjqfgQ | Sunday Class (Introduction to Liquidity) | 0h26m | | | todo |
