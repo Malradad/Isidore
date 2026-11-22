@@ -1,0 +1,20 @@
+{
+  "title": "ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model)",
+  "id": "q-cngrviF2A",
+  "url": "https://www.youtube.com/watch?v=q-cngrviF2A",
+  "duration_s": 7738,
+  "duration": "02:08:58",
+  "live_status": "was_live",
+  "release_timestamp": 1760015631,
+  "live_start_utc": "2025-10-09T13:13:51Z",
+  "live_start_ny": "2025-10-09 09:13:51 EDT (Thursday)",
+  "timestamp": 1760023735,
+  "timestamp_ny": "2025-10-09 11:28:55 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:13:45 + stream time. TradingView clock: 09:14:15 at stream 00:00:30, 09:35:22 at 00:21:37, 11:01:15 at 01:47:30. Good to about +/-3 s.",
+  "chart": "NQZ2025 3m/5m, GC 5m, YM/ES side charts; chart date label 9/10/2025 is day/month",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\q-cngrviF2A.webm (1280x720)",
+  "kind": "trading on Apex evals and paper (live done for the week) + tape reading",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

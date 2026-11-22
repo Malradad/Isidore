@@ -25,7 +25,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2025-11-14 | imzrLPjXVxE | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 1h2m | 2 (both paper, PM: 1 ~stopped, 1 open +£319) | 2 | done |
 | 2025-10-26 | 2rLiG2J4eiQ | Dodgysdd LIVE in Japan  - Q&A & Live Analysis | 0h35m | 0 | 0 | no-trading (Japan travel Q&A) |
 | 2025-10-15 | YTBcXcI70io |  Launch Day: Trading ICT Futures LIVE with My New iFVG Indicator | 1h51m | 3 (longs: −0.5R, −1R, +3R; net +1.5R) | 0 | done |
-| | q-cngrviF2A | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 2h8m | | | todo |
+| 2025-10-09 | q-cngrviF2A | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 2h8m | 5 Apex (short TP after widening stop; gold + NQ longs BE) + 2 paper | 1 | done |
 | | rKxoMCjqfgQ | Sunday Class (Introduction to Liquidity) | 0h26m | | | todo |
 | | IF67n-KIDnA | 10,000% Win Rate ICT Daytrading Futures (iFVGs - Inversion Fair Value Gaps) | 2h38m | | | todo |
 | | j0tG6Mj-ds4 | ICT Live Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 2h21m | | | todo |
