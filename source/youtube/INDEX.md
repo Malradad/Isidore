@@ -34,6 +34,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
+|  | BFBcJqVFpAI | I Built the Most Accurate Trading Indicator in the World (No Clickbait) | whisper | done |
 |  | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
@@ -41,6 +42,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | OJEV8x9wyVg | If You Think Trading Is Getting Easy You Need to Watch This NOW | whisper | done |
 |  | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
+|  | S5JNoso6fG0 | How I Built my Trading Empire From Scratch | The Story Behind DodgysDD | whisper | done |
 |  | TSpdkjI3VNs | My "Stupid Simple" ICT Strategy That Actually Works | whisper | done |
 |  | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
