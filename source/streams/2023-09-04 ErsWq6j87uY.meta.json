@@ -1,0 +1,20 @@
+{
+  "title": "Simple ICT Strategy - Monday Night Class",
+  "id": "ErsWq6j87uY",
+  "url": "https://www.youtube.com/watch?v=ErsWq6j87uY",
+  "duration_s": 3834,
+  "duration": "01:03:54",
+  "live_status": "was_live",
+  "release_timestamp": 1693877314,
+  "live_start_utc": "2023-09-05T01:28:34Z",
+  "live_start_ny": "2023-09-04 21:28:34 EDT (Monday night, Labor Day; Asia session)",
+  "timestamp": 1693881609,
+  "timestamp_ny": "2023-09-04 22:40:09 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 21:28:34 + stream time (Asia session; one demo trade only).",
+  "chart": "NQU2023 / ES and FX charts; FX Replay-style back-scroll of past days",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\ErsWq6j87uY.mkv",
+  "kind": "class: previous-day high/low + FVG inversion strategy; one demo trade",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
