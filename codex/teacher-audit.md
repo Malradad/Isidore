@@ -35,6 +35,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2025-11-14 imzrLPjXVxE | (P) two PM paper shorts ("this just shows why I don't trade PM") | 1 likely stopped, 1 open +£319 at stream end |
 | 2026-02-13 7w6pya1dubs | (N) CPI straddle + **hedging across Apex accounts** (long in one, short in another); (P) 1m "F/U long… for fun, accounts I don't really care about" | straddle: "passed five Topsteps"; F/U long cut for a loss |
 | 2026-03-11 Lprbu9HeOCI | (N) CPI straddle on paper; (C) chat-poll short he disagreed with ("trading through a 15 minute") | straddle ~TP; poll short −$167.50 (−1R) |
 | 2026-04-03 jOmHQ7INwFw | (N) NFP straddle on ~20 Apex evals, 6 minis each ("complete gambling… risk management: nonexistent") | long leg; "all 20 passed" (his) |
@@ -97,10 +98,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-02-13 7w6pya1dubs | 09:39:44 | 5m | S | called it, tape-read only | **TP** (his) |
 | 2026-02-13 7w6pya1dubs | 09:43:33 | 1m | L | "A+", but against his bias | **hit target** ~ (data high) |
 | 2026-02-13 7w6pya1dubs | 09:55:14 | 1m/30s | L | B setup; missed the 30s | — |
+| 2025-11-14 imzrLPjXVxE | 14:30:32 | 1m | L | tape-read only (PM) | failed ("getting cooked") |
 
 ## Running score
-- Streams audited: **15 of 37** (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 14 → 8 wins (1 small), 4 breakeven, 2 losses** (his words; first 5 ✓px) ·
-  Skips: 53 (+4 in the gamble stream) · Price-checked: 5 of 14. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **17 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 14 → 8 wins (1 small), 4 breakeven, 2 losses** (his words; first 5 ✓px) ·
+  Skips: 54 (+4 in the gamble stream) · Price-checked: 5 of 14. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -121,6 +123,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   called a no-trade day in advance, "inside this range you're just guessing"). On clean days he wins.
 - **Bias (1 Mar lesson):** hard vs soft bias from the 15m/1h/4h FVG inversion; "stop-loss placement is basically
   just a close back above the inversion" — matches the maker's confirmed stop rule ✓.
+- **Trend-line targets cut both ways (14 Nov 2025):** "most of my losses come from going to trendline liquidity
+  and not being able to break it, but my best wins also occur there." Don't trade a flag with trend-line
+  liquidity on both sides. PM session is not his ("why I don't trade PM").
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.
