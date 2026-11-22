@@ -205,3 +205,10 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Important caveat, in his words:** "when I'm streaming I probably have a 95% win rate… all my own plays
   off stream I lose on." The audit can measure his on-stream selection, not his whole P&L.
 - "Lower your R to raise win rate": his win rate is partly small targets — judge him in R, not win %.
+
+## 2026-11-22 · Audit: stream 8 (12 Aug CPI)
+- **No live trade** ("no trade day"); one funded 1m long → BE in chop. Record 6W/3BE/1L over 10 takes, ≈ +0.6R avg ~.
+- **First straddle loss:** paper CPI straddle ≈ −$10.7k (slipped 53 pts on the spike). The "news gamble" is risky,
+  as he says himself; it confirms keeping (N) out of anything Izzy does.
+- **Rules he states:** "if the market doesn't prove the bias, no trade"; "I need an IFVG to enter, minimally";
+  "don't drop to the 1m in chop". Daily bias overrides even an "A plus" counter-trend setup.

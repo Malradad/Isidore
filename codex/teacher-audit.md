@@ -20,12 +20,15 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-04 N6eOC8wtapo | 10:14:30 | 30s | L | funded | ~29,629 ~ | 29,603.75 ~ → **widened** to 29,594.75 | 29,694 | **stop (−1R; ~−35 pts vs widened stop)** | −1.0 to −1.3 | — | "A setup", delivering from a gap, data high above; stop widened mid-trade |
 | 2026-09-04 chlCV294CTk | 08:44:34 | 1m/2m | S | eval | 29,558 ~ | 29,579 ~ | sellside 29,475 ~ | **closed early, ~+47 pts** | ~+2.2 ~ | — | NFP day after the 08:30 candle; "B setup… coming out the two minute"; exited early (eval already passed) |
 | 2026-09-04 chlCV294CTk | 09:14:14 | 2m | L | **live** (+funded, see 09:50 row) | 29,564.50 ~ | 29,535.25 ~ | 29,694.25 (data high) | **BE** (moved to BE before the open) | 0 | — | He called it "not a good trade… a pattern trade due to RR and statistics"; 25 min earlier he said such longs are pattern trading |
+| 2026-08-12 MHyNCqLCI7k | 09:49:12 | 1m (5m inverse) | L | funded (not live) | ~29,970.50 ~ | ~29,915 ~ → BE | buyside above | **BE** | 0 | — | CPI day; bullish daily bias; chop under 30,000; he later: "don't drop to the 1m in chop" |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
 |---|---|---|
 | 2026-10-02 JUDH0MmuhQs | (N) NFP straddle, 4 minis, no stop, to pass a Lucid eval | long leg filled, "+$5,000", passed |
 | 2026-09-04 chlCV294CTk | (N) NFP straddle "full port", 4 minis, eval | short leg to target, passed (his) |
+| 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
+| 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
@@ -57,10 +60,15 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-04 chlCV294CTk | 09:31:27 | 5m | L | no real entry, would be a chase | — |
 | 2026-09-04 chlCV294CTk | 09:37:23 | — | S | data high above; no draw on liquidity down | — |
 | 2026-09-04 chlCV294CTk | 09:42:26 | 15s/30s | L | internal liquidity build-up "sucks"; rejecting BPR/0.705 | — |
+| 2026-08-12 MHyNCqLCI7k | 09:35:08 | 2m | S | against daily bias: "rather wait for a long" | — |
+| 2026-08-12 MHyNCqLCI7k | 09:41:59 | 1m | L | no internal draw, into a high that rejected a big gap | — |
+| 2026-08-12 MHyNCqLCI7k | 09:53:07 | 3m | S | "A plus" from premium, skipped only for bullish bias | — (day chopped; bias wrong per him later) |
+| 2026-08-12 MHyNCqLCI7k | 10:06:22 | 30s | L | pattern trade / eval play | — |
+| 2026-08-12 MHyNCqLCI7k | 10:18:40 | 3m | L | candle never closed above the gap | — |
 
 ## Running score
-- Streams audited: **7 of 37** · **(A) playbook takes: 9 → 6 wins, 2 breakeven, 1 loss** (his words; first 5 ✓px) ·
-  Skips: 25 (+4 in the gamble stream) · Price-checked: 5 of 9.
+- Streams audited: **8 of 37** · **(A) playbook takes: 10 → 6 wins, 3 breakeven, 1 loss** (his words; first 5 ✓px) ·
+  Skips: 30 (+4 in the gamble stream) · Price-checked: 5 of 10. Avg ≈ +0.6R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -77,6 +85,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   targeting its data highs.
 - **His losses come from breaking his own rules** (4 Sep): planned "out by 10:00", didn't exit, rode a
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
+- **"No trade day" is a real outcome:** 12 Aug (CPI) he took no live trade: "if the market doesn't prove the
+  bias, no trade"; skipped an "A plus" short only because it fought his daily bias.
 - **Time as a rule:** "10 AM reversals"; "I literally trade based off time."
 - **Selection warning (his own words, 7ZBHfQC6Nss 00:37:51):** "when I'm streaming… I probably have a 95%
   win rate… It's all my own plays off stream I lose on." So on-stream trades may not represent his full
