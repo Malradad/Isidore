@@ -32,4 +32,6 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | qqFGUmgrV6c | This Was One of the Most Emotionally Toughest Trading Days in My 6 Years of Daytrading | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
+|  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
+|  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | yrpp1FTZax0 | This IFVG Strategy Beats 90% Of Trading Strategies | whisper | done |
