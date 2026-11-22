@@ -6,7 +6,7 @@ what price actually did. Unedited streams, so this is his real record, not his h
 
 Three kinds of trading appear on stream; only (A) is his playbook:
 **(A) playbook** · **(N) news straddle** (buy-stop + sell-stop around CPI/NFP to pass an eval; no stop) ·
-**(G) eval gamble** (stream announced as "aggressively taking plays that aren't A+").
+**(G) eval gamble** (stream announced as "aggressively taking plays that aren't A+") · **(P) paper/for fun** (outside his session, "I don't really trade Asia").
 
 ## Takes — (A) playbook
 | stream | market time (NY) | tf | side | account | entry | stop | target | result (his) | R | ✓px | setup context he named |
@@ -26,6 +26,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 |---|---|---|
 | 2026-10-02 JUDH0MmuhQs | (N) NFP straddle, 4 minis, no stop, to pass a Lucid eval | long leg filled, "+$5,000", passed |
 | 2026-09-04 chlCV294CTk | (N) NFP straddle "full port", 4 minis, eval | short leg to target, passed (his) |
+| 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
 
@@ -58,7 +59,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-04 chlCV294CTk | 09:42:26 | 15s/30s | L | internal liquidity build-up "sucks"; rejecting BPR/0.705 | — |
 
 ## Running score
-- Streams audited: **6 of 37** · **(A) playbook takes: 9 → 6 wins, 2 breakeven, 1 loss** (his words; first 5 ✓px) ·
+- Streams audited: **7 of 37** · **(A) playbook takes: 9 → 6 wins, 2 breakeven, 1 loss** (his words; first 5 ✓px) ·
   Skips: 25 (+4 in the gamble stream) · Price-checked: 5 of 9.
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
@@ -77,6 +78,10 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **His losses come from breaking his own rules** (4 Sep): planned "out by 10:00", didn't exit, rode a
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
 - **Time as a rule:** "10 AM reversals"; "I literally trade based off time."
+- **Selection warning (his own words, 7ZBHfQC6Nss 00:37:51):** "when I'm streaming… I probably have a 95%
+  win rate… It's all my own plays off stream I lose on." So on-stream trades may not represent his full
+  record. The audit measures his *on-stream selection*, which is still what we can learn from.
+- **"From 60% to 80% win rate: lower your R"** (01:13:05): his high win rate comes partly from small targets.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
 - Skips cite **chop / no obvious liquidity / gap too small** most often (3 of 5).

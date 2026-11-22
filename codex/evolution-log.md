@@ -199,3 +199,9 @@ _Session entries: date · what was learned · decision · maker response · perf
   described as having no context, justified by a "93%" statistic. Context-free trades = his weak spot too.
 - **Missed winner:** after his BE he skipped a 30s long that ran ~+70 pts ("didn't re-enter"). Re-entry
   after BE is an open question for the playbook.
+
+## 2026-11-22 · Audit: stream 7 (16 Aug, Sunday Asia, paper)
+- Not playbook: two paper trades he called "invalid" and "for fun". Logged as (P), excluded from the record.
+- **Important caveat, in his words:** "when I'm streaming I probably have a 95% win rate… all my own plays
+  off stream I lose on." The audit can measure his on-stream selection, not his whole P&L.
+- "Lower your R to raise win rate": his win rate is partly small targets — judge him in R, not win %.
