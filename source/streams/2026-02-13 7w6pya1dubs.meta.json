@@ -1,0 +1,20 @@
+{
+  "title": "🟢CPI Special LIVE Trading NQ/ES/GOLD | DodgysDD",
+  "id": "7w6pya1dubs",
+  "url": "https://www.youtube.com/watch?v=7w6pya1dubs",
+  "duration_s": 9352,
+  "duration": "02:35:52",
+  "live_status": "was_live",
+  "release_timestamp": 1770988231,
+  "live_start_utc": "2026-02-13T13:10:31Z",
+  "live_start_ny": "2026-02-13 08:10:31 EST (Friday, CPI day)",
+  "timestamp": 1770997997,
+  "timestamp_ny": "2026-02-13 10:53:17 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:10:31 + stream time. Checks: the TradingView paper panel clock reads 08:30:21 at stream 00:19:56 (map 08:30:27); the chart cursor reads 09:36 at 01:34:09 (map 09:44:40 — cursor, not a clock). Good to about +/-10 s.",
+  "chart": "NQ1! on TradingView (2m/1m/30s); TopstepX window shown for the straddle",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\7w6pya1dubs.webm (1280x720)",
+  "kind": "trading (CPI straddle on paper + Topstep/Apex evals; two small Alpha eval trades) + tape reading + Q&A",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

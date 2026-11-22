@@ -20,7 +20,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-03-11 | Lprbu9HeOCI |  CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h43m | 4 (paper CPI straddle; 3 Lucid-eval MNQ trades by chat poll: −$167, partial+BE, BE) | 3 | done |
 | | YKRoRbq1BTU | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h50m | | | todo |
 | 2026-03-01 | DqSuUNyjgwg | War News Exclusive LIVE Trading NQ/ES/GOLD - DodgysDD | 1h1m | 0 (1 joke paper trade at the Sunday open) | 0 | no-trading (joke paper clip, Apex news, giveaway) |
-| | 7w6pya1dubs | CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h35m | | | todo |
+| 2026-02-13 | 7w6pya1dubs | CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h35m | 3 (CPI straddle + Apex hedge on evals; 2 Alpha eval longs: 1 L, 1 TP) | 6 | done |
 | | 8wgnYYcVHuc |  LIVE Futures Trading NQ/ES/GOLD - DodgysDD | 3h20m | | | todo |
 | | imzrLPjXVxE | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 1h2m | | | todo |
 | | 2rLiG2J4eiQ | Dodgysdd LIVE in Japan  - Q&A & Live Analysis | 0h35m | | | todo |
