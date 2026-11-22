@@ -1,0 +1,20 @@
+{
+  "title": "ICT Live Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model)",
+  "id": "j0tG6Mj-ds4",
+  "url": "https://www.youtube.com/watch?v=j0tG6Mj-ds4",
+  "duration_s": 8501,
+  "duration": "02:21:41",
+  "live_status": "was_live",
+  "release_timestamp": 1737554914,
+  "live_start_utc": "2025-01-22T14:08:34Z",
+  "live_start_ny": "2025-01-22 09:08:34 EST (Wednesday)",
+  "timestamp": 1737564118,
+  "timestamp_ny": "2025-01-22 11:41:58 EST (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:08:34 + stream time. Chart time cursor 11:29 at stream 02:19:20 (map 11:27:54). Treat as +/-1 min.",
+  "chart": "NQH2025 30s/1m/2m (price axis cropped), ES/YM/BTC tabs",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\j0tG6Mj-ds4.webm",
+  "kind": "tape reading; no live trades; several eval and paper trades",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
