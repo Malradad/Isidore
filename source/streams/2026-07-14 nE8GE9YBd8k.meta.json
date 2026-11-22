@@ -1,0 +1,20 @@
+{
+  "title": "🟢CPI LIVE Trading ICT Concepts NQ/ES/GOLD | DodgysDD",
+  "id": "nE8GE9YBd8k",
+  "url": "https://www.youtube.com/watch?v=nE8GE9YBd8k",
+  "duration_s": 11369,
+  "duration": "03:09:29",
+  "live_status": "was_live",
+  "release_timestamp": 1784031164,
+  "live_start_utc": "2026-07-14T12:12:44Z",
+  "live_start_ny": "2026-07-14 08:12:44 EDT (Tuesday, CPI day)",
+  "timestamp": 1784043052,
+  "timestamp_ny": "2026-07-14 11:30:52 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:12:44 + stream time. Check: the 08:30 CPI candle ('and boom') at stream ~00:17:16-00:17:24 -> 08:30:00-08:30:08; the chart's time cursor reads 10:42 at stream 02:03:13 (map: 10:15:57) — that cursor is the mouse position, not the clock. Good to about +/-30 s.",
+  "chart": "NQ1! on TradingView, 5m/3m/2m/30s; ES split screen from ~01:30",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate ('Walsh/Warsh' = a Fed speaker; 'LRLR' = low-resistance liquidity run).",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\nE8GE9YBd8k.webm (1280x720)",
+  "kind": "trading (CPI straddle demo on paper + 3 small trades) + Q&A",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

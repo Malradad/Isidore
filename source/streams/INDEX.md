@@ -13,7 +13,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-08-16 | 7ZBHfQC6Nss | Asia Livestream Futures NQ/ES - DodgysDD | 1h45m | 2 (both paper, Asia: 1 short ~BE, 1 long +0.7R) | 1 | done |
 | 2026-08-12 | MHyNCqLCI7k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h46m | 4 (paper CPI straddle −$10.7k; paper long TP; 2 funded: short "30k level", long BE; no live futures) | 6 | done |
 | 2026-08-07 | qbHHGoPD6Yc | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 2h30m | 1 (news straddle on competition acct, +$246; no live) | 8 | done |
-| | nE8GE9YBd8k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 3h9m | | | todo |
+| 2026-07-14 | nE8GE9YBd8k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 3h9m | 4 (paper CPI straddle; 1 live 2m long −0.5R; 2 funded micros, net ~0) | 6 | done |
 | | f4LM3kNzquo | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 3h30m | | | todo |
 | | 8F91svfKM10 | Weekly Outlook NQ Futures | 0h26m | | | todo |
 | | jOmHQ7INwFw | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 1h4m | | | todo |
