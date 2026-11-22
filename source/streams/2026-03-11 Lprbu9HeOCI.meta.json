@@ -1,0 +1,20 @@
+{
+  "title": "🟢 CPI Special LIVE Trading NQ/ES/GOLD | DodgysDD",
+  "id": "Lprbu9HeOCI",
+  "url": "https://www.youtube.com/watch?v=Lprbu9HeOCI",
+  "duration_s": 9799,
+  "duration": "02:43:19",
+  "live_status": "was_live",
+  "release_timestamp": 1773231360,
+  "live_start_utc": "2026-03-11T12:16:00Z",
+  "live_start_ny": "2026-03-11 08:16:00 EDT (Wednesday, CPI day)",
+  "timestamp": 1773241587,
+  "timestamp_ny": "2026-03-11 11:06:27 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:16:00 + stream time. Checks: the CPI candle at stream ~00:14:00 -> 08:30:00; the Tradesea platform clock reads 09:52:25 at stream 01:36:30 (map 09:52:30) and 10:00:25 at 01:44:30 (map 10:00:30). Good to about +/-10 s.",
+  "chart": "NQ1! on TradingView (15m/3m/1m) for analysis; MNQ on Tradesea for the 'Lucid' account trades (clock visible)",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\Lprbu9HeOCI.webm (1280x720)",
+  "kind": "trading (CPI straddle demo on paper; 'chat poll' trades on Lucid eval accounts) + Q&A",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
