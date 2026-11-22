@@ -1,0 +1,20 @@
+{
+  "title": "ICT Educational Live Stream - Futures/Forex Tape Reading",
+  "id": "I3AJJI0RY00",
+  "url": "https://www.youtube.com/watch?v=I3AJJI0RY00",
+  "duration_s": 7721,
+  "duration": "02:08:41",
+  "live_status": "was_live",
+  "release_timestamp": 1694003185,
+  "live_start_utc": "2023-09-06T12:26:25Z",
+  "live_start_ny": "2023-09-06 08:26:25 EDT (Wednesday)",
+  "timestamp": 1694012874,
+  "timestamp_ny": "2023-09-06 11:07:54 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:26:17 + stream time. On-screen clock 08:52:53 at stream 00:26:36. The 10:00 ISM candle at ~01:33:40.",
+  "chart": "NQU2023 1m/5m (TradingView); ES, YM, gold, FX tabs",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\I3AJJI0RY00.mkv",
+  "kind": "trading (1 live long) + tape reading around 10:00 news",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

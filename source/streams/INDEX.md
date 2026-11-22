@@ -33,7 +33,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2024-03-01 | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | 1 (funded MNQ long, ~+30 pts TP) | 7 | done |
 | | ZAlQEve_WnE | NQ Day Trading Futures $NQ $ES $QQQ $SPY (ICT Joined Stream) | 2h48m | | | todo |
 | | SVeqDyk3DmA | NQ Day Trading Futures $NQ $ES $SPY $QQQ | 2h43m | | | todo |
-| | I3AJJI0RY00 | ICT Educational Live Stream - Futures/Forex Tape Reading | 2h8m | | | todo |
+| 2023-09-06 | I3AJJI0RY00 | ICT Educational Live Stream - Futures/Forex Tape Reading | 2h8m | 1 live (long 15,488.50, ~+10 pts, runner BE) + 1 demo | 4 | done |
 | | e7oYxdPNvhY | ICT Educational Live Stream - Futures/Forex Tape Reading | 1h59m | | | todo |
 | | ErsWq6j87uY | Simple ICT Strategy - Monday Night Class | 1h3m | | | todo |
 | | yVWktthvtJQ | ICT Live Trading + Education 4/21 | 2h13m | | | todo |
