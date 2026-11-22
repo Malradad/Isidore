@@ -92,7 +92,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-03-11 Lprbu9HeOCI | 10:51:24 | — | L | pattern-wise only; getting off | — |
 
 ## Running score
-- Streams audited: **13 of 37** (incl. 1 weekly outlook, no trades) · **(A) playbook takes: 13 → 7 wins (1 small), 4 breakeven, 2 losses** (his words; first 5 ✓px) ·
+- Streams audited: **14 of 37** (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 13 → 7 wins (1 small), 4 breakeven, 2 losses** (his words; first 5 ✓px) ·
   Skips: 48 (+4 in the gamble stream) · Price-checked: 5 of 13. Avg ≈ +0.45R per take ~ (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
@@ -112,6 +112,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   near-target winner back to BE; then widened the stop on the next trade and took −1R+.
 - **Both his losses came on days he'd flagged as bad** (4 Sep: no-context pattern trades; 14 Jul: CPI day he
   called a no-trade day in advance, "inside this range you're just guessing"). On clean days he wins.
+- **Bias (1 Mar lesson):** hard vs soft bias from the 15m/1h/4h FVG inversion; "stop-loss placement is basically
+  just a close back above the inversion" — matches the maker's confirmed stop rule ✓.
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.
