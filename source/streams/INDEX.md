@@ -37,7 +37,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2023-09-05 | e7oYxdPNvhY | ICT Educational Live Stream - Futures/Forex Tape Reading | 1h59m | 1 live (pre-open short, TP) + 2 demo/eval longs (1L, 1W) + 1 paper (BE) | 3 | done |
 | 2023-09-04 | ErsWq6j87uY | Simple ICT Strategy - Monday Night Class | 1h3m | 0 live (1 demo long, stopped) | 0 | done (class: prev-day high/low strategy) |
 | 2023-04-21 | yVWktthvtJQ | ICT Live Trading + Education 4/21 | 2h13m | 4 (1-lot: 2 L −$400, 2 W; net +$675 his count) | 0 | done |
-| | ksztwIzHgcE | ICT Live Trading + Education 3/24 | 2h47m | | | todo |
+| 2023-03-24 | ksztwIzHgcE | ICT Live Trading + Education 3/24 | 2h47m | demo scalps only (NQ longs early, 1 short); 1 scalp acct unknown | 1 | done |
 | | rr2qsQ5mRfM | Live Trading + Education 3/14 [CPI] | 3h29m | | | todo |
 | 2023-02-24 | XGuIB-0gn_A | Live Trading + Education 2/24 | 1h55m | 4 live ES (pre-stream short +7; small short W; long L; "revenge" short scratch) | 3 | done |
 | 2023-02-19 | hGw1rsg-eGo | Sunday Night Class (ICT) | 1h17m | 0 on stream (2 live ES trades recapped: 1 W, 1 BE) | 0 | no-trading (Sunday class, recaps) |

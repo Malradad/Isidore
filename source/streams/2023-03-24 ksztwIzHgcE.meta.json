@@ -1,0 +1,20 @@
+{
+  "title": "ICT Live Trading + Education 3/24",
+  "id": "ksztwIzHgcE",
+  "url": "https://www.youtube.com/watch?v=ksztwIzHgcE",
+  "duration_s": 10042,
+  "duration": "02:47:22",
+  "live_status": "was_live",
+  "release_timestamp": 1679662769,
+  "live_start_utc": "2023-03-24T12:59:29Z",
+  "live_start_ny": "2023-03-24 08:59:29 EDT (Friday)",
+  "timestamp": 1679674411,
+  "timestamp_ny": "2023-03-24 12:13:31 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:59:29 + stream time (no clock check; 9:45 news at ~00:45:48).",
+  "chart": "ES / NQ (TradingView) 1m-1h, DXY; Tradovate demo account",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\ksztwIzHgcE.webm",
+  "kind": "demo scalps + long education/tape reading (no real-money trades stated)",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
