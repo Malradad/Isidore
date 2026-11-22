@@ -191,3 +191,11 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Lesson:** his losses here come from breaking his own rules (time exit, moving the stop). Izzy's rules
   must include the ones he breaks: honor time exits; never widen a stop (already in codex/risk.md).
 - **New claims:** news-day "data high hits 90% of the time"; "10 AM reversal". Both testable.
+
+## 2026-11-22 · Audit: stream 6 (4 Sep NFP, part 1)
+- **Takes:** eval short after the NFP candle (+~47 pts, closed early) and a **live** long he himself called
+  "not a good trade… a pattern trade" → BE. Record 6W/2BE/1L across 9 playbook takes.
+- **Lesson:** all his non-wins so far sit on one day, and they share a pattern: he took a setup he had just
+  described as having no context, justified by a "93%" statistic. Context-free trades = his weak spot too.
+- **Missed winner:** after his BE he skipped a 30s long that ran ~+70 pts ("didn't re-enter"). Re-entry
+  after BE is an open question for the playbook.

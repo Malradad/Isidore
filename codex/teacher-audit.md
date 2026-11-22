@@ -18,11 +18,14 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-29 oiJnEazL4Lg | 09:31:42 | 1m | S | live (+eval) | ? | "probably no stop" | equal lows | win (his) | ? | ~px direction right: +110 pts after 2 h (best +132, worst −43); levels not logged | Judas swing off the open; CISD + IFVG after sweeping the high; LLR |
 | 2026-09-04 N6eOC8wtapo | before 09:50 (carried) | 1m | L | funded (~30 copy) | 29,599.50 ~ | 29,539.50 ~ | 29,694 (data high) | **BE** after coming ~2.5 pts from target; gave back ~+92 pts open | ~0 | — | NFP day; Judas swing re-entry; data high = relative equal highs + 08:30 high; planned "out by 10:00" but didn't exit |
 | 2026-09-04 N6eOC8wtapo | 10:14:30 | 30s | L | funded | ~29,629 ~ | 29,603.75 ~ → **widened** to 29,594.75 | 29,694 | **stop (−1R; ~−35 pts vs widened stop)** | −1.0 to −1.3 | — | "A setup", delivering from a gap, data high above; stop widened mid-trade |
+| 2026-09-04 chlCV294CTk | 08:44:34 | 1m/2m | S | eval | 29,558 ~ | 29,579 ~ | sellside 29,475 ~ | **closed early, ~+47 pts** | ~+2.2 ~ | — | NFP day after the 08:30 candle; "B setup… coming out the two minute"; exited early (eval already passed) |
+| 2026-09-04 chlCV294CTk | 09:14:14 | 2m | L | **live** (+funded, see 09:50 row) | 29,564.50 ~ | 29,535.25 ~ | 29,694.25 (data high) | **BE** (moved to BE before the open) | 0 | — | He called it "not a good trade… a pattern trade due to RR and statistics"; 25 min earlier he said such longs are pattern trading |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
 |---|---|---|
 | 2026-10-02 JUDH0MmuhQs | (N) NFP straddle, 4 minis, no stop, to pass a Lucid eval | long leg filled, "+$5,000", passed |
+| 2026-09-04 chlCV294CTk | (N) NFP straddle "full port", 4 minis, eval | short leg to target, passed (his) |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
 
@@ -48,10 +51,16 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-09-11 7vLdDIq4J0A | 10:21:01 | 3m | L | eval-only ~1R; already done | — |
 | 2026-09-04 N6eOC8wtapo | ~10:29 | 1m | L | external gap above; no CISD; "one confluence is not enough" | price kept falling ~ |
 | 2026-09-04 N6eOC8wtapo | 11:19:57 | — | S | (leaving) "only long if we sweep sell side" | — |
+| 2026-09-04 chlCV294CTk | 08:37:23 | 1m | L | no structure, sellside below: "pattern trader" | — |
+| 2026-09-04 chlCV294CTk | 09:29:35 | 30s | L | ("looks so good") just stopped at BE, didn't re-enter | **ran ~+70 pts** ~ (missed winner) |
+| 2026-09-04 chlCV294CTk | 09:31:27 | 5m | L | no real entry, would be a chase | — |
+| 2026-09-04 chlCV294CTk | 09:37:23 | — | S | data high above; no draw on liquidity down | — |
+| 2026-09-04 chlCV294CTk | 09:42:26 | 15s/30s | L | internal liquidity build-up "sucks"; rejecting BPR/0.705 | — |
 
 ## Running score
-- Streams audited: **5 of 37** · **(A) playbook takes: 7 → 5 wins, 1 breakeven, 1 loss** (his words; first 5 ✓px) ·
-  Skips: 20 (+4 in the gamble stream) · Price-checked: 5 of 7 (2026-11-22).
+- Streams audited: **6 of 37** · **(A) playbook takes: 9 → 6 wins, 2 breakeven, 1 loss** (his words; first 5 ✓px) ·
+  Skips: 25 (+4 in the gamble stream) · Price-checked: 5 of 9.
+- **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
 
