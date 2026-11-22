@@ -1,0 +1,20 @@
+{
+  "title": "ICT Live Trading + Education 4/21",
+  "id": "yVWktthvtJQ",
+  "url": "https://www.youtube.com/watch?v=yVWktthvtJQ",
+  "duration_s": 7999,
+  "duration": "02:13:19",
+  "live_status": "was_live",
+  "release_timestamp": 1682081993,
+  "live_start_utc": "2023-04-21T12:59:53Z",
+  "live_start_ny": "2023-04-21 08:59:53 EDT (Friday)",
+  "timestamp": 1682090904,
+  "timestamp_ny": "2023-04-21 11:28:24 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:59:53 + stream time (no on-screen clock check; treat as +/-1 min).",
+  "chart": "ES / NQ 1m-15m, DXY (TradingView)",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\yVWktthvtJQ.webm",
+  "kind": "trading (4 one-contract trades: 2 L, 2 W) + education",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
