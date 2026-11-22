@@ -41,6 +41,10 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-09-05 e7oYxdPNvhY | 09:12:35 | 1m | S | **live** (his tally) | not shown | ? | internal low before the FVG | **TP**, runner closed small + | ? | — | pre-open short |
 | 2023-09-05 e7oYxdPNvhY | 10:11:45 | 1m | L | demo + eval (light) | ? | close back under inversion | the high | **stop** | −1 | — | bad PA; "I fully expect this to fail" (teaching example) |
 | 2023-09-05 e7oYxdPNvhY | 10:18:22 | 1m | L | demo + eval | ~15,477 ~ | → BE ~15,490 | TP1 ~15,500, TP2 ~15,513 | **TP1 + runner TP2** (~+20 pts) | ~+2 ~ | — | re-entry after the stop |
+| 2023-02-24 XGuIB-0gn_A | pre-08:44 (recap) | 1m/5m | S (ES) | live | chased | above green candle | 1h sellside | **TP, +7 pts** (his) | ? | — | ES era; recap only |
+| 2023-02-24 XGuIB-0gn_A | 10:12:42 | 15s/1m | S (ES) | live | ~3,955 ~ | close back above FVG | the low ~3,950 | **TP (small)** | ? | — | after 10:00 news |
+| 2023-02-24 XGuIB-0gn_A | ~10:23:09 | 1m | L (ES) | live | ~3,950 ~ (equal lows) | ? | ? | **stop (small)** | −1 ~ | — | |
+| 2023-02-24 XGuIB-0gn_A | ~10:24:39 | 1m | S (ES) | live | ~3,952 ~ | ? | ? | **scratch** | 0 | — | "an emotional revenge trade" (his words) |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -137,10 +141,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-09-06 I3AJJI0RY00 | 10:23:45 | 2m/3m | S (ES/NQ) | missed "exactly the model" | worked ~ |
 | 2023-09-05 e7oYxdPNvhY | 09:35:44 | 1m | S (ES) | tape-read | +5 pts ES ~ |
 | 2023-09-05 e7oYxdPNvhY | 10:07:34 | — | L | bad PA: "log out of your funded, come back after 1:30" | — |
+| 2023-02-24 XGuIB-0gn_A | 09:40:26 | 1m/5m | L (ES) | just hit internal buy side | — |
 
 ## Running score
-- Streams audited: **25 of 37** (5 with no live trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 30 → 15 wins (1 small), 8 breakeven, 7 losses** (his words; first 5 ✓px) ·
-  Skips: 71 (+4 in the gamble stream) · Price-checked: 5 of 30. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **26 of 37** (5 with no live trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 34 → 17 wins (1 small), 9 breakeven, 8 losses** (his words; first 5 ✓px) ·
+  Skips: 74 (+4 in the gamble stream) · Price-checked: 5 of 34. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -201,6 +206,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **"I probably have like a 40% win rate on my eval accounts… I just don't alert the trades because a lot of them
   lose"** (9 Oct 2025). Confirms selection: what he shows ≠ what he trades.
 - **Weekly stop:** "once I'm up 5R or more in a week, I'm done" (live). Uses micros on props, minis on live.
+- **"Demo only today" then traded live and hid it** (24 Feb 2023): "I don't want to show you the trades I'm taking";
+  admitted a revenge trade at the end. Early-era discipline was weaker.
 - **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
