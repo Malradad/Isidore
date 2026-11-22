@@ -1,0 +1,20 @@
+{
+  "title": "🟢NFP Special LIVE Trading NQ/ES/GOLD | DodgysDD",
+  "id": "jOmHQ7INwFw",
+  "url": "https://www.youtube.com/watch?v=jOmHQ7INwFw",
+  "duration_s": 3896,
+  "duration": "01:04:56",
+  "live_status": "was_live",
+  "release_timestamp": 1775218416,
+  "live_start_utc": "2026-04-03T12:13:36Z",
+  "live_start_ny": "2026-04-03 08:13:36 EDT (Friday, NFP on Good Friday; futures closed at 09:15)",
+  "timestamp": 1775223411,
+  "timestamp_ny": "2026-04-03 09:36:51 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:13:36 + stream time. Check: the NFP candle ('and here it is') at stream ~00:16:29 -> 08:30:05. Good to about +/-30 s.",
+  "chart": "NQ1! on TradingView, 3m; paper/demo order lines shown ('for legal purposes' his Apex evals are on another screen)",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate ('28 pecs/Apex' = his Apex eval accounts).",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\jOmHQ7INwFw.webm (1280x720)",
+  "kind": "NFP news straddle on ~20 Apex evals (shown on paper) + weekly recap + replay backtests (not live trades)",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
