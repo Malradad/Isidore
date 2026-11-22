@@ -1,0 +1,20 @@
+{
+  "title": "🟢Asia Livestream Futures NQ/ES | DodgysDD",
+  "id": "7ZBHfQC6Nss",
+  "url": "https://www.youtube.com/watch?v=7ZBHfQC6Nss",
+  "duration_s": 6346,
+  "duration": "01:45:46",
+  "live_status": "was_live",
+  "release_timestamp": 1786922792,
+  "live_start_utc": "2026-08-16T23:26:32Z",
+  "live_start_ny": "2026-08-16 19:26:32 EDT (Sunday evening, Asia session / new week open)",
+  "timestamp": 1786929926,
+  "timestamp_ny": "2026-08-16 21:25:26 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 19:26:32 + stream time. No clock check said on stream (Asia); the chart date label reads 16/8/2026. Treat as +/-1 min.",
+  "chart": "NQ1! on TradingView, 3m/5m; 'paper Trading' label on screen; order lines visible",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited. Wording approximate.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\7ZBHfQC6Nss.webm (1280x720)",
+  "kind": "mostly Q&A / chat; 2 paper trades in the Asia session",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
