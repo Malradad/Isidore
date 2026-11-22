@@ -41,3 +41,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | | rr2qsQ5mRfM | Live Trading + Education 3/14 [CPI] | 3h29m | | | todo |
 | 2023-02-24 | XGuIB-0gn_A | Live Trading + Education 2/24 | 1h55m | 4 live ES (pre-stream short +7; small short W; long L; "revenge" short scratch) | 3 | done |
 | 2023-02-19 | hGw1rsg-eGo | Sunday Night Class (ICT) | 1h17m | 0 on stream (2 live ES trades recapped: 1 W, 1 BE) | 0 | no-trading (Sunday class, recaps) |
+
+## Status note (Audrey, 2026-11-22)
+- Transcripts for all streams from N6eOC8wtapo onward are Whisper (whisper.cpp base.en) because YouTube refused caption downloads (HTTP 429).
+- YouTube then blocked video downloads twice in a row ("Sign in to confirm you're not a bot") on **8wgnYYcVHuc** and **JrAXEtFejNw**, so per the rules I stopped downloading. Not yet downloaded: 8wgnYYcVHuc, JrAXEtFejNw, rr2qsQ5mRfM, f4LM3kNzquo (4). I will not use the maker's cookies. Downloaded and still to log: IF67n-KIDnA, SVeqDyk3DmA, ksztwIzHgcE, ZAlQEve_WnE, YKRoRbq1BTU.
