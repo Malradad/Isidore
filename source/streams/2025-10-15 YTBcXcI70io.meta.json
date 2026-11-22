@@ -1,0 +1,20 @@
+{
+  "title": "🚀 Launch Day: Trading ICT Futures LIVE with My New iFVG Indicator",
+  "id": "YTBcXcI70io",
+  "url": "https://www.youtube.com/watch?v=YTBcXcI70io",
+  "duration_s": 6689,
+  "duration": "01:51:29",
+  "live_status": "was_live",
+  "release_timestamp": 1760534719,
+  "live_start_utc": "2025-10-15T13:25:19Z",
+  "live_start_ny": "2025-10-15 09:25:19 EDT (Wednesday)",
+  "timestamp": 1760543138,
+  "timestamp_ny": "2025-10-15 11:45:38 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 09:25:10 + stream time. The TradingView clock (bottom right) reads 09:42:58 at stream 00:17:48 and 10:01:27 at 00:36:17, so the release_timestamp is ~9 s late; corrected map is good to about +/-3 s.",
+  "chart": "NQZ2025 (TradingView), 1m/30s, with his new 'iFVG Ultimate+' indicator; TradingView clock visible",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions rate-limited.",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\YTBcXcI70io.webm (1280x720)",
+  "kind": "trading (3 longs, indicator launch) + indicator settings walkthrough",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}
