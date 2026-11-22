@@ -1,0 +1,21 @@
+{
+  "title": "🟢NFP Special Live Trading NQ/ES/GOLD | DodgysDD Live From Las Vegas!",
+  "id": "chlCV294CTk",
+  "url": "https://www.youtube.com/watch?v=chlCV294CTk",
+  "duration_s": 5671,
+  "duration": "01:34:31",
+  "live_status": "was_live",
+  "release_timestamp": 1788523758,
+  "live_start_utc": "2026-09-04T12:09:18Z",
+  "live_start_ny": "2026-09-04 08:09:18 EDT (Friday, NFP day)",
+  "timestamp": 1788532910,
+  "timestamp_ny": "2026-09-04 10:41:50 EDT (VOD publish/processing time, not used)",
+  "time_map": "market time (NY) = 08:09:18 + stream time. Check: the NFP candle prints at stream ~00:20:35-00:20:40 -> 08:29:53-08:29:58. Good to about +/-30 s.",
+  "note": "Part 1 of NFP day 2026-09-04. Part 2 is N6eOC8wtapo (live from 09:50:13), which continues the funded long held at the end of this VOD.",
+  "chart": "NQ1! on TradingView, 1m/2m/30s",
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio; YouTube captions returned HTTP 429. Wording approximate ('fee'/'evil' = eval, 'full port' = full-port news straddle, 'data high' = day's high).",
+  "video_local": "%USERPROFILE%\isidore-videos\streams\chlCV294CTk.webm (1280x720)",
+  "kind": "trading (NFP news straddle + setups) + giveaway",
+  "collected_by": "Audrey",
+  "collected": "2026-11-22"
+}

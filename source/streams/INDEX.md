@@ -9,7 +9,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-09-29 | oiJnEazL4Lg |  LIVE TRADING Until I PASS My Eval + Minecraft Stream - DodgysDD | 7h49m | 26 (eval gamble; 4 accounts blown, 5th passed; 1 live) | 4 | done |
 | 2026-09-11 | 7vLdDIq4J0A | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h25m | 2 (1 news straddle + 1 setup) | 9 | done |
 | 2026-09-04 | N6eOC8wtapo | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live | 1h51m | 2 (1 carried in from before the VOD, BE; 1 new, −1R) | 2 | done |
-| | chlCV294CTk | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 1h34m | | | todo |
+| 2026-09-04 | chlCV294CTk | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 1h34m | 3 (1 news straddle on eval + 1 eval short + 1 live long, BE) | 6 | done |
 | | 7ZBHfQC6Nss | Asia Livestream Futures NQ/ES - DodgysDD | 1h45m | | | todo |
 | | MHyNCqLCI7k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h46m | | | todo |
 | | qbHHGoPD6Yc | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 2h30m | | | todo |
