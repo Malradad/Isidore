@@ -45,6 +45,10 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-02-24 XGuIB-0gn_A | 10:12:42 | 15s/1m | S (ES) | live | ~3,955 ~ | close back above FVG | the low ~3,950 | **TP (small)** | ? | — | after 10:00 news |
 | 2023-02-24 XGuIB-0gn_A | ~10:23:09 | 1m | L (ES) | live | ~3,950 ~ (equal lows) | ? | ? | **stop (small)** | −1 ~ | — | |
 | 2023-02-24 XGuIB-0gn_A | ~10:24:39 | 1m | S (ES) | live | ~3,952 ~ | ? | ? | **scratch** | 0 | — | "an emotional revenge trade" (his words) |
+| 2023-04-21 yVWktthvtJQ | 09:32:41 | 1m | L | 1 contract | ? | marked | equal highs | **stop, −$200** | −1 | — | "degen", taken early with no market-structure shift |
+| 2023-04-21 yVWktthvtJQ | ~09:46:54 | 1m | L | 1 contract | ? | ? | equal highs | **cut, −$200** | −1 | — | same idea again |
+| 2023-04-21 yVWktthvtJQ | 10:18:48 | 1m | L | 1 contract | ? | ? | equal highs / buyside | **TP early, ~+10 pts** (then ran ~30) | ? | — | |
+| 2023-04-21 yVWktthvtJQ | 10:51:08 | 1m | L | 1 contract | ~13,018 | ? | the high | **TP early, ~+5–10 pts** | ? | — | |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -145,8 +149,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-02-24 XGuIB-0gn_A | 09:40:26 | 1m/5m | L (ES) | just hit internal buy side | — |
 
 ## Running score
-- Streams audited: **27 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 34 → 17 wins (1 small), 9 breakeven, 8 losses** (his words; first 5 ✓px) ·
-  Skips: 74 (+4 in the gamble stream) · Price-checked: 5 of 34. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **28 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 38 → 19 wins (1 small), 9 breakeven, 10 losses** (his words; first 5 ✓px) ·
+  Skips: 74 (+4 in the gamble stream) · Price-checked: 5 of 38. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -179,6 +183,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   winners; his record still comes from the few he takes. Test: would taking his skipped A+ setups help?
 - **Time and structure kill inversions (5 Sep 2023):** inversions in Asia or chop fail; take them in killzones;
   inside a broadening formation (both sides swept) "inverses are not valid".
+- **"Right about where liquidity was, wrong about the order"** (21 Apr 2023): equal highs show *where*, not *when*.
+  Both losses that day were early entries with no market-structure shift.
 - **Consistent for 3 years (Sep 2023 → Nov 2026):** no longs with equal lows below / no shorts with equal highs
   above ("one of my first rules"); stop = close back through the inversion; scale most at the first internal
   high; a single FVG inversion is best, a double one "don't touch it".
