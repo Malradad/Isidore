@@ -72,6 +72,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
 |  | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
+|  | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 |  | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 |  | yrpp1FTZax0 | This IFVG Strategy Beats 90% Of Trading Strategies | whisper | done |
