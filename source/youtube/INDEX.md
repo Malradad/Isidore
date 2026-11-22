@@ -26,6 +26,8 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done (earlier) |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done (earlier) |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+|  | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
+|  | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
