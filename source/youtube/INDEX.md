@@ -41,11 +41,15 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | BFBcJqVFpAI | I Built the Most Accurate Trading Indicator in the World (No Clickbait) | whisper | done |
+|  | Cn57xwWxVAs | Why Your Premium & Discount Keep Failing – 50 % Reaction Explained | whisper | done |
+|  | Cn57xwWxVAs | Why Your Premium & Discount Keep Failing – 50 % Reaction Explained | whisper | done |
 |  | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
+|  | E3R30a_70E8 | How I Made $4000 Profit in 30 Seconds Today (No BS Trade Explanation) | whisper | done |
 |  | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
 |  | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
+|  | HxD2Og6L5to | The Side of Trading No One Talks About (I feel lost...) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IkTXIUDag4w | This Liquidity Masterclass Can Change Your Life | whisper | done |
