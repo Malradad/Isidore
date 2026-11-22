@@ -27,7 +27,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2025-10-15 | YTBcXcI70io |  Launch Day: Trading ICT Futures LIVE with My New iFVG Indicator | 1h51m | 3 (longs: −0.5R, −1R, +3R; net +1.5R) | 0 | done |
 | 2025-10-09 | q-cngrviF2A | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 2h8m | 5 Apex (short TP after widening stop; gold + NQ longs BE) + 2 paper | 1 | done |
 | 2025-08-10 | rKxoMCjqfgQ | Sunday Class (Introduction to Liquidity) | 0h26m | 0 | 0 | no-trading (class; liquidity tier list captured) |
-| | IF67n-KIDnA | 10,000% Win Rate ICT Daytrading Futures (iFVGs - Inversion Fair Value Gaps) | 2h38m | | | todo |
+| 2025-06-11 | IF67n-KIDnA | 10,000% Win Rate ICT Daytrading Futures (iFVGs - Inversion Fair Value Gaps) | 2h38m | 0 NQ (live personal BTC long shown, +$1.5K open; paper demos) | 1 | done |
 | 2025-01-22 | j0tG6Mj-ds4 | ICT Live Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 2h21m | 6 eval (~2W 2L + BEs) + 1 paper; no live | 4 | done |
 | | JrAXEtFejNw | ICT Day Trading Futures - 0% Win Rate! (Inversion Fair Value Gap Model) | 3h26m | | | todo |
 | 2024-03-01 | d1aj1D87IuM | Worst ICT Live Streamer - Day Trading Futures $NQ $ES $QQQ $SPY | 2h13m | 1 (funded MNQ long, ~+30 pts TP) | 7 | done |
