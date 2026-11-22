@@ -28,6 +28,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2025-10-15 YTBcXcI70io | 09:42:04 | 1m/30s | L | Apex (half size) | ~24,963 ~ | 24,947.25 ~ | 25,045.50 (buy side) | **stop** | −0.5 | — | indicator launch day; "I don't love this… bad play" |
 | 2025-10-15 YTBcXcI70io | 09:44:55 | 30s/1m | L | Apex (full) | ~24,978 ~ | ? | 25,045.50 | **stop** | −1.0 | — | "I know it's invalid, but I'm trying to take what the indicator is gonna alert" |
 | 2025-10-15 YTBcXcI70io | 09:51:48 | 30s | L | Apex (full) | 24,953.25 ~ | 24,926.25 ~ | 25,045.50 | **out early, ~+78 pts** (target hit later) | ~+2.9 | — | third attempt at the same idea; "footprints sold it"; rule: retry only if ≥ 2R |
+| 2025-10-09 q-cngrviF2A | pre-09:13 | 3m | S | Apex (half, micros) | 25,321.25 ~ | 25,330 ~ → **widened** 25,334.50 | 25,293.75 (LRLR) | **TP** after widening stop "last second" | ~+3 (vs original) | — | "a B… just guessing"; would have been stopped without the widen |
+| 2025-10-09 q-cngrviF2A | 10:49:51 | 5m | L (gold) | Apex (2 micros) | ~4,035 ~ | ~4,029.5 ~ | 4,046.2 (equal highs, 1R) | **BE** | 0 | — | gold model window 8–12 |
+| 2025-10-09 q-cngrviF2A | 11:00:07 | 5m | L | Apex ("really light") | ~25,250 ~ | 25,220.25 ~ | 25,349 (LRLR) | **BE** | 0 | — | late session |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -38,6 +41,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2025-10-09 q-cngrviF2A | (P) 2 paper trades ("complete pattern trade"; "for fun") | BE; not shown |
 | 2025-11-14 imzrLPjXVxE | (P) two PM paper shorts ("this just shows why I don't trade PM") | 1 likely stopped, 1 open +£319 at stream end |
 | 2026-02-13 7w6pya1dubs | (N) CPI straddle + **hedging across Apex accounts** (long in one, short in another); (P) 1m "F/U long… for fun, accounts I don't really care about" | straddle: "passed five Topsteps"; F/U long cut for a loss |
 | 2026-03-11 Lprbu9HeOCI | (N) CPI straddle on paper; (C) chat-poll short he disagreed with ("trading through a 15 minute") | straddle ~TP; poll short −$167.50 (−1R) |
@@ -102,10 +106,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-02-13 7w6pya1dubs | 09:43:33 | 1m | L | "A+", but against his bias | **hit target** ~ (data high) |
 | 2026-02-13 7w6pya1dubs | 09:55:14 | 1m/30s | L | B setup; missed the 30s | — |
 | 2025-11-14 imzrLPjXVxE | 14:30:32 | 1m | L | tape-read only (PM) | failed ("getting cooked") |
+| 2025-10-09 q-cngrviF2A | 09:53:15 | — | S (YM) | tape/chase call, no position | YM level hit (his) |
 
 ## Running score
-- Streams audited: **18 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 17 → 9 wins (1 small), 4 breakeven, 4 losses** (his words; first 5 ✓px) ·
-  Skips: 54 (+4 in the gamble stream) · Price-checked: 5 of 17. Avg ≈ +0.6R per take ~ (≈ +10R total) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **19 of 37** (3 with no trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 20 → 10 wins (1 small), 6 breakeven, 4 losses** (his words; first 5 ✓px) ·
+  Skips: 55 (+4 in the gamble stream) · Price-checked: 5 of 20. Avg ≈ +0.65R per take ~ (≈ +13R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
@@ -152,6 +157,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **His indicator can hide losers:** the "remove losing setups" display option means its chart history (and any
   marketing win rate shown from it) is not evidence.
 - **"I've made more money off of Discord than I have trading"** (15 Oct 2025, his words).
+- **"I probably have like a 40% win rate on my eval accounts… I just don't alert the trades because a lot of them
+  lose"** (9 Oct 2025). Confirms selection: what he shows ≠ what he trades.
+- **Weekly stop:** "once I'm up 5R or more in a week, I'm done" (live). Uses micros on props, minis on live.
 - **Income:** "about 65k a month" from his Discord (7 Aug) — teaching, not trading, may be his main income.
 - **Honesty flags:** his account results mix (N) straddles and (G) gambling with playbook trades;
   "100% win rate this week", "80% win rate, avg RR 1.5" are claims to test, not facts.
