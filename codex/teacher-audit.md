@@ -55,6 +55,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-12 MHyNCqLCI7k | (N) CPI straddle on paper; data "leaked" early, buy stop filled ~53 pts high, reversed | **≈ −$10.7k paper** (first straddle loss) |
 | 2026-08-12 MHyNCqLCI7k | (P) paper 30s long he "didn't love"; (O) funded short at the "30k level", "not really my model" | long: 3 of 4 to target; short: got out (P&L not said) |
 | 2026-08-07 qbHHGoPD6Yc | (N) NFP straddle on paper + Tenacity competition account | long leg; +$245.64 (competition) |
+| 2023-02-19 hGw1rsg-eGo | (R) recaps only, Sunday class: 2 live ES trades he describes (1 win, 1 BE) — not seen live, excluded | — |
 | 2023-09-04 ErsWq6j87uY | (P) Sunday-night demo long (class) | stopped |
 | 2023-09-05 e7oYxdPNvhY | (P) paper ES 3m short | BE |
 | 2023-09-06 I3AJJI0RY00 | (P) demo 1m long against his bias, no clear target | not shown |
@@ -144,7 +145,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-02-24 XGuIB-0gn_A | 09:40:26 | 1m/5m | L (ES) | just hit internal buy side | — |
 
 ## Running score
-- Streams audited: **26 of 37** (5 with no live trading) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 34 → 17 wins (1 small), 9 breakeven, 8 losses** (his words; first 5 ✓px) ·
+- Streams audited: **27 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 34 → 17 wins (1 small), 9 breakeven, 8 losses** (his words; first 5 ✓px) ·
   Skips: 74 (+4 in the gamble stream) · Price-checked: 5 of 34. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
