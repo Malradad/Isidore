@@ -242,3 +242,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   win rate higher than off-stream; his indicator can hide losing setups; hedging across prop accounts.
 - **Rules worth keeping:** one trade a day; 09:30–10:30 (best 09:30–09:50); re-entry only for ≥ 2R ideas, max 3;
   trend-line targets are where both his best wins and most losses come from.
+
+## 2026-11-22 · Test plan run 1: his own mechanical model, his no-trade filters, his management
+- **Did:** coded his 2023 mechanical model ("Izzy P1 mechanical") and ran it deep on 5m/15m 2019–2026, split in
+  halves; each no-trade filter alone and all together; partial + runner; 10:00 time exit.
+- **Learned ✓ (price):** the pure model fails (5m PF 0.75 / 1.04; 15m 1.38 / 0.88; win 23–37%, not 80%).
+  With all four of his no-trade filters it is positive in both halves (1.08 / 1.33), and with a 10:00 exit
+  1.20 / 1.40 — but only 94 trades, and no filter helps on its own. Claims 16 ✗ (alone), 17 ✗ as stated / ~ with filters.
+- **Decided ~:** this is the first rule set worth forward-testing unchanged. No more tuning on it.
+  Next: P4 target tiers, P5 descriptives, P2b news rule; check the rule set against his audited stream days.
+- **Maker:** asked for the plan (relayed); results pending review.

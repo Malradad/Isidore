@@ -24,10 +24,10 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 15 | streams/2025-08-10 rKxoMCjqfgQ @ 00:14:40 | NQ | His liquidity tier list: S/A pools get hit more often than C/F | Backtest: classify pools by tier, measure % reached within the session | Next quota | — | Directly tests context Q2 |
 
-| 16 | streams/2025-01-22 j0tG6Mj-ds4 @ 01:15:55 | NQ | "If we get over a 200-point overnight move, New York AM usually sucks" | Backtest: overnight range > 200 pts vs not → v0.4/1-per-day results 09:30–11:00 | Next quota | — | Would become a no-trade-day filter (context Q7) |
+| 16 | streams/2025-01-22 j0tG6Mj-ds4 @ 01:15:55 | NQ | "If we get over a 200-point overnight move, New York AM usually sucks" | Backtest: overnight range > 200 pts vs not → v0.4/1-per-day results 09:30–11:00 | ✓ 2026-11-22 | ✗ Not supported alone | On his own model (P1, 5m): filter alone PF 0.69 (2019–22) / 0.92 (2023–26) vs no filter 0.75 / 1.04 — worse in both. Helps only inside the full filter set. `journal/backtests/2026-11-22-plan.md` |
 
-| 17 | streams/2023-09-04 ErsWq6j87uY @ 00:51:23 | MNQ | His mechanical model (PDH/PDL sweep → last single opposite 5m/15m FVG inversion, London/NY, 1/day) is profitable: "80% at least", "guaranteed profitable after two weeks" | Deep backtest on MNQ 5m/15m, 2019–2026, split by year | Next quota | — | **Highest-priority test**: his own rules, his own context |
+| 17 | streams/2023-09-04 ErsWq6j87uY @ 00:51:23 | MNQ | His mechanical model (PDH/PDL sweep → last single opposite 5m/15m FVG inversion, London/NY, 1/day) is profitable: "80% at least", "guaranteed profitable after two weeks" | Deep backtest on MNQ 5m/15m, 2019–2026, split by year | ✓ 2026-11-22 | ✗ Not supported as stated; ~ promising with all his filters | Pure model 5m: PF 0.75 (2019–22) / 1.04 (2023–26), win 23–25% (not 80%). 15m: 1.38 / 0.88. **With all his no-trade filters + 10:00 exit: PF 1.20 (36 tr) / 1.40 (58 tr)** — holds in both halves but only 94 trades; no single filter helps alone. `journal/backtests/2026-11-22-plan.md` |
 
-**Running record:** 17 claims · 6 judged (1 supported, 1 partly, 4 not) · hit rate 1–1.5 / 6
+**Running record:** 17 claims · 8 judged (1 supported, 2 partly, 5 not) · hit rate 1–2 / 8
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.
