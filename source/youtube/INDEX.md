@@ -32,6 +32,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
+|  | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
