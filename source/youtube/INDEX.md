@@ -88,6 +88,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
 |  | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
 |  | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
+|  | rdK-PT_e0WY | Raw Unedited Daily Trade Recap 7.11.25 (No Marketing All Education) | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 |  | tRnWV2aTiPk | This is Why Data Wicks Are the Best Draw On Liquidity (Trade Recap) | whisper | done |
