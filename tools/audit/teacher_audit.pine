@@ -1,0 +1,19 @@
+//@version=5
+// Price-check Dodgy's logged (A) playbook takes (codex/teacher-audit.md). Run as Deep Backtest on CME_MINI:NQ1! 1m.
+// Enters at the close of the 1m bar containing his timestamp; exits at his logged stop/target, else after N bars.
+// The trade list's run_up / drawdown give best / worst excursion before exit.
+strategy("Izzy teacher audit", overlay=true, process_orders_on_close=true, default_qty_type=strategy.fixed, default_qty_value=1, commission_value=0, slippage=0, pyramiding=0)
+var T  = array.from(timestamp("America/New_York", 2026, 11, 2, 9, 39), timestamp("America/New_York", 2026, 11, 2, 10, 10), timestamp("America/New_York", 2026, 10, 2, 9, 42), timestamp("America/New_York", 2026, 9, 11, 8, 38), timestamp("America/New_York", 2026, 9, 29, 9, 31))
+var S  = array.from(1, 1, 1, 1, -1)
+var SL = array.from(28660.25, 28706.0, 31101.75, float(na), float(na))
+var TP = array.from(28723.5, 28750.0, 31190.0, 29400.0, float(na))
+maxBars = input.int(120, "Time exit after N bars")
+var int entryBar = na
+for i = 0 to 4
+    if time == array.get(T, i) and strategy.position_size == 0
+        id = "T" + str.tostring(i + 1)
+        strategy.entry(id, array.get(S, i) == 1 ? strategy.long : strategy.short)
+        strategy.exit(id + "x", id, stop=array.get(SL, i), limit=array.get(TP, i))
+        entryBar := bar_index
+if strategy.position_size != 0 and not na(entryBar) and bar_index - entryBar >= maxBars
+    strategy.close_all(comment="time")

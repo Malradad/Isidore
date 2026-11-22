@@ -11,11 +11,11 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 ## Takes — (A) playbook
 | stream | market time (NY) | tf | side | account | entry | stop | target | result (his) | R | ✓px | setup context he named |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-11-02 KhQiTa8YxJk | 09:39:21 | 30s | L | live+evals | 28,695.50 ~ | 28,660.25 ~ | 28,723.50 ~ | TP | +0.8 ~ | — | 30s inverse off manipulation leg; 4h inverse bias |
-| 2026-11-02 KhQiTa8YxJk | 10:10:12 | 30s | L | Vest, light | 28,720.25 ~ | 28,706.00 ~ | 28,750.00 ~ | TP (~$600) | ~+2.1 ~ | — | B setup; BPR holding; momentum candle out of chop; CISD; LRLR above |
-| 2026-10-02 JUDH0MmuhQs | 09:42:57 | 1m | L | props (copy) | 31,154.25 ~ (model 31,146.50) | 31,101.75 ~ (OB) | 31,190 partial, runner 31,223 | partial at high, runner BE | ~+0.7 to +1.3 ~ | — | NFP day; sweep of sellside into 50% discount; 1m IFVG + OB; waited ~10 min for the close; "only trade of the day" |
-| 2026-09-11 7vLdDIq4J0A | 08:38:09 | 1m | L | ? (1 mini) | ~29,350 ~ | swing low (not shown) | data highs ~29,400 ~ | TP (~$1,000, ~+50 pts) | ? | — | CPI day; V-shape; inverse to the news candle's data highs; BE at rejection block; then "done for the day" |
-| 2026-09-29 oiJnEazL4Lg | 09:31:42 | 1m | S | live (+eval) | ? | "probably no stop" | equal lows | win (his) | ? | — | Judas swing off the open; CISD + IFVG after sweeping the high; LLR |
+| 2026-11-02 KhQiTa8YxJk | 09:39:21 | 30s | L | live+evals | 28,695.50 ~ | 28,660.25 ~ | 28,723.50 ~ | TP | +0.8 ~ | ✓px TP first (fill 28,711.75 at the minute close; worst −24 pts, stop never touched) | 30s inverse off manipulation leg; 4h inverse bias |
+| 2026-11-02 KhQiTa8YxJk | 10:10:12 | 30s | L | Vest, light | 28,720.25 ~ | 28,706.00 ~ | 28,750.00 ~ | TP (~$600) | ~+2.1 ~ | ✓px TP first (fill 28,719.25; no adverse move) | B setup; BPR holding; momentum candle out of chop; CISD; LRLR above |
+| 2026-10-02 JUDH0MmuhQs | 09:42:57 | 1m | L | props (copy) | 31,154.25 ~ (model 31,146.50) | 31,101.75 ~ (OB) | 31,190 partial, runner 31,223 | partial at high, runner BE | ~+0.7 to +1.3 ~ | ✓px partial 31,190 first (fill 31,146.50 = his model entry; worst −1.75 pts) | NFP day; sweep of sellside into 50% discount; 1m IFVG + OB; waited ~10 min for the close; "only trade of the day" |
+| 2026-09-11 7vLdDIq4J0A | 08:38:09 | 1m | L | ? (1 mini) | ~29,350 ~ | swing low (not shown) | data highs ~29,400 ~ | TP (~$1,000, ~+50 pts) | ? | ✓px 29,400 reached (fill 29,371.75; worst −29 pts; his stop not logged) | CPI day; V-shape; inverse to the news candle's data highs; BE at rejection block; then "done for the day" |
+| 2026-09-29 oiJnEazL4Lg | 09:31:42 | 1m | S | live (+eval) | ? | "probably no stop" | equal lows | win (his) | ? | ~px direction right: +110 pts after 2 h (best +132, worst −43); levels not logged | Judas swing off the open; CISD + IFVG after sweeping the high; LLR |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -47,7 +47,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 
 ## Running score
 - Streams audited: **4 of 37** · **(A) playbook takes: 5, all wins by his words** (2 full TP, 1 partial+runner BE,
-  1 TP ~+50 pts, 1 live short "won") · Skips: 18 (+4 in the gamble stream) · Price-checked: 0
+  1 TP ~+50 pts, 1 live short "won") · Skips: 18 (+4 in the gamble stream) · **Price-checked: 5/5 (2026-11-22): 4 hit his target first, 1 right direction**
 - (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
 

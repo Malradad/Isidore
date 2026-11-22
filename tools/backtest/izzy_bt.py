@@ -127,6 +127,10 @@ class Config:
     fuel_target: bool = False      # target = top of the fuel chain (when >= 2 levels)
     skip_two_sided: bool = False   # skip when a fuel chain (>= 2) also sits on the opposite side
     one_false_move: bool = False   # only the first signal of the day may trade
+    # ── claim 11: multi-timeframe confluence (run on 1m bars; HTFs built from them) ──
+    mtf_mode: str = "Off"          # "Confluence" | "No confluence"
+    mtf_win: int = 0               # 0 = version A (same closing moment); N = version B (HTF inversion in last N min)
+    mtf_tfs: tuple = (2, 3, 5)
 
 
 # ───────── engine ─────────
@@ -196,8 +200,46 @@ def fuel_chain(levels: list[float], px: float, side: int) -> tuple[float | None,
     return last, n
 
 
+def raw_inversions(bars: list[Bar], cfg: Config) -> list[int]:
+    """Per bar: 1 = bullish inversion (close above a bearish gap, up candle), 2 = bearish, 3 = both, 0 = none.
+    Same gap rules as the signal (min gap ticks, max age) but no sweep. Mirrors f_inv in the lab script."""
+    out = [0] * len(bars); gaps = []
+    for i, b in enumerate(bars):
+        if i > 2:
+            if b.l > bars[i - 2].h and b.l - bars[i - 2].h >= cfg.min_gap_ticks * TICK:
+                gaps.append([b.l, bars[i - 2].h, 1, i])
+            if b.h < bars[i - 2].l and bars[i - 2].l - b.h >= cfg.min_gap_ticks * TICK:
+                gaps.append([bars[i - 2].l, b.h, -1, i])
+        bull = bear = False
+        for g in reversed(list(gaps)):
+            top, bot, d, gb = g
+            if i - gb > cfg.max_gap_age:
+                gaps.remove(g)
+            elif i > gb:
+                if d == -1 and b.c > top and b.c > b.o:
+                    bull = True; gaps.remove(g)
+                elif d == 1 and b.c < bot and b.c < b.o:
+                    bear = True; gaps.remove(g)
+        out[i] = (1 if bull else 0) + (2 if bear else 0)
+    return out
+
+
+def htf_events(bars: list[Bar], cfg: Config) -> dict:
+    """Map 1m bar close time -> (aligned: bool, bull: bool, bear: bool) from HTF bars closing at that moment."""
+    ev = {}
+    for tf in cfg.mtf_tfs:
+        hb = resample(bars, tf); inv = raw_inversions(hb, cfg)
+        for h, f in zip(hb, inv):
+            key = h.t + tf * 60  # HTF close time
+            a, bu, be = ev.get(key, (False, False, False))
+            ev[key] = (True, bu or f in (1, 3), be or f in (2, 3))
+    return ev
+
+
 def run(bars: list[Bar], cfg: Config, collect_signals: bool = False):
     n = len(bars)
+    ev = htf_events(bars, cfg) if cfg.mtf_mode != "Off" else {}
+    last_bull_t = last_bear_t = None
     tick = TICK
     ph, pl = pivots(bars, cfg.piv_len)
     phs: list[float] = []; pls: list[float] = []
@@ -398,6 +440,21 @@ def run(bars: list[Bar], cfg: Config, collect_signals: bool = False):
             sig = None
         if sig and cfg.skip_two_sided and sig.two_sided:
             sig = None
+        if cfg.mtf_mode != "Off":
+            close_t = b.t + step
+            aligned, hbull, hbear = ev.get(close_t, (False, False, False))
+            if hbull: last_bull_t = close_t
+            if hbear: last_bear_t = close_t
+            if sig:
+                if cfg.mtf_win == 0:
+                    conf = hbull if sig.side == 1 else hbear
+                    ok = conf if cfg.mtf_mode == "Confluence" else (aligned and not conf)
+                else:
+                    lt = last_bull_t if sig.side == 1 else last_bear_t
+                    conf = lt is not None and close_t - lt <= cfg.mtf_win * 60
+                    ok = conf if cfg.mtf_mode == "Confluence" else not conf
+                if not ok:
+                    sig = None
         if sig and cfg.one_false_move:
             if day_first_sig_used:
                 sig = None

@@ -173,3 +173,12 @@ _Session entries: date · what was learned · decision · maker response · perf
   CPI/NFP-day behaviour after the 08:30 candle.
 - **Next:** price-check the 5 playbook takes (TradingView quota reset today), and test
   "1 trade/day + his skip filters (premium, RR, no-BE-point)" in the backtester.
+
+## 2026-11-22 · Claim 11 (multi-TF confluence) and the first price-checked teacher trades
+- **Did:** coded claim 11 into the lab (v3.0) and Python (verified: same 31 trades on recent bars); deep 1m
+  test 2023-11 → 2026-11, versions A and B with aligned controls. Price-checked his 5 playbook takes.
+- **Learned ✓ (price):** claim 11 not supported: A PF 0.88 vs control 0.91, B 0.906 vs 0.907.
+  His 5 playbook takes all hold up: 4 hit his target first (stops untouched), 1 went his way.
+- **Decided ~:** the gap between my mechanical rules (losing) and his picks (5/5) is the thing to study.
+  Next: label every skip/take in Audrey's logs with the context he named and look for what separates them.
+- **Maker:** approved both tasks (relayed); merge to main awaits the maker's direct OK.

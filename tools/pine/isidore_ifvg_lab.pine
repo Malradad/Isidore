@@ -1,5 +1,6 @@
 //@version=5
-// Isidore (Izzy) — iFVG LAB v0.5.1 (backtest only, no alerts; base = v0.4). Saved in TradingView as "Izzy iFVG lab" v2.0
+// Isidore (Izzy) — iFVG LAB v0.5.1 (backtest only, no alerts; base = v0.4). Saved in TradingView as "Izzy iFVG lab" v3.0
+// v0.5.2: claim 11 multi-timeframe confluence gate (mtfMode, mtfWin), HTF inversions on 2/3/5m via request.security.
 // v0.5.1: flatSess (default on) closes at the close of the last bar of each session (early closes, weekends); no entries on it.
 // v0.2 alert on every setup · v0.3 trade all hours (default on)
 // v0.4 two-stage alerts (ARMED before close → CONFIRMED / CANCELLED at close),
@@ -70,6 +71,8 @@ reqPush    = input.bool(false, "Require push-through <= N bars", group=G9)
 fuelTgt    = input.bool(false, "Fuel target: top of the unbroken lower-high chain", group=G9)
 skipTwo    = input.bool(false, "Skip when fuel sits on the opposite side too (two-sided)", group=G9)
 firstOnly  = input.bool(false, "First signal of the day only (one false move)", group=G9)
+mtfMode    = input.string("Off", "Claim 11: HTF (2/3/5m) inversion confluence", options=["Off", "Confluence", "No confluence"], group=G9)
+mtfWin     = input.int(0, "Claim 11 window (min): 0 = same closing moment (A), N = within N min (B)", minval=0, group=G9)
 flatSess   = input.bool(true, "Flatten at the close of the last bar of each session (early closes, weekends); no entries on it. Off = v0.4", group=G9)
 
 // ───────── Helpers ─────────
@@ -117,6 +120,44 @@ f_fuel(array<float> arr, float px, bool up) =>
                 else
                     break
     [last, len]
+
+// Raw inversion on any series (no sweep): 1 = bullish, 2 = bearish, 3 = both. Used on 2/3/5m for claim 11.
+f_rm(array<float> a, array<float> b, array<int> c, array<int> d, int i) =>
+    array.remove(a, i)
+    array.remove(b, i)
+    array.remove(c, i)
+    array.remove(d, i)
+f_inv() =>
+    var array<float> gT = array.new_float()
+    var array<float> gB = array.new_float()
+    var array<int>   gD = array.new_int()
+    var array<int>   gI = array.new_int()
+    bool bull = false
+    bool bear = false
+    if bar_index > 2
+        if low > high[2] and low - high[2] >= minGapTicks * syminfo.mintick
+            array.push(gT, low)
+            array.push(gB, high[2])
+            array.push(gD, 1)
+            array.push(gI, bar_index)
+        if high < low[2] and low[2] - high >= minGapTicks * syminfo.mintick
+            array.push(gT, low[2])
+            array.push(gB, high)
+            array.push(gD, -1)
+            array.push(gI, bar_index)
+    if array.size(gT) > 0
+        for i = array.size(gT) - 1 to 0
+            age = bar_index - array.get(gI, i)
+            if age > maxGapAge
+                f_rm(gT, gB, gD, gI, i)
+            else if age > 0
+                if array.get(gD, i) == -1 and close > array.get(gT, i) and close > open
+                    bull := true
+                    f_rm(gT, gB, gD, gI, i)
+                else if array.get(gD, i) == 1 and close < array.get(gB, i) and close < open
+                    bear := true
+                    f_rm(gT, gB, gD, gI, i)
+    (bull ? 1 : 0) + (bear ? 2 : 0)
 
 // ───────── Swings: liquidity pools and sweeps ─────────
 ph = ta.pivothigh(high, pivLen, pivLen)
@@ -268,12 +309,40 @@ f_gate(bool eng, int age, int oppN) =>
     ok := skipTwo ? ok and oppN < 2 : ok
     ok
 
+inv2 = request.security(syminfo.tickerid, "2", f_inv(), lookahead=barmerge.lookahead_off)
+inv3 = request.security(syminfo.tickerid, "3", f_inv(), lookahead=barmerge.lookahead_off)
+inv5 = request.security(syminfo.tickerid, "5", f_inv(), lookahead=barmerge.lookahead_off)
+c2 = time_close % 120000 == 0
+c3 = time_close % 180000 == 0
+c5 = time_close % 300000 == 0
+mtfAligned = c2 or c3 or c5
+hBull = (c2 and (inv2 == 1 or inv2 == 3)) or (c3 and (inv3 == 1 or inv3 == 3)) or (c5 and (inv5 == 1 or inv5 == 3))
+hBear = (c2 and inv2 >= 2) or (c3 and inv3 >= 2) or (c5 and inv5 >= 2)
+var int lastBullT = na
+var int lastBearT = na
+if hBull
+    lastBullT := time_close
+if hBear
+    lastBearT := time_close
+f_mtfOK(int side) =>
+    bool ok = true
+    if mtfMode != "Off"
+        bool conf = false
+        if mtfWin == 0
+            conf := side == 1 ? hBull : hBear
+            ok := mtfMode == "Confluence" ? conf : (mtfAligned and not conf)
+        else
+            lt = side == 1 ? lastBullT : lastBearT
+            conf := not na(lt) and time_close - lt <= mtfWin * 60000
+            ok := mtfMode == "Confluence" ? conf : not conf
+    ok
+
 newDay = ta.change(time("D")) != 0
 var bool daySig = false
 if newDay
     daySig := false
-longGo  = longSig and f_gate(lEng, longAge, lOppN)
-shortGo = not longSig and shortSig and f_gate(sEng, shortAge, sOppN)
+longGo  = longSig and f_gate(lEng, longAge, lOppN) and f_mtfOK(1)
+shortGo = not longSig and shortSig and f_gate(sEng, shortAge, sOppN) and f_mtfOK(-1)
 if firstOnly and daySig
     longGo := false
     shortGo := false
