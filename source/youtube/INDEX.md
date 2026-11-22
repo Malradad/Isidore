@@ -35,6 +35,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 |  | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
+|  | TSpdkjI3VNs | My "Stupid Simple" ICT Strategy That Actually Works | whisper | done |
 |  | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
