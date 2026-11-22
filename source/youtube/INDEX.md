@@ -34,6 +34,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
 |  | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
+|  | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 |  | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 |  | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
