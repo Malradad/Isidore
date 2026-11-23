@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20251106 | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
+| 20251030 | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
+| 20251027 | S5JNoso6fG0 | How I Built my Trading Empire From Scratch ｜ The Story Behind DodgysDD | whisper | done |
+| 20251018 | BFBcJqVFpAI | I Built the Most Accurate Trading Indicator in the World (No Clickbait) | whisper | done |
+| 20251013 | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
 | 20251008 | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 | 20251006 | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
 | 20251001 | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |

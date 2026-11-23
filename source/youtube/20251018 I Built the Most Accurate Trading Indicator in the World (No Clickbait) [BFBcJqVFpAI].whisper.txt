@@ -1,0 +1,360 @@
+[00:00:00] You know how frustrated I get when I miss a perfect 8+ IVG setup in live time, pretty frustrating. And that's exactly why I made this new ultimate indicator, which is absolutely perfect for not only people that are at work, want to see a plus setup so that it works,
+[00:00:14] but also perfect for people who struggle spotting IVG setups and want everything marked out for them. My new indicator automatically detects imbalances, a higher time frame frame rally gaps,
+[00:00:24] deliveries, SMGs and much much more. No more second guessing, no more messy charts, and it's the same structure I use to trade IVGs and ICT every single day.
+[00:00:35] Now built in the one tool with future updates to come. So as you guys can see, my indicator finally came out and it is better than ever. Okay, I truly believe for those of me who last lose the last indicator, I've already gotten so much feedback on why and this is better
+[00:00:51] on the old one and it's absolutely insane the amount of positive feedback I've received about this indicator just for example here's a few messages to show. Now before you send me your money because I don't want your money I really don't want you to buy
+[00:01:13] this unless you don't like it please watch the whole video decide if you like or not and I'm I'm gonna give you my full thoughts the best settings and what I believe is going to truly help you now Remember we are still rolling out a lot of updates like it's being almost updated every a couple days
+[00:01:27] There's a lot of bug fixes still but for now. It's really really solid start There's still a lot of more customizable features
+[00:01:34] We have to make such as changing the color of you know session lines It's just different things like that. So just stay tuned There's a lot more coming and there's gonna be a lot more settings coming including CIs these along with it
+[00:01:46] and a couple other really nice influences. Now, when you go to purchase an indicator, which is in the link in the description,
+[00:01:54] which please do not purchase it right away. Okay, just watch first. You'll go to your indicators tab, you have to make sure that your trading view
+[00:02:01] is fully connected with WAP. Okay, so when you're on WAP, make sure your trading view is connected, and then you should have in your invite only right here.
+[00:02:09] Okay, it should appear somewhere in here. And it will be called ifgultimateplus.ddd. Okay, that's what it's called.
+[00:02:16] Now, when you first log this indicator in chart, there's a lot of things you can customize. And I'm gonna be going over every single thing
+[00:02:23] in this video and what I believe the best settings are, depending on your situation. Okay, now, as you can see, this was a setup we got today.
+[00:02:30] And it was a really good setup. It rated an A, there's a checklist at the bottom, it says setup grade, gave it an A setup. Pretty sick if you ask me,
+[00:02:38] it even gives like check marks on, you know, what we had, like we had a liquidity sweep, We had a higher time frame PD, PD array delivery, we have momentum, which basically just means there was a ton of volume on this.
+[00:02:50] We had IPG obviously clear target and we had some tea. Now let me go over my settings and what I'm going to personally be setting alerts for and what I think you should do based on your first scenario.
+[00:03:03] And there's going to be kind of three different settings here. Now I'm going to completely open up a new chart and I'm going to probably share this with you guys so I'm going to create a new layout here and I'm going to call it
+[00:03:14] okay shared indicator template okay and this is going to be a template where I'm going to share with you guys I'm not going to touch this and you guys will be able to you know
+[00:03:26] copy my settings if you want now when you go on to add it just go to invite only click this and I should be good to go now I'm going to be adding three different ones because I'm
+[00:03:37] I'm gonna show you three different settings. I think are gonna be the best. And I'm gonna show you what setting you should use based on what you're doing, okay?
+[00:03:45] So for now, I'm gonna make sure these first two things are off and I'm just gonna customize the first one for now, okay? Now, just before we begin,
+[00:03:53] you need to have the trading view premium plan if you want alerts. And you're not gonna get alerts if you just add the indicator that would make no sense. You're actually going to physically,
+[00:04:01] you're going to have to go to the more feature here and add alert on IFG Ultimate Plus. And whatever the setting is at the time, that's the alerts going to be created.
+[00:04:10] So for example, in the settings, if I go all the way down and I have every single alert turned off and I create an alert for this, it will not alert you.
+[00:04:17] Some people are having trouble with that already. Make sure when you're actually adding the alert, it's already there and it's already checked off, okay? So yeah, all right.
+[00:04:26] Now, let's just get into this, okay? I'm just going to go to this. I kind of want to go here for now. Now, let's just go into the first batch setting.
+[00:04:36] So detection is the first thing. So you can either have it alert series or singles detection, okay? Meaning, if there's a single IVG and alert it
+[00:04:46] or if it's a series and alert it, basically, single is just like there's a singular for value gap in the leg. So for example, like, I mean, this is pretty damn obvious.
+[00:04:55] There was a tiny for value gap right here, but the indicator's not meant to see that because this is just so obvious, okay? Now, if you go in series, can I change this to series?
+[00:05:06] Okay. It will show you setups with multiple fair value gaps getting closed below and above. Okay.
+[00:05:12] Now, keep in mind this does take a little bit to load. We can see a series does not alert this one, okay. But if we keep going here, it alerts this one.
+[00:05:24] Why? Because there's a series of fair value gaps here. So see how this gap here is really small. basically what the series does is it combines both of them and says, "Okay, if we close
+[00:05:34] below both, I'm going to alert it." You can see indicator does exactly that. Just like the single settings, this alerted single and alert series.
+[00:05:45] This alert single and alert series. A better example for a series one would be probably, let's see if I can get an example, again, this is a pretty damn good indicator.
+[00:05:58] There's not too many losses. Here's another example of series, there's two for rally gaps here, it kind of combines them.
+[00:06:04] This is a really, really tiny for rally gaps. It's like one point, but see how it's still combining the for rally gaps and it's still learning like when it gets closed below.
+[00:06:12] So that is what series means, okay. Now sensitivity, just basically like how big or small for rally gap is. If you want really strict, like obvious, obvious for rally gaps, you can go strict.
+[00:06:25] If you want a lot of for rally gaps, maybe there's like small for rally gaps where you want to see that might not be obvious but you might think it's, you know, the good drawn liquidity, you might so want to take it and be alert for that. Now, as we go on
+[00:06:36] forward into the video, I'm just going to be going over every single setting and then I'm going to go over the best settings for each. But you need to know what these do first before we do that. So basically for the lower sensitivity, if
+[00:06:45] I turn this on very sensitive, there's a setup that's a yesterday that it did indeed alert right here and you can actually see it highlighted the SMG as well and it also said there's a volume spike as well. So it was a very good
+[00:06:57] set up, I think I rated it an A or a plus, but I'm not sure I really can't check right now. Now, here's the thing, it did not alert this in the normal strict setting.
+[00:07:06] So later on when I go over the settings, I'm going to explain what you should probably have it on and why, okay, but that's just what it does. Now remove losing setups.
+[00:07:14] I usually just keep this on because to be honest, I am good enough trader to where I know, you know, losing setup is a losing setup and I'll never take it anyways.
+[00:07:24] Now if you keep this on, there's still not that many losers. I mean, there's obviously a few. So if you keep this on, you can.
+[00:07:31] But if you're already like a decent, you're a good trader, whatever, this is just gonna clog every chart and it's probably gonna show you some setups
+[00:07:37] that are just totally invalid. Now, I'm not gonna lie. I did take this setup long here
+[00:07:43] and I did take this one here. I lost on both of them, but I took this one here and it made up big time. Okay, I held pretty far.
+[00:07:52] So like, it would just remove these losing setups which obviously, I think these are good losers. But some of the losing setups it has just are never setups I take.
+[00:07:59] Like, for example, let's say it's 7 a.m. I never take this, right? This is a not that obvious, you know, it's not really giving my thumb when you close,
+[00:08:06] I never take it, right? So like, there are losing setups that it will highlight that you're gonna want to take off like this one. Tiny ask for value gap, I know we're not taking it.
+[00:08:15] So just keep that in mind. But yeah, I just usually just keep this off. Now, allow some of the 15 cantaloupe VGs means
+[00:08:22] It's just going to allow IVGs to trigger if it takes more than six candles to inverse, okay? And it's from when the first Fair Valley gap was created.
+[00:08:32] So for example, this Fair Valley gap was created here. After the Fair Valley gap was created, if it takes one, two, three, four, right?
+[00:08:41] This triggers them four candles. So it's gonna include this, but anything more than 15 candles, it's not gonna alert. So if we really just stall here and then the 15th
+[00:08:49] or 16th candle closes above, it's not gonna alert. But let's say we saw here, and then like the 13 cantaloupe verses, it's going to still alert that, okay?
+[00:08:57] And I'm gonna talk more about the setting later, but again, that's just what it does. Now, this is the minimum grade to display,
+[00:09:04] and I love the setting. It basically just tells me like, if I only wanna see A+ setups and be allergic of like A+ setups, it will do that.
+[00:09:13] Now disclaimer, this checklist is very mechanical. It doesn't actually mean an A+, like it doesn't mean like a C setup is actually a C setup.
+[00:09:21] I've seen some C set-ups that it's alerted that are actually like B plus A minus set-ups, okay? So this is very hard to finagle with the indicator
+[00:09:30] and make it perfect, but it's honestly pretty good. And if you're gonna change this, I'll probably keep it on B plus or higher.
+[00:09:37] It's just gonna filter out some really, really bad set-ups. And if you really wanna be strict, probably A or higher, okay?
+[00:09:44] You can mess around with this. I'll tell you what I'm gonna do later. Number of set-ups displayed, just the history of the amount of set-ups you wanna see. I like having this on one a lot
+[00:09:52] because I don't really like to see way back, but again, it's up to you. (upbeat music) Okay, alignment mode, automatic manual.
+[00:10:19] Basically, this just means you're lining time frame liquidity. Automatic, just automatically pairs liquidity pools. So for example, if we get a one minute setup,
+[00:10:29] it's going to probably pair it with sweeping a 15 minute low. So like, it's only an alert if the 15 minute has a low. But if I change that, okay, and I go to like,
+[00:10:39] manual and I, and I'm on the one minute time frame, but I put it hourly, it'll alert a one minute setup if we sweep an hourly liquidity, okay?
+[00:10:47] I like automatic, it's just easier, okay. I don't really need to see any need in changing this, okay. Now, show liquidity sweeps, very, very obvious.
+[00:10:58] You know, I would show liquidity sweeps. Sometimes it won't show them all, but honestly it's fine because it just clogs up the charts sometimes. It's really up to you in what you want to do.
+[00:11:06] Display session liquidity. This will display London High, Asia High, Asia Low, London Low, if they're still intact.
+[00:11:13] If they've been taken out, it will not show it, okay. So, if for example, if I go to if I just go here, there's an example there today
+[00:11:25] where it showed London High. So in this example right here, if I just go on the replay mode,
+[00:11:32] it should show this is London High because it was a high form into the London Kill Zone from 2 to 5 a.m. and yep, see it says London High.
+[00:11:41] Now we're still doing options at the time I'm making this video to customize this you can change like how you want this to be made, you know, what color you want it to be
+[00:11:49] 'cause some charts that might not appear, but that's basically what that does, okay. Now, it does have a data wick threshold too.
+[00:11:58] So if you want it to mark data wicks, which we actually got one today that I marked, you can change that as well.
+[00:12:05] So today, we got an 830 data wick. It only marks the ones from 830 news, okay? So if I just go right here,
+[00:12:12] this indicator should mark both these data wicks, and it only does it when we have news at 8.30 and the Wix have to be six points or more.
+[00:12:20] You can definitely change that if you want, but it's up to you. So you can see right here, okay. We put in a data high, check it out, and boom.
+[00:12:28] It marks a data low here, it noses a data low, and now it just is the data low. And see how it keeps moving over
+[00:12:35] as the candles keep moving over? I really like that feature. You don't have to mark it now, and just, it's amazing, honestly, 'cause that's my favorite
+[00:12:42] and most best setup that ever will ever live, okay? The data high, data low, one setup for life. I do have other videos on that
+[00:12:50] if you're interested in what that is, but it's a really good setup. Now, show hard time for in Fair Valley gaps. I honestly love this because the way that this is coated
+[00:12:59] makes it look clean, it's not messy, it shows the gaps, you can dim them down if you want. I would not show the border, that's gonna be way too cloggy.
+[00:13:08] You can say how far back you want the Fair Valley the show from like if I want like a four-hour gap from like months ago you can put on like 20 maybe okay um but it's only the favorite I got that has not been mitigated if it's been mitigated it
+[00:13:21] will not show okay but if there's like a part that like is not mitigated it should show it just depends um but usually it's the unmitigated ones that will show okay now you can obviously label
+[00:13:33] these if you want okay right now they're fully black and they're not really that big I just like it that way bullish color I just I'm probably gonna keep this down like 10% okay I don't want them
+[00:13:48] like too heavy but that's what I'll do and again I'll keep going over these settings later but that's basically just telling you like how you want this gap and what'll pass you want the gap to be see how it's now dimmed down a little bit more it just it just doesn't take up that much you know space
+[00:14:02] in the chart. Now, you can change the color for bullish and bearish in versions. I'm personally just going to keep it like this. I don't really care about the color. I like gray. It's simple,
+[00:14:12] it's clean, whatever. Now, displaying version, right? That's self-explanatory. Okay. Include current timeframe and hard timeframe PD arrays. What this basically means is if I
+[00:14:24] I had this on, it will include a one minute set up out of a one minute for a rally gap, if that makes sense. So right now it shows like set up,
+[00:14:35] sort of like one minute set ups out of 15 minutes, but if you have this on, it will show you setups that are like one minute inversion for rally gaps
+[00:14:44] out of one minute for rally gaps. And again, I'm gonna say my thoughts on this later and whether you should have this turned on or off.
+[00:14:51] Okay, but that's basically what it does. Enable SMT interaction, so, so cool. It's based off of Corley theory.
+[00:14:57] It's really cool. I probably correlate the symbol with the S. I don't know what else you do. If you're trading gold, you can correlate it with silver.
+[00:15:05] If you're trading Euro, you can associate with cable. Okay, it's all up to you.
+[00:15:12] SMT line, you can customize those, you know, whatever. Show entry, self-explanatory. Basically, I have long and blue short on red.
+[00:15:20] That's just how I like it. label size tiny. I don't want this to clog up the charts. Okay, show limits like limit prices, show price in general, show prices. There is a thing that's going to tell you when to go break
+[00:15:33] even where to stop loss. This will not always be accurate. Remember that, right? This is not my full full model because my full model is subjective. But this is super cool as well. I really like this. You know, I'll tell you what I do. Okay, later in the settings if I keep this on or off.
+[00:15:50] Now we are adding a macro time only, but for now we have just alerts with sessions. So let's say I only want alerts from 930 to 11. I'll do an animal alerts for this and just only head around
+[00:16:04] during the session. It will never alert me to set up anywhere anytime else. And if it does, just comment on the Discord and the indicator chat that that's a bug because that should not
+[00:16:13] happen. Okay. Now we, this is where we get to alerts. You can turn on if you want to a potential inversion. So if we're like going to, if we wake above the inverse, it will tell
+[00:16:25] you again the chart. But I'm going to be clear, it will alert a lot of setups. And I'm going to give you my full thoughts on whether you should have this on or off. So stay tuned.
+[00:16:35] You can also change the message on what it says. Okay. So you can change the message on what it says. I can say like money printer if I want or whatever you feel free, you know,
+[00:16:45] what you want, money printer, my recommendation would be, I don't know, make up your own thing, it's up to you, okay. Alerts on liquidity sweeps, I probably want to have this on
+[00:17:00] because we have the alert when we get an inversion on and usually there is a liquidity sweep, I don't really need to see a liquidity sweep if I'm going to have an inversion alert on because while I need to alert on a liquidity sweep, when I'm already having an inversion alert, you know
+[00:17:14] You know what I'm saying? You can turn this on, but it's up to you. You can come on the chart when this happens
+[00:17:21] and maybe you'll see the inverse before it happens. So maybe that's gonna be helpful, but it's honestly up to you. You're probably gonna get a lot of these.
+[00:17:27] Alert on London liquidity sweep. So we sweep one at high to alert you. If we sweep Asia low, it'll alert you or Asia high. These are kind of cool.
+[00:17:35] Worn on close. Again, if it's like, if you wanna be like alerted on like basically like,
+[00:17:51] it just says this, it says price has just closed past the IVG mitigation level. So like basically if it's about to fail, okay.
+[00:18:01] If I would not turn that on but it's up to you. Alerting a multi-time frame version. Basically this is alerts you
+[00:18:07] if more than two time frames closed above or below. I really do like this. Yeah, very good, very good setting.
+[00:18:14] Okay, I love this. And alerting an invalidation, it just alerts if like the message is invalidated or the indicator is invalid.
+[00:18:21] Again, a lot of you guys don't know my model or some of you guys don't know my model when you're watching this.
+[00:18:26] Basically, I have this thing where like, if we close above or below an inversion, so let me just show you an example.
+[00:18:34] If we basically close above this, but we wick at the high at the same time, it's completely invalid. So let's say you set up, it's like,
+[00:18:41] "Oh, potential inverter is not forming." You get on the chart and then we hit this, it's just gonna be like,
+[00:18:47] "Oh, it's now invalid," okay, because we hit the high before the close. It's not super concrete, very, very hard to code.
+[00:18:56] Is it workable? Yes, but it probably would not turn on. It's up to you. And then display info box,
+[00:19:03] that's gonna be displaying this box, or wait, that's gonna be displaying this box down here where it tells you the timeframe and the date and what ticker you're on.
+[00:19:11] So I do love that. You can change the text color if you want. I don't really care. Maybe I like black with 100% and that looks pretty good.
+[00:19:19] So a strategy checklist, just you can have this on or off, table text size, header background.
+[00:19:25] You can make this dimmer if you want. If you want to go like here and then maybe header text, white, red. It doesn't really matter.
+[00:19:32] If I change this to red, I'll change this text a little bit. can change a cell. You can show the setup grade, which is right here, or you can turn off. It really doesn't matter. And yeah, so you can see I just changed the color of that, which is kind of
+[00:19:45] cool, but very customizable. So those are all the settings. Okay. Now, let's go over the best possible settings. Okay, which again, there's going to be three different templates for settings.
+[00:19:59] You can use what you want. And I'm going to tell you what I think is the best for what you do. Now, the first template is going to be for people who are going to be on their charts all day,
+[00:20:10] they're watching the market, they're not at work, and they generally can just watch the charts. I don't care how you're going to watch them, okay, but this is going to be for those types of people, and maybe you got the indicator because you're trying to prevent over trading. Maybe you're trying
+[00:20:22] to do a challenge where if you want to take a setup, the indicator has to alert it, and maybe that's going to prevent you from over-training. I don't know, but this is going to be for people
+[00:20:31] who are on the chart already. Okay. This one, I'm probably not going to create an alerts for it because you're on the chart. Okay. So I'm not going to create any alerts for this one. So this one is going to be, you know, like I'm going to be using this one probably on stream. Okay. So
+[00:20:46] I'm going to keep this one at single because single will alert almost everyone. And if I'm watching the chart, I obviously know if it's single or series. So by having it in single,
+[00:20:59] I mean, I'm going to literally be in the chart. So let's say there are two favorite like apps here. Like, yes, if it alerts this one,
+[00:21:06] I'm not going to take it. I'm going to wait for this one, right? But it's still like telling me, okay, there's a potential setup that's probably going to form, you know, it's important.
+[00:21:13] So that's what I'm going to do for that one. Sensitivity, I'm going to keep it on sensitive because I'm going to be watching the chart.
+[00:21:20] If it's a tiny ass gap and alerts it, then I'm going to know not to take it. Doesn't really matter, okay? And I want to see as many setups as possible.
+[00:21:28] And again, if it's on sensitive, here's the thing. If you're trying to prevent over-trading and it's on sensitive,
+[00:21:35] it's going to show you from non-obvious surveillance gaps, but at least the non-obvious surveillance gaps, some of them still will be valid trades.
+[00:21:43] And you could understand that it's still a model at the end of the day, and it still technically keeps you from over-trading, something that wouldn't be indicated.
+[00:21:51] If even if it's indicated on sensitive, that still means there's some type of confluence there. There's some type of model there.
+[00:21:58] So no matter what you have this on, I just, I wouldn't keep it on sensitive, okay? I'm more of an advanced trader though. If you really are new, then maybe keep it on normal,
+[00:22:07] but I just, I really know what I'm doing. So I'm gonna keep it on sensitive. I would say this is for a little more advanced traders. This is gonna be for beginners.
+[00:22:14] This is gonna be for people with no idea what they're doing because strict is not gonna give you a lot of set ups, but what it does is probably gonna be higher probability. But for me, I'm gonna keep it on sensitive.
+[00:22:23] Bias, I'm just gonna keep this in neutral for now. I'm doing a full-on class and how I'm gonna make a bias shortcut. Okay, you'll see, I'm basically just gonna put like presets
+[00:22:32] up here. So basically, if I'm like super bullish for the day, I'm just gonna have that on bullish. If I'm super bearish, I'm gonna just keep it on bearish.
+[00:22:40] If I'm watching the chart, I'm going to decide if my bias is that day, so I'm going to keep it on neutral. Now, I'm going to have removed losing setups on my chart
+[00:22:50] when I'm looking 'cause I don't want them to be clogged with setups I'm never gonna take anyways, So I'll keep that on. I'm going to have a Lao 7 to 15 candle if you jeez on because honestly, there are setups where I take
+[00:23:00] that aren't fully V shape recoveries where honestly I like taking eight and nine candle reversals because there's going to be times I'm in the market,
+[00:23:07] I'm trading and there's going to be chop, chop, chop and then all of a sudden it's going to be a giant death candle in nowhere and I would still love that to be alerted, you know,
+[00:23:15] especially if I'm on the chart because it's probably still important, especially if like a good draw on the query is still there. So I'm going to keep that on.
+[00:23:22] Minimum graded display, I'm going to see, I want to see every setup here, especially when I'm on the chart. Okay, I just, I want to see everything, okay.
+[00:23:29] Number of setups displayed. I'm just going to keep this on one, okay. If the setup is a setup, I don't want to see anything in history, I want to keep my chart as clean as possible.
+[00:23:39] I don't want to be trading a lifetime. The New York session and all of a sudden, it has like 10 million setups marked. I only want to see what's happening a lifetime.
+[00:23:46] Number of setups displayed, all right. Alignment mode, going to keep that automatic. show liquidity sweeps, I'm just gonna keep this on black
+[00:23:54] for now, I'm probably gonna dim this down just a little bit, probably like the 60%, just so it's a little dimmed. Display session liquidity, of course, keep it on. I wanna see where London High and Asia High is.
+[00:24:04] Data wick, I'm probably gonna keep this on five points just to be safe, right? It doesn't really matter though, 'cause I can see a data wick on my own eyes.
+[00:24:12] Session liquidity color, you can change this, just depends. I'm gonna keep it on black for now. You know, it's not a really big deal for me.
+[00:24:19] I'm gonna dim this up probably like 80%, okay? Now, for the people who have a black background, you're gonna wanna change this.
+[00:24:26] I have a white background, so I'm not changing that, okay? Show a hard time frame for your daily gaps. Gonna keep this on.
+[00:24:32] Last indicator, I did not like this on. I hate it on. I think this indicator, it just, it makes sense. And I think it just shows way better setups
+[00:24:40] and you can see what we're actually delivering from. It marks out very hard, like easy, obvious, hard time frame for your daily gaps.
+[00:24:47] And I love seeing them, okay? Show border of extent for every I guess, backspars. Honestly, I'm gonna probably keep this at like 15. I don't really want like,
+[00:24:57] for every I guess from months ago, but I don't want, like I don't want for every I guess from like last week still. Okay, like a four hour to the 15
+[00:25:04] should still cover that, okay. Now, if we look at label color, gonna keep this on black, tiny,
+[00:25:17] to keep this on 10% bullish color, you're going to keep this on 10%. This is going to stay the same 40 40. You can probably dim this a little bit if you want. But I think this is fine. Displaying
+[00:25:27] version on include current timeframe and higher timeframe PD rays. This is going to be a 50 51. Some of you guys are going to like it. Some of you guys aren't. I like it. I like looking for one
+[00:25:38] minute deliveries off one minute setups, right? Or one minute for that gaps off one minute setups. All right. If we have a five minute gap and we get a five minute IVG off of it,
+[00:25:47] I still want to see that alert, okay? Because I do take those trades a lot. Enamel SMT, of course, on, I'm going to keep this on. I am going to dim this just a little bit, probably like
+[00:25:56] 50%. I just don't want it to be too solid. SMT label, tiny, 100% fine. This is going to say the same. This is going to say the same. Now, here's where it's going to get a little more like,
+[00:26:10] okay depends on how advanced you are. I'm going to turn off this break even and I'm going to turn off the stop boss. I've been training along and off where I don't need to see this. The break even
+[00:26:21] is not going to be even fully correct because some scenarios will not have an obvious break even if you know what I mean. And I'd like to pick these myself. Okay, for beginners, keep them on. For advanced traders probably don't need them. It's really up to you if you're a beginner or advanced
+[00:26:35] and trader and they have alerts. So this is basically, so the IPG indicator is still gonna show you settings every time.
+[00:26:45] This only has to do with alerts. So it's only gonna alert you during 9.30 to 11 if I have this on and create the alert, okay? So this is no relevancy to this first setting
+[00:26:54] 'cause I'm not creating alerts with this one. And then obviously all the soft 'cause I'm not creating alerts with this one, display info box on and I'm probably gonna keep,
+[00:27:04] I'm probably gonna do like a blue color would be cool for the header text, show set up great, obviously on, and everything else should be fine.
+[00:27:14] So this is going to be my settings for probably when I trade on stream. I'm going to probably alternate and check single versus series a lot,
+[00:27:21] but that's like the only setting I'm gonna be really changing. And I'm not creating any alerts for this because again, if I create alerts for this,
+[00:27:28] I'd probably get a lot and I'm already watching the market anyways, and I'm actually gonna change this. I'm probably just gonna keep this on black for now. I think black's fine. You know, I think it's just clean and it's simple It's plain, you know, so I'm probably gonna keep this on black, but that's going to be the first
+[00:27:44] Now the second third are going to be for alerts, okay pay attention
+[00:27:53] The first one is going to be for traders who are working there at work they want alerts and This is going to be for complete beginners like a complete beginner, you know, they're at work
+[00:28:08] They don't know what they're doing. Okay, you got to learn my model so you can't just blindly take stuff Okay, you still have to learn my model, but this is gonna be for complete beginners. Maybe you're learning my model. It just depends
+[00:28:19] Detection, okay, I would probably keep this in series because this is going to give you the best possible setups Okay, because sometimes if we have a single it in versus
+[00:28:32] Here's the thing If we have a single in versus and you don't know you're doing you might take it and it's my 90-year valve. So for beginners Keep this on series again. This is this is for beginners. The next one will be for advanced traders. Okay, don't forget that
+[00:28:47] sensitivity I Would do normal strict. I'd probably start with normal see how it goes if you need to switch a strict do that but I'd probably start with normal bias okay I would do neutral okay I want to
+[00:29:03] change that remove losing setups have that on allow something to fight canal IVGs I probably turn this off okay I'd probably look for V shape set ups only this is probably the best thing to do minimum graded display I'd put this at
+[00:29:17] least B plus so they're not spam alerts and especially as a beginner you don't I want to be seeing alerts. Numbers that I've displayed, doesn't really matter.
+[00:29:26] 10's fine, I'm just going to keep it on one for now. Alignment mode, automatic's good. Show the query sweeps on.
+[00:29:34] This is basically the same as the other one. I'm going to make this 50%. Okay, this is more for alerts, right? I don't really, I'm probably not going to have this on my chart.
+[00:29:42] I'm going to have this one on my chart. This is going to be for the alerts, okay? Display session liquidity, yes, 50%. Data week, probably five points.
+[00:29:52] Show higher time frame frame frame value gaps. I'm going to keep this on. Keep everything the same here.
+[00:29:59] Keep all this the same. Displaying version on. Include time frame and higher time frame PD arrays. I would probably keep this off for beginners.
+[00:30:08] Okay, keep this off for beginners. You're gonna need a lot of setups that this is on and yeah. Enable SMT, of course.
+[00:30:16] Okay, I'm gonna dim this to 50%. Okay, 50% show entry on Reiki even stop loss, especially for beginners is a must keep these on.
+[00:30:29] You can show the limits to the show the prices. I'll probably bold these checked if you want, but I'm probably gonna keep this unchecked.
+[00:30:36] And okay, this is the important part. So alerts, if you're gonna be at work, you're a complete beginner and you only wanna see
+[00:30:45] like three, four decent setups during AM session. Okay, I'd probably keep this on and if you're at work, I'd probably just put this on like nine to like 11.
+[00:30:56] Okay, now I'd probably have this at nine to 11 and I'd probably do session two here and I'd probably do like a PM session two,
+[00:31:06] especially if you're at work. And maybe you don't trade the PM session but I still think it's like good to tape read if we like do get a really good set of PM session.
+[00:31:14] So I'd probably have both these on, right? If we get a set up between 9/11 and 1/30 and 4, I'd probably leave both of these on.
+[00:31:21] Because especially for beginners, you should probably be watching the market during these times, because we could still get a textbook set up.
+[00:31:29] Alert on potential DD inversion. For beginners, I probably say no. You do not want to be spanned with this.
+[00:31:38] You're gonna get a lot of these. Here's the thing. I would only have this alert on if you really don't mind the notifications
+[00:31:48] and you can kind of be checking your phone a lot. If you really can't be checking your phone a lot, do not turn this on. I would only alert on the DD inversion
+[00:31:56] and let's say you get to the chart, make sure you're already logged into your broker, right? If you're not, you're gonna miss it. But sometimes if we get the alert,
+[00:32:03] you can actually buy, like we'll pull back into the actual inversion by the time you get on the chart and you might actually get a better fill. Sometimes it will run without you,
+[00:32:10] but just skip those, okay? You obviously might catch them if you have the potential inversion on, but you're gonna get spam alerts, okay?
+[00:32:18] So my thought is I'm probably gonna keep this off, especially for beginners for now. Just do this message, DD inversion, okay?
+[00:32:29] I would just say money, like money printers. Something that stands out, like I'm gonna put money printer, okay? Because to me, like I wanna,
+[00:32:36] let's just like a money printer I'm gonna go on, or actually I think I'm gonna change it. I think that's a better idea.
+[00:32:44] Manage, like set up, manage your risk. Or something along the lines of that
+[00:32:51] that's gonna remind you to, owner, why don't you make this, to be serious when you do take the set up.
+[00:32:58] So set up, right, inversion, or maybe inversion, manage your risk, I like that, okay? That's going to remind you to manage your risk,
+[00:33:06] don't prevent trade, be smart, right? Maybe be smart or something. Like a really encouraging message.
+[00:33:12] I like that, especially for beginners. Okay, alert on DD inversion only with volume. So this only alerts you inversions
+[00:33:21] when there's like a big volume spike. For beginners, probably would have this off now. I think this is a setting that advanced people
+[00:33:28] are going to either turn on or off. It's really up to you. You're going to get less setups, but you're also going to miss textbook setups
+[00:33:35] that don't have the volume thing that are going to work well. So I'm probably going to keep this off. Alert on the query suite, don't need that.
+[00:33:42] You're already getting a liquidity sweep version. Don't need this, especially for beginner. I don't really care if the one in high or low sweat,
+[00:33:50] the pro, like I said, we already kind of know if we see liquidity with the version. More on a close, don't need that.
+[00:33:58] Alert on multi-time frame version, I probably have it on. Okay, I like this default message, multi-time frame version found,
+[00:34:05] and then I'm gonna do be smart. Be smart, manage risk, okay? Alert and invalidation, probably not gonna have that on.
+[00:34:16] You're just gonna be in spam. So I'm gonna add these two on for now for beginners, okay? Everything else looks good. And yeah, that's gonna be my beginner settings, okay?
+[00:34:27] So I'm just gonna save those. Now, to actually create the alert, we're gonna go to the top left. Make sure your trading view alerts are actually on.
+[00:34:36] If they're not on, you cannot get it learned. Okay, you need to make sure everything's on, right? So now with these settings, I'm gonna go to create alert,
+[00:34:45] add alert, I need training equilibrium, okay? And you're gonna need to create one for beginners, I do the one minute, the two minute, the three minute,
+[00:34:55] the five minute, and the 15 minute. So I would do the one minute, two minute, three minute, four minute, or if not four minute, five minute, 15 minute,
+[00:35:05] because sometimes the 15 minute will give you a bias. So for this one, I'm just gonna do this one message. I'm gonna be like, I'll name it, I'm gonna be like,
+[00:35:16] one minute, wait, am I in the one minute chart? Oh yeah, one minute. One minute, entry, okay.
+[00:35:26] One minute, IPG entry. Now, when you create these alerts, you're going to be creating them an NQZ 2025,
+[00:35:35] which this contract will expire at some point. So what I'm going to actually do
+[00:35:42] is I'm going to change this to NQ1 so that way the alerts will never disappear and you'll have to cancel them and redo them.
+[00:35:50] If you have the time to do that, just make these an NQZ, you can let you just copy paste these an NQZ or whatever contract Ron and do that way.
+[00:35:58] And then you just have to change this every single time. But for this one, I'm just gonna do the one minute chart to start off. Alert name's gonna be like one minute inversion, okay?
+[00:36:11] That's gonna be that for that, okay? Now, notifications, make sure I'm notifying apps on, and I do have this one on.
+[00:36:17] I don't really have anything else on. You can place on if you want, you can send an email. This is more helpful if you're on the chart,
+[00:36:23] but just depends, maybe like emails, I don't know. And yeah, gonna cook create. Now we're gonna go over here to our alerts tab.
+[00:36:31] it should create in one moment, there we go. So now this is just gonna be active. NQ1 is a continuous contract and never expire,
+[00:36:39] so this is just gonna go until the stock market shuts down or I don't know, okay, maybe immediately your hits us. Okay, take that out, I don't know why I said that.
+[00:36:48] And this is gonna be pretty much active forever, okay? Now, you're gonna have to do this and repeat for every single timeframe.
+[00:36:56] So I'm just gonna do a two minute right here message, two minute inversion, okay?
+[00:37:03] And just make sure that you're actually creating it for that time frame.
+[00:37:09] See how it says one minute, two minute, right? I'm gonna go to create alert, same as chart. There's some five minute.
+[00:37:15] I'm gonna change this to three minute, okay? Do three minute inversion. And you can make up your name, oh, name.
+[00:37:22] You can do M3 inversion to make it shorter. It's really up to you. Notifications should be defaulted here. Okay, at alert, this one I want to do five minutes,
+[00:37:31] same as chart, five minute inversion, boom, and then last one, at alert,
+[00:37:40] this is gonna be for 15 minutes, okay? If you wanna do an hourly, feel free. An hourly, here's the thing about the hourly.
+[00:37:50] I would not do an hourly because I'm assuming you can check the chart every couple hours and there's only gonna be like one hourly inversion a day
+[00:37:57] if any, or one already happened overnight, you probably don't need that. You probably can check the chart once every three hours and see if there's an hourly burden.
+[00:38:05] So I'd probably just go up to the 15 minute. So that is going to be four beginners. Now for advanced traders, this is where it's going to get,
+[00:38:15] there's going to be kind of two separate sides for advanced traders. Okay, all depending on how many notifications you want. Let's just start, okay?
+[00:38:26] So, advanced traders, keep it on single detection. Um, you know, obviously for beginners that kept it on series for advanced, keep it on single.
+[00:38:36] You're gonna want as many setups as possible. You know what you're doing. You know how to trade. You're gonna wanna see every potential setup because you do not wanna miss any A+ setup period.
+[00:38:44] You need to have like the most sensitive setting possible. I'll probably keep sensitivity on sensitive. I wanna see a setup.
+[00:38:51] I know what I'm doing. I know what an A+ setup looks like subjectively. If it looks decent, I wanna alert it. If it's a setup, I wanna alert it.
+[00:38:59] I wanna be able to check every single setup to see for myself, you know, maybe it's every 15 minutes, maybe it's every 30 minutes,
+[00:39:05] but I wanna be able to check the chart. And this is for people who can check the chart, okay? You can, you may be at work,
+[00:39:12] you can regularly check the chart whenever you're gonna alert. Okay, I keep this unscented tip. Bias, neutral, remove losing setups.
+[00:39:21] Off, we know what we're doing, we don't want these on, okay? Allow us on the 50 cantaloupe to use 100% on, right? As beginners, I told them turn off.
+[00:39:29] There might still be a banger I set up and we might have a really obviously strong liquidity like equal high spherical lows and we want to keep this on.
+[00:39:35] So I would keep this on minimum grade to display. I'm going to keep this at sea. I want to see every set up like I said,
+[00:39:42] number of setups displayed. Just going to do one alignment mode automatic. Show liquidity sweeps.
+[00:39:49] I'm going to be doing, you know, 50% for this. Obviously, this is going to be like the other ones. Dad awake, I'm going to be doing five, okay?
+[00:40:00] Show a hard time frame for bad gaps on, right? This is all the kind of the same as before. Same, same, same, display in version.
+[00:40:08] Include current timeframe, 100% on. I want to see these ones too. Like I said, I know how to trade.
+[00:40:14] I just want to be alerted of every setup and see if it's sexberg or not and then the side of my own if I want to take it, okay? enable SMT, 100% on, go down, SMT line,
+[00:40:24] probably gonna dim this a little bit, especially from work. I'm probably not gonna have this on anyways, but, you know, just gonna keep that there.
+[00:40:33] Correlated symbol, yes. Again, if you're gonna trade another ticker like gold, you can change this, you're just gonna have to create a whole nother indicator
+[00:40:40] and just do gold only, okay. Show entry on, I'm gonna turn the break even and stop while soft for me. When I go in the chart, maybe I'm gonna work,
+[00:40:49] I don't really want to see this. I already know kind of how to trade. If you want to see it, it's personal preference. Okay, and by the way,
+[00:40:55] there is going to be an update pushed out where you will be able to see potential targets. Okay, so we're still gonna add that to the indicator. It might be out by the time this video is done.
+[00:41:03] I don't know, but just stay tuned for that. Show limits, probably doesn't keep this off. Display additional take prop levels.
+[00:41:13] It looks like it's here now. Okay, cool. Yeah, display additional take prop levels. gonna keep this on, honestly, you might've decided it as I'm making this video, so that's kinda cool.
+[00:41:25] Now alerts, I'm going to keep alerts on from like eight o'clock to four o'clock, okay? I know what good price action looks like,
+[00:41:38] so I know if we should get good P.A. during lunch, I know if we shouldn't get good P.A. during lunch, I'll check if I think we do, I won't check if we, I think we won't, I wanna see every setup.
+[00:41:47] Okay, this is where it gets a little different. If you want to see the London session at just overnight, maybe you're chilling in Asia,
+[00:41:56] whatever, it turns on. Why not? Okay. Until maybe like 6 a.m. Okay, 6 a.m. to 8 a.m. is usually pretty dead, so I don't know, it's up to you.
+[00:42:07] But if you want to see some banger setups and you're usually awake at this time, keep this on. I'm probably gonna have this at the eight, I don't know.
+[00:42:18] I'm probably gonna keep this on 1,800 for me to like, I'll give it like midnight
+[00:42:25] 'cause I usually go to bed by midnight. So maybe one, I'll do like 1230 to be safe. Okay, so I'm gonna do zero 30 to be safe.
+[00:42:32] Right, I'm gonna keep this on because if there's a textbook set up, I might want to take it, you know? Maybe I do.
+[00:42:41] I do want to point out one other maybe potential setting that could be good for Asia traders. I'll show you in a second. Alert on potential DD inversion.
+[00:42:51] I was really thinking about this. And honestly, I'm probably gonna have this off. I think it was alerting way too much,
+[00:43:01] which is fine, but here's my thing. I still, as long as you're ready and you're already logged in or live
+[00:43:10] and you already have everything ready to go, you need to be clicking the notification, the second it closes, because chances are, the second it closes, like for this one, for example,
+[00:43:20] the second you get in the chart, it could, you could possibly get like a better entry, like every single time it closes,
+[00:43:27] it just doesn't go straight up. Some will and you will miss some, and I guess that's okay. But I was thinking about this,
+[00:43:33] and if I see an alert for a higher time frame, or an inversion for a bit like it, when I just get on the chart.
+[00:43:40] Like I am going to get in right away and I could get a better entry than what I would have gotten if I was on the chart.
+[00:43:48] So I might enter here, but I'm gonna be ready. I'm gonna be quick. You gotta be quick about it. And again, I'm probably gonna keep potential inversion off
+[00:43:56] because I am okay with the fact that I might miss something if we close and just absolutely jump and you know, it's whatever because the mark is always gonna be here.
+[00:44:07] So I'm probably gonna keep that off. Even as an advanced trader, I don't really want that on. It's up to you, but I'm probably gonna keep that off. Alert on DD inversion, only with volume.
+[00:44:15] Gonna keep that off for now. I just, I don't, I mean, I know what a textbook setup looks like whether it has volume or not.
+[00:44:23] You know, that's not gonna already change my opinion. You can mess around with this if you want, but I'm gonna go over one more actually with the setting where this is gonna be on.
+[00:44:31] Liquidy sweep don't need to see that don't need to see any of this I'm regularly checking the market, especially for an advanced trader. You can regularly check. I don't really need any Zahn Honestly, I
+[00:44:46] Probably have London and Asia on Because those will be important. I think you should have these on okay is it especially an advanced trader I think this will be helpful. I'm gonna keep these on worn on clothes
+[00:45:01] Now, alert on multi-time frame inversion 100%. Multi-time frame inversion found,
+[00:45:09] be smart, manage risk, alert and invalidation. Don't need it on.
+[00:45:15] If I'm in a trade, I'm not just gonna get out the chart. I'm gonna be watching this even if it gets invalidated. So I don't really need to see that on, okay.
+[00:45:23] And then display in a full box on and everything else is good. So this is going to be for the advantage traders, okay. Now, last thing, make sure you have
+[00:45:34] that trading your premium, right? So when I add alerts here, right, they're only gonna alert me if I trade your premium. I'm gonna do the same thing.
+[00:45:42] So I'm gonna add alert here, start with a one minute. Actually, I take the back. I'm gonna start with a 30 second. For advanced traders, I'll probably have the 30 second here.
+[00:45:50] Okay, so I'm gonna do the 30 second inversion. Okay. I'm gonna do
+[00:45:59] One minute, obviously, message, one minute inversion. And I actually do want the to change this one method. And okay, so alert on dating version be it inversion.
+[00:46:13] Be smart, manage risk. I'm gonna change this actually. So the message will be a little more helpful, right? Because a lot of advanced traders,
+[00:46:22] you know what they suck at? We're ventrating, they're ventrating. So if they get this message every time, they're gonna, you know, it's gonna help them a lot. So I'm going to actually delete this,
+[00:46:30] recreate the alert with that message, 'cause I like the message. Okay, go to 30 second. I'm just going to do it with 30 second inversion
+[00:46:43] or you could do IPG, it's really up to you. Okay, add alert. Gonna go to the one minute.
+[00:46:52] I'm gonna do the same thing for every timeframe. it's this one is optional you could do the four minute it's up to you i probably won't okay it's
+[00:47:07] whatever um sometimes i might miss something but i'm probably gonna miss you know whatever um alert name two minute inversion
+[00:47:21] add alert here uh three minute inversion again make sure you're changing like the interval here Okay three minute inversion and then last one or two more five minute inversion
+[00:47:45] this should already be the same as chart yep create and then last but at least we're going going to be doing a 15 minute as well. Okay. Okay, so that should be good for now. Um,
+[00:48:01] now look, two minute version invert, two minute inversion, inversion, be smart, manage risk. So look at how the message is here. Right? Look at this. This is what it's going to look
+[00:48:14] look like. Now, you don't have to type in inversion in the method in the message. If you want to go back and you want to, um, and you want to, um, wait, this is two minute version. Oh,
+[00:48:31] yeah. If you want to go back and you want to change the message that's maybe make it say like, maybe you don't want to say inversion because you obviously know, right? The message
+[00:48:43] from the actual alert is going to say it like you can take out this. So you can be a beast smart manage risk, right? It's really up to you. Okay. Um, I probably think beast smart
+[00:48:55] manage risk is better now after seeing the alert because it'll be a little more clean and it's likely saying version twice, but that's up to you. Okay. Now, last thing I'm going to do this is going to be better for gold and you know maybe want to do a
+[00:49:12] frank you gold is really really good at night okay like gold is unbelievably clean at night what you can do is if you create a watch list you know you create
+[00:49:28] a watch list or would it be right here? And you just create like a watch list of just gold and like maybe NQ. Here's what you can do. I'm going to make a new watch list, right?
+[00:49:48] I'm going to do gold plus NQ overnight. Okay, this is going to be something you can do out add GC1, gold futures, and then I would add NQ1. Now what you can do for this is you can
+[00:50:05] put on an indicator, okay, and this is going to be for overnight only. Okay, so I'm just going to copy paste the beginner setting, I think. So we're going to copy paste the
+[00:50:19] beginner setting. Here's what I'm gonna do. I'm gonna do series, I'm gonna do normal, I for NQ you can do strict but gold I want to see normal still, bias neutral, remove losing
+[00:50:32] setups, V shapes only. This is going to be a model for overnight, like gold, okay, and NQ. It's got to be less setups. Minimum grade to display, I'd probably keep some B plus,
+[00:50:44] as displayed one. Everything else is good here. Okay, included current time frame and the higher time frame PD arrays. I probably have it off. And now this is going to be where
+[00:50:59] I'm going to change it. So if you want to trade gold and get gold and then Q alerts for overnight, you can either have this on strict because you're not going to want to see a lot of these. You're
+[00:51:08] going to want to see actual really good setups. So keep this on strict or normal because you shouldn't be trading this time anyways but I know some people do gold hasn't been bad so why not try it um I
+[00:51:18] would probably keep this on 20 hundred is the best time to trade Asia and to gold to midnight okay if you keep it on these times it there could be a textbook set up during these times alert
+[00:51:31] on DD inversion I'm just gonna be like you know manage your risk be smart um and maybe i'll be like gold slash and q actually no i'm just going to do manager recipe smart that's
+[00:51:48] fine um alert on dv so yeah i'm going to keep this on alert multi-time for inversion 100% on and yeah that's going to be it oh and i'm going to keep this on alert on inversion only with the
+[00:52:01] volume up to you you can add this off i'm going to keep it on i want to be safe as possible overnight I don't really want to be training overnight, but dude, there are some setups where I will be looking at the market and dude
+[00:52:13] Oh, I was looking at gold there a day Absolutely a plus of a rocket setup the other night And I just I took it because I just I couldn't miss out on it like look at this
+[00:52:24] You're telling me if you saw this and it was like 10 o'clock You're not taking something like this if it's like super textbook and ZV shape Like that is exactly why I want this indicator to be on during this time
+[00:52:36] because there are times where this might happen. And yeah, like look at this set up right here. Look how beautiful this is dude.
+[00:52:45] Like if this happens overnight, I wanna see that, but I don't wanna see a ton of them. I only wanna see like three night, if anything. So as I make this indicator, I'm gonna put it on volume
+[00:52:55] 'cause I want it to be strict as possible. And if it's textbook, it's textbook, right? So that's what I'm gonna do for this, everything else is good.
+[00:53:02] And I'm gonna click okay, and I'm gonna click Create Alert, and this is going to be for gold and Q and I'm just gonna do symbols and I believe
+[00:53:16] I just realized I don't think I had the plan or I can make it for two watch lists. So yeah, if you don't have the plan
+[00:53:25] or you can make it for two or more watch lists, what I do is honestly just copy paste this, Go to your gold chart, okay.
+[00:53:35] I'll just copy and paste it to the gold chart and just create an alert from there. And then if you wanna just do NQ right here, I'd probably not do not do the 30 second chart
+[00:53:47] for age of session for NQ. Do not do that. You're gonna get cooked. I'd probably do this one minute Asia, okay? And you can do the same thing for London.
+[00:53:58] If you wanna London one you can, I'm always sleeping in London, so it doesn't really matter. One minute Asia, and again, I'm not gonna add the rest
+[00:54:06] on the YouTube video, and then you can do the gold if you want as well, which I do have my titles off. Let me turn this back on.
+[00:54:19] Title, wait, titles for indicators. And let me just, yeah, I'm gonna create this for gold. So I'm just gonna do probably one minute
+[00:54:28] to 15 minute for gold here, okay. But yeah, everything else should be good. B plus it ups only.
+[00:54:34] I don't want every single set up alerted at alert. And again, you want to keep it as strict as possible 'cause you don't want to be trained this time anyways.
+[00:54:41] Okay, so gold one minute, IPG, right? That's gonna give a message.
+[00:54:49] And then I'm gonna do, I'm gonna start with a one minute and boom, okay. So that's going to be it for everything. All right, I explained every setting.
+[00:54:58] I explain what I think you should do for the settings. I'm going to share this template right here. I'm going to share this, okay?
+[00:55:06] There's going to be link in the description, okay? These indicators are going to be for different things.
+[00:55:18] You need to watch the video to know how they work. I'm going to share with everyone, all right? It's going to just be defaulted on like the far timeframe,
+[00:55:26] Okay, so I'm gonna share, save, boom. And yeah, that's pretty much don't want to be it.
+[00:55:36] I don't think there's much else. Basically, I'm like sharing on copy link and I'm going to share this with people
+[00:55:47] so you guys can copy it for those who have it, okay? And that will be in the description. After further thought, I'm actually going to probably
+[00:55:54] Keep the Asia alerts on strict only. Like I said, I really, really wanna be strict about that. I don't wanna take normal.
+[00:56:01] I don't want it to be a lot of setups. Keep it on strict only. It might show really textbooks set up like a couple of times a week.
+[00:56:07] Just check, you'll obviously be the judge of that. So that is going to be it for this video. Quite a long one, definitely went longer than I thought,
+[00:56:15] but this is gonna be the most ultimate settings. And yeah, that's pretty much gonna be it. Don't forget the use code dodgy for 80% off sale.
+[00:56:23] I would recommend buying an account on Apex. Try to take indicator settings or indicator alerts on normal or strict only, B+ setups only,
+[00:56:32] and see if you can pass in an email account. I bet you there's a good chance you can't. Okay, it'd be a really good challenge. You can show up indicator and any feedback.
+[00:56:40] I do have an indicator section, just literally go to indicator chat, tag indicator devs right here. If you have any feedback,
+[00:56:48] and yeah, we're gonna get bug fixes out, we're gonna take suggestions, and it's gonna be a really good indicator. I'm super excited to share this with you guys.
+[00:56:56] And no further ado, that's gonna be it for now. Peace.
