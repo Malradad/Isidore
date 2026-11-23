@@ -271,3 +271,14 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Learned ~:** after "I'm done", three 1-micro "for fun" shorts, all losses: the fourth stream where his losses come
   after his own stop signal. For Izzy, "done for the day" is a hard stop.
 - **Maker:** not yet reviewed.
+
+## 2026-11-23 · Audit 35 of 37: 11 Feb 2026 NFP (8wgnYYcVHuc)
+- **Playbook:** one funded-only long (15m/5m inversion, long bias to the PDH), BE before the open, stopped at BE 09:35.
+  ✓px (15m): it reached ≈ +1R, then fell; the original 77-pt stop was hit at 09:45, so early BE saved a full loss.
+  He then logged off: "no trade day". Record 44 → 23W/10BE/11L.
+- **Learned ~:** his defence is breakeven plus not flipping bias. It kept a wrong-bias day at 0. The price of it:
+  shorts against "equal highs above" ran ~300 pts. Two NFP streams in a row where that rule skipped the winners.
+  Logged for P7 (does the rule pay over many days?).
+- **Noted:** straddle/hedge "passing method" again (passed 2 Apex); 15s timeframe he does not trade; "Lewis low"
+  = a data low that isn't a swing low, lower probability.
+- **Maker:** not yet reviewed.
