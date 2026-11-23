@@ -99,3 +99,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250319 | 5TxTJlmsQ24 | I Took 5 Losses in a Row for the First Time Ever Lol | whisper | done |
 | 20250314 | Iy5hObC6nAk | Backtesting iFVGs with A+ Checklist... but Students Take the Trade (Will I Blow my Account？) | whisper | done |
 | 20250305 | EiGsSTYsJek | Street Smart Way to See Premium⧸Discount (Higher Probability Trades) | captions | done |
+| 20250217 | Nd44FCdefqg | How to Lose in Trading | whisper | done |
