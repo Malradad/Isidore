@@ -51,6 +51,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20251209 | lkyLJsrAYGk | Live Day Trading Winning $4,670 (I HAVE THE BEST MODEL IN THE WORLD) | whisper | done |
 | 20251117 | OJEV8x9wyVg | If You Think Trading Is Getting Easy You Need to Watch This NOW | whisper | done |
 | 20251113 | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | captions | done |
+| 20251109 | qlQM7EUyKlo | Mechanical IFVG Trading Strategy That Makes Me Over $100K⧸Month | captions | done |
 | 20251106 | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
 | 20251030 | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
 | 20251027 | S5JNoso6fG0 | How I Built my Trading Empire From Scratch ｜ The Story Behind DodgysDD | whisper | done |
