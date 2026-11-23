@@ -5,7 +5,7 @@
 // swing; size from the hard stop). Target: next untaken internal high/low (min R). Variant B: half there, BE,
 // runner to the next untaken pool (or PDH/PDL). One trade per day. Session-end flatten. Costs as v0.4.
 // P2 filters (no-trade rules) and P3 time exit are inputs, off by default.
-// Saved in TradingView as "Izzy P1 mechanical" (USER;a8f62b763fdc422a846624987f66b66e) v1.0.
+// Saved in TradingView as "Izzy P1 mechanical" (USER;a8f62b763fdc422a846624987f66b66e) v2.0 (v2: P6 feel features in the entry comment).
 strategy("Izzy P1 mechanical (Dodgy 2023 model)", shorttitle="Izzy P1", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
@@ -67,6 +67,8 @@ var int   sweepLBar = na
 var int   sweepHBar = na
 var float swingLow = na
 var float swingHigh = na
+var int   swingLowBar = na
+var int   swingHighBar = na
 if newDay
     tookH := false
     tookL := false
@@ -77,16 +79,20 @@ if newDay
     swingHigh := na
 if tookL and low < swingLow
     swingLow := low
+    swingLowBar := bar_index
 if tookH and high > swingHigh
     swingHigh := high
+    swingHighBar := bar_index
 if inWinBase and not tookL and not na(pdl) and low < pdl
     tookL := true
     sweepLBar := bar_index
     swingLow := low
+    swingLowBar := bar_index
 if inWinBase and not tookH and not na(pdh) and high > pdh
     tookH := true
     sweepHBar := bar_index
     swingHigh := high
+    swingHighBar := bar_index
 
 // untaken swing points
 ph = ta.pivothigh(high, pivLen, pivLen)
@@ -167,6 +173,37 @@ longInv  = not na(bTop) and bar_index > bBar and bar_index - bBar <= maxGapAge a
 shortInv = not na(uBot) and bar_index > uBar and bar_index - uBar <= maxGapAge and close < uBot and close < open and disp
 lInvBot = bBot
 sInvTop = uTop
+lInvTop = bTop
+sInvBot = uBot
+lAge = bar_index - bBar
+sAge = bar_index - uBar
+// ── P6 feel features, logged in the entry comment (no lookahead) ──
+closes1 = request.security_lower_tf(syminfo.tickerid, "1", close)
+f_cross(array<float> a, float lvl, bool up) =>
+    int first = na
+    int flips = 0
+    bool prev = false
+    if array.size(a) > 0 and not na(lvl)
+        for i = 0 to array.size(a) - 1
+            v = array.get(a, i)
+            b = up ? v > lvl : v < lvl
+            if b and na(first)
+                first := i + 1
+            if not na(first) and prev and not b
+                flips += 1
+            prev := b
+    [first, flips]
+[lCross, lFlips] = f_cross(closes1, lInvTop, true)
+[sCross, sFlips] = f_cross(closes1, sInvBot, false)
+bodyPct  = rng > 0 ? math.abs(close - open) / rng : 0.0
+lCloseLoc = rng > 0 ? (close - low) / rng : 0.0
+sCloseLoc = rng > 0 ? (high - close) / rng : 0.0
+volAvgPrev = ta.sma(volume, 20)[1]
+volBurst = volAvgPrev > 0 ? volume / volAvgPrev : 1.0
+chopN = 6
+chopIdx = (math.sum(high - low, chopN)[1]) / math.max(ta.highest(high, chopN)[1] - ta.lowest(low, chopN)[1], tick)
+f_tag(string side, float cl, int rb, float rp, int cr, int fl, int age) =>
+    side + "|b" + str.tostring(math.round(bodyPct * 100)) + "|c" + str.tostring(math.round(cl * 100)) + "|v" + str.tostring(volBurst, "#.##") + "|h" + str.tostring(chopIdx, "#.##") + "|rb" + str.tostring(rb) + "|rp" + str.tostring(math.round(rp)) + "|x" + (na(cr) ? "na" : str.tostring(cr)) + "|f" + str.tostring(fl) + "|p" + str.tostring(age)
 if not na(bTop) and close > bTop
     bTop := na
 if not na(uBot) and close < uBot
@@ -202,7 +239,7 @@ lastBar = flatSess and session.islastbar
 if barstate.isconfirmed
     if strategy.position_size == 0 and not traded and not lastBar
         if longOK
-            strategy.entry("L", strategy.long, qty=lQty)
+            strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lCloseLoc, bar_index - swingLowBar, close - swingLow, lCross, lFlips, lAge))
             if variant == "B: partial + runner" and lQty >= 2 and not na(lT2)
                 h = math.floor(lQty / 2)
                 strategy.exit("La", "L", qty=h, stop=lSL, limit=lT1)
@@ -214,7 +251,7 @@ if barstate.isconfirmed
             qty0 := lQty
             traded := true
         else if shortOK
-            strategy.entry("S", strategy.short, qty=sQty)
+            strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sCloseLoc, bar_index - swingHighBar, swingHigh - close, sCross, sFlips, sAge))
             if variant == "B: partial + runner" and sQty >= 2 and not na(sT2)
                 h = math.floor(sQty / 2)
                 strategy.exit("Sa", "S", qty=h, stop=sSL, limit=sT1)
