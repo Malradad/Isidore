@@ -16,6 +16,25 @@ Sources: teacher-audit.md (streams), playbook.md (videos). `~` = Izzy's reading.
 | 6 | **Is the risk worth it?** RR ≥ ~1, and a breakeven point (internal liquidity) exists. | "RR is kind of trash"; "no built-up internal liquidity… no break even point"; "negative R" | Target distance ÷ stop distance; an untaken internal high/low between entry and target |
 | 7 | **Is it the right time and day?** Judas swing off 09:30, the first move after CPI/NFP, first setup of the day, not already done. | "One false move"; "done for the day… following my rules"; data highs after news | Time window; news calendar; trades taken today |
 
+## Q1/Q7 detail: how he sets the bias (youtube/20250630 gpn8BvK-G4s "Foolproof Bias")
+- **Bias = his own entry model, run on the 1h (or 4h):** a sweep of a level, then a candle closing through an
+  hourly FVG (an hourly inversion) → bullish (or bearish) for the rest of that session, only longs (shorts),
+  "until the next hourly high (low)". "Time is fractal."
+- **No hourly inversion → no bias** ("I can't be bullish unless it breaks") → neutral or the other way.
+- **Chop → neutral.** "When I get the bias wrong, we're usually chopping." Inside consolidation, even with an
+  hourly inversion, stay neutral and open to both sides.
+- **"Marry" the bias (and size up) only when it's obvious:** big sweep, in discount, giant momentum back —
+  "if I back up 10 feet from my screen and can still see it." Most days have no clean hourly inversion.
+- **Skip:** an inversion that stopped just short of a low → expect that low to be retaken first.
+- His claim: right ~90% with context, ~70% "pattern trading". Untested (claim in claims.md).
+- My EMA proxy for bias failed in the backtest; this is the real definition and is mechanical → testable.
+
+## Q4 detail: what makes it A+ (youtube/20250608 -xLZ2ekyja4 "Five A+ iFVG Setups")
+HTF FVG to the left (or same-TF) · sweep of a low **into** it · inversion out with momentum · **in discount**
+(below 50% of the range, or of the leg) for longs / premium for shorts · at or near the low of day · a single
+FVG (adjacent ones can be combined) · the **lowest** entry is A+, a second higher entry is only A.
+Stop: close back through the FVG, or hard under the order block. Scale half at the 50% level / 1R.
+
 ## Q2 detail: his liquidity-target tier list (streams/2025-08-10 rKxoMCjqfgQ @ 00:14:40)
 | Tier | Target |
 |---|---|

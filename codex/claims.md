@@ -28,6 +28,8 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 17 | streams/2023-09-04 ErsWq6j87uY @ 00:51:23 | MNQ | His mechanical model (PDH/PDL sweep → last single opposite 5m/15m FVG inversion, London/NY, 1/day) is profitable: "80% at least", "guaranteed profitable after two weeks" | Deep backtest on MNQ 5m/15m, 2019–2026, split by year | ✓ 2026-11-22 | ✗ Not supported as stated; ~ promising with all his filters | Pure model 5m: PF 0.75 (2019–22) / 1.04 (2023–26), win 23–25% (not 80%). 15m: 1.38 / 0.88. **With all his no-trade filters + 10:00 exit: PF 1.20 (36 tr) / 1.40 (58 tr)** — holds in both halves but only 94 trades; no single filter helps alone. `journal/backtests/2026-11-22-plan.md` |
 
-**Running record:** 17 claims · 8 judged (1 supported, 2 partly, 5 not) · hit rate 1–2 / 8
+| 18 | youtube/20250630 gpn8BvK-G4s | NQ | Hourly inversion after a sweep sets the session bias, right ~90% (neutral in chop) | Backtest: 1h iFVG-after-sweep → session bias; % of sessions price reaches the next 1h high/low in that direction; then as a filter on P1+filters and v0.4 1/day | Next quota | — | Real bias definition (replaces the EMA proxy) |
+
+**Running record:** 18 claims · 8 judged (1 supported, 2 partly, 5 not) · hit rate 1–2 / 8
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

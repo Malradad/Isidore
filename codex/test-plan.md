@@ -43,3 +43,11 @@ the gap edge), **flips** (crossed back before the close), **close location**, **
 inversion close). On the P1 + filters rule set and on v0.4 max-1/day: does each feature separate winners from
 losers, in both halves? Report the thresholds that hold, then a combined "feel score". Live alerts (v0.5) already
 carry cross_s, flips, close_loc, body_pct, vol_ratio, vol_before_cross for the forward test.
+
+## Priority 7 — his real bias and location (from the 2025 bias / A+ videos)
+a. **Hourly-inversion bias:** after a sweep, a 1h (and separately 4h) candle closing through a 1h FVG sets the
+   session bias until the next 1h high/low; neutral when the prior N hourly candles overlap (chop). Measure
+   accuracy (claim), then use as a direction filter on P1+filters and v0.4 max-1/day. Replaces the EMA proxy.
+b. **Location:** long only below 50% of the session range (or of the current leg), short only above; and
+   "near the low/high of day". Alone and with (a).
+c. Note for the 3/week goal: (a) applied to 1–3m entries may give more trades than P1 while keeping direction right.
