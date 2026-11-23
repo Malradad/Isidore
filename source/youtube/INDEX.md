@@ -106,3 +106,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250105 | g7lOI8bwd9o | Reacting to ICT 2022 Mentorship ｜ Pt. 3 | captions | done |
 | 20241222 | DaoxiH8Iykc | THIS Method Saves You From a Loss 60 % of The Time | whisper | done |
 | 20241217 | WC9rMIgUjRo | When Are You Finally Ready to Trade Solo？ | captions | done |
+| 20241213 | cOrOPPbYCwM | My $20,000 Trading Setup | captions | done |
