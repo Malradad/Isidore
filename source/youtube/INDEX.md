@@ -102,3 +102,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250217 | Nd44FCdefqg | How to Lose in Trading | whisper | done |
 | 20250203 | segUNF3hGzg | Are iFVG Setups LOSING Effectiveness？ | captions | done |
 | 20250130 | WdRsT1zEluQ | This Is What Makes a Setup A+ | captions | done |
+| 20250121 | hMMIPZPyWFk | Reacting to ICT Mentorship (After I'm Profitable) ｜ Pt. 4 | captions | done |
