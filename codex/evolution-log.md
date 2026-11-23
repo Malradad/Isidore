@@ -295,3 +295,14 @@ _Session entries: date · what was learned · decision · maker response · perf
   stalls at internal highs ("60% of the time it comes back to my stop"); no trailing; a protected high needs
   re-manipulation before it is a target; uncertain weeks → trend lines are respected.
 - **Maker:** not yet reviewed.
+
+## 2026-11-23 · Audit 37 of 37 — complete: 14 Mar 2023 CPI (rr2qsQ5mRfM)
+- **Playbook:** one small ES/MES long (pre-IFVG era), 1 at +5 pts, rest BE. He missed "the one textbook play".
+  Bias call right. Same no-trade rules as 2026 — the selection layer is older than the IFVG trigger.
+- **Final on-stream record (all 37 streams):** 48 playbook takes → 26W / 10BE / 12L, ≈ +0.5R per take where readable;
+  7 price-checked, all consistent. Skips 109. Losses cluster after "done", on flagged-bad days, against bias, and in
+  for-fun / audience trades.
+- **Decided ~:** the audit phase is done. Next: (1) blind-label every take and skip with the seven context questions
+  and his A+/A/A−/B grade; (2) test whether A/A+ alone carries the record and how often it occurs (≥ 3/week?);
+  (3) test the equal-highs / data-wick no-short rule (P7), which cost him on both 2026 NFP streams audited today.
+- **Maker:** not yet reviewed.

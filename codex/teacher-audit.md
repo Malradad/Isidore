@@ -58,6 +58,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2024-10-30 JrAXEtFejNw | 09:55:57 | 2m/3m | L | eval (election week, 3 MNQ) | ~20,621 ~ | 20,570.25 ~ | 2 lots 20,673.25 ~, runner data highs | **BE after 10:00 news, 2/3 TP at 10:09, avg-up, rest BE** | ~+0.7 ~ | — (no intraday history that far back) | rated A−: discount, but too close to data lows + election week → eval only |
 | 2024-10-30 JrAXEtFejNw | 10:56:35 | 30s | L | eval ("educational", 4 MNQ) | ~20,661 ~ | 20,644.75 ~ | protected high ~20,697 ~ | **stop** (trend-line rejection) | −1 ~ | — | **rated B in advance**: "to show you this is not a great trade" — the B lost |
 | 2024-10-30 JrAXEtFejNw | 11:24:22 | 1m/2m | L | eval (5 MNQ) | 20,647.00 ~ | 20,623.25 ~ | 3 lots 1.5R ≈20,683 ~, then protected high | **3/5 at 1.5R, rest BE** | ~+0.9 ~ | — | rated A−: re-manipulated below the new engineered sell side; after his window (11:24) |
+| 2023-03-14 rr2qsQ5mRfM | ~10:47 ~ | 1m | L (ES/MES) | own, "small long" (2) | ~3,957–3,960 ~ | below the daily volume imbalance (≤5 handles, his rule) | 3,978 buyside | **1 at +5 pts, rest BE** | ~+0.5 ~ | — (no intraday history) | CPI day, pre-IFVG era; bias right (buyside hit 11:26); "very advanced… you should not be doing this". A 09:02 90% partial is unconfirmed, not counted |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -195,10 +196,15 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2024-10-30 JrAXEtFejNw | 10:53:50 | 30s/1m | L | protected high: no long until sell side is taken | (took the next one at 10:56 anyway; lost) |
 | 2024-10-30 JrAXEtFejNw | 11:54:12 | 15s | L | no close | — |
 | 2024-10-30 JrAXEtFejNw | 12:08:33 | 15s/30s | L | no close | price fell (his) — the close rule saved him |
+| 2023-03-14 rr2qsQ5mRfM | 08:30:17 | 5m | L (ES) | CPI candle: "I'm not playing this… demo it" | worked (his) |
+| 2023-03-14 rr2qsQ5mRfM | 08:49:41 | 1m/3m | L | missed it | BE in his reading |
+| 2023-03-14 rr2qsQ5mRfM | 10:00:50 | 1m | L | **missed: "the one textbook play"**, wasn't on the 1m | worked (equal highs ~10:02) |
+| 2023-03-14 rr2qsQ5mRfM | 10:57:59 | 1m | S | buyside above: "against our rules" | ? |
+| 2023-03-14 rr2qsQ5mRfM | 11:05:03 | — | S | both ways, "wouldn't do anything" | right: went up to buyside |
 
 ## Running score
-- Streams audited: **36 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 47 → 25 wins (2 small), 10 breakeven, 12 losses** (his words; 7 ✓px, two on 15m bars only) ·
-  Skips: 104 (+4 in the gamble stream) · Price-checked: 7 of 47. Avg ≈ +0.5R per take with readable levels ~ (≈ +17R total).
+- Streams audited: **37 of 37 — complete** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 48 → 26 wins (2 small), 10 breakeven, 12 losses** (his words; 7 ✓px, two on 15m bars only) ·
+  Skips: 109 (+4 in the gamble stream) · Price-checked: 7 of 48 (the feed has no intraday history before 2026). Avg ≈ +0.5R per take with readable levels ~ (≈ +17.5R total).
 - (P) for-fun micros after his window: 5 Jun 2026 went 0W/3L, cutting a +$600 day to ≈ +$300 (his account).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 4 (3 "passed", 1 not filled) · (G) eval gamble: 4 accounts blown, 1 passed.
@@ -240,6 +246,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   eval only. Worth labeling every audited take with his grade and testing whether A/A+ alone carries the edge.
 - **The close rule saves him repeatedly:** "no close, no trade" skipped 4 setups that day, at least one of
   which fell; and the IFVG needs a close through *both* the FVG and the volume imbalance.
+- **Same rules in 2023 (14 Mar 2023 CPI, pre-IFVG, ES):** no shorts with buyside above / no longs with equal lows
+  below; take ~all at internal liquidity; one small trade; stop ≤ 5 handles. The core no-trade rules predate the IFVG
+  model, so the selection layer is older and more stable than the trigger.
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.

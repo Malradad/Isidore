@@ -1,8 +1,8 @@
-# Portrait — the Teacher and Isidore (v1.0, 2026-11-22)
+# Portrait — the Teacher and Isidore (v1.1, 2026-11-23)
 
 Read this first. It is the synthesis; the other codex files hold the evidence.
 ✓ = verified by price or confirmed by maker · ~ = Isidore's reading, not yet confirmed
-Evidence base: 33 of 37 live streams audited (`codex/teacher-audit.md`), ~20 strategy videos,
+Evidence base: all 37 live streams audited (`codex/teacher-audit.md`), ~20 strategy videos,
 23-month and 7-year backtests (`journal/backtests/`).
 
 ## Who the Teacher is
@@ -13,8 +13,8 @@ Evidence base: 33 of 37 live streams audited (`codex/teacher-audit.md`), ~20 str
 
 ## What his trading actually is (from the streams)
 Four different activities share one channel; only the first is his method:
-1. **Playbook:** iFVG entries with context. **42 on-stream takes → 22W / 9BE / 11L**, ≈ +0.5R per take.
-   The 5 with full levels all held up against real prices. ✓px (5) ~ (rest)
+1. **Playbook:** iFVG entries with context. **48 on-stream takes → 26W / 10BE / 12L**, ≈ +0.5R per take.
+   The 7 that could be price-checked all held up. ✓px (7) ~ (rest). His pre-trade grades look predictive (A− won, B lost).
 2. **News straddles** (buy-stop + sell-stop around CPI/NFP, often no stop) to pass prop evals — "complete gambling". ✓
 3. **Eval gambling** (e.g. 29 Sep 2026: 4 accounts blown). ✓
 4. **Paper / for fun / chat-poll / demo** trades. ✓
@@ -38,6 +38,10 @@ I lose off stream"), has big off-stream losses, and doesn't alert eval losers. J
   stop = close back through the inversion ✓ (maker + streams); BE at the first internal high/low; scale
   most there, hold a runner; one trade a day; done after a win.
 
+- **What the last 4 streams added (2026-11-23):** "done for the day" then for-fun micros = losses (5 Jun, 30 Oct);
+  early BE turned a wrong-bias day into 0 (11 Feb ✓px); his "no shorts under a data wick / equal highs" rule
+  skipped ~200–300 pt winners on two NFP days — it must be tested, not assumed. ~
+
 ## His noise (weight accordingly)
 - Marketing titles ("80%", "10,000% win rate"), "I invented/popularized the IFVG", "never show losses".
 - Straddle "23 for 24" vs 2 failures in ~9 seen. "Data high hits 90–93%" — missed on 4 Sep 2026.
@@ -46,5 +50,5 @@ I lose off stream"), has big off-stream losses, and doesn't alert eval losers. J
 ## Who Isidore is becoming
 - Not a copy of his entries: a trader who **filters days and setups the way he says he does, and holds to it
   when he doesn't**. His rules beat his discipline; Izzy's advantage is following them every time.
-- Next: finish the last 4 streams + his strategy videos; label every take/skip with the seven questions;
+- Next: his strategy videos (Audrey's queue); label every take/skip with the seven questions;
   then test a wider rule set the maker can actually trade (≥ 3 trades/week, PF ≥ 1.2 in both halves).
