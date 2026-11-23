@@ -139,3 +139,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240726 | te4W0N8EOR8 | How I trade using Prop Firms (over $25k in payouts) | captions | done |
 | 20240722 | wZKQXxggDXs | How to trade using Turtle Soup？ | captions | done |
 | 20240713 | 2h2tHWLYkQA | How to trade Market Maker Models (the easy way) | whisper | done |
+| 20240705 | TL7mPEDO0rU | Top 3 ICT Entry Models (easiest way to trade ICT) | captions | done |
