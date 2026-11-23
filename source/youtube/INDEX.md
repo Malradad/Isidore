@@ -110,3 +110,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241210 | 2vca8XZNDbI | 2 Years in My Discord and He Made $130,000+ in Payouts THIS YEAR with iFVGs | captions | done |
 | 20241203 | aEdEggrt9iU | I Surveyed 1000+ Students – What They Revealed About Their iFVG Trading Journey | captions | done |
 | 20241129 | 4bPMW6jQ4Wk | Backtesting... but Students Vote on Trades – Will They Make Profit？ | captions | done |
+| 20241123 | GoU3p4sgxz0 | These 3 Characteristics define Winning iFVGs | whisper | done |

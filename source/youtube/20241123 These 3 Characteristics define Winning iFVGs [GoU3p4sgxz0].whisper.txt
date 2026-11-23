@@ -1,0 +1,54 @@
+[00:00:00] What is going on, ladies and gentlemen, in this video, I'm going to be going over the top obvious characteristics I look for when I go to take in inversion for a really gap. So without further ado, let's get started.
+[00:00:10] As you can see here, these are the three top things I look for when it comes to identifying an obvious for a really gap or an obvious inversion for a really gap. Now, you're probably wondering, what does that actually mean?
+[00:00:22] Like, what do you mean by inversion or obvious inversion for a really gap? Okay, by obvious in version for every other gap, I mean something that any trader can see,
+[00:00:30] and typically the reason obvious ones are better is because I've seen from back testing, they work much better.
+[00:00:37] So for example, if we go to the chart right now and I find like a really, really tiny one, for example, right here, I find these do not work as well
+[00:00:47] as something like really, really obvious, such as right here. Okay, now you're probably wondering,
+[00:00:55] what's the difference? And I'm going to be going over the three main things that I look for. So starting off in number one, the first thing I look for is the candles around it. Okay, so I'm always looking at basically the fair valley gap we create relative compared to the maybe 10,
+[00:01:13] 20, 30 candles around it. So if we take this clump, if we get this for valley gap right here, and then we take the clump of fair rail, I guess, before. Does this stand out relative to the
+[00:01:24] canals around it? And in my opinion, it does. Now, I want to show you something really cool. It's going to be my IFG optimization guide, which you can find the link in the description.
+[00:01:34] So as you can see here, this is the guide and I basically call this gap clarity theory. So relative to the canals around it, this one is too tiny relative to the canals around it,
+[00:01:45] but this one, it's just right because if you look at the previous candles, it stands out, it's not giant, but it's also not small. So if we go back to this and just look at this,
+[00:01:55] there's really the relatively same size candles as what this very rarely get is here. Okay, so honestly, this one to me is a good one because it's not too big compared to all these candles
+[00:02:07] here, but it's also not tiny. It's kind of just right, if that makes sense. And again, this does take a lot of screen time to get down. You do have to watch the market to know what I'm talking about, but hopefully this is one step in the direction of me trying to help you see the
+[00:02:20] signature price that I'm trying to show you. Another example I want to show you is right here. Do you see how there's a tiny, tiny, tiny bearish or really gap here? But again, look at the
+[00:02:30] relative candles around it. Okay. See how this candle is pretty good size. This is a good size candle. This is a good size candle. So you have to ask yourself, there's a small tiny gap like this
+[00:02:39] in this series really matter, the answer is probably not, okay? And it's just, it's one of those periodic apps that doesn't really matter because of the, how it's compared to the relative candles
+[00:02:51] around it. Now, the next thing I want to talk about is the number of points of the candle. Now, this kind of has to do with the candles around it, but there are going to be harder
+[00:03:01] feedback apps to take depending on the points, okay? So for example, a lot of you guys, or a lot A lot of what I tell you people is on Apex,
+[00:03:09] which use code dodgy, by the way. I always tell them, if you're ever getting in the trading, get a 50K account, a 50K tradeover account. And whenever people ask me what the risk,
+[00:03:17] I always say $200. And I think $200 is a really good risk. I think it's the best possible risk for a 50K account. So if you're seeing like $1,000,
+[00:03:26] then that means you're probably just full porting, just trying to pass into one day, which is fine if you want to go to a funded account. But when you get in a funded account on a 50K,
+[00:03:33] risking $200 is definitely the sweet spot. Now, the problem we're seeing $200 is if that means if there's a 100-point stop loss,
+[00:03:42] you're only allowed to take one micro contract because it's one times two, okay, because $2 per point times a 100-point stop loss,
+[00:03:53] which is $200. So $200, $200, that means you cannot scale. You can only hold for the first target,
+[00:04:01] which often might not be more than one R, It's just super hard to trade up with that. So that's why if I ever see a giant gap such as this one right here Where it's almost too giant where it's like it's like 50 to 100 points
+[00:04:14] I never really take them because you're not really allowed to go on a 50k count which I copy trade You're not really allowed to go more than a couple contracts
+[00:04:24] Which just makes it really hard to hold the runners for obvious targets such as here and here and a lot of these big obvious ones I just skip out on because I like to take three four contracts. So there's actually a good example this afternoon where
+[00:04:38] we actually got a Super textbook five minute for reality gap. Now if you look at the stop loss here You can kind of see that this stop loss was let's see here. I had to guesstimate. It was probably like a
+[00:04:54] Probably like a 27 point stop loss. So honestly, that's perfect The 27 point is fine. If I'm risking $200,
+[00:05:00] you can probably take like four or five contracts. But if this zone looked like this, what I typically do,
+[00:05:07] and even some people do this with 27 points top, what I typically do is I use this as like a higher time frame play.
+[00:05:13] And then what I'll do is I'll go to the 30 second. So you can see here's a five minute IPG here. And what you can notice is there's actually not really
+[00:05:23] a good IPG. Okay, so for example, I guess this one was fine. So we come down, we sweep this IPG here in the five minute.
+[00:05:33] There's not a textbook entry here per se, so there's not any textbook entry here. But this entry is kind of fine. I mean, it's not the greatest out in the world, but it works.
+[00:05:42] And again, this is hindsight. Probably when I'm taking this a lot of time, but I'm just trying to show you the idea. The idea is this is a much smaller stop loss now.
+[00:05:49] There's only like a 10 point stop versus, this was like a 30 point stop. So if you like these smaller stops and you're risking less,
+[00:05:56] wait for like the 30 point entry zones to be tapped into and then go to the lower timeframe and try to take like a lower timeframe set up
+[00:06:03] off the higher timeframe. So in terms of points, I feel like 10 to 20 points is a sweet spot, but I think 30, 40, 50,
+[00:06:11] those get really big and just, you could possibly get extremely wrecked if you're wrong, so just be very careful with those.
+[00:06:19] Now the third and final thing that I look for personally when I'm taking IVG is, can you see it 10 feet away from the screen, okay? Now, I'm not gonna get up right now
+[00:06:28] and go 10 feet away from the screen, but typically if you can notice an IFG when you're really backed up
+[00:06:34] compared to the candles around it, it's most likely a pretty obvious one. I guarantee you if I were to back away from my screen right now, I bet you I noticed this five minute almost immediately
+[00:06:43] because compared to the candles around it, it looks so obvious, like this is all choppy, all choppy, and then boom, all of a sudden you're gonna see
+[00:06:51] is giant gap get created and then boom, V-shape, you know? So if you can see it 10 feet away from the screen, that's typically a good sign,
+[00:06:58] because that means a lot of traders are seeing it, which means there's probably a lot of liquidity, probably a lot of order flow and reverse thing, undervert, like, you get the point, okay?
+[00:07:06] It's all algorithms at the end of the day, but if it's obvious from what I found in back testing, no matter what you believe other than an algorithm or not,
+[00:07:14] I find the most obvious ones work the best and that's just based off back testing. So that's gonna be it for this video. hopefully learn something.
+[00:07:21] Again, this takes a lot of screen time and practice to get used to. And if you're trying to get used to finding out if you serve your own gaps, we'll then I recommend get a 80% off discount code.dodgy.
+[00:07:34] You can literally buy a $50,000 account for like 30 bucks right now, it's 80% off and you can just practice.
+[00:07:40] And I think it's much better than a demo account because a demo you really have no motion, but like at least you're paying like 30, 40 bucks
+[00:07:48] for a 50k count and at least there's rules. And the one thing I tell people is if you actually start off with Apex, it's probably one of the hardest rules
+[00:07:56] 'cause it's trying to stop. And a year or two you'll be really prepared for a live account and it's gonna be laughable how good you are because on a live account
+[00:08:04] you're gonna crush it because you're gonna think it's a joke compared to the rules you had to follow on Apex. So that's another bonus of doing that.
+[00:08:11] That is it for this video. I'll see you in the next one. Peace.
