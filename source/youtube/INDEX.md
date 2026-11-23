@@ -87,3 +87,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250527 | Y0qANs6tdcY | This Day Trading Strategy has a 90% Win Rate (Not Clickbait) | whisper | done |
 | 20250521 | On4hdloSLHI | Real Talk： the Hardcore Trading Mindset You Need Right Now | captions | done |
 | 20250517 | rXMlvTcIIeU | This is What I'd Do to Make 100k+ a Year Using iFVGs (5 Steps) | captions | done |
+| 20250507 | BJ3xNgZF0Rw | iFVGs = Freedom | captions | done |
