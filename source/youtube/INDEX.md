@@ -125,3 +125,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241002 | OmuOMsNjg9E | My +80% Winrate iFVG Strategy (my new model) | captions | done |
 | 20240930 | kMHOjdL1TsY | These 2 Concepts give me an 80% Winrate! (full guide) | captions | done |
 | 20240927 | w7J0RymmVgA | Rating the BEST Inversion FVG Setups from C to A+ | captions | done |
+| 20240911 | m5Ki1SL_yEY | Backtesting the iFVG + SMT Strategy! (insane WR) | captions | done |
