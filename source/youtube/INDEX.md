@@ -80,6 +80,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250711 | rdK-PT_e0WY | Raw Unedited Daily Trade Recap 7.11.25 (No Marketing All Education) | whisper | done |
 | 20250710 | CLpAkVI-3sw | Mentorship Interview： Quit His Job, Now Trades Full Time with iFVGs | whisper | done |
 | 20250630 | gpn8BvK-G4s | Foolproof Bias – Here's How I'm Right 90 % of the Time | whisper | done |
+| 20250621 | QGbkYt-PRzs | This iFVG Setup is a Repeatable Money Printer (Live Account A+ Trade Recap) | captions | done |
 | 20250617 | aP_oySAybqo | Swing Trading with a 90% Win Rate (Higher Timeframe iFVGs) | whisper | done |
 | 20250613 | 2a3fBH2_5eM | Live Bias Backtesting (100% Accuracy Predicting Bias) | whisper | done |
 | 20250608 | -xLZ2ekyja4 | Five A+ iFVG Setups with Full Explanation | whisper | done |
