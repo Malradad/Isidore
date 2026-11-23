@@ -152,3 +152,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240528 | HJJYZFsIS1U | Data Wicks ｜ Bootcamp Ep. 39 | captions | done |
 | 20240527 | c6HQJHxIULg | Time (Macros) Pt. 2 ｜ Bootcamp Ep. 38 | captions | done |
 | 20240524 | pFIJWpCfP6A | Daily Bias Pt. 2 ｜ Bootcamp Ep. 37 | captions | done |
+| 20240522 | SYXKsb5jD2w | SMTs ｜ Bootcamp Ep. 35 | whisper | done |

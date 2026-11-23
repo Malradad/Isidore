@@ -1,0 +1,92 @@
+[00:00:00] In this video, I will be going over SMTs, okay? So SMTs is a smart money technique, all right, and this is, here's the thing. Some people say SMTs, you always must have an SMP to take a trade, and some people don't
+[00:00:21] care if there's one or not, because maybe a liquidity sweep is good enough. I know people on both ends, and I'm not going to tell you, I'm not going to sway you to
+[00:00:32] one another. Some of you might only need SMTs for trades and be like, "Oh, if there's no SMT, I can't take the trade."
+[00:00:38] And some of you guys might not need them. So what an SMT is, is it's basically when one index takes it a low, but the other index doesn't.
+[00:00:49] So if we get something like this. So let's say this is NQ, and let's say this is ES. Okay. So, what an SMT is is it's basically an MQ takes it to low and yes doesn't or something.
+[00:01:01] Now, I'm going to ask you a question. In this example here, we can kind of confirm that yeah, we're probably going to go up at this point. So, this is probably going to happen. Now,
+[00:01:13] let's say we chopped off half of this. Let's say we got something like this. Okay. Let's say We got this and NQ at the low and he has done it, but we didn't really get a move off of yet
+[00:01:30] What I automatically be like, oh, we have to go up here No, because chances are there's probably not an actual setup Let's just set up what up here here to tell us that we're gonna keep going up
+[00:01:42] Whereas in this example, there's like there's good displacement. We have a market structure in both now And there's a good displacement telling us we're probably gonna go up
+[00:01:51] So you're going to see a lot of false and some T's but a lot of those false and T's are actually not going to have your entry model So that's definitely one thing to keep in mind. So I'm right now. I'm on the chart. This is MQ. Okay
+[00:02:04] Let me just turn this on if you guys want to use this indicator It's just called AG FX watermark has these little things at the top of your screen. This is pretty nice So I'm just gonna go to the screen and what I'm gonna do is I'm gonna show you guys yes in this example so
+[00:02:21] Now, in this example here, this is from earlier, okay, you can see there was a bullish SMT from earlier, and in hindsight, you're probably like, oh, this is hindsight. You know there's going to be an SMT right here, or like, this is hindsight, or whatever, but here's the thing.
+[00:02:47] Let me go and replay mode. I was streaming this morning when this happened. So I saw this And both candles are about right here and there was an SMT and people were calling in my chat
+[00:02:59] But this does not mean we're gonna go up. We need an entry model to know we're gonna go up Just because there's an SMT here and NQ took out the low and yes did not take out the low does not mean
+[00:03:10] We're automatically gonna go up we entry model. So what would an entry model look like? Well, it might be a market structure shift with a fair rally gap form so like this and Then you long the fair rally gap or it could be an inverse very rally gap the entry model
+[00:03:26] I typically take so we have a bearish gap here at one step gets closed above I'm going to long because one we have my entry model and bearish or bearish for a rally gap gets broken and two My other confluence would be we're at an SMT and three my other confluence would be we're really low
+[00:03:43] We're in discount. We swept a lot of lows up here and it would make sense to take along here So we kind of have three different confluences here
+[00:03:51] Okay No, do I know we're gonna bounce here for sure yet? No, so we kind of play two candles and at this point I asked my stream on Mike is anyone long here?
+[00:04:02] This is starting to look very bullish We know from IZT that this does not make sense to reject this gap Why do we know that because of all the three confluences? I just told you guys we kind of have an SMT
+[00:04:14] We are very low. It wouldn't make sense to keep projecting this and we swept a bunch of these lows over here So because we already set swept these cell stops
+[00:04:24] Does it really make sense to keep going down to sweet more at this point? No Now do we know for sure if this is going to be bullish yet not for sure unless this breaks So I tell people my go. Okay, this is starting to look more bullish, but we can't really enter until this breaks
+[00:04:38] Play the next handle play the next handle still nothing play the next candle play the next channel Okay, now we get a candle that actually closes above this radio gap the momentum was really good here
+[00:04:51] We don't really stop now. I know that this SMT that was now kind of a hindsight SMT is Going to affect this setup. We get higher and probably make this a good long
+[00:05:03] And that's where the SMT and knowing that there's SMT is gonna come to play So calling an SMT right when it happens is not going to be ideal because there's gonna be a lot of fails But knowing there's an SMT when your entry model forms such as here is going to be
+[00:05:17] What's going to be typical what you're gonna want to do? So this is just an example where you get a bullish SMT where MQ takes at the low and ES does not take out the low Okay, so that's just the bullish SMT a bearish SMT would be at the highs and in this chart here
+[00:05:33] you can actually see there's no SMTs because both mq and es both pick up the same high so there's no SMT here so wouldn't really affect anything all right now let's see if I can find
+[00:05:46] an example bearish SMT might take me a few seconds here Okay, all right, so we kind of got we kind of bearish system to here and this is this is where
+[00:06:10] it gets advanced trying to decide whether I should put this in the bootcamp but I guess I will but here we have a bearish system t okay at this point in time let me show you
+[00:06:25] At this point in time, NQ had taken at the high, NES, and not. So what do you do?
+[00:06:31] You look for a short setup. So you're looking for some sort of bearish gap here. OK. I think we're some sort of bearish gap.
+[00:06:38] OK, we have a bearish gap when we come up to here, or this one-- let's see if it's singular. OK, here's a two-minute bearish gap.
+[00:06:45] I'm going to short this gap because we have displacement down. Now, let me ask you something.
+[00:06:51] Is this a market structure shift? well it's it's a break of structure because we break that low but it's not really market structure shit because we don't make we don't break the low that
+[00:07:07] kind of made that new high if that makes sense you ideally want this low that made that's like the impulse leg that made the new high the break so it's not
+[00:07:17] the best market structure shit so is could there still be bullish yeah sure can. All right, now you can see this completely fails. So let's say you were new into the market and you did take the short and you're like, Oh, well, there's an SMT. It's a good short. And that's
+[00:07:34] it. I'm going to take it. I don't think this is a terrible loss. The only thing I don't like about this is we didn't really get an obvious market structure shift of a low that made a new high, but we did get some sort of breaking structure. So you will see a setup like this work some of the
+[00:07:47] the time. So let's say you're new to the market, you see a bearish SMT here, you see MQ took up the high, yes and not. And you see this fail. Most likely that means you're probably your
+[00:07:59] bias is probably wrong and you're probably missing some sort of high in the left that we're probably going to go to. And you can see we're kind of reacting nicely off of a discount. So
+[00:08:14] From this let impulse like this like you kind of see we reacted we wicked off off this point 50 point very nicely and It looks like we're putting in a bullish order block here this
+[00:08:26] This red candle swandage between these two green candles and it looks like we're gonna put that little order block in there So let's say you take a loss in that and that's fine. You manage your risk
+[00:08:38] You're down to 100 for the day because you short this for a rally gap and you take a loss That's completely okay. There's nothing wrong with that. Okay
+[00:08:48] That probably just means we're you're probably we're probably just gonna go higher and you can see when I check the 15 minute I'm gonna check the hourly
+[00:08:56] We don't really have any signs of slowing down here, and I would guess we're probably gonna go to Probably like this high or yeah somewhere up here and
+[00:09:05] That's like when you see something like this fail. That's probably the case. So let's just see what happens So we just keep going higher the rest of the day
+[00:09:13] And that just means you're probably surprised wrong and that's fine now I It's it's very advanced to tell you why I want to take this set up, but I
+[00:09:23] Guess I'll say the reason is because we never broke that low that made the last higher low. So this right here All right, and here's the other reason
+[00:09:33] The other reason is actually because it's a Friday If you know anything about liquidity targets, which I'm going to go over this in a later video This week was actually wick off a news, which is a great liquidity target and the day I live streamed this day
+[00:09:47] I Took a long down here and I sold everything here. This was to me This was the main objective of the day was the main drawn liquidity and once that hit I was gonna shut down the screen
+[00:09:59] Now the more you trade the more you're actually going to realize this is if you ever see or have conviction in a single major your target for the day, we get it, we get to it very easily. It forms a nice kind of curve.
+[00:10:11] Chances are the price action is probably going to suck out there. Now, if we look at the rest of the day, we really did not get good price action. It's just very choppy. Lots of everybody gets
+[00:10:21] going to trade it through. And because of my screen time and experience, I would not have touched any of this, any of it, because I would have been done by this time, because I know that this was
+[00:10:32] good price action. We got a pretty good move and I already sold everything at the objective which is this kind of wick here which is a big wick that I will I've talked about this in my course and
+[00:10:41] I've talked about this many places. So another time I stop trading is when we get the big objective for the day and that's kind of why you see this nasty price action you kind of see here. It's just
+[00:10:51] not easy. There's no light bulb moment here. There's just chop and that's why that happened. So that's definitely more advanced and you'll learn that through experience. So that's definitely a big thing.
+[00:11:01] So let's see if we can find another SMT here. Let me go to the five minute. Um, okay.
+[00:11:22] Okay, here's another SMT. So at the top here, and by the way, you can actually turn on an SMT indicator. I forgot about that. It's by TFO. Let's see if it shows any of these. I get, you gotta put it
+[00:11:39] with NQ on. So it will show some S and T's, but they're kind of lagging. It doesn't actually show this one was interesting. So in this example, we have a high right here at the 5 minute chart at
+[00:12:00] 8.30 and at this time we have a high at 8.30. Now you can see nq purged the high but yes actually did not. We actually make equal highs here and this is actually one of the few times I would not
+[00:12:14] target these equal highs because nq already took out the high. All right so let's kind of play out how I would kind of think about this so let's uh let's go to this right here so this is the
+[00:12:29] 950 this is the 955 let's actually go uh further back all right so at this point in time at 935 I'm kind of thinking okay we're going up here NQ swept the high we do have a bearish SMT here
+[00:12:48] But what's the order flow looking like? Well, the order flow is in bearish. We don't have any market structures. We don't have anything out.
+[00:12:54] We don't have anything here. So I just kind of keep playing price, all right? Play price two candles, play price two candles.
+[00:13:02] Still nothing. There's still no bearish market structure. We do have a bearish SMT here. We, I'm not made a new hire and yes,
+[00:13:11] but there's no short setup to even remotely try to short. So I play two more candles, play two more candles. Okay, now I see, yes, did not make a new high, we dumped,
+[00:13:22] we got a big free rally gap. Here's where honestly, I will look for a short in this free rally gap, okay? So we formed for everybody I got there,
+[00:13:31] and you'd short this because the SMT and your stop would be above the high and then you'd target the lows, okay?
+[00:13:39] So, this is hindsight, this is not the model I typically trade, but this is the 2022 model, and it does work.
+[00:13:47] Now, even though I would not have taken this 'cause it's not my model, it's the educational part that counts.
+[00:13:55] You go from one, there's a bearish SMT to two. Okay, now we actually have an entry model
+[00:14:03] and there's a bearish SMT. Does that make sense? So hopefully that makes sense. You're going to see a lot of SMTs,
+[00:14:10] but it does not matter until you get an actual entry model. Okay, so that's the biggest thing with SMTs. So I got a few requests and people asked me
+[00:14:18] to make videos and SMTs. NQ and ES are gonna be the strongest pair you can look for SMTs with.
+[00:14:25] You can use YM, but not as imperative as if you would get like an ES and NQ SMT. But like I said, you'll see yes or P's all over the place.
+[00:14:36] Ideally, just make sure they go along with their bias. Let's say I'm bullish for the day here. say I'm like expecting a big balance here. If you have an SMT already in that direction,
+[00:14:47] it's probably a good sign. Okay, it's probably a good sign. And you can see there was no SMT here, but look, like there's going to be places where you're going to expect
+[00:15:02] an SMT because you're going to be like, well, the bias definitely is bullish. I would expect an SMT here. Now, even if you don't get one, that's fine too, but SMT just adds another the other confluence and it's just when one index takes out a low and another index is
+[00:15:13] not. Okay, you can see there's another one over here as well. See this one? So you can see this is bearish one.
+[00:15:21] Now you can see the NQ didn't take the high and yes did but you would not have known this in live time.
+[00:15:27] When would you have known this? Well, you would have known it after we break this bullish gap, after we break this bullish gap here.
+[00:15:35] This is common sense because we break a bullish gap. We have an SMT and if the bias is bullish, we probably would have bounced off this gap here.
+[00:15:44] Okay? Does that make sense? So this is just a common sense SMT where it's like, okay, I see the SMT in hindsight. I see we violated or dumped through this bullish gap, which we probably would have bounced
+[00:15:54] to the bias is bullish. So now I expect us to go to the next low, which is down here on both indexes. The other question I get is, which one do you short along based off the SMT?
+[00:16:06] A lot of people say, "Do I short on Q?" 'Cause it's the weaker one. Or do I short on, or SM, or ES, because it's the weaker one, whatever.
+[00:16:14] I only trade NQ 99% of the time. So even if you see, and so let's say I traded ES and I saw ES made a higher high,
+[00:16:23] I'd still honestly short ES. Maybe I just scale more when NQ hit the low first, just in case, but I only do NQ basically.
+[00:16:35] If you trade both, then yeah, short the weaker pair, which this would be the weaker one in this situation, but I don't think it's gonna affect you too much.
+[00:16:45] Just be watching both and make sure one pair doesn't hit way before another. 'Cause that, in that case, that would definitely scale out more than usual.
+[00:16:52] So that's kind of how you use SMTs. Again, some people really want SMTs in their trades. Some people could care less.
+[00:17:00] It just depends. Sometimes they'll use them, sometimes they don't. Like today, I use the SMT for the setup I kind of took today, which was a pretty good setup.
+[00:17:09] So it was right here. This was just a bullish SMT. And again, hopefully my thought process using replay mode helps because I'm not gonna be like,
+[00:17:17] "Oh, I knew this was gonna be an SMT live time," because you really don't until we get the sent entry that validates the SMT.
+[00:17:23] So that is it for this video. I'll see you guys in the next one and other than that. Peace.
