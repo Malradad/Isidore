@@ -351,6 +351,14 @@ _Session entries: date · what was learned · decision · maker response · perf
     0.86 / 0.92), still < 1 (claim 24 ~).
 - **Decided ~:** stop grade backtests. Next is blind-labelling his audited setups with the grader and score.
 
+## 2026-11-23 · Step 3: video study, batch 2 (5 videos: losses, rules for life)
+- **Learned ~:** his loss reasons are concrete and codable: no BE point before the target, a protected-high target,
+  inverting the wrong leg, slow reversals (> 6 candles). His daily stops: 2 losses (1 on bad-PA days); live = 1 trade/day,
+  a BE doesn't count. Claims 26–28. These are exactly the "things he doesn't put in the grade" that P8 missed;
+  sent to the backtester as fixes for the grader.
+- **Refines step 1:** "one trade per session, BE doesn't count" — my D flag counted a BE first trade; 3 of 22 D trades
+  followed a BE (minor). Keep.
+- **Honesty:** "trading is gambling"; $42k loss blamed on a glitch; most income is not trading. 74 videos left.
 ## 2026-11-23 · P9 grader vs his eye (started, blocked)
 - Built the audit: 119 audited NQ setups since Nov 2023 (34 takes, 85 timed skips) and an audit mode in the grader
   (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota

@@ -40,6 +40,10 @@ Every testable prediction, judged against real prices. Never use his recap as th
 
 | 25 | streams/2024-10-30 JrAXEtFejNw @ 02:18:30–02:20:22 | MNQ | His grade scale works: A+ (sweep + inversion + discount/premium) beats A, A−, B; "four or five A+ setups a week"; B not worth taking live | Code the grades (`tools/pine/izzy_grades.pine`), each grade alone, 1m/5m, AM/PM, by halves | ✓ 2026-11-23 | ✗ Not supported (as coded) | 5m AM A+ PF 0.93 / 0.81 (~1/wk); A 0.78 / 1.02; A− 0.70 / 0.75; **B best** 1.00 / 1.14. 1m A+ 1.10 → 0.75 (~4.7/wk, so the frequency claim is roughly right). With run-1 filters 0.66 / 0.92; PM 0.88 / 0.94. `journal/backtests/2026-11-23-grades.md` |
 
-**Running record:** 25 claims · 15 judged (1 supported, 5 partly, 9 not) · hit rate 1–5 / 15
+| 26 | youtube/20251013 FHQP0_d_YNs | NQ | Fast reversals (≤ 6 candles from the sweep to the inversion) win more than slow ones | Count candles sweep→inversion in P1/P8 trades; win/PF by ≤ 6 vs > 6, both halves | P9 | — | Complements claim 19 (cross timing) |
+| 27 | youtube/20250926 fg1tbrPwcx0 | NQ | Setups with no BE point (no internal high or gap) before the target, or targeting a protected high, lose more | Tag P8 trades: internal high/gap before target? protected-high target? Compare | P9 | — | His two most-cited loss reasons |
+| 28 | youtube/20250319 5TxTJlmsQ24 | NQ | After two losses in a day, the next A setup underperforms | P8: outcome of setups after 2 losses vs others | P9 | — | His daily stop rule |
+
+**Running record:** 28 claims · 15 judged (1 supported, 5 partly, 9 not) · hit rate 1–5 / 15
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

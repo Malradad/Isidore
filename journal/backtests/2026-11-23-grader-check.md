@@ -33,3 +33,18 @@ TradingView quota ran out (10-minute cooldown, then the next day). No grader-vs-
    - protected high.
    Re-check agreement.
 4. Only then: one A+ 1m AM rerun per half, plus the tighter P7 (equal pair within 1R; real CPI/NFP dates).
+
+## Addendum (relayed): his loss reasons become grader fixes (codex/playbook.md "Video study, batch 2", claims 26–28)
+Each fix is coded as an input, so its effect can be shown on the audited setups and on price.
+1. **No BE point → skip.** No internal high/low (untaken swing) or unfilled gap between entry and target.
+2. **Protected-high/low target → skip.** The target is a swing that took another swing inside an FVG (a rejection
+   block).
+3. **Reversal speed.** No more than ~6 candles from the sweep extreme to the inversion (claim 26).
+4. **Same leg.** The gap must belong to the current V-shape leg (formed after the sweep extreme), not an older leg.
+5. **Engineered target.** Equal highs/lows or a multi-touch trend line. Asia/London highs count only when paired
+   with one of those.
+6. **Daily stops.** One trade per session (a BE doesn't count), and stop after 2 losses (claim 28).
+7. **Window** 09:30–11:00 (his 5 rules).
+
+Order: first measure the v3 grader against his calls (step 1). Then add fixes 1–7 one at a time. Report each fix's
+change in agreement with his calls and its PF per half (A+ 1m AM).
