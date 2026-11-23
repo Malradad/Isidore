@@ -117,3 +117,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241106 | oTIba7_S6gw | The Most Common Winning Setup of my 1000+ Students | captions | done |
 | 20241103 | IyNoQ0E3Asc | Focus on 1 Setup, 10X your Profitability | captions | done |
 | 20241029 | orRd_V73hLE | Election Week 2020 FULL iFVG Backtest Session – Is 80% Win Rate Still Possible Using iFVG Model？ | captions | done |
+| 20241026 | HNjZaOF8MZs | The 4 Stages of becoming a Profitable iFVG Trader | captions | done |
