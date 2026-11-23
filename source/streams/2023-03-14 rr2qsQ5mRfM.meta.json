@@ -1,0 +1,17 @@
+{
+  "title": "Live Trading + Education 3/14 [CPI]",
+  "id": "rr2qsQ5mRfM",
+  "url": "https://www.youtube.com/watch?v=rr2qsQ5mRfM",
+  "duration_s": 12555,
+  "duration": "03:29:15",
+  "live_status": "was_live",
+  "release_timestamp": 1678796313,
+  "live_start_utc": "2023-03-14T12:18:33Z",
+  "live_start_ny": "2023-03-14 08:18:33 EDT (Tuesday)",
+  "timestamp": 1678854764,
+  "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio.",
+  "video_local": "%USERPROFILE%isidore-videosstreams${j.id}.mkv",
+  "trade_log": "todo",
+  "collected_by": "Audrey",
+  "collected": "2026-11-23"
+}
