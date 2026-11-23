@@ -119,3 +119,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241029 | orRd_V73hLE | Election Week 2020 FULL iFVG Backtest Session – Is 80% Win Rate Still Possible Using iFVG Model？ | captions | done |
 | 20241026 | HNjZaOF8MZs | The 4 Stages of becoming a Profitable iFVG Trader | captions | done |
 | 20241021 | SbMWBVB-GmY | Took a Loss？ DON'T trade, answer these first | captions | done |
+| 20241018 | kewvT3TvrfI | What A+ Setups look like (5 perfect examples) | captions | done |
