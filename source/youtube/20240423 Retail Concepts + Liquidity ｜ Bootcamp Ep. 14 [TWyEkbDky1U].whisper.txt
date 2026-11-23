@@ -1,0 +1,162 @@
+[00:00:00] This video is going to bridge the concepts of finally going over retail, most of this bootcamp to finally going over to liquidity. Okay, and there's something that, so when I started, I started with, I started with naked price action first, and then I kind of went to a phase where I'm like, oh, buy and sell indicator.
+[00:00:24] Okay, where I'd just type in all these things in a timer to buy and sell. Newsflash, this doesn't work.
+[00:00:34] Who the hell would buy and sell here? They get stopped out, commissions, it doesn't work, trust me. So I kind of went through that phase.
+[00:00:41] And then I went through like, oh, if I line up five indicators, I'll be really profitable. Well, the five indicators almost never lined up, and even if they did, it wasn't perfect.
+[00:00:51] And then out the supply and demand, okay, and I quickly realize I'm like, there's no precise way to buy and sell in a supply and demand zone.
+[00:01:02] There's just two, it's too big of a zone to buy and sell off of. So I don't like that either. And then I finally stumbled upon something called the strat. And yes, you heard it.
+[00:01:11] It's literally just called the strat like this, okay, it's not a generic term. This is what it's called.
+[00:01:17] Okay, now the strat kind of is my first taste it kind of understanding where the market needs to go About two years ago today
+[00:01:28] I have a snapchat memory saved and I learned something called the H pattern and this to me was Like groundbreaking because I this was the first so let me give you a little backstory
+[00:01:41] Learning this age pattern was the first taste of screen time I ever had At this point when I learned this I had been training before about two years and I remember telling my buddy one day I saw spy because I used to trade spy and
+[00:01:54] Because I traded options. I saw spy and I told my buddy. I'm like oh my god Spies in this little let's see if I can find a good example spies in this really age pattern
+[00:02:07] I've seen this before and where does the age pattern complete at low of day and And I didn't understand why the market had to go low day.
+[00:02:16] I didn't understand the restop losses here. I didn't understand why the market moves the way it does. And now that we have gotten this far, you should understand by now that the
+[00:02:27] market's only goal is to target stop losses and inefficiencies. Okay, which will go inefficiencies part later, but the market's goal is to target stop losses.
+[00:02:37] So what does that mean? It means the market should go to low day here. and I was just trading a pattern.
+[00:02:43] I didn't know why we had to go to low day, but I saw this pattern before and I knew that Spy would likely go to low day.
+[00:02:50] And that was my first ever taste of a light bulb in my head based off a screen time. Because I had seen this pattern before
+[00:02:57] and I texted my buddy, I'm like, hey dude, this looks like an H setting up. So we had to go back to low day. And that was the first ever play I took
+[00:03:06] that had to do with screen time. Not just playing the market and looking for a pattern. So it's kind of cool.
+[00:03:12] So the H pattern just looks like a little H. And generally it completes at low a day. And again, you can also, it can be an inverse as well.
+[00:03:20] It can be an inverse H pattern. But the really cool thing is that's really when the mark, like this is the first kind of taste and when the market clicked for me,
+[00:03:27] because I've seen it before. And the funny thing was I didn't understand that the market had to go low a day.
+[00:03:34] I just knew it had to go low a day because of the H, but not because of the science behind the H. The science behind the each was,
+[00:03:41] where are people gonna put their stop loss? Well, they're gonna put their stop loss at low of day, high day, because they think, oh, if Spy made a new low of day,
+[00:03:48] we're not gonna hit it again. And that's kind of the science behind everything. Okay. So I just, that was kind of the first taste of, okay,
+[00:03:58] I understand what liquidity is now. I understand why this is liquidity. I understand this is stop losses, all right? And that was, it was kind of cool.
+[00:04:05] I, uh, I honestly just brought that memory back in my head. I just, I, I got a Snapchat memory on my, uh, thing the other day. And I, I remember that was the first day where I honestly felt like, oh my God,
+[00:04:17] I've traded so long where I know this should work. So it's just kind of cool. All right.
+[00:04:23] So what is the strat? A strat is basically a candlestick pattern strategy. Okay.
+[00:04:30] Now there's a little cheat sheet. Okay. If I pull it up, it's created by someone called Rob,
+[00:04:38] and rest in peace to him. He did pass away, I think, three or four months ago. Dude, I saw it on Twitter, so I did follow him on Twitter,
+[00:04:52] and he did pass away. He had a very bad sickness, unfortunately, so obviously, he prayed for his family. He has not been gone that long,
+[00:05:00] but again, he was kind of a creator of this, okay? 'cause that was Robin in the black, okay? And this is really cool.
+[00:05:09] So why does this bridge, why does this bridge the retail concepts, the kind of ICT?
+[00:05:18] Well, the strat is all based off of highs and lows. So if I just zoom in real quick, let's see if I can get this.
+[00:05:29] I'm gonna pull this up, probably in a different tab, honestly. So, basically, there's, again, this might be a little complicated to explain, but there's
+[00:05:42] all these kind of patterns with candlesticks, okay? So you got three different types of candles, one, two, and three, all right, eight, one is a inside candle.
+[00:05:56] So let me just explain what a one candlestick looks like. If you ever see a candle representing a one, so I could actually pull up an indicator for this.
+[00:06:06] Watch this, this is cool. That's too much. I'm gonna see if I can get a cleaner one. Okay, that's good enough.
+[00:06:17] A one is going to be an inside candle. So here's a good example right here. So do you see how this candle, this candle right here,
+[00:06:27] let's see a black candle. Do you see how the high of this candle, which if you look up here, look at these things.
+[00:06:36] When my cursor's over there, see how high this candle it says, 18, 5, 8, 9.50. And it says low is 18, 5, 7, 7.25.
+[00:06:49] Now, why is that significant? Because both the high and low are inside of the candle previously.
+[00:06:55] So the high here is 18, 5, 9, 3. and the low here is 18, 5, 7, 6.5, 7, 5. So the low of this candle is lower than this candle
+[00:07:04] and the highest candle is also higher than this candle, making this a one and making this a two. Okay, so this is just called an inside candle.
+[00:07:14] It means the candle is inside the previous candle and the high and low do not get traded above or below the previous candle.
+[00:07:21] And with a strat, one of the patterns here was this. If we ever got an inside candle, Let me just visually draw this out.
+[00:07:28] So it's just very easy to understand. If you ever got an inside candle, so this would be an inside candle because this candle, inside this candle.
+[00:07:36] The second, the next candle, triggered above the higher low of the two candle, or the one candle, sorry.
+[00:07:44] So this is the one, this is the two. The target or the pattern that you trade is, you long here, once we broke above
+[00:07:55] and you'd sell here. So you long this one candle and then you'd sell up here. And that is one of the patterns of the strat.
+[00:08:04] That's an inside candle breakout. So let me show you a few examples. So I can't really show you right now
+[00:08:12] because replay mode just doesn't let me do it. But this is a one candle. So basically, when the next candle opens,
+[00:08:21] I'm gonna buy if we break this line and I'm gonna sell if we break this line, okay? And what I'm gonna do is I'm going to sell at this line
+[00:08:35] if it's along, or if I sell here, I'll sell this line right here because this is the bottom of the candle, all right?
+[00:08:44] So first things you notice is, obviously, this is not much of a take profit. This is very small, same thing with this,
+[00:08:52] but this is just how it worked. And remember, this is called magnitude, like this is magnitude.
+[00:08:59] How many points is this? And remember, this is the five minute timeframe. Imagine if this was on the daily timeframe. This is on the daily timeframe.
+[00:09:07] This would probably be a much bigger move and a much bigger magnitude. So honestly, this isn't the best risks reward, but that's just how the strat worked
+[00:09:17] and that was kind of one of the patterns. So you can see that's called the two one two bearish and bullish reversal.
+[00:09:23] So we get a two candle, a one candle, and you see how the entry is when the one candle breaks, and that's kind of that.
+[00:09:31] All right, so there's something called an outside candle, and that's the three. Okay, that's gonna be labeled as a three. So the outside candle is all it is,
+[00:09:42] it's a candle that trades outside of the high and low with a previous candle. So see how this, this is the three, why?
+[00:09:51] because when we go to the previous candle, okay, really weird drawing there. Look, this is the high, this is the low.
+[00:10:01] See how price trades below it and above it? So that means this candle is now an outside candle. All right.
+[00:10:10] And there's a couple of patterns with outside candles. There's a three, two, two bearish reversal.
+[00:10:17] It's literally the same thing as this, except there's just a different number. So, this is a three, two right here,
+[00:10:31] and what would need to happen is, you'd short if this broke, but this never even broke. So let me see if I can find an example where it breaks.
+[00:10:44] There's not, so you're gonna notice the least amount of threes there is, okay. And the three, two, two.
+[00:10:57] Give me one moment here. Okay, so this would technically be an example. So in this example, we get a three candle,
+[00:11:08] and then we get a two candle. And then, interestingly enough, we get a one candle. So this is kind of a double whammy.
+[00:11:15] Why? Because let's pretend this, let's just pretend this candle wasn't here. I can't really block it out,
+[00:11:22] but let's pretend that candle just wasn't there. Let me just send this to the front.
+[00:11:30] So let's just pretend that candle wasn't there and we just get a three, two, and then another two. Your entry would be if this broke.
+[00:11:39] So if this low broke, I'd take a short there and your target would be the bottom of the three candle. Okay, and you're gonna understand why this is important
+[00:11:48] to understand because this is all based off liquidity. I'll explain why in a second. But you can see that's just another pattern and it's just, it's something to know.
+[00:11:59] It's not a, it's not a Y thing. It's a pattern thing where you should just know it. It's like knowing two plus two is four.
+[00:12:07] You should just know it. Same thing with this. You should just know, okay, two one, here's the entry, here's the target, here's the stop loss.
+[00:12:14] You should just know it. So take a second, study these. I'm not gonna go over every single one, but again, you could use this indicator
+[00:12:23] to kind of help you out a little bit. And you'll, as long as you understand a three is an outside candle, a one is an inside candle,
+[00:12:30] and a two is you saw the other candles, then you should be good. Remember, if it's not an outside or an inside candle,
+[00:12:38] The two means it just broke the high or the low of the previous candle. So all those two means is we broke the high or the low of the candle.
+[00:12:46] We didn't break both. So this candle's a two because we just broke this high. We never even broke this low. Okay, now this wig almost broke the low,
+[00:12:54] but did the wig actually break the low physically? Nope, so it's still two. So, again, you're gonna study the sheet.
+[00:13:02] Now, why is this bridging? Why is this so close to ICT here? How is this going to even closer?
+[00:13:09] Well, when we think about candlesticks and how they work, let me just take this indicator off.
+[00:13:20] Every single target of the strat is the next higher low. Okay, so if I just look for an inside candle, let me just turn the indicator back on,
+[00:13:30] it kind of does help a little bit. It's just a little messy. Every single target is the higher low. So if I'm looking for an inside candle break,
+[00:13:43] such as right here where we get a two and then a one, why is the target the high
+[00:13:53] and why does the market have to go to this high once this breaks? It all has to do with stop losses
+[00:14:00] because people place their stop loss above the high And all we're doing for the strat
+[00:14:08] is buying the breakout to that high where people stop losses are. So again, if I had to draw a can right here,
+[00:14:17] let me just change this setting real quick. An inside candle here. And we break out of the inside candle.
+[00:14:25] Why is the market just not gonna stop here typically? Oh, the market's not gonna stop here because it's almost like it's a mini wedge.
+[00:14:35] See this? And if we go to the science of why wedges work, let me just type in Google.
+[00:14:44] So if we go to the science and why does a wedge work? Why does a wedge go and hit the high, okay? Or why does a wedge go and hit the low?
+[00:14:52] Look at this, see how this arrow goes and hits the high? It just doesn't stop here at the breakout. It's because once we get that momentum,
+[00:15:01] the market, like we said, is going to target the stop losses where the moment them is going. And because the stops weren't taken here or here,
+[00:15:09] that's where the market's gonna go, right? Because people are shorting this trend line. People think it's resistance and it's not.
+[00:15:19] They see, oh, we bounced thought we rejected this 50 times. I'm gonna short it, but it's not resistance. They put their, and then where they put their stop losses,
+[00:15:27] will they put their stop losses above the trend line because they're like, well, if I'm right, shouldn't go above the trail line. So applying that to the strat and why the strat works is because when we break that inside candle, we're stopping everyone out who shorts that candle and it gives
+[00:15:46] us enough boost to go back to the next candle high because of all the people who have to buy back their shares to get stopped up because they're all getting stopped out. So that's why or the science
+[00:15:57] behind kind of how it works. So, again, if we go to another 3-1 candle, 3-1-2 breakout, you're gonna find some real quick.
+[00:16:14] Let's see here. Again, like I said, the 3-1-2 is kind of rare, but it does work work well. Okay. So right, that's not one. And you can see how kind of rare these are.
+[00:16:37] I might have missed one, but that's okay. All right, we're just gonna go to two one, I think. So we have a two one here. That's fine. Two ones, fine, two. So we have a two,
+[00:16:52] And then we have a one because this is an inside candle, and we know the one represents the inside candle. Why does the market go to this high instead of stopping?
+[00:17:02] Why doesn't the market just stop here and then go down? Well, because we broken inside candle. This is going to get this is where stop losses rest.
+[00:17:11] So let's stop loss here. The people stop us here are going to cause us to go to these stop losses here. And that's why it works.
+[00:17:19] and you're just playing the momentum off it due to the strap. And this is the first concept that really bridges kind of liquidity and kind of retail together.
+[00:17:29] And it's just, it's so cool. So this is one where this actually fails. And again, we know no strategy has a 100% win rate, but do you see how there's a two and then a one?
+[00:17:39] And we break that one. So this would be a short entry right here. That would be your entry.
+[00:17:45] But we don't get the target. The target would be this low. and it just doesn't hit. So that's an example where it fails.
+[00:17:51] But for the most part, what you're gonna see is like in this example here, if we break the high or low, the inside candle,
+[00:18:01] we will generally, let me just do this in entry, go to the next high of that candle, okay, or even the candle previously.
+[00:18:10] So I'd actually target this because, why? Because there's gonna be stop losses here. They're gonna cause people to stop out
+[00:18:18] and buy back to position and put us back up in the next high. So this would be the entry when we break out of the inside candle and because of liquidity
+[00:18:27] and because of how the market works, it has to go back to the next high because the market is targeting stop losses. And that's where the most stop losses are
+[00:18:35] based off of this breakout, okay? And that's the most simple way to put it. And for any who doesn't understand,
+[00:18:42] it's all based off of what the market's targeting. The market algorithm is targeting stop losses. This strategy has to do with targeting highs and lows,
+[00:18:51] which is where people stop losses are placed. So that's why it's important to understand. There's a ton of different patterns. You can really just type some Google
+[00:18:58] and look at these patterns. But as you know, I do not use a strat. I retired from the strat.
+[00:19:05] I'm now officially an ICT trader. This is maybe good to look into, but you will have a much better time with ICT
+[00:19:15] if you can understand ICT, trust me. Okay, I didn't mind the strat, but the risk award was horrible.
+[00:19:24] This is the problem with the strat. I haven't taught, I haven't done the risk management video yet, but that will be soon.
+[00:19:30] The problem with the strat is this. Look how horrible this risk award is. Your entry is here in this breakout,
+[00:19:39] and your stop loss is actually gonna be below the low, the inside candle. So a stop loss would be here because obviously we know
+[00:19:49] if the market broke there and wanted to target the lows because of liquidity, then that would be a stop loss. But do you see how the risk of ward is just really bad here?
+[00:19:58] It's just 0.58. So although the strat will likely tell you the direction, especially in the hard time frame candles,
+[00:20:06] it's not really good as an entry technique in my opinion. Okay. Like I said, you can use the strat
+[00:20:14] for like higher timeframe reversals. And it might tell you where we might go, but trust me, when I say by the end of this bootcamp,
+[00:20:24] you will not be using the strat, you will not want to use the strat. It's just, I think it's good to go over this because it was kind of the first thing
+[00:20:31] that kind of made me understand or created that connection in my brain that, okay, we need to go to the higher low.
+[00:20:38] That's where the market wants to go. and I don't know how to explain this in the best way possible.
+[00:20:46] But once you have that connection in your brain that we need to go to a higher low, and keep in mind, it's not gonna be like 100% of the time
+[00:20:54] we're gonna get this right. You will have to play stop bosses. But once you see the market go to the higher low that you think it should go to based off of stop bosses,
+[00:21:03] that's when you're gonna get the feeling of, wow, I actually knew that low is gonna hit. Well, I knew that, why?
+[00:21:10] Because there are stop losses there. Where does the market target? Stop losses. And it creates that connection in your brain. And this is really the first strategy I ever use
+[00:21:19] that kind of helped me build that connection. Because I saw us break these highs and lows and go to the next high and low so much
+[00:21:26] that it really made me believe that there actually is an algorithm. I didn't really believe there was an algorithm before learning stuff like this.
+[00:21:33] Because I don't understand that the market had to hit the high or low. I was clueless. and this is really the first thing that created that connection with my brain.
+[00:21:40] So that's just a little video on the strat. There's a lot of videos on YouTube going over more of these patterns.
+[00:21:48] I do want to go over, there is something that I still will use from a strat called the broadening formation. And basically, it's basically when
+[00:22:00] you kind of get this like megaphone pattern. Now, it happened on Friday.
+[00:22:07] So this is the 15 minute timeframe, okay. If you ever see this, it's basically a kind of broadening formation
+[00:22:17] where we keep bouncing off like a broadening trend line. So a proper trend line is gonna look like this. And then we're gonna break it.
+[00:22:30] Okay, this is what a proper trend like. But why do we not break it to the upside? Like people are wondering, why don't we just go like this? Why don't we break to the upside?
+[00:22:39] Well, because we've already ran all the stop losses. Look, we've ran stops there already. We already ran the previous stop there.
+[00:22:46] We've already, we're already running these stop losses. So there's no point in going to the upside. The market does not want to go to the upside.
+[00:22:54] We want to go to the downside because we haven't ran under these stop losses, right? Do you see this stop loss hitting around here yet?
+[00:23:02] Nope, we've run it eventually, but it just never gets broken on the way up. All these stop losses have already been triggered up here.
+[00:23:11] So you can see when we get that on both sides of the market where stop losses have been ran at the highs
+[00:23:19] and stop losses are ran at the lows, it makes for a really, really bad trading session because price will just chop.
+[00:23:28] So this is a pattern you should know and recognize and just know, be very, very careful when you see this. And I'm gonna explain this in the Killzone video,
+[00:23:41] but if you're ever going into like the New York session, such as 9.30, and you already see this form during London, such as like, this was at 8.45 AM.
+[00:23:51] So the 9.30 or the stock market had it open here. If you ever see this going into the 9.30 session, price is probably gonna be trash.
+[00:24:00] So just make sure you're looking out for this before you go into the session and make sure you're not getting cut up in this. And if you're like ever in a short,
+[00:24:08] such as like here, let's say I'm in the short right here. It is very risky, targeting lower than this line here.
+[00:24:16] You mostly want to get out if you ever see something here, because I know the bias might still be bearish. I know we probably may go lower eventually.
+[00:24:28] Price will just stall here and you're gonna see that happen, and you're gonna stop that eventually. So be very careful if you ever see this,
+[00:24:36] scale more than usual or get out some of your position more than usual and yeah, just be mindful of this. So this is called just a broadening formation.
+[00:24:47] It's something you should definitely know and have your new toolkit to recognize because it will tell you when the AMP session is gonna be trash or the New York session,
+[00:24:54] which I'll go over in another video. So that's gonna be it for this video. Let me know if you guys have any questions and I'll see you guys later, peace.

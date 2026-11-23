@@ -1,0 +1,268 @@
+[00:00:00] This video is going to explain what actually training futures is like and how to trade, how to get a broker and kind of where to go from there.
+[00:00:10] So the first thing I'm going to tell you is a lot of people think like, how much money you're putting into a trade when you trade futures, you're not like, it's not like you're
+[00:00:20] putting in like options you could buy like $500 or the options. It's kind of different with futures. You're using leverage and I'm going to ask ChatGDP, okay, the best way to explain leverage because
+[00:00:40] you guys need to understand this, okay. Now look at this, all right, it says, all right, imagine you're playing on a seesaw in the playground.
+[00:00:49] When you sit closer to the center, it's easy for both sides to balance, but if someone much heavier sits on the other line on the other end they can easily make you go up
+[00:00:58] and down a lot much effort so it's like using a small amount sorry I had to read that for a second just to make sure is the right leverage it's like using a
+[00:01:13] small amount of effort to move something much bigger heavier so it's like you using five hundred dollars but it's giving you leverage to move something really big. That's not really $500. It's like $10,000. Just like how a heavy person
+[00:01:28] on a seesaw can make you move with very little effort, right? So in business, leverage is when you use a small amount of money or resources to control or influence something much bigger.
+[00:01:37] It's like getting more of what you have by using it smartly. So like, you're basically, If I use like 100 times leverage and I'm using $100 for something, in reality, I can make
+[00:01:52] much more than $100 if I take a $100 trade but it's also 100 times leverage, I can make like $1,000 off that trade easily.
+[00:02:01] If I'm using $100 and it's like 2x leverage, I'm probably only like I can easily make like 100 but I can't make 10,000 like that.
+[00:02:12] So it's kind of using a small amount of money to make more than what you actually have. And that's kind of how futures work. So the first thing I'm going to say is like when you put $500 into a futures account,
+[00:02:24] okay, like you're basically all using leverage. So I think like the minimum requirements for this broker called trade of eight, okay, let me just again, this might not make sense you now, but I'm going to keep explaining minimum
+[00:02:37] Amount to deposit to trade micro contract or trade of eight. All right, so it's two hundred fifty dollars Okay, because again, it's fifty dollars per contract
+[00:02:51] um and You have to have two hundred fifty dollars in your in your count to trade micros because it's all leverage and it's like What if you have a hundred dollars in account when you're trading with a hundred x leverage, but you lose you're gonna lose a lot more than a hundred
+[00:03:07] So that's why this is like a safeguard just in case you do lose because you're you can lose more than $250 because of the leverage if that makes sense and I think they put it they they stop you from doing that anyway
+[00:03:17] So that's kind of what leverages and how it works It's not like options where I can literally just put in like five hundred dollars and and and make it trade right there and it's five hundred dollars like this is all leverage and
+[00:03:30] Even like I can't fully explain leverage. I just kind of trade it and and that's my explanation of it but some people have their own different explanations.
+[00:03:39] So what's like the actual broker to get started? Like how do you actually start trading? Okay, so this platform that I've used for all my videos is going, it's called trading view.
+[00:03:48] Okay, you can simply look this up. I think this is the best thing we use. Do not use anything else. Literally just use trading view. It's so good.
+[00:03:57] And there's a couple of different plans. You can buy, I'm not gonna go over them, but there's basically like a premium as a basic plan
+[00:04:06] and whatever, and it gives you different options. Like the big thing with a premium is you could have more indicators,
+[00:04:12] but I don't really use indicators. And I'm guessing most of you won't either. Now, that's fine, but the big advantage of the premium
+[00:04:21] is you can get the second charts. And I always use a second chart, like 30 second chart is probably my second favorite time frame after the one minute, but you can use a second charts
+[00:04:31] and I just like linking them. but that's the biggest advantage. You don't really need premium. The thing that you will need is you'll need live data.
+[00:04:38] So there's basically four tickers or whatever you should pay attention to before actually, before actually starting an account.
+[00:04:47] I'm gonna share how to start an account, but you should be starting with these tickers. And I'm gonna go over the cheap version first
+[00:04:55] and I'm gonna go over the paid version. So the cheap version is US 100 and US 500. Basically what this represents is US 100
+[00:05:03] is the NASDAQ, okay. So if I just type in the NASDAQ on Google, this is the NASDAQ.
+[00:05:10] It's currently sitting at 16,103 and that's what US 100 is. And yeah, US 500 is spy or in other words, the SMP.
+[00:05:23] So if I just type in SMP, SMP is sitting at like 5,000 right now, I think 5,149. Okay, that's what US 500 is.
+[00:05:33] And in US 500, US 500, this is what I used to use when I first started because you don't have to pay
+[00:05:41] for this data. So this equates to spying QQQ. If you guys trade options, spying QQQ,
+[00:05:48] this one would be spy, this one would be QQQQ, but these are just the futures versions where you get all the overnight data, what happened during London session,
+[00:05:55] what happened during Asia session, whatever. So this is US 100. Now, there's nothing wrong with using this. The only thing that you're gonna notice
+[00:06:03] like is a difference between US 100 and Q, which is the other one, is you're gonna notice
+[00:06:14] a little bit more like volume and balances. So like here, for example, see how we have like this little gap here in price where the candles, remember what I tell you about,
+[00:06:23] about body candles? So see how this, see how this closes this candle? right? This close does not line up with the open and see how it makes this little gap here.
+[00:06:35] Right here, you can see doesn't do that on the actual contract. So this is where it's going to mess you up a little bit, which is why you should strongly recommend going to MQ and paying for the live data, which is not very expensive.
+[00:06:46] But I do write that off as a business, like as a business expense for my trading technically. So I don't, I'm not going to recommend you to do that, but you, I mean, that's what I do.
+[00:06:57] So this is, again, if you're just starting out and you're literally just using IFGs for reality apps, whatever, I mean, you could try using this
+[00:07:06] if you wanna be very cheap. But again, there's going to be some bad differences that are not gonna help you.
+[00:07:12] For example, this is another one. It looks like we've equal highs here. But in reality, these are not actually equal highs. And this makes a huge difference
+[00:07:20] because when I go to teach you guys about equal highs and equal lows, it's gonna be a huge difference because this to me, this looks bullish,
+[00:07:28] but this to me does not look bullish because there's no equal highs. So, and you'll learn and understand what the meeting behind equal highs at some point,
+[00:07:38] but that's one of the downfalls using US 100. So you can use this for the start, but it's not gonna help you once you start to get good.
+[00:07:45] Same thing with US 500, I mean, I'm not gonna go over US 500, but the same thing. I'm just pointing out for people
+[00:07:53] who really are struggling financially and really needs to be as cheap as possible. I just use US 100 and US 500.
+[00:08:04] Now, if you do have the money, I would strongly recommend paying for the actual contract. So there's four, there's four of them.
+[00:08:13] Okay, there's NQM 2024. So I'm just gonna do NQ 2024. And I'm gonna put in a filler here.
+[00:08:20] The month, there's going to be four different contracts. it's like options, how options expire, if you guys know anything about options.
+[00:08:26] I'm not gonna teach about options, but I know some of you probably are coming from options. So there's basically an expiration date. So it's always gonna be NQ followed by a letter.
+[00:08:37] There's, I think there's June, March, I forget the other two, oh, December, June, March, December, and I forget the other one.
+[00:08:48] Maybe it's not November. might be September, I don't know exactly, I think it's September. But there's basically
+[00:08:57] four months and they're going to, you're not to switch them at some point four times a year. And it's basically an NQ followed by the letter. And that's going to be the year.
+[00:09:08] Same thing with ES. And right now you can see I'm using NQM 2024. Okay, this is the month around right now. And yeah, that's just what happens to be. And then the other one, so
+[00:09:25] these are like the big ones. And there's something called mini versions of it. So this is called a mini, the NQ is called a mini, and that yes, it's called a mini. There's actually
+[00:09:34] like these micro versions of these where you can trade less money. And basically you just add an M in front of it, standing for micro. And it's the same thing. So it's gonna look
+[00:09:45] like this. And basically you can, you can make a lot more money in this, but less money on this. And this is what I recommend starting off. And I even trade my girl still to this day and my funded accounts because I just think that's the best thing you can do. So
+[00:10:00] it's always going to look like this format. Um, this is like the CME data you're going to pay for. And these are the main four you'll look at. So how do they actually work? So NQ is the big one, and ES is the big one, and then this is small, and this is small one.
+[00:10:17] Now, I'm going to look at NQ first, okay. How does NQ move? Basically, NQ moves $20 per point.
+[00:10:31] All a point stands for is, let's say a dollar for simplistic sake, so if I just draw a vertical line here at let's see 18,258 and then another one at 57 from 57 to 58 that'd be
+[00:10:51] considered a dollar or point so this is one point now in this span of price moving from this line red line to this red line that's 20 bucks times the amount
+[00:11:02] of contracts you have so if you have five contracts that would be $100 in one Point and you can see we move a lot more than one point, don't we so literally this candle right here from 862 about 74 that's 12 points
+[00:11:16] Times $20 Okay, do the math. That's a that's a lot of money and then imagine if you took five contracts. That'd be like a thousand bucks okay, so
+[00:11:25] Let's say so let's say this is a 10-point candle and you had one contract. It was $20. That would be this would be at -200 Right, this would be a two hundred dollar candle if it was ten points because
+[00:11:38] The nq contract moves $20 per point. Okay, so 20 per point times number of contracts you have
+[00:11:51] and Yeah, so if I take one contract basically one contract I put it here and we move 10 points so we move 10 points you multiply that by 20 so 20 times 10
+[00:12:13] times 1 would be 200 or if we if I took five contracts that would be a thousand instead because five times 20 times 10 so let me just show you an example well
+[00:12:28] Let's say short here and I sell one contract So the price is 18 to 7 5
+[00:12:37] When we go down We come to 18 to 3 3.50 now if we do the math 75 - 30 is about 40 42
+[00:12:53] Something like that 75 - 32 is Yeah about forty and I don't know thirty two thirty two so thirty three plus thirty two let me just I'm trying to do this off the top ahead. I'm just giving me one second
+[00:13:09] I was pulpit calculated to make it easy. I think it's forty two, but so seventy five Minus thirty three. Yeah forty two
+[00:13:19] No forty two Because we move forty two points Times the number contracts, which is one times twenty dollars per point is about eight hundred thirty dollars Right imagine if you took two or three contracts, so that'd be six hundred that'd be two hundred twenty four hundred dollars
+[00:13:35] Just in one candle. So this is how they move. Okay. This is how in Q moves Same thing if you buy so let's say
+[00:13:43] Let's say I bought right Say I bought right here my buying price is eighteen two eighteen point seven five Alright, now this candle moves from 18 to 18.75 to 18234. That's about 17 points. So
+[00:14:04] you do 17 points times a number of contracts, which is only one, in this case, times $20 per point, and that's how much you can make. So that's kind of how this works, and then Q, and yeah, pretty self-explanatory. Same thing for buying and
+[00:14:18] selling. Now, yes, same thing. But this one is actually $50 per point. So let me just go to NQ number real quick. This copying pays this. And I'm going to give
+[00:14:35] you American made nations, but I don't trade ES. Yes, you just spend garbage. You can look at I look at all the time, but NQ is the main thing I trade. So this one is just it's changing the number to 50. I'm not going to do like a whole
+[00:14:47] another thing like it, it would then queue just know that for ES, it moves a lot less points, which is why this is more. So like this candle right here, right here, if I sell,
+[00:15:01] this candle right here moved from 5221 to 5213. And then queue, that was like a 42 point move, but on ES, it's only eight point move. So it's 50 times one contract, if I took
+[00:15:14] two would be times two times number of points move, which in this case, it would be eight points. So that equates to about this $412.50. So we'll notice with NQ is NQ is moves a
+[00:15:29] lot more points, but it's also less per point. And then yes, moves a little less. But I mean, Yeah, that's the basics of it.
+[00:15:38] And if I pull up on MQM here, and yes, the problem with the S is you're gonna see a lot, like a little, little more barcody.
+[00:15:48] It's very, to a new trader, you're not gonna notice it first, but it's a little more barcody than this. Just a little more and you'll learn not to experience,
+[00:15:58] but that's why I prefer trading on Q and that's just what I prefer. So just keep that in mind. All right.
+[00:16:05] So that's that now What do I mean by the micro version so the micro versions and it's M. Yes, I'm 20.4 and M
+[00:16:18] And QM 2024 okay And basically these are divided by 10 so
+[00:16:30] Well, yes was just or well and Q was just 20 dollars per point Okay, you just divide it by 10 so this would be $2 per point and it's the same concept right this candle
+[00:16:43] right here The opening price in this candle is 18 Tucson 4.5 so if I take a cell there and I play the candle It's just everything's gonna be divided by 10
+[00:16:55] So if this is eight eighty five dollars a profit or eighty three instead of eight hundred thirty dollars a profit and fifty cents So because we move 74 to 33 which is about 42 points
+[00:17:07] Times one contract times two dollars per point which he waits to about this So this is very very simplified. This is just how the futures contracts actually move and again You're not you're not when you sell one and I'm on cue. You're not actually taking like it's not like a money amount
+[00:17:23] You're it's all leverage So just know like when we when you're selling this you could lose like if you're if your account is at $50 You could go negative you could literally get margin called and go negative. Okay, you don't want to do that though
+[00:17:36] So Yes, so that's kind of how futures work. So how do you actually open an account to trade this right now? I'm trading in replay mode
+[00:17:45] Now what I strongly recommend doing before opening any account is this This is going to be the most important part of the whole video ready ready ready watch watch
+[00:17:55] Paper trading you're gonna click that you're gonna click connect and you're going to trade on a paper account For a couple months because you're gonna need to learn how features work. You're gonna need to learn everything. I'm teaching you and
+[00:18:09] This is just you just paper trading paper train paper trading. I wish I listened to People who told me to paper trade when I was starting. I wish I did I never did and I lost a lot of money
+[00:18:20] There is an alternative the paper trading which doesn't evoke a little more emotion which I'll go over a little bit But I'd strong you recommend paper trading before opening any count
+[00:18:31] Let's like so this is a charting platform and these are all the brokers So if I look at these are all brokers and this is where you're gonna create an account
+[00:18:40] You can create an account or any of these but your best bet to Create an account is probably gonna be trade away this one right here So it's this blue symbol and literally all you're not to do to create an account and deposit money is
+[00:18:54] Just type in trade of eight and Google and I'm not gonna log in or anything, but You can open an account you can log in and
+[00:19:02] When I first started I put five hundred dollars in trade of eight and I literally just traded one micro So again, this is the micro contract. I literally when I first started trade of eight I
+[00:19:13] Put $500 and I let you start with one micro and I lost that $500 Cuz I didn't know what I was doing, but I'm just showing you I think that's it. I still think it's a good plan
+[00:19:23] It's better than putting like $25,000 in and going right to minis because you're gonna lose a lot more money See some of you guys watching this video. You're gonna be like, oh, I'm not paper trading. That's not gonna help my emotions
+[00:19:36] That's the that was the issue with me I have to help my emotions either So it doesn't help me get better, but for the people who are good psychologically already and they know that now a paper trade and Find an edge until you get that edge for the people who are not going to psychology. I
+[00:19:51] Mean you're gonna have to trade a live count and lose money. I'm I Hate saying that but that's how you're gonna learn and that's what happened to me. That's how a lot of big people get good. So
+[00:20:04] Just know that now What you're gonna do is obviously go and trade over it. You're gonna open an account And you can literally contact support they can tell you how to open an account
+[00:20:15] But you're not to fill out this like survey make sure you click you're like a non professional trader And yeah, once the accounts created you can basically do just deposit money in it's as easy as that I mean, you're just gonna have to you're gonna fill out. You're not to fill out stuff obviously
+[00:20:28] I think you'll have to give your social security or whatever, but it's pretty straightforward process and Yeah, I mean, this is the number one platform I'd recommend if you're just starting and I'm not gonna go into anything else
+[00:20:40] I mean there's also something called Ninja trader Which bought trade of eight This platform though is a lot more complicated and you can't connect this to trading view
+[00:20:51] I'd strongly recommend trading and trading view. Okay, this is gonna be your best bet So I'd recommend doing trade of eight and literally like that's how you actually trade like you literally you just go on trade of eight It's a positive money and
+[00:21:06] On a personal trade of a account. It's a ten dollar fee to connect trade of eight to trading view So it's you're going to pay ten dollars a month for that
+[00:21:14] But it's definitely worth it again. I get like I'm gonna write that off as a business expense I'm not financial advice. Obviously talk to your CPA about that, but
+[00:21:24] That's what I'd recommend doing now there is a whole different route Which this is what I strongly recommend a lot of you do So we talked about paper trading we talked about how to start a broker
+[00:21:35] Which you just type in trade over and you can log in you can make an account This is how to actually deposit money and start trading this for real But what I'd recommend doing is
+[00:21:45] Using something called a prop firm. Okay, so a prop firm Okay is
+[00:21:54] Basically a company that gives you fake money like demo money and it's basically you're trying to pass a test and And if you pass the test and get good enough, you can actually get paid real money.
+[00:22:05] And these accounts, they're like 20, but like on this, I trade something, I trade on something called Apex, okay. So if I just type an apex, it's just site right here. It's called atf.com,
+[00:22:19] apex trader funding.com. And basically, I just log in real quick. just to show you guys uh what it's like um you can sign up for different plans so basically they
+[00:22:38] have a bunch of different size accounts so um under the trade away section you can sign up for $25,000 count $50,000 count $75,000 all the way up to $300,000 and they run a lot of these discounts
+[00:22:53] And right now it's 80% off and if you use code dodgy obviously that's my code or another code I don't care But I mean dodgy would be the most easy because a lot of you probably lazy
+[00:23:03] If you use code dodgy the OD GUI you can you can get like an 80% discount off these accounts and I Wish I started training me sooner because
+[00:23:14] One I hate paper trading I like it more now now that I know how to trade but when I first started I didn't think paper trading helped my emotions Now I've kind of control my emotions. So now I kind of like paper trading better
+[00:23:28] But that's the problem with that and the problem with putting real money in is trading your own full money is you're very emotional. I Think
+[00:23:37] Profirms I think this is a nice really in between where you're paying like thirty dollars for a fifty-k account You're paying like fifty bucks for a hundred k-count
+[00:23:45] And if you lose that account, you're not losing hundred thousand dollars. You're losing fifty dollars Now keep in mind there's rules you can't go below a certain level. So like a
+[00:23:55] $100,000 account if you go below 97,000 you basically fail the account But it's limited to some monthly payment and usually most people pass by the first month if you're starting new
+[00:24:06] Then it might take you a couple months but think about that's like 60 bucks and even if you lose it you're losing 60 bucks imagine if you put $2,000 or $3,000 of your own money in a trade-over account and
+[00:24:19] You lost all that three thousand dollars now imagine you bought a fifty thousand dollar account on apex for 50 bucks and you spent a total 50 dollars and you lose this Count you're not losing fifty thousand dollars
+[00:24:32] You're losing fifty dollars and at the same time you're still you still have that emotional aspect because you're still paying some money for the account And it still feels real even though it's technically not
+[00:24:41] So that's why I recommend this. This is a really good in between a paper trading and putting money on account And then I think, and these are also better for taxes.
+[00:24:50] Like if you do actually get really good at trading, which, sorry to say it, 70% of you won't because you're gonna give up, that's just,
+[00:25:00] that's just how life is. But when you get good at trading, I recommend using these just because it's better for taxes. I don't really trade a personal,
+[00:25:08] I mean, I have a personal account, but I've been trading these much more. And you can do something called copy trading. So you can literally trade 10 accounts at one time
+[00:25:16] and take the same position in all 10 accounts, which is like $5,000 instead of like $500. It really adds up.
+[00:25:24] So basically, I would recommend buying one of these accounts. So let me just go to the site, use code dodgy if you want 80% off right now.
+[00:25:34] By the time I upload this, I'm not sure what the discount will be, maybe 71%, but as long as you can get like 71 or 80% off discount, sometimes 90, barely 90.
+[00:25:43] They do that like once every three or four months. then I would get some accounts. So how do they actually work?
+[00:25:49] So once you kind of get, I'll go over 50K account, for example. So once you sign up for the 50K account, again, you can read the rules on the site,
+[00:26:00] basically sign up for the 50K account, and there's two options, okay? There's two options.
+[00:26:06] There's trade over eight, and there's a rhythmic. Do not do rhythmic if you want to be trading on trading view. This is through Ninja trader, okay?
+[00:26:14] just don't touch us do trade of eight and when you sign up for the account you're gonna log in it's gonna give you email and it's gonna give you a username and
+[00:26:26] password and you're gonna log into a trade of eight account so you're gonna literally go to that trading trade of eight website you're gonna click log in and it will literally give you using a password in your login and once you're
+[00:26:37] on trade of eight if you go to settings which I'm not gonna go to let me see if actually go to right now. I don't think I can get in. Yes, I can't get in right now, but if you go to settings, and then there's something called add-ons. Oh, I am in. Let's go. Let me show you real quick. So you literally just. Right here. here. Okay, you go in the top right, there should be three little lines and you're going to click them
+[00:27:17] and it's going to bring you to this. Go to add-ons and then go to, there should be a box here called trading view and it's going to say $10 a month but here's the thing. With a prop firm such as this
+[00:27:31] it's going to be free. It comes free with this so it should say free. So it's a price free and a Personal account is gonna say ten dollars a month and it shouldn't say trading view. I think it's it should be right here
+[00:27:42] It's not here for this one cuz this is not a real account but It should say trading view and just you just click activate and you might need to do it once a month because sometimes Unactivates. I don't know why but and then once you activate it
+[00:27:54] That's when you can log in through here with the same exact username and password and then you can just begin trading And that's not really that's really yet. So the rules. I'll go over the rules a little bit, but
+[00:28:05] Let's say by a 50k account the rules of the 50k are You can't go below forty seven thousand five hundred in your your profit target
+[00:28:17] Okay, so Your actual profit target is going to be 53,000 so you're you're basically you can't lose more than two thousand five hundred dollars
+[00:28:30] And you're trying to target fifty three thousand dollars So you're trying to gain three thousand dollars and what I tell people is I go try to do this on a demo account first Like a paper training account and then buy an account, but
+[00:28:40] Some people like to jump right in and I think that's fine because honestly that's top like jumping right into that account Taught me a lot more and I'm not gonna lie to you. I'm not trying to sell you anything
+[00:28:50] I'm not trying to make you use my code and get an apex count because I'm gonna be honest It does make me money, right like when you use my code code dodgy does make me money And like I said, you can use anyone code.
+[00:29:02] I'm not trying to advertise my code. I'm just being straight up with you and literally telling you that buying an Apex help and playing personal money helped me more
+[00:29:11] than paper trading. And it really depends on your psychology. And like, if you can control your emotions
+[00:29:20] and you've traded before and you can control emotions, then I strongly recommend doing that. I mean, if you can't control your emotions, Think this is gonna be the best bet in apex count because you're gonna blow up a lot of counts and it's gonna help you
+[00:29:33] But if you can control your emotions I mean you can try to deposit real money But just make sure if you can't control your motion just I would paper trade just make sure you have an edge Okay, you need an edge obviously
+[00:29:43] But yeah, if you're emotional, I just I think apex is the best thing like it's the it's the cheapest prop firm by far Okay, there's no other prop firm that's gonna be cheaper than apex
+[00:29:54] I Mean it's very simple very straightforward to set up The rules are a little hard
+[00:30:02] But they're not like they make you a better trader and I Mean in all honestly, I just I think that's the way to go. I I'm trying to think of if there's anything else I would do
+[00:30:12] I don't think so And don't start out with a personal cut right away. It's not gonna help you I just I think apex any paper training
+[00:30:21] I think those are gonna be a few best breaths and you're gonna come back to this video in two years and you're going to be like oh I can't believe like what he's saying is very right and
+[00:30:31] it is okay I'm not I'm good at this and I don't want to brag but I am good at this I am good at what I do and I and I I went through everything I literally experienced everything so I know
+[00:30:45] in my opinion the best router journey to do and this is in my opinion so I again I'm by a pass count. So if you buy $50,000 count, you can't go below 47,500. And if you do, you'll get
+[00:30:56] some message. It says, Oh, and admin can only place trades, blah, blah. Basically, this means you blow the count. And then you can go to your dashboard and cancel it. And then if you hit 53,000, which you need a minimum of seven trading days. Now, if they do this one day pass special,
+[00:31:12] because some people, if you go really heavy in a trade, they'll pass in one day. But you need a a seven day minimum thing.
+[00:31:21] So what do you do is if I ever pass an account or basically make $3,000 before the seven days, all you can literally just buy and sell really, really quick
+[00:31:30] on a micro and it counts as a day. So I could just click buy, sell right away and it counts as a training day
+[00:31:36] and you just need seven days. So depending on when you buy the account, there might be a promotion for like a one day pass thing, which means you don't need seven minimum days,
+[00:31:44] but depending on when you pass the account, just keep that in mind. Now, there's something called trailing drawdown. And this is the thing that sucks,
+[00:31:51] but it's also gonna make you a better trader. If you go to 51,000, no matter, let's say you're in a trade and let's say you have 51,000 dollars.
+[00:32:01] So let me just, we're gonna pretend like we're in a trade right now. How about that? So in replay mode.
+[00:32:08] All right, let me just go in replay mode. So right here, let's say sell.
+[00:32:17] no let's say bye okay at this point I'm up $15 now I'm actually gonna use this for NQM it's gonna be much easier remember this is $20 per point so let's
+[00:32:41] say bye. And right here, I'm up $270. No matter if I sell here or hold, my trailing drawdown has gone from $47,502. Now 47,800. Because no matter like, this is called unrealized
+[00:33:02] trailing drawdown and it sucks. But trust me, when I say it sucks in a good way that it makes you so good if you get good at this.
+[00:33:09] Like it makes you so good. This is why I'm so good now because I had to experience this and I learned how to deal with it. And for a 50K account, what I'd do is I'd recommend going,
+[00:33:20] I'd risk $200 per trade for a 50K. Not saying you should risk more or less,
+[00:33:26] that's what I'd do. So I think that's a sweet spot. But let's say you're risking $200 for this trade. And let's just do a quick math real quick.
+[00:33:34] What would $200 be? Well, if I pull up the RR tool, which I'm gonna go over this, I'll go over the RR tool later in this video,
+[00:33:41] but let's say I'm risking $200. Well, what would $200 of recipe? It would be 10 points with one contract.
+[00:33:48] So, because remember the equation, 10 times one times 20. 10 points would be the stop loss times $20 per point
+[00:33:58] times the number contract, which would be one contract. So basically the stop loss here would be 10 points. So if we get in it 18,177, your stop boss would be 18,166.75, technically.
+[00:34:14] So this would be a stop loss. Now, I'm in a profit right now, and APAC sees that and goes, okay, well, the trailing drought on was 47,500.
+[00:34:25] Now it's 47,800, okay, now it's 47,800. And even if you don't sell, it still goes up to that.
+[00:34:34] So let's say that happens while it's like, keep playing price. And then let's say it hits my stop loss right here. I'm down $200.
+[00:34:42] Now my account is at $49,800 let's say, or 700 'cause it's like my $300 loss.
+[00:34:51] And you basically, you can't go below $47,800 still. And you're still the same target, but that's just how it works.
+[00:34:59] Now that's gonna be the hardest thing to overcome, but it's also going to make you the best trader possible. And that's why I'm so good now. And again, I'm not trying to brag,
+[00:35:06] but that's why I'm good. And this is what I had to deal with. So, let's say I take a short, let's say I just take a short right here.
+[00:35:17] And let's say I'm up. And then I sell, I cover here. Plus $600.
+[00:35:27] So, what's gonna happen? Well, let me tell you, because you're at $49,700, this is not going to go up $600.
+[00:35:42] This is only gonna go up after you go up your high. So the most we were up was zero dollars. The most we were up was technically,
+[00:35:51] or wait, where was it? It was $50,200. So at one point in the previous trade, if you go back to the video, the previous trade,
+[00:35:57] it was up to $100 at one point, but then it was, or $300, but then it was a loss. So because we were up at $300 and because this was unrealized
+[00:36:08] and we didn't really sell, your trailer drawdown is only gonna move back up if we re-break this level. So being that we're now at 47,000 or 49,800 or whatever
+[00:36:25] from the previous trade, okay, I think it was 700 actually. When I make this 600 bucks, I'm back up to 50,300,
+[00:36:35] but this actually stayed the same. Now, if I break this level and we go down more, say we go down more, oops, right there,
+[00:36:43] and I sell for like $700 profit, I'm now at 50,400, and this just goes up $100 more because this is the highest I've hit.
+[00:36:55] You might need to rewatch this a few times. Oops, this would be $47,900. You might need to rewatch this a few times,
+[00:37:02] but this is, once you can understand this, it gets easier from there. There's no other like hard rule you have to understand, but that's basically it.
+[00:37:13] What else? Okay, so that's kind of how that works. So that's like the biggest thing with Apex. And then if you do reach that $50,000, $2,000, which is not gonna be easy as first,
+[00:37:22] I failed my first couple accounts. I think I failed like literally eight or 10 accounts before I actually passed one. you'll get an email with a certificate
+[00:37:30] and it's basically saying when you can put that maybe in a resume, I mean, if you're looking for a job, I mean, it really shows your discipline trader.
+[00:37:39] You can put that in a resume, whatever, but you'll get a certificate, it'll be like, congrats on passing, and there's gonna be an activation fee,
+[00:37:46] which is no discount for actual live funded account. And it's still gonna be a demo account, it's just gonna be called a funded account. So the first account you actually buy,
+[00:37:55] This is called a evaluation account. And if you hit the profit target on the 50K account and you hit $50,000, you get a funded account.
+[00:38:06] And it's basically like $160 to activate it. And that's really good. Because if you can get a payout,
+[00:38:14] which most people, when they get a payout, it's $2,000, okay, when you get a payout on this account, gonna be about $2,000 you're gonna get paid out that means you can literally buy
+[00:38:27] like 10 funded accounts and still get one payout and be profitable so if I just do the math real quick if if each activation fee okay so $160 and we
+[00:38:42] multiply that by 10 that's $1,600 and if I get one payout on one of the 10 of accounts, I'm still profitable by $400. That's going to probably happen to you
+[00:38:54] the first couple of times because you're going to use 10 accounts. But now where I'm at, I barely fit, I don't even fail them anymore. So I'm like, I literally get one account and I'm up 2,000. I'm up 2,000. I'm up 2,000. And the max you can
+[00:39:07] withdraw is 2,000 for the first three months. Okay, that's the other stipulation. So the max you can withdraw or take out is 50 is $2,000 for the first three months. And it's really nice because it makes you start small. And I hate when
+[00:39:23] people share their P&L because I don't think P&L matters. I think executions do. But it really makes you like, it really makes you understand that you're going to be starting small. And $2,000 to some of you may not be
+[00:39:37] nothing. But if you can get a $2,000 payout on Apex, one of the hardest things to trade, you can get a $200,000 payout later in your life.
+[00:39:48] I've never even hit that yet, but if you can get a $2,000 payout, you can do anything, trust me, OK?
+[00:39:55] No, financial advice. And that's just-- that's going to be a big, big, big thing. So focus small.
+[00:40:06] When you actually get your final account, because the max you can withdraw is $2,000 your first time around, do not make more than $800 a day. There's basically 30% rule where if you make more than 30% of what you're
+[00:40:18] gonna withdraw, so if you make like more than 30% of $2,000, you can't withdraw it. So just make sure you don't go above 800 per day. That shouldn't be if you're
+[00:40:27] trading micros, which again if you're risking $200 per count or for trade, right on a micro contract then it's gonna be a big deal because and I can use it so I'm gonna show you guys how to use this for this school so let's say I want to
+[00:40:46] risk $200 and I want to target this high up here all you have to do is you have to right click click create limit order so right click click create a limit order
+[00:40:57] you can let you type in the risk you want so if you just type in $200 it'll automatically be four contracts. So you just click buy and it puts in a thing. So, again, if I do $200 risk, it's going to do four, but if you do 50, it's probably going to do five,
+[00:41:16] if I do 300, it's probably going to do six. And notice how this stop loss is 156, not actually $200. But that's because if you put one more contract, it actually be going over 200. So I I think we could do 212, no, 218.
+[00:41:32] So, 218, you could do five contracts. So, that's basically just how it works. And this is a very handy tool.
+[00:41:41] You can click real limit. You can type in what you want to risk. And like I said, for 50K count, I'd recommend risking $200 per trade.
+[00:41:48] So, for this trade, I could risk four contracts. And if I lost, it would be minus $156 because if I put myself lost there.
+[00:41:59] And yeah, that's like the biggest thing with these accounts and I mean, that's really how to get started in trading futures. I don't really think there's anything else to cover,
+[00:42:05] but kind of explain the rules. Just make sure you don't make, on your actual funded account, that's the one that rules applied.
+[00:42:14] On EVAL, you can literally make $10,000 in one trade on EVAL, EVAL is whatever. You can literally trade news on EVAL,
+[00:42:21] you can't trade news on a funded. you can trade news on eval, you can make however much you want an evaluation account as long as you get to the take profit or $50,000 before hitting the drawdown, okay?
+[00:42:37] And yeah, so eval and do whatever, but funded, just be very smart and funded. Have a rule where it's like, okay, I can only take two trades per day.
+[00:42:45] I can only take the trades per day. Have rules, have a certain set up you want to take. It is a very serious thing, even a little less serious, but you can literally make money
+[00:42:56] with an actual funded account if you trade it right, and that should be your goal. Your goal should be getting a few payouts on a funded account, and then after that, your
+[00:43:08] goal should be starting to learn how to copy trade. I'm not going to teach copy trading in this course, but you can literally look it up on YouTube, how to copy trade impacts or how to copy trade accounts on trade-of-ate, and
+[00:43:19] I'll just, they'll teach you how and it's very, very straightforward and easy. But your first goal for now should be passing the evaluation count, okay, which should be your first goal.
+[00:43:29] And then getting a payout would be your second goal. And that's, if you can do that in less than six months, good. If you can do that in a year, I think that's, that's a good goal in a year, especially if
+[00:43:40] you're just starting from scratch. And yeah, that's basically how futures work. That's what I recommend doing.
+[00:43:49] I don't think there's anything else I can cover. There's also a risk tool to the downside.
+[00:43:56] So if I wanted to take a short here and put my stop above here, just again right click it and create limit order. Oh, I do want to go over how to scale and stuff.
+[00:44:08] A lot of people don't understand scaling. So let's say I'm in a bi position here. So obviously for shorting I could just do the same thing. 200 would be three contracts, 250 would be four contracts. Scaling. So if you want to scale,
+[00:44:23] let's say I'm in a position, you can only scale with more than one contract. So I have four contracts here, meaning I could literally take off three other contracts in different spots.
+[00:44:33] Make sure you go to your settings and training view, and you have to have this the plus button enabled enabled enabled or is it
+[00:44:49] think of the trading um there's basically just something called plus button i can find it oh right here so under scales on lines click this plus button basically brings up this little plus
+[00:45:05] when your cursor to the side and you could literally click plus and then it's going to bring up this now right now it's default of the four but let's say I don't want to sell all four
+[00:45:16] contracts here let's say I want to scatter them out click plus then click create new order click sell here and just change the number of units so let's say I want to sell two here
+[00:45:28] I'll just do two there so if price goes up to here it's only going to get out of two contracts I'm I'm still gonna be in two other ones.
+[00:45:35] Let's say I wanna sell one more here. Now it's defaulted to two, but I wanna change it to one so I click create new order, and then I just do that.
+[00:45:42] And this is how you can scale. And if, and on a paper account, what you're gonna notice on a paper account,
+[00:45:50] let me just take this off, is you can actually, you can actually drag this tape profit up here like this.
+[00:46:00] You can just, it says tape prop, you can drag it. seem to stop loss on a trade of eight account. You will not be, you'll not have that option to drag it. And this is a lot of people ask me about this.
+[00:46:09] You won't have that option to drag it. So we're gonna have to do on a trade of eight account to take profit and put a stop losses.
+[00:46:17] If I want to put a stop loss, you want to put plus and just do sell one stop.
+[00:46:25] And if you're confused now, I'm going to do, the next video is going to be in orders, like limit orders, stop orders, market orders. Okay, just bear with me.
+[00:46:34] But like this is a stop loss order and this is a sell limit order up here. Okay, so you're not gonna be able to drag
+[00:46:43] and you're not gonna see this option. So right now I have only one stop loss. So I only have one contract sold. So if I get stopped here, I'm still in three contracts.
+[00:46:52] I just have to make sure I switch that number to four. So I do still, do four and then click stop. So if it basically hits this level,
+[00:46:59] it's just gonna get me out of the position. And let's say I wanna sell one here, one here, it's already defaulted to the one,
+[00:47:09] so I can just click sell, one here, and one here. This accounts for every single one, because there's four contracts,
+[00:47:16] there's four sell limits, and this stop loss is also four contracts. So, just make sure you understand that.
+[00:47:26] Also, don't leave limit orders open. on trade obey, if you forget to cancel your limit order, you might get filled by accident. And that used to happen to me a lot.
+[00:47:34] Make sure you're canceling all your limit orders. You cannot swing trade on Apex. You cannot hold pass 4.59 PM. You have to close all positions at 4.59
+[00:47:43] and you can reopen positions at 6 PM, which you should not be trading at 6 PM. That is a decision.
+[00:47:50] And yeah, just don't trade at 6 PM, but I'll go over that in another video. And yeah, that's really how Apex works.
+[00:47:58] Remember, you're not gonna have this, you're gonna have this on paper trading, but you're not gonna see it on trade-o-bait. This isn't other brokers like AMP. I think it's on AMP, it's on trade station, I think,
+[00:48:09] but it's not gonna be on trade-o-bait. On trade-o-bait, you're gonna have to do it manually. And yeah.
+[00:48:15] So again, you wanna scale, make sure to click this plus button, click right in order and you can scale. And yeah, that's how to kind of take profit on scale
+[00:48:26] And the next video, I'm gonna be going over like market orders and stop orders and the difference between all those for people who don't know.
+[00:48:35] And yeah, I think that's it. Other than that, peace.

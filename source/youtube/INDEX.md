@@ -124,3 +124,63 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241009 | L1obO-lTjjE | Never miss the REAL draw on liquidity again | captions | done |
 | 20241002 | OmuOMsNjg9E | My +80% Winrate iFVG Strategy (my new model) | captions | done |
 | 20240930 | kMHOjdL1TsY | These 2 Concepts give me an 80% Winrate! (full guide) | captions | done |
+| 20240927 | w7J0RymmVgA | Rating the BEST Inversion FVG Setups from C to A+ | captions | done |
+| 20240911 | m5Ki1SL_yEY | Backtesting the iFVG + SMT Strategy! (insane WR) | captions | done |
+| 20240906 | pdy1HPYYeWc | How to identify Daily Bias for ICT Traders | captions | done |
+| 20240829 | t1CnP1Ihp8E | The BEST Timeframe for ICT Traders | captions | done |
+| 20240827 | hDNSAlL0fBk | Reacting to ICT 2022 Mentorship ｜ Pt. 2 | captions | done |
+| 20240823 | Grvv12fLIj8 | The Secret to doing Top-Down Analysis - ICT Concepts | captions | done |
+| 20240821 | XUJR9e8dtb4 | How to use Time & Price (ICT Macros) | captions | done |
+| 20240816 | pnYWkikRbXc | Why FVGs Don't Work For You | captions | done |
+| 20240814 | IlTBW6poSxQ | This Liquidity Pool Has a 90% Winrate! | captions | done |
+| 20240809 | X48F_bYzWOk | How I made $10,000 profit using Inversion FVGs | captions | done |
+| 20240808 | lVX67RYizV8 | When to AVOID Trading for ICT Traders | captions | done |
+| 20240802 | UhUy838qkpg | My 100% Winrate Strategy (Full Backtesting Session) | captions | done |
+| 20240726 | te4W0N8EOR8 | How I trade using Prop Firms (over $25k in payouts) | captions | done |
+| 20240722 | wZKQXxggDXs | How to trade using Turtle Soup？ | captions | done |
+| 20240713 | 2h2tHWLYkQA | How to trade Market Maker Models (the easy way) | whisper | done |
+| 20240705 | TL7mPEDO0rU | Top 3 ICT Entry Models (easiest way to trade ICT) | captions | done |
+| 20240702 | tTrVIwiJO1M | 3 Easiest ICT Entry Models (copy this) | captions | done |
+| 20240625 | LQo0WY-AJaU | MSS vs Liquidity Sweep (avoid bad trades) | captions | done |
+| 20240623 | teQTptCheUE | How to determine Daily Bias (easiest way) | captions | done |
+| 20240621 | zOWPMHpCyV4 | The Most Powerful Form of Liquidity - Use this! | captions | done |
+| 20240619 | yUgpq9EFwLs | Use this FVG in your trading (best type of FVG) | captions | done |
+| 20240604 | PTUHbInIYEw | Breaker Blocks ｜ Bootcamp Ep. 44 | whisper | done |
+| 20240603 | 2-43-eoC_0E | Market Maker Models (MMXM) ｜ Bootcamp Ep. 43 | captions | done |
+| 20240530 | FcavHM6e97E | Liquidity Voids ｜ Bootcamp Ep. 41 | whisper | done |
+| 20240529 | 0al3VbTOasA | Creating Your One Setup for Life ｜ Bootcamp Ep. 40 | whisper | done |
+| 20240528 | HJJYZFsIS1U | Data Wicks ｜ Bootcamp Ep. 39 | captions | done |
+| 20240527 | c6HQJHxIULg | Time (Macros) Pt. 2 ｜ Bootcamp Ep. 38 | captions | done |
+| 20240524 | pFIJWpCfP6A | Daily Bias Pt. 2 ｜ Bootcamp Ep. 37 | captions | done |
+| 20240522 | SYXKsb5jD2w | SMTs ｜ Bootcamp Ep. 35 | whisper | done |
+| 20240521 | N2BDFpgxK00 | iFVGs (My Main Strategy) ｜ Bootcamp Ep. 34 | whisper | done |
+| 20240520 | qQQHJwqzBQk | Judas Swing ｜ Bootcamp Ep. 33 | captions | done |
+| 20240514 | N6seSMkJrqw | Daily Bias ｜ Bootcamp Ep. 29 | captions | done |
+| 20240513 | 9R0U7hUccOk | Premium & Discount ｜ Bootcamp Ep. 28 | whisper | done |
+| 20240511 | z3eIusDqdR0 | Passing a Funded Challenge with $200 Drawdown Left ｜ iFVG Model Trader Interview | captions | done |
+| 20240510 | kNzFo0h5QQk | Useful Liquidity Pools ｜ Bootcamp Ep. 27 | whisper | done |
+| 20240504 | EPhGzsxE9zQ | +$300 One Setup for Life ｜ Live Execution | whisper | done |
+| 20240502 | _QZHjgy1eb4 | ICT Trading Models ｜ Bootcamp Ep. 21 | whisper | done |
+| 20240430 | lmlcXPBDbKI | Creating Rules in Trading ｜ Bootcamp Ep. 19 | whisper | done |
+| 20240429 | 6BTGyxNKM2I | Market Structure + Fair Value Gaps (FVGs) ｜ Bootcamp Ep. 18 | captions | done |
+| 20240425 | nvF9z66MfCA | Liquidity Masterclass (A-Z) ｜ Bootcamp Ep. 16 | whisper | done |
+| 20240424 | _MZd1aiiENA | Risk Management Framework ｜ Bootcamp Ep. 15 | whisper | done |
+| 20240423 | TWyEkbDky1U | Retail Concepts + Liquidity ｜ Bootcamp Ep. 14 | whisper | done |
+| 20240422 | gWMFkZ5ZjOg | Trading using Volume ｜ Bootcamp Ep. 13 | captions | done |
+| 20240418 | -aItyppGRSk | Trading with Discipline ｜ Bootcamp Ep. 11 | whisper | done |
+| 20240410 | _yl0senWFEo | Futures Trading ｜ Bootcamp Ep. 5 | whisper | done |
+| 20240408 | I6t6BkqiasU | Candlesticks ｜ Bootcamp Ep. 3 | whisper | done |
+| 20240402 | ZmIN34ia7rk | Top 5 Reasons You Lose Money Trading ICT | captions | done |
+| 20240331 | oXiwX8qa7wo | This Secret ICT Gem Will Make You 2x More Profit! | captions | done |
+| 20240327 | Hh1b4esmsAQ | What is an iFVG？ | captions | done |
+| 20240324 | QnKifGjSHuQ | My Subscribers Share Their Losses! | captions | done |
+| 20240321 | peAgR_CA80I | REAL Trading from a REAL Trader ｜ Not Entertainment ｜ ICT Concepts | captions | done |
+| 20240319 | zBmDsWQIv1I | How to Transform from Beginner to Professional Trader | captions | done |
+| 20240318 | 9LBXzNphlB8 | Professional Trader Shares 5 Top Down Weekly Analysis Examples | captions | done |
+| 20240314 | UP4eU601xLQ | When is Daily Bias in ICT ACTUALLY Required？ (No Daily Bias Tips) | captions | done |
+| 20240309 | HwBMjq-tVS8 | The Hardest Part of Trading： Saving Capital for A+ Price Action | captions | done |
+| 20240304 | doNBY08ygAg | This is Why ICT Doesn't Trade Gold (Most Manipulated) | captions | done |
+| 20240301 | 9zkTzJNvLI8 | When Should You ACTUALLY Trade？ [News⧸Red Folder Events] | captions | done |
+| 20240228 | Tbqch_ezER4 | How I Passed an Evaluation Account in 1 Trade (100% Win Rate) | captions | done |
+| 20240225 | awBzQTJ0jD8 | How to Manage Risk EFFICIENTLY Using iFVGs | whisper | done |
+| 20240224 | VM_G3gKzjp4 | The Ultimate Hierarchy of iFVGs (Best Versus Worst iFVGS) | captions | done |

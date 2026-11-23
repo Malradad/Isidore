@@ -1,0 +1,148 @@
+[00:00:00] So, to recap from the last videos, we kind of understand a little bit about patterns, a little bit of about indicators.
+[00:00:08] And here's the main points I want you guys to take away from the other videos. Indicators are not precise most of the time.
+[00:00:20] So I saw you guys an example of when the 90MA, you remember the 90MA got disrespected a ton right here, and that's why we don't use indicators.
+[00:00:31] Because yes, they are respected sometimes, but they're never going to be as precise as what you can get and what I'm going to teach you. So that's the recap, the one.
+[00:00:40] Now, the second recap, which you guys should understand, is how stop-loss orders work. Okay, the whole teachings of all these videos
+[00:00:49] are all going to be targeted towards one thing. The market is trying to stop people out.
+[00:00:58] So we need to learn where the market is targeting, which means what, which means we need to learn
+[00:01:06] where people put their stop losses. So I showed you guys a bunch of examples of stock patterns and we know and why do these patterns work?
+[00:01:15] Well, and we look at a stock pattern, it's because people put their stop loss above and below these trend lines.
+[00:01:23] So often when we break out, we stop all these people out. So that's the second and main thing you should understand about what I'm trying to teach you.
+[00:01:31] People place their stops on trend lines. People place their stops above resistance. People place their stop below support. And that's how the market works.
+[00:01:39] Okay, so everything I teach is all going to be based off of where people putting their stop losses. Why do we know people are putting their stop losses there?
+[00:01:48] What might a buildup of stop losses look like? which again, a buildup of stop losses would be something like this, where we build up a bunch of really, really clean algorithmic lows that all
+[00:01:59] show on the chart in form of a perfect trend line. Okay, it's the same thing with support and resistance. Okay, support and resistance, where do people put their stop losses?
+[00:02:10] They put, put it below support and above resistance. So where's the market gonna naturally target below that support? Because that's where all the stop losses are.
+[00:02:19] So that's the second thing you should understand. Now, now, not only you understand those two things or hopefully should understand those,
+[00:02:29] I'm going to be getting in a little bit of a video about discipline. Okay.
+[00:02:35] And I have not started the ICT concepts yet. And I'm not going to for a few videos, but I want to say something. If I went back to trend lines right now,
+[00:02:46] I would be more profitable trading trend lines now than it would have been two years ago. Now what is the same constant variable in that statement?
+[00:02:59] The same constant variable is two years ago I traded trend lines or indicators or whatever. And by the way, this doesn't only include trend lines.
+[00:03:07] I would be more profitable now trading indicators and trading trend lines now than it was two years ago.
+[00:03:14] And the constant variable in that is not is is is the trend lines and indicators, because two years ago, I was using trend lines, whatever.
+[00:03:25] And imagine if I went back to trend lines now, it'd be the same thing. I'd still be using the same technique. I'd still be using the same metric mile. So what's not constant?
+[00:03:33] Why would I be more profitable now? Not using or using trend lines and indicators than two years ago. The answer is discipline, creating rules.
+[00:03:45] This is where people overlook, okay? And I do believe that you must have some edge in the market in order to succeed, but I also believe you need to be disciplined.
+[00:03:56] How many of you guys can actually wake up in the morning and go to the gym and and go to the gym on time, wake up on time, probably, if I had to guess, probably less than 50% of you.
+[00:04:07] Now, if you're not a person who goes to the gym and maybe you like other things, now think of the gym as maybe another thing you like to do.
+[00:04:17] How many you can actually get up, go work on yourself and go do what needs to be done for the day?
+[00:04:23] Not a lot of people. That's called discipline. Now we need to translate that into trading. How do you translate discipline in the trading?
+[00:04:30] Now this is going to be a very, very boring video, but it's also going to be the video that makes you profitable, or leads you into the right direction to make you profitable, okay?
+[00:04:43] How does discipline relate to trading? Well, being disciplined is not taking 50 million trades when you're trying to go more green, not taking 50 million trades in a red, stopping out of a
+[00:04:55] loss, okay, and taking the loss of a man or a woman, okay? That's disciplined, okay? one of the biggest things for me and how to be disciplined is
+[00:05:09] or what made me become more disciplined as this. When I used to take like 15 trades a day, I felt like I couldn't control myself. And in order to get disciplined in the market,
+[00:05:25] you need rules. I never ever had rules until probably like a year and a half ago. And that That was really bad.
+[00:05:34] Now, I was somewhat profitable without rules, but when I first first started, I was not even close to profitable, and I did not have rules.
+[00:05:41] And the thing now is, if I were to start taking indicator trend line, like indicator plays and trend line plays, what I do is I do something like this.
+[00:05:51] I do max two trades a day. Max two trades a day. Risk whatever on this trade. What's another good one?
+[00:06:02] Target to our like I'd have these rules in place. Okay. Two years ago. I don't know what I was doing I didn't have a plan when I get one into trade
+[00:06:10] I didn't have the discipline and I didn't have the patience to wait for my setup to To present itself and now if I were to go back to indicators what I do is this okay?
+[00:06:21] I'll tell you what exactly I do So let me just do an example real quick. So if I were to go back to indicators today I'm gonna say this
+[00:06:29] My plan what I'd I'd be I'd be Taking a play that breaks vwap and also breaks a 90 ma. So let me just pull up a 90 ma on a chart Okay, and let me pull up vwap on the chart, okay?
+[00:06:45] So we now have vwap in the 90 ma. Let me just make this a lot more clean Okay, and
+[00:06:55] My idea of a plan is going to be if we break above VWAP and the nine EMA I'm going to take along and my stop loss is going to be a closed blow
+[00:07:06] So now I have somewhat of a plan and my target's going to be 2R So in this example here my plan would be this we broke above
+[00:07:15] I'd buy in the retest and then my stop would be really if we kind of really break the VWAP we really break the EMA in both at the same time. Now in this example, we don't break VWAP too much
+[00:07:27] here. So let's say this would be a winning trade and I'd be up to R. So this would be a good trade. I follow my plan. I have a stop loss and that's what I did. Now two years ago, I would not have
+[00:07:39] known that. Two years ago, I would have been like, hmm, should I buy off VWAP or should I buy off FMA I'll just I'll just take this but and I kind of question the trade
+[00:07:50] You need to have discipline and rules if you want to trade I could go back like I said and and create this plan for myself right now. Okay, the plan is being if The EMA and VWAP cross above each other or if you may cross above you up and we close above you up
+[00:08:06] I'll take the trade. That's my plan. I didn't have that two years ago and That's what changed from now
+[00:08:13] From two years ago. I actually have a plan with answer trades. Okay, let's let's go to another example So right here. I see okay, we broke for you up at the EMA's I'm across. Okay now the EMA's across
+[00:08:27] I'm going to take the trade here Stop loss is gonna be somewhere below below New target to our
+[00:08:35] Nice the trade works out Same thing here. I'm gonna do okay. Well buy here stop loss is gonna be relatively below Both and I'm gonna target you are okay. This trade fails. I'm getting off her loss. That's it
+[00:08:50] That's what you need you need structure and trading and I Don't let me see if I can pull up a tweet that I saw today. It was a very very good tweet by my good old friend Jade cap
+[00:09:01] All right, and in this tweet he basically says Okay, shout out to him go follow him
+[00:09:10] Proper trading requires behavior consistency without that your edge turns dull. So it sounds very boring But you must have the same behavior for each trade
+[00:09:22] Because if you don't let's say get in a trade here and I move my stop all the way down here because I'm like, oh, I think we're still gonna bounce That is not the same consistency. You're not you're gonna need to be profitable
+[00:09:32] You need that consistency to be profitable and it sounds very boring, but that's how you become profitable So from what changed from two years ago to today is I could
+[00:09:43] actually go in, I do the trend line or an indicator, and I could actually have a plan. I know what a plan feels like a plan and going in with a plan makes me feel so much better.
+[00:09:51] I recently did something with my discord. Um, I made them take this play and I, and I wanted them to basically manage their risk properly.
+[00:10:02] Okay. And this is going to be a whole separate video, but I think this is a good idea to kind of go over real quick. So it was basically a, it was a thing I did with my Discord. So let's look at the form.
+[00:10:14] So basically my questions, we got 13 responses. I did a little lesson on risk management. Okay, and it was actually talked about going in
+[00:10:23] with an actual plan, not just going in, buying wherever where you think the mark's in about. It was going in with an actual plan,
+[00:10:30] an actual risk, an actual everything. And out of the 12 people filled out 10 people said they did it how I taught and now look at this.
+[00:10:40] Were you less emotional or more emotional than usual when controlling and knowing that what the loss would be throughout the trade.
+[00:10:47] 10 people said yes, two people said no, so majority rules. And I said on a scale of one to five, how much more did this make you feel
+[00:10:55] as if you're a professional trader compared to previous days when you did not know how to make a risk? And most people said it made me feel more
+[00:11:02] like a professional trader because they actually were in a trade and they're like they actually had a plan.
+[00:11:08] They actually had structure and they actually had like a thing where it just it makes you feel mature as a trader that like, oh, I'm not actually buying off of what I think's
+[00:11:18] in happen. I'm actually buying with a plan. I know my stop loss. I know the side like I know everything and it feels it's such a surreal feeling and if you get that feeling, you will feel so much better and you will want to do this more.
+[00:11:30] Trust me. When I used to go in with not knowing what I was doing without any plan, I really just, I felt lost.
+[00:11:38] I felt like I was going to go check on my head cut off and it just didn't help and having that plan and that structure in a trade just, it makes it feel so much better.
+[00:11:48] You just feel so, you know, you know what the loss is going to be. You know what the wind is going to be. And I don't even want to talk about winds here because winds is not why you should be
+[00:11:57] trading. You need to manage your risk. You need to be disciplined and the biggest thing that helped me with discipline is this. Now, this applies if you're more of a day trader, not really a scalper taking like these 10 point plays.
+[00:12:12] If you take two losses a day, I think that's a good general rule. If you take two losses in a row or two losses in a day, stop.
+[00:12:21] That is being disciplined. Okay. Two losses in a day. Just stop.
+[00:12:28] Right. This is probably the rule that has saved me the most. Now I don't do two losses in a day, you do two losses in a row because I don't
+[00:12:37] really take two losses in a row that much. Um, but that, why, why should you stop after two losses? Because after two losses, your mental is probably much worse than what you came
+[00:12:48] into the day. Imagine coming into the day with a fresh mind. So you're coming in with a fresh mind and, uh, you, you're like, Oh, this is going to be great.
+[00:12:56] I'm gonna look for a setup, I'm gonna be patient. Imagine how your mindset shifts out there taking two losses. You get demotivated, especially for newer,
+[00:13:04] you get demotivated, you don't, you think you don't know what you're doing, but you do, you do know what you're doing, it's just, it may be just a bad day in the market. And that's it, you just, you get demotivated
+[00:13:15] and that's why I always say stop at the two trades because here's the thing, what's gonna happen after you take two losses?
+[00:13:24] So let's say I take a loss here. So let's say, oh, I think we're bouncing off Vwap here. And I take a loss.
+[00:13:32] And then let's say I take another loss here. What's gonna happen is, let's say the third trade, my plan is, oh, I'm gonna buy
+[00:13:42] once I see this blue line here, come across this blue line here. That's gonna be my buying point.
+[00:13:49] And let's say the line doesn't actually cross yet, But because of my anger, because of me losing twice already, I'll be like, okay, it looks like we're curving up.
+[00:13:59] I'm going to enter early. Oh, but what happens when I enter early, we just go down. And that's what that's one of the examples or something you're going to present,
+[00:14:08] prevent yourself from doing. You're not going to like, not having a clear mind means entering early or maybe chasing and fomoeing, whatever it may be.
+[00:14:17] And that's what's just going to happen. You're going to take two losses and they're going to be like, Oh, it looks like this is going to trigger early. I'm gonna get in early and try to jump the entry a little bit.
+[00:14:24] And then you lose a third time. So that's what happens when it takes you losses in a row. You just don't have a clear mind
+[00:14:30] and that's so important to understand. Okay. And discipline is the most important thing in the market. Now, I challenge you to do something outside of trading
+[00:14:43] that is also being disciplined, whether it be going to the gym three, four times a week, reading a book or a chapter of a book or something,
+[00:14:52] because that's going to translate into you trading, okay? I promise you. Now, what I do is I go to the gym
+[00:14:59] and I don't get lazy, I go to the gym every single day, besides my rest day, obviously. And I don't get lazy. I'm disciplined, I just don't skip a day just because.
+[00:15:10] Okay, and my brain's a wire to know that. And when I go to the trading, my brain's a wire to do the same thing. It's a wire to, okay, if I take two losses a day, just stop.
+[00:15:18] So you had to understand that and you had to understand that being profitable has much to do with discipline just as it does the strategy.
+[00:15:27] The strategy, like, like I said, I could go back and probably be profitable with indicators being as disciplined as I am right now because I know when to stop. I know when to keep training and it's just so important.
+[00:15:40] So the main things you should know about discipline is you should have a rule or something that you follow, maybe like two losses in a day, you just stop, and you should generally, I think that's the biggest discipline rule. Now, people ask me, they're like, you have a profit
+[00:15:54] target for the day. My interest, no, but if I take one to two pretty good trades, let's say two are in the morning, I will typically try to be done for the day because trading should give
+[00:16:08] you freedom. And I think when you get one of the two trades in a day, it's just, it's like, maybe goes 20-25 points. I think that's good enough for the day. I would be done. I'd go golfing. I do
+[00:16:18] whatever. Okay, I think that's a good habit to have. The problem with, oh, I'm going to try to get $1,000 a day is if it's like 3 o'clock in the market as an hour left, you're going to force
+[00:16:30] a setup if you're not at that $1,000. And that's another part of being disciplined. I think just taking good setup should be your goal. And by good setups, I mean, you're set up that you like to take
+[00:16:40] a lot. Now some of you you don't know the setup you're going to like to take a lot. You're going to need to watch this whole bootcamp and kind of test and see what you like best. Being disciplined also means testing out and or testing out and using a few entries. I didn't so what I do is I
+[00:16:56] take IFGs and some of you are not going to know what does it. Those are yet but that's I have my own model. I have my own thing that I've been doing for about almost two years now and that's what I
+[00:17:07] to continue to do and repeat. And again, I love that the rent, if you ever seen like someone wearing your shirt says a rinse, sleep, eat, repeat, that's basically what I do. I eat,
+[00:17:17] I sleep, I have fun, wake up, take another same model. I take it, take it every single day. And that's it. And that's being disciplined, not going outside the boundaries, following
+[00:17:28] those boundaries, having rules and punting your, punishing yourself. If you break your rules. I used to go for a two mile run if I broke my rules and I and now I had thought like I have
+[00:17:40] to up at the five because I can't like I don't run five miles that much I run to but if I run five miles my legs really hurt so it's just kind of a reminder okay I need to follow my rules and it
+[00:17:50] also makes you it also helps you in the process your health and your process you know because you're running obviously and some for some people they don't they don't like running it's gonna suck for
+[00:17:59] for them. For some others, they may, they may like it, but it's also going to serve them as a reminder when they're running that, okay, I need to, I need to follow my rules because
+[00:18:10] they should be thinking about that. So that is what being disciplined entails having rules. And I do have a little thing in my discord. I can probably link this in the video. If
+[00:18:24] If I don't just remind me, it's basically just like a set of rules that it's like a template I have.
+[00:18:31] It's in the private section of my Discord. And again, I have a Google box, if I just open this, this is basically like basic starting
+[00:18:48] rules right here. Okay, basic starting rules right here. Don't worry about these. You're not going to understand some of these, but these are like really basic rules right here.
+[00:18:59] And you don't have to follow these. Here's the thing. When people sent me your rules or when people gave me rules when I first started, I always thought that I had to copy
+[00:19:12] them like, Oh, this guy's profitable. I'm going to copy them word for I'm going to copy with him work forward, follow exactly what he's doing. What's the problem with that? Well, the problem with that is he's profitable, but you're not going to be profitable in the
+[00:19:27] same way that he's profitable, meaning you might have different roles that you like better. You might have different roles that work for you. Why? Now, let's think, why might someone have different roles than than someone else because of your brain and how your brain works.
+[00:19:45] one's brain is unique in this world. So what works for some person's brain is not going to work for another person's brain. And I didn't understand that. I tried copying all
+[00:19:54] these. It's like if you're, it's like if you're playing a video game, like let's say, I don't even know. I think like Clash Royale. I've been playing Clash Royale. Okay. It's basically
+[00:20:04] a game where you have these cards you can use or Pokemon cards. Let's say Pokemon cards. Everyone knows Pokemon cards. Basically it's you copying all of someone's Pokemon cards
+[00:20:14] in a match or in a game, like, I don't think people actually play the actual game anymore. People just trade them.
+[00:20:21] But it's like if you buy the same exact Pokemon cards as someone else because they're really successful with their cards.
+[00:20:28] But in reality, that's just copying someone and maybe they're successful with their cards because their brain works different or they see, "Oh, if I could sell this card for this or I post this on eBay for this, I know what to do."
+[00:20:41] But if someone copies that, they don't know what to do with those cards. It's just like trading. You need different rules because you're going to know what to do according to your brain a lot better, and that's another part of being disciplined.
+[00:20:51] So I think the biggest discipline rule you can have is just if you ever take two losses in a row, just stop. Maybe if you take two losses in a session, but not in a row, so such as like New York
+[00:21:01] session or the more like from 8 30 a.m. Eastern to 11 a.m. Eastern, then maybe you're done for that session.
+[00:21:09] Maybe you can trade after 130 again and try one more trade, but size down or something. Okay. You need to understand and be able to follow that. All right. If you cannot follow your rules, you're not going to make it on trading. Now, the funny thing is I couldn't
+[00:21:24] follow my rules for probably a year and a half, maybe two years. And some of you guys are probably going to be worse. Some of you guys are probably going to be better than
+[00:21:33] that. But don't give up because you can't follow your rules because that's going to come over in time and you have to understand that. Okay. If you cannot, like you're not going be able to follow your roles. I know it. Most of you aren't going to be able to because I
+[00:21:45] I didn't. Sometimes like I used to average down all the time. Like if I was trying to short here or I was trying to take a cell here, I'd be like, Oh, I think it's gonna go down. I just I'd average
+[00:21:57] down. I've ever ever drowned. And I'm obviously way over that now, but sometimes it's hard not to do that. Like for the first year and I can't just tell you don't do that because that's not you're
+[00:22:08] they're gonna do that, okay? That's just part of the game. That's just how you're gonna learn and that's what it was for me. So, again, have a plan, be disciplined.
+[00:22:19] Don't take in million trades for day. What I would start doing is, I would suggest maybe even use an indicator of something for this, okay?
+[00:22:28] Because this is gonna help you no matter what the strategy to use. Put on a 90 EMA, put on view up. Do the plan like Holly just said.
+[00:22:35] do two quality trades a day where the nine EMA trades above VWAP and maybe and do about a two R take profit okay put your stop a little under VWAP maybe around this is this size is good
+[00:22:50] and do this on a paper account for like five days and see if you can just straight follow your plan taking two trades a day of this happening twice and it can be short it can be long and no
+[00:23:01] matter if it's a winter loss see if you can just follow this take two trades a day and do not go outside the boundaries. If you can do that, you're probably pretty disciplined. If you can't do that, you're going to need a lot of work. So that's the important part. Again, it doesn't matter what
+[00:23:14] strategy you use. You have to be disciplined every single strategy. And a lot of people give up because they aren't. And that's just how trading works. And that's why that's another like people
+[00:23:24] say trading or a lot of people say trading traders fail because the strategy, it's actually not not 'cause of strategy.
+[00:23:30] It's probably because their psychology and discipline is just bad. And again, you have to be disciplined, follow your rules, punish yourself if you can't follow them.
+[00:23:39] And before I do this video, I just wanna say, don't get demotivated because you will not be disciplined for the first year you trade.
+[00:23:47] I wasn't, I'm not gonna pretend like I was. And you have to stick with it. When you're journaling, which I will be doing a video
+[00:23:55] on this about how to journal, ask yourself, was just just being undisciplined and not following the plan or was this a legit losing trade
+[00:24:04] where I was disciplined but it was just a losing trade. Like you had to ask yourself why you're losing, okay? Is it because I'm not disciplined
+[00:24:13] or is it because it's an actual losing trade? The newer people will find out it's probably because you're not disciplined and maybe it wasn't even a losing trade.
+[00:24:20] Maybe it wasn't even an entry at all but you got FOMO, you chase really high because like, oh my God, I missed this entry. I'm gonna chase this really high.
+[00:24:27] You can't be doing that, okay? You can't chase the move out there. It's already made because we could reject it anytime. The entry was down here.
+[00:24:36] If your plan is to enter off a VWAP and EMA cross, you should be entering down here. You can't just enter way up here. So that's gonna be it for this video.
+[00:24:45] I'll see you guys in the next one. Peace.

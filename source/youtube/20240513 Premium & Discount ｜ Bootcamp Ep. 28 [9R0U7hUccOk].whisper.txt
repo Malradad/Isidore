@@ -1,0 +1,80 @@
+[00:00:00] In today's episode, we will be going over something called premium and discount. Okay.
+[00:00:06] Now, when you walk into a store, okay, you want to obviously look for things on discount to buy.
+[00:00:13] Okay. If something's on a premium or maybe it's a normal price or maybe raised a little bit due to high demand, typically you don't want to buy it and then the demand eventually goes down and then they put it on sale.
+[00:00:24] Same thing in the market, but how do you actually draw a discounted premium range? Well, there's a lot of visuals. Again, just to show you how easy it is to search up
+[00:00:33] like discount premium, ICT. I'm gonna search it on Google and you can just find tons of visuals.
+[00:00:40] I have told myself, I'm not sure. Again, you might like other people's better. It doesn't really matter. And yeah, it just depends.
+[00:00:48] So you can clearly see that it's just a kind of tool where it separates half and half of the leg
+[00:00:57] putting half and discount half from premium, okay? And you can find a lot of videos whatever regarding this, all right? So what actually is this kind of premium though?
+[00:01:05] How do you draw it, all right? So what you wanna do to draw this kind of premium is, you wanna look for an impulse leg, okay? So if I see something like this,
+[00:01:17] this is an impulse leg. We have an obvious swing low, obvious swing high, and it makes this really nice leg here, all right? Now, I want you to, on Trading View,
+[00:01:28] go to your Fibber Tracement Tool, draw it out, double click it, and just have the .50 and then a one on.
+[00:01:36] Okay, this is how you're gonna draw it as kind of a premium, and you can obviously save this as a template if you want. And, yeah, I know some people using like OTE,
+[00:01:47] so that's another kind of fib setting, which I'll go over in another video, but yeah, just have the .50 and one on it. I typically do not use a zero and one
+[00:01:56] because I already know where I draw from, but for the sake of this video and teaching you guys, I'm gonna have it on the zero and one. So what you wanna do is you just want to draw from the bottom
+[00:02:07] to the top, okay, because it's a bullish impulse leg, all right? And honestly, no matter if we're in an uptrend or downtrend, with a typical fib per se,
+[00:02:20] What you're probably going to do is draw, if we're in a downtrend you want to draw it from the top to the bottom.
+[00:02:28] And honestly, it doesn't really matter if you're just at the point five. But the proper way to draw it is from the top, the bottom of the downtrend, the proper way to draw it is a bottom to top in an uptrend like this, okay?
+[00:02:42] So you can see that it creates these two halves. So these two are going to be considered zones. All right, so I'm gonna do a green zone here. I'm gonna do a red zone here. All right
+[00:02:55] Now why is this important? Well, it's important because this green is actually your discount and then this red is actually your premium So typically as I see t traders
+[00:03:06] We want to try to buy and discount as much as possible and you want to only try to sell in premium as much as possible This also means we don't want to buy in premium as much as possible
+[00:03:18] So even if you don't want to take a short you just you shouldn't buy here Maybe you don't want to take a sell here, but you also shouldn't buy here Same thing here. You don't want to sell in discount and and maybe you don't want to buy a discount either
+[00:03:31] That's okay. You just don't do anything that if that's the case, right? If you think the buys is bearish, but we're in a discount It's definitely much riskier to sell and I like to rate setups and a lot of my be setups that I rate are
+[00:03:43] short setups where you where there's a A lot of times what will happen is there's equal lows or something down here. So let's say there's equal lows and it's a good liquidity pool.
+[00:03:52] A lot of times, some people miss the move up top and then we get into the discount and they're like, "Oh, should I still sell here and go for these equal lows?"
+[00:04:01] I mean, you can. It will work, but it's definitely more of a B set up because it definitely is a lower win rate and you ideally want to short in premium because that's going to be your best shot at shorting.
+[00:04:10] I do short in discount sometimes, but it had to be really confident in the draw on liquidity Or like if we have equal loads, I maybe will.
+[00:04:17] Sure, it just depends. So I say there's two ways of drawing pre-move discount, okay?
+[00:04:25] There's two ways. The first way is kind of just drawing it from like a one-minute lag where you're actually trying to enter.
+[00:04:32] So you might be in the 30-second time frame, you might be in a one-minute time frame. And earlier just drawing it, then look for it literally in entry. The second way is drawing it like in the hard time frame,
+[00:04:41] it is looking at the range as a whole. So for example, the first discount the premium range I actually will draw here is this low to this high.
+[00:04:50] So you can see we put it in a nice swing high here. We've kind of topped out a little bit, so I would definitely draw this .5 now.
+[00:04:59] And right here, I really wouldn't want to look to take buys yet until we came or tapped that .5. And then I'll look for buys.
+[00:05:08] You can actually see a perfect example. If you look at the 15 minute timeframe from Friday, and you look at this 15 minute swing low all the way down here okay right here and you draw that's the start of this impulse leg you draw it from this low to this high you can see that
+[00:05:24] actually price comes down taps the point five perfectly it goes a little below it which is okay because it's a discount and then bounces right away so if you're ever looking to take any sort of
+[00:05:34] buy-in if everybody I got try to make sure it's in discount okay this is going to be your best bet Now, you're probably wondering, like, in this situation, okay, in this situation, let's look here.
+[00:05:48] Let's say you see this nice impulse like down, and you're like, "Okay, well, I'm going to look for a shorter premium." Okay, well, it has to make sense with the narrative. So, in this situation here, we go back to premium, okay, we reject a little bit, but when we come back up the second time,
+[00:06:06] we kind of inverse this for a rally gap. So this for a rally gap kind of gets broken. And that's important to note, because it doesn't make sense to shorten premium,
+[00:06:16] especially after the bearish for a rally gap in premium gets broken. And ideally, when you're longing a discount, you want there to be for a rally gap. And ideally,
+[00:06:24] when you're shorting a premium, you want there to be for a rally gap as well. So it doesn't make sense to keep shorting this area after everything here is already broken, because that just doesn't make sense. It doesn't fit the narrative because clearly, this is bullish price action.
+[00:06:39] The other thing you have to be careful of is if we've already taken out some liquidity or something, which in this situation here, we took out a ton of major lows. We're very low, and you can see, like, in the higher, higher time frame,
+[00:06:53] if I drop discount, they're premium from, like, here to here. You can see we were in discount on this timeframe here, obviously. If we're very low, it doesn't make sense for us to reject a premium, like a smaller timeframe premium range
+[00:07:06] such as this one, because we're already coming out of like a larger time frame premium. And again, ICT and what I'm teaching you is not for the weak minded. Okay, what I'm teaching you is going to
+[00:07:17] confuse you because you can be like, well, what a foreign discount on this one, the pre and this one, you're gonna understand after years of doing this. Okay, I don't understand this either first, But your first goal is to look for the drawn liquidity and then your premium discount kind of comes along after so let's say
+[00:07:36] Let's say I come to the market and let's say we're here I'm like, okay We're we're kind of already came up here
+[00:07:44] We're kind of relatively low compared to like this range as a whole like this range of the whole we're kind of relatively getting low again It looks like we're back in discount compared to this range
+[00:07:53] It doesn't really make this short or short or tradesman if we got one here and that would personally be my thinking process and A lot of people that's working a lot of people are gonna go wrong because like well
+[00:08:06] Dodgy says we have an impulse like here We must short the premium But you have to watch higher time frame make sure we're not in any like this kind of premium of the higher time frame and understand where we are what liquidity swept where the draw might be and
+[00:08:19] This this the this high here is actually kind of a normal wick It's kind of a big wick and I never explained this last video, but this is actually a very good liquidity pool
+[00:08:29] It will be targeted a lot Especially this is off of a data. So this is a data wick. I call it's off a red folder news and if you haven't watched my one set of for life video on YouTube I talk about these here, but
+[00:08:41] You can see that this would have been a good liquidity target. So it would not make sense to short on premium here So it has to make sense to short on premium for sure So here you got another impulse leg. Okay, you got an impulse leg here. So from this high to this low
+[00:08:55] And you can see the market comes up right to premium above the point five and then rejects perfectly Now something to note here is
+[00:09:06] There's not really for a valley gap here to short. Okay, you can see in this leg. We're not really directing for a valley gap So I likely would not actually take okay, I would actually not likely take any
+[00:09:19] Short here, okay, because it doesn't make sense because no for a rally gap. So what what I may be take? Well, what you can maybe take is
+[00:09:28] You can see we get a second for a rally gap, which is Right here this bearish gap here. You could take a short off of here instead knowing like okay We just came up to the point five. We made another bearish cap
+[00:09:41] We're actually in the point five on this new range see how there's a new range and that I would take the short in here Because it's a bug point five and then the higher time frames also rejected the point five and the higher higher time frame
+[00:09:54] Is also way in premium so like from here to here is just we're very high at that point So like three different time frames were in premium there and it would make sense a short
+[00:10:04] So that's kind of what this kind of premium is we'll go over a few more examples Typically, if you ever don't see us retrace
+[00:10:12] to like discount on the hard time frame. So obviously here we kind of got the small wick here, which this is working definitely get very subjective
+[00:10:20] 'cause some people might use this, some people might do this, some people might do this. The hard time frame here is definitely, I think this is the most obvious high we have.
+[00:10:29] I think you could see this on like the hourly timeframe, but you can't really probably see this in the hourly. You can't see this in the hourly. So I would personally, like as a bigger range
+[00:10:38] actually draw from here to here. Obviously, you could draw from here to here if you wanted, but I think this is the best one. And if you ever don't see us retrace to the premium after going down, that means the market's really, really weak. And you can kind of see how much we
+[00:10:54] dump out there. So if you ever see us not retrace to a discount or premium, that means that markets are really strong or weak. Okay. Now, another example would be like, let's see here. So here,
+[00:11:07] We created a nice impulse like here from this low, this wick to this high, and you can see we kind of go to discount a couple of times here. So here we bounce and then here we bounce. And then finally
+[00:11:20] we kind of go back and do this kind again. And honestly, this is a weird situation because I actually would not look to buy here. There's definitely a certain, there's definitely a certain
+[00:11:33] Depth in discount or premium, you look for the price to go where you actually wouldn't buy anymore. This is really deep and it would not make sense.
+[00:11:42] If we saw a candle this deep in discount, it would not really make sense for me to buy anymore. So this is kind of something I'd probably miss out on, which is okay, but you don't really want to see us
+[00:11:51] go that deep in discount and then bounce. Typically like, like this is like the best range, but if we go any lower than that,
+[00:11:58] typically we'll go to that next low. Okay, so that's something to be careful of. Same thing with this.
+[00:12:04] We got a nice impulse like here. We just dump all day. I draw a discount on premium from this high to this low. You can kind of see every single time we get the premium,
+[00:12:14] we get some sort of reaction. Okay, so you can see how much on premium price wants to dump. And again, you can get away with shorting in discount,
+[00:12:23] but you have to be very confident that drawing the quality is lower. And here it clearly was not. So that's gonna come up screen time.
+[00:12:30] No one's going to tell you that but that's going to definitely cover screen time and that's that. Another really nice impulse like here from this low to this high come up perfectly tap the point five and then go right back to the high so you can see how beautiful that is and
+[00:12:48] the wickier the reaction out of the point five out of that fair valley gap the more bullish you're going to be. You don't really want to see us kind of stay here. You want to see us get like a nice kind of reaction to a place like that, okay? But you can clearly see, you can experiment
+[00:13:02] with this and draw a discount on premium. The thing I will say is don't get confused like, oh, what a foreign premium on the four-hour time frame, but this count on whatever. It doesn't
+[00:13:13] matter. It just depends on where the drawn liquidity is. Like, I could go to the one-minute time frame and you could draw a short, simple discount on premium, like, from this low to this high.
+[00:13:24] and you can see we go hit that 0.5 and then bounce right away. Same thing with like this impulse like here from this load to this high. You can see we go onto that 0.5 bounce out of
+[00:13:34] a fair value gap and go back to the high. So you couldn't use discount on premium on all time frames. What I will say is I will use it typically for entries on the one to five, but anything above
+[00:13:46] the five just mainly used for bias and like a kind of better confluence. Like if I want to sure I make sure we're in a five-minute premium zone or if it went along I make
+[00:13:55] sure in a 15-minute discount zone just that's how I use them. So that's just to summarize this kind of premium. Again very very useful. We'll save you from bad trades especially if you're not shorting in premium, especially if you're not
+[00:14:07] shorting a discount. You'll save yourself for a live bad trades and that is it for this video. Peace.

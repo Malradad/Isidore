@@ -1,0 +1,68 @@
+[00:00:00] In this video, I'm going to show you how to identify market maker models and how to trade market maker models using my simple Fair Valley gap strategy. If you guys don't know me, my name's Ryan.
+[00:00:10] I've been trading for about five to six years, and I made over $100,000 just from trading. So without further ado, let's get started.
+[00:00:17] What is a buy and sell model? Okay, if I just simply type in ICT buy and sell model on YouTube, and again, you can do this too. Now, the first thought that a lot of people have is they're thinking, "Oh, it has to be these
+[00:00:31] three boxes, then these four boxes back up." That is completely false. The idea of this bi-model and cell model is just kind of the curve, okay, and the consolidation on the curve.
+[00:00:41] Okay, that's how you identify a buy and cell model. It doesn't have to look exactly like this, which would be the bi-model. And with every single bi-model and every single cell model,
+[00:00:51] the reversal always comes from some higher time frame PD rate or liquidity point so you can see at the bottom of this it represents this line represents some sort of higher time frame order
+[00:01:04] block a fair value gap a liquidity pool something along the lines of that we have to reverse from something okay so what I do to identify a buy or sell model is a little different than other people
+[00:01:16] obviously I look for the beginning consolidation or the beginning liquidity pool maybe it's equal highs, maybe it's equal lows, whatever I think that the drum equity is going to be. And I look for a down move, okay, which this consolidation right here is actually optional.
+[00:01:32] What I look for for the main reversal part is a market structure shift over a high that's inside of a old for a rally gap, okay. So I look for a fair value gap, a bearish
+[00:01:44] for a rally gap, a high that was formed inside of it, a manipulation leg, and then I look for or market structure ship over that high.
+[00:01:53] Whereas a lot of people, they're going to look for just any market structure ship that is not a high inside of a fair reality gap here. Okay, but the market make your models truly start
+[00:02:05] when you get a market structure ship over a high inside of fair reality gap. Those are the best market structure ships in my opinion and those are the best spots you can find along
+[00:02:13] on the pullback. Now, you're probably wondering, do I have to short this? No, the answer is no.
+[00:02:20] The majority of the time I'm training a buy model, I either long here or I long here, okay? I don't catch the whole buy model
+[00:02:28] and you don't need to either. But the biggest thing with the buy and sell model is I look for the market structure shift, okay? Over that fair value gap or over that high
+[00:02:39] inside of a fair value gap. So let's just look at a few examples on the chart so you guys can see what I'm talking about. So in this example here, we have a buy model
+[00:02:49] And you're probably like, "Dodgy, it doesn't look like that picture." Okay, it's not, it doesn't have to look exactly like the picture,
+[00:02:55] but we kind of have a original consolidation here. Okay, I'll just circle it. We have some more consolidation here.
+[00:03:02] And we kind of have that nice little curve to it. And we have a super bullish reaction, okay, off of this low here.
+[00:03:10] And you're probably like, why this low? Well, couple reasons, this is an Asian low. Okay, Asian range low, which makes it better.
+[00:03:17] but it's just a very obvious low. You can very simply see it and obviously there's a bullish reaction to it. Okay, in hindsight, we see this,
+[00:03:26] but in live time, I'm still gonna look for longs in the scenario because I know this is a very bullish reaction to this. Okay, maybe I'm not long yet,
+[00:03:34] but this is where I'll start looking. So we got a kind of original consolidation right here, more consolidation here, very bullish reaction. And then we form a lower high here and then here.
+[00:03:47] we shift over that lower high here. So how do I know this is going to become a bi-model back to the original high which would be right here? Well I can tell
+[00:03:58] because this high is inside of this bearish for rally gap right here and we clearly accelerated and broke it with a lot of momentum but the key thing here
+[00:04:11] is it's breaking a high inside of an old Fair Valley gap, okay? So it's breaking the high inside of the Fair Valley gap. So when we break that, I am looking for a retracement to the 50% of this leg.
+[00:04:24] So I'm going to draw a fib tool from this low to this high right here because that's the leg that broke structure. And I'm looking for a 50% retracement right here. And I'm going in the lower time frame
+[00:04:38] Maybe it's the one minute, maybe it's the 32nd, maybe it's the 15th second, maybe it's the five minute right here And I'm looking for some sort of long setup in this
+[00:04:48] Green circle because on the higher time frame I see we shifted structure which tell you which tells me it's probably going to be a buy model I'm not going to interrupt the hourly here because it's too big of a zone
+[00:04:59] So I'm gonna look for a lower time frame long here. The second example is actually right next to it Okay, we have a cell model here, okay, but what tells us this is going to be a cell model.
+[00:05:10] We have our kind of original consolidation here, okay, of a low, which is actually created during Asia, which is important because time-based liquidity is important.
+[00:05:21] And at the top, we have a fair rally gap, and we put a low right here inside the fair rally gap.
+[00:05:31] And what happens here is we kind of break that low inside the Ferriali gap, get a second liquidity sweep with another major bearish reaction.
+[00:05:42] And when we break that structure, I am all looking for shorts. I'm looking for shorts in here. I'm looking for shorts in here.
+[00:05:48] Remember, these are hourly candles right here. So I'm going to the one-minute timeframe during these two candles because I see, oh, we broke a low inside the Ferriali gap with a very bearish wick or bearish reaction.
+[00:06:01] Well, on the hourly timeframe, during that first consolidation leg, which I'd consider here, I'm going to the one minute
+[00:06:08] and I'm looking for that short setup to bring me where? Well, down to that first low, they kind of started to just move up. So that's what I am really looking for.
+[00:06:17] If you have any questions, just make sure to leave them in the comments. So this is the third and final example. We're forming a bunch of lower highs,
+[00:06:24] lower high, lower high, lower high, lower high. And then finally, we break that last lower high.
+[00:06:32] Now, we have to just make sure that this lower high is inside of a fair reality gap. Okay, and if we look for left, indeed it is.
+[00:06:40] So because we're shifting over high that was in a bearish fair reality gap, this is likely to become a market maker by model.
+[00:06:49] So in hindsight, obviously we see it becomes one, but right when I see this right here, I know, okay, We got a lot of displacement above this last lower high
+[00:07:00] that was inside this variable. I got, I know to look for longs inside that bullish variable I get now. Okay, because, again, a market maker typically starts
+[00:07:09] when we inverse or break a variable I get to the left, but also that has a high that rejected it first. Okay, so you can see we end up getting along.
+[00:07:19] Now, you're probably wondering, would I have taken along here? No, I would have went to the lower time for him to look for along here.
+[00:07:25] If I don't find one here, look for one up here. Okay, and then you're kind of targeting those previous swing points. So maybe here, maybe here, and even remember, not all of them are going to hit, but that's why you scale
+[00:07:37] out and take partials. And then the final target to me, the thing that looks most obvious would probably be this high, because to me, again, you're going for a high that's inside of an old bear scab here. So I know people shorted here. So to me, that would probably be the final target. It looks
+[00:07:52] like it would have thought in the out of break even if I was in the position but here's the thing we could always re-enter here right you could re-enter here because again it's another shift
+[00:08:04] over high inside of a fair rally gap right here so you could easily enter here now we did not pull back to the fair rally gap for this one but you could have maybe found a lower time frame entry
+[00:08:14] right here okay because we're shifting over the high inside of fair rally gap and you're still going for that original consolidation that the market still wants to target from down here. So basically that's what I look for and I go to lower timeframe and I'm looking for my
+[00:08:29] IPG setup to get in somewhere. As you all know, I only use inverse reliability gaps and recently I made a full free PDF of inverse reliability gap rating setups that I use to rate my own setups
+[00:08:40] A through C. So if you want to check it out out, just click the first link in the description. It's It's completely free and hopefully should help you. Again, let's say on the hourly timeframe,
+[00:08:50] we're in a huge buy model here. There's some sort of original consolidation sitting up in this line. All I'm doing is I'm waiting for a dump
+[00:08:59] and then I'm waiting for a inverse, okay? This is the one-man timeframe, but again, imagine we're in an hourly buy model just like I showed you. I'm waiting for a dump and then I'm waiting for an entry.
+[00:09:09] So I see a dump here, we wreck that dump, we close above that bearish gap. I'm in there, I'm targeting wherever
+[00:09:17] that original consolidation is, okay? And it might take a few tries, okay? You might get south to break in a few times, you might maybe scale some at this high
+[00:09:25] and then you get south to break even. You might want to enter again, maybe here, okay? You're going ahead to be creative with it, okay?
+[00:09:32] It's not a single mechanical strategy, okay? And again, it all is the same idea of going for the high, that original consolidation that's formed by the buy model.
+[00:09:43] When we break that high, that was inside of Fabriela gap. Obviously, in the one-minute timeframe here, you can't really see a high broken inside of Fabriela gap.
+[00:09:51] We're just gonna assume that it happened in the hourly, maybe down here, to tell us there's gonna be a buy model to this line, which may be some sort of previous consolidation.
+[00:10:00] So just so you guys have the idea of it, okay? So that's really what I look for. That is going to be it for this video.
+[00:10:07] Remember, do not forget to use code dodgy. There's an 80% off discount code for Apex. If you want to practice buying these,
+[00:10:16] buy models or selling these sell models and taking actual positions, do it on a prop account. Do not do it on a live account
+[00:10:22] because you need to practice. Just like how you play football or basketball, you go practice first, okay?
+[00:10:30] These prop firm accounts are good practice because they're cheap and there's a possibility of you getting paid. So they're good practice.
+[00:10:37] I'd recommend clicking the link in the description below. use code dodgy for discount and do not enter with a live account until you have mastered
+[00:10:44] what I'm teaching here today. That is gonna be for this video. I will see you in the next one. Peace.
+[00:10:50] (upbeat music)
