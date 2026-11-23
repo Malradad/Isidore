@@ -1,6 +1,6 @@
 # Live streams: index (Audrey)
 
-Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Status: done / todo / no-trading.
+Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Status: done / todo / no-trading. **37/37 done (2026-11-23).**
 
 | date | id | title | length | trades (TAKE) | skips | status |
 |---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2023-09-04 | ErsWq6j87uY | Simple ICT Strategy - Monday Night Class | 1h3m | 0 live (1 demo long, stopped) | 0 | done (class: prev-day high/low strategy) |
 | 2023-04-21 | yVWktthvtJQ | ICT Live Trading + Education 4/21 | 2h13m | 4 (1-lot: 2 L −$400, 2 W; net +$675 his count) | 0 | done |
 | 2023-03-24 | ksztwIzHgcE | ICT Live Trading + Education 3/24 | 2h47m | demo scalps only (NQ longs early, 1 short); 1 scalp acct unknown | 1 | done |
-| 2023-03-14 | rr2qsQ5mRfM | Live Trading + Education 3/14 [CPI] | 3h29m | | | transcript + meta; trade log todo |
+| 2023-03-14 | rr2qsQ5mRfM | Live Trading + Education 3/14 [CPI] | 3h29m | 1 own (ES/MES, +5 pts & BE) | 5 | done |
 | 2023-02-24 | XGuIB-0gn_A | Live Trading + Education 2/24 | 1h55m | 4 live ES (pre-stream short +7; small short W; long L; "revenge" short scratch) | 3 | done |
 | 2023-02-19 | hGw1rsg-eGo | Sunday Night Class (ICT) | 1h17m | 0 on stream (2 live ES trades recapped: 1 W, 1 BE) | 0 | no-trading (Sunday class, recaps) |
 
@@ -46,4 +46,4 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 - Transcripts for all streams from N6eOC8wtapo onward are Whisper (whisper.cpp base.en) because YouTube refused caption downloads (HTTP 429).
 - YouTube then blocked video downloads twice in a row ("Sign in to confirm you're not a bot") on **8wgnYYcVHuc** and **JrAXEtFejNw**, so per the rules I stopped downloading. Not yet downloaded: 8wgnYYcVHuc, JrAXEtFejNw, rr2qsQ5mRfM, f4LM3kNzquo (4). I will not use the maker's cookies. All downloaded streams are now logged (33 of 37). Left: the 4 above, all 3h20m+; they need either a retry later (the bot check may lift) or the maker's decision on cookies.
 
-**Update 2026-11-23 (Audrey):** the 4 streams above were downloaded after all (the retries on 11-22 17:00 and 11-23 10:17 went through, no cookies) and transcribed with Whisper. Meta + transcript now in this folder; trade logs and frames still to do.
+**Update 2026-11-23 (Audrey):** the 4 streams that were blocked were downloaded after all (retries on 11-22 17:00 and 11-23 10:17, no cookies) and transcribed with Whisper. Meta, transcript, trade log and key frames are now in this folder: **all 37 streams logged.** Time offsets were checked against the on-screen TradingView clock where it was visible (see each trades.md).
