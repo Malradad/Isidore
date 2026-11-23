@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20250901 | pEJwLyVZ8ng | DodgysDD iFVG Model Complete A+ Backtest & Analysis | whisper | done |
+| 20250829 | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
+| 20250826 | xSQAygcawZ4 | This is the difference between future millionaires and future brokees (Trade Recap) | whisper | done |
+| 20250818 | 3tznO7UHj74 | My HIGHEST Win Rate ＂Trap＂ Setup at Market Open (9_30 AM) | whisper | done |
+| 20250805 | 9wl9pSBf8fA | Critiquing 5 Student iFVG Trades (Would YOU Take These？) | whisper | done |
 | 20250730 | E3R30a_70E8 | How I Made $4000 Profit in 30 Seconds Today (No BS Trade Explanation) | whisper | done |
 | 20250727 | HxD2Og6L5to | The Side of Trading No One Talks About (I feel lost...) | whisper | done |
 | 20250717 | Cn57xwWxVAs | Why Your Premium & Discount Keep Failing – 50 % Reaction Explained | whisper | done |
