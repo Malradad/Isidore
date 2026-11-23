@@ -114,3 +114,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241118 | 2rgNnOVqYkQ | STOP Overcomplicating Your Trading | whisper | done |
 | 20241115 | SEy3z7TBmlg | How I predicted a $30,000+ Move on Bitcoin | whisper | done |
 | 20241113 | Cv58OBP3P0A | Backtesting iFVGs with A+ Checklist (New FX Replay Features!) | captions | done |
+| 20241106 | oTIba7_S6gw | The Most Common Winning Setup of my 1000+ Students | captions | done |
