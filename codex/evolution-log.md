@@ -350,3 +350,9 @@ _Session entries: date · what was learned · decision · maker response · perf
   - P7 with the data-wick override is the only P7 version better than no rule in both halves (0.90 / 0.98 vs
     0.86 / 0.92), still < 1 (claim 24 ~).
 - **Decided ~:** stop grade backtests. Next is blind-labelling his audited setups with the grader and score.
+
+## 2026-11-23 · P9 grader vs his eye (started, blocked)
+- Built the audit: 119 audited NQ setups since Nov 2023 (34 takes, 85 timed skips) and an audit mode in the grader
+  (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota
+  ran out. No numbers yet. Plan: 6-month windows tomorrow, then the confusion table, then fix the coding his way.
+- **Maker:** P9 relayed ("do what you think is necessary"). Branch izzy/p9-grader-check-2026-11-23, not merged.
