@@ -144,3 +144,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240625 | LQo0WY-AJaU | MSS vs Liquidity Sweep (avoid bad trades) | captions | done |
 | 20240623 | teQTptCheUE | How to determine Daily Bias (easiest way) | captions | done |
 | 20240621 | zOWPMHpCyV4 | The Most Powerful Form of Liquidity - Use this! | captions | done |
+| 20240619 | yUgpq9EFwLs | Use this FVG in your trading (best type of FVG) | captions | done |
