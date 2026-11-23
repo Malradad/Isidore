@@ -180,3 +180,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240314 | UP4eU601xLQ | When is Daily Bias in ICT ACTUALLY Required？ (No Daily Bias Tips) | captions | done |
 | 20240309 | HwBMjq-tVS8 | The Hardest Part of Trading： Saving Capital for A+ Price Action | captions | done |
 | 20240304 | doNBY08ygAg | This is Why ICT Doesn't Trade Gold (Most Manipulated) | captions | done |
+| 20240301 | 9zkTzJNvLI8 | When Should You ACTUALLY Trade？ [News⧸Red Folder Events] | captions | done |
