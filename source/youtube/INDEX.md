@@ -127,3 +127,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240927 | w7J0RymmVgA | Rating the BEST Inversion FVG Setups from C to A+ | captions | done |
 | 20240911 | m5Ki1SL_yEY | Backtesting the iFVG + SMT Strategy! (insane WR) | captions | done |
 | 20240906 | pdy1HPYYeWc | How to identify Daily Bias for ICT Traders | captions | done |
+| 20240829 | t1CnP1Ihp8E | The BEST Timeframe for ICT Traders | captions | done |
