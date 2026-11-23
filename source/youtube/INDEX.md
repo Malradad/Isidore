@@ -181,3 +181,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240309 | HwBMjq-tVS8 | The Hardest Part of Trading： Saving Capital for A+ Price Action | captions | done |
 | 20240304 | doNBY08ygAg | This is Why ICT Doesn't Trade Gold (Most Manipulated) | captions | done |
 | 20240301 | 9zkTzJNvLI8 | When Should You ACTUALLY Trade？ [News⧸Red Folder Events] | captions | done |
+| 20240228 | Tbqch_ezER4 | How I Passed an Evaluation Account in 1 Trade (100% Win Rate) | captions | done |
