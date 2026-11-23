@@ -334,3 +334,19 @@ _Session entries: date · what was learned · decision · maker response · perf
   order: a data-wick draw outranks the equal-highs/lows rule — which may explain the 5 "skip cost a winner" cases.
 - **Honesty:** his "A+ backtest" video is mostly BE trades and a −$1,000 realized P&L; he says he gave up backtesting.
 - **Maker:** not yet reviewed. 79 videos left to study.
+## 2026-11-23 · P8 his grades, P7 equal-highs rule
+- **Learned ✓ (price):** his A+/A/A−/B scale, coded (`tools/pine/izzy_grades.pine`), has no edge on MNQ. 5m AM A+
+  PF 0.93 / 0.81; on 5m the order is reversed (B best, 1.00 / 1.14). 1m A+ 1.10 then 0.75, about 4.7 a week, so his
+  "4–5 A+ a week" frequency is right but the edge isn't there. His filters and the PM window don't fix it. P7 as
+  coded (any untaken equal pair / 08:30 spike wick) helps one half, hurts the other. Claims 25 ✗, 21 ✗ (coding caveats).
+- **Decided ~:** the grade labels aren't what makes his stream record. Before more backtests, blind-label his audited
+  takes/skips with this grader to check my coding matches his calls. Then a tighter P7 (nearby equal pair, real
+  CPI/NFP dates) and his dealing-range definition.
+- **Maker:** requested P8 then P7 (relayed); results pending review. Branch izzy/p8-grades-2026-11-23, not merged.
+- **Addendum (relayed, same day) ✓ (price):**
+  - His 10-point candle-closure score has no order: ≥ 9 PF 1.10 / 0.86, 8 0.68 / 0.81, ≤ 7 0.91 / 1.04 (claim 22 ✗).
+  - First A+/A of the day = all A+/A on 5m (0.89 / 0.87); 1m 1.13 → 0.65 (claim 20 ✗ on price).
+  - Frequencies roughly match his (claim 23 ~).
+  - P7 with the data-wick override is the only P7 version better than no rule in both halves (0.90 / 0.98 vs
+    0.86 / 0.92), still < 1 (claim 24 ~).
+- **Decided ~:** stop grade backtests. Next is blind-labelling his audited setups with the grader and score.
