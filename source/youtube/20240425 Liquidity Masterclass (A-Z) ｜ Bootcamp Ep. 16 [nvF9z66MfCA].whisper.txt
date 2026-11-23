@@ -1,0 +1,192 @@
+[00:00:00] What is going on? We are finally to the fun part of the bootcamp. So this is where I'm going to introduce the term liquidity. Okay, let me just write that down on the screen
+[00:00:10] so you can understand this. So you obviously know it's worth liquid means liquid just means like how much money you actually have available to spend by whatever you want to do with it.
+[00:00:20] It's like liquid. Okay, that's not the same as liquidity. Okay, liquidity is a technical term related to the charts. So you need to make sure you're keeping in the back of your
+[00:00:31] mind, make sure you understand like I am talking about liquidity in terms of stop loss orders. So go if you know interview, go back to the video where I did this stop loss orders or
+[00:00:43] the orders type some orders and pay attention to what a stop loss is because the market will target retail trader stop losses. Okay, that is how the market moves. And basically,
+[00:00:55] their stop losses are liquidity. So what actually is liquidity? It's literally every high and low you see. So it's this high. It's this high. It's, it's this low. And like
+[00:01:09] I said, if you turn on a indicator that it's that it called support resistance, it usually marks out all these highs. Okay. Now, a lot of people, they see this as
+[00:01:19] poor and resistance. We, as smart people, see this as liquidity. Because we now know that, okay, if retail traders see something like this as a resistance, and
+[00:01:32] they think we're going to reject it, we see it as liquidity. We want to see something like this happen where we go above it and then back below it. And that's why it's under, it's important to understand the term liquidity. So, the
+[00:01:44] basic understanding of what liquidity is, is it's basically just every single high and low you see in the market, every single high and low, okay, it's not just random highs,
+[00:01:56] it's every single high and low you see, right, why do we need to understand liquidity, okay? Because it's how you're going to enter positions, it's how you're going to find reversals, you
+[00:02:13] You need to find and look for liquidity because that's where the market targets. The market targets liquidity like these highs and lows and it targets in efficiencies, which I'll go over in next video, okay?
+[00:02:24] But you need to understand that every single high and low you see in the market is liquidity. It's a form liquidity and that's where people place their stop losses anywhere where people
+[00:02:33] place their stop losses liquidity, which is basically every high and low. Now, what you're going to notice is let's say there's 10 people who place your stop loss here and there's 20 people who place your stop loss here and let's say, and let's
+[00:02:54] say there's 50 people who place your stop loss here, okay? Now this is where the 50 people place your stop loss at this black line, let me just draw
+[00:03:04] out for you and this is where 20 people place their stop loss and this is where 10 people place their stop losses. If the market is truly trying to target stop losses, which you will learn based
+[00:03:16] off of stream time and experience, then where would the market likely to go? Would it go up to the 10 and then the 20 stop losses or to go down to the 50? It's going to likely go down to the 50 because that's where the most stop losses rest at that very moment. Now, there's no magical tool
+[00:03:31] that tells you oh there's 50 people who put their stop loss here in 10 and 20 here the closest you're going to get to that is probably book map but I would not recommend using it because we use
+[00:03:41] raw data okay so wherever the most stop losses is that's where the market's likely to go and based off of time based off of fair rally gaps based off of price action we figure out
+[00:03:55] where the market's going to go based off momentum like I said based off time based off of fair And that's what I'm gonna be teaching you. I'm gonna teach you how to know that okay
+[00:04:04] We're gonna go to this 50 or we're gonna go to this low because in reality you're not gonna see a number there There's no numbers telling us how many stop-loss there. I'm gonna teach you how we know we're gonna go to a low like this Instead of a high like this
+[00:04:16] Okay, which again keep in mind this is liquidity Okay, because it's a low. So there's two types of liquidity. Okay, there's bi-side liquidity and cell side liquidity So this would be buy side liquidity because it's on the buy side. All right
+[00:04:34] So this is buy sell liquidity and this is sell side liquidity So this is considered sell side. This is considered buy side now
+[00:04:44] The market hasn't hit any of these so that's why they are liquidity The second the market goes and hits let me just play so the second the market goes and hits hits this Delete this low. This is not liquidity anymore. Why because if this low is already ran, then there's everyone stopped out there
+[00:05:02] This is a new liquidity pool right here. So this would be the new sell side liquidity So just remember like after sell side's been ran. It's not like support resistance where it's just gonna stay in a screen
+[00:05:14] Okay, you have to delete it because think about it if there is a bunch of orders sitting at the slow and they all get stopped out Do you really think there's gonna be more order saying that low after it's ran? No, cuz they're all stopped out and
+[00:05:26] That's just what it is. So delete that line the new liquidity would be right here Okay, so that's really important our sand now
+[00:05:36] Another thing you have to understand is There's going to be multiple buy sides and multiple sell sides so like this is gonna be a buy side this is gonna be sell side and
+[00:05:47] and our job, and this is all liquidity, keep in mind, all these highs and lows are liquidity, our job is to figure out which liquidity pool the market is likely to go to based off of entry
+[00:05:59] points, based off of fair reality gaps, based on what I'm going to teach in the next video, but you need to understand liquidity is a is a hole before we can figure out where the market's like it had. So in this example here, if I just go back in time, I want you to kind of notice some
+[00:06:16] observations you see. Okay, just know some observations you see when we hit cell side. We reverse. Okay, why do you think that is? Because people are retail traders, they see us going below this low as a market structure shift. Remember, I went
+[00:06:32] over market structure trends and remember what a market structure trend looks like. Remember what a reverse it looks like. All it is is when we make a
+[00:06:42] high, high low and then break the high low. So people see this as a shift and they see as an opportunity to, oh, I think we just broke structure. I'm going to short here. I'm going
+[00:06:54] to try to get in because I think we're going to lower. And meanwhile, everyone who's bullish here, okay, is trying to long. And what happens is all these orders and all these people generating
+[00:07:07] liquidity here, trying to make more money on the break, are all going to get wrecked. And again, I've explained this in a few different videos already, but people shorting or who
+[00:07:17] are trying to break out trade are going to get wrecked here. And also the people who have a stop loss order under this low are also going to get wrecked here.
+[00:07:26] So there's two sides of people getting wrecked here. And the third side is the people who buy another slow because they see, oh, we just knife. There's a bunch of red candles. We hit salsa liquidity. We're inside of a nice
+[00:07:39] area to bounce in the left. So I'm going to actually buy here. And that's what the books aren't going to teach you. Okay, because that's just, and that's how the market moves. And that's what I'm going to be teaching you guys. So the whole point of liquidity is to, we
+[00:07:51] our job is to figure out which salsa or buy side we're going to go to first. And there's a lot of ways we can do that. But that's going to be basically the whole, whole, the whole
+[00:08:02] content of what this bootcamp is. A lot of people think ICT and what I'm going to teach is all going to be based off of Fair Valley gaps. That is not the case. It's all based
+[00:08:11] off liquidity. You should be thinking in terms of liquidity. Most people who I see fail are thinking in terms of Fair Valley gaps. You'll be like, "Oh, this Fair Valley gap, full
+[00:08:20] port it," whatever. Okay. And by the way, for anyone who doesn't know what full port means because people have asked me that before, it just means going all in in one position with your full account. Never do that. Do not do that. And if I ever say that, it's usually
+[00:08:32] probably a joke. Okay. So our job and your job, if you want to be profitable, is we have to get good enough or get enough screen time where we can figure out based off a price action based off
+[00:08:44] a trend where the market is likely to head to sell side or buy side. Okay. And that's our that's our main main goal we're trying to do. So there's sell side liquidity, which is always going to be
+[00:08:58] the lows and there's bicell liquidity which is always going to be the highs. And to recap if we ever do hit sell side, take this hyper chart, it does not matter anymore, move it down to the next low because there's going to be new orders here. So this is just a little introduction to
+[00:09:12] what liquidity is. Now, the best forms of or my favorite forms of liquidity are lines that you can see very far away from your screen, like if you're standing 10 feet away from the screen,
+[00:09:25] and it looks like a double top or double bottom. So you need to and this is why I taught retail patterns because you need to understand what a double top and double bottom is. So if I just
+[00:09:36] pull up a double top and a double bottom on Google, it's very easily searchable. We know from my other video that a double top is basically when we get one top and then two tops and then we reject.
+[00:09:49] Okay, it's the same in every single picture. We get the top here, top here, and we just reject. And often people what they do is they short that double top.
+[00:09:57] So our job is to, or the best form of liquidity is to find those double tops. Well, why do we find those double tops?
+[00:10:05] Because every single retail trader, they think these double tops are like, oh, we're going to dump a million points out there. When in reality, these double tops do not work that well.
+[00:10:15] And what we're going to end up doing is we're going to run all the way back. And look, this picture proves my point. Look at, look where it says I put the stop loss.
+[00:10:24] right here. See how it says put the stop loss above this double top. That's exactly what the books teach. And that's why we target double tops because that's where the market moves to. And you're
+[00:10:35] probably like, Oh, let's be yes, I've used double tops a ton. Yeah, maybe you have. But I'm the guy who trades on the by who longs and then sells in the pump back to the double top and probably made five times your income in two weeks. Okay. So just know that I'm not trying to brag or anything. But
+[00:10:52] just know the double tops are not going to cut it. You're going to get wrecked because we will run through a double top. So a really good example was this morning. Okay, so this morning in NQ, we get a very, very clean double top. Okay, it was on this one minute chart. Okay,
+[00:11:12] now I want you to notice something. So this is NQ. This is what I trade. There's 18,000, is at 18,541. Now think about it. That's a really big number. So what happened this morning was
+[00:11:25] if we zoom in on the one-minute time frame, okay, look at this. You can see these equal highs here. So see how these highs, right, if I just zoom in a lot, look at this. So this high at 5.37 a.m.
+[00:11:40] in this high at 538 a.m. okay are equal highs the right next to each other and you can see the high in the top left you can see the high in the top left of this candle was 18 5 4 2 the high this
+[00:11:54] candle was also 18 5 4 2 so why is it significant well later in the day what ended up happening was we made another high at 18 5 4 2 see that now how rare do you think it is to form a high on an 18
+[00:12:10] 541 price, right? That's a really big price.
+[00:12:16] How rare do you think that is? Pretty rare. And that means something. How many people do you think see, oh, we rejected the same level 50 times.
+[00:12:25] Look, one rejection here, two rejection here, three rejection here, four rejection here. How many people do you think see that and think, oh my God, we've rejected three times
+[00:12:40] it's major resistance. And what they do is they short it, makes it like, oh, this is a resistance. We're gonna reject. And look, this is exactly what I'm talking about. Let's go, my shorts winning,
+[00:12:54] my shorts winning. I'm gonna long here. Boom, wrecked. We just run back right to these equal highs and we just look at the momentum that we pick up to go back to the equal highs.
+[00:13:07] Now look at the momentum we get off the double top right here. See how this is a double top? See how the market really, really slows down or really consolidates here. Options are going to get right there. And then look, the momentum going back above
+[00:13:21] really, really tells you why the market works the way it does. Why do you think we get momentum way back up with almost no red candles and not good momentum back down? It's because so many
+[00:13:32] people are shorting this double top and they don't want retail traders to win because they know where there's stop losses place, okay?
+[00:13:39] Where's the algorithm going to target? The algorithm is going to target above this resistance sign, because that knows there's going to be
+[00:13:45] last stop losses there. And here's the science behind why the market target stop losses, okay?
+[00:13:53] Why do you think that is? Like I said, in order to get in a position on the DOM or whatever you're trading,
+[00:14:01] for every seller, there's a buyer, and you need that contract, You need an opposite contract in order to get filled.
+[00:14:10] So like I said, if you're trying to buy at 18,001, if you're trying to buy at 18,002, there must be people willing to sell here.
+[00:14:18] There has to be, because if there's not, you're not gonna get filled. So you must find a seller at this level. Now, what if there's sellers here and here,
+[00:14:29] but not here? Well, then you're not gonna get filled. So the importance of why the market targets stop losses is because there's a stop loss. Think about it. When I went over the order video, okay,
+[00:14:41] remember the orders video, I basically told you guys, I'm like, if I'm taking a short right here, okay, if I'm taking, let me just go back in time. If I'm taking a short right
+[00:14:52] here, because I think it's a double top, okay, this is just get it in the mind of a retail trade. I'm taking a short here, I think it's a double top. Think about it. In order to get
+[00:15:01] out, we need to place a stop loss. Now, a stop loss is all a stop loss is me buying back. Okay, I am buying back the position. I'm buying another contract. So my stock that's
+[00:15:15] at here, how do I actually get out of position? I had to buy. And it's just like buying. It's just like if I go in the market and buy Apple, okay? Like, it's just like if I were going
+[00:15:29] in the market right now and I were to buy Apple stock. In order to get out of short position, I'd need to buy a contract because I also, I won't be able to get out.
+[00:15:37] So I buy and think about it. If I had to buy right here, to get out, that forces me, that forces people to buy up here,
+[00:15:50] which means the people trying to sell here are going to get filled because all the people trying to sell above this resistance sign,
+[00:16:00] need buyers to get filled. Because like I said, if there's no buyers, the buyers are down here, how the seller's gonna get filled.
+[00:16:07] So this represents people's stop losses because they think, oh, if the market goes to 18,000 one, 18,000 two, which obviously it would be 18,043 or whatever,
+[00:16:20] but if the people actually want to get out, okay, they're going to place a stop-losser
+[00:16:27] because they think, oh, if we break this resistance, we're gonna go up because that's what retail traders think. That's what the books think, okay?
+[00:16:35] And you need to understand that perspective. So like I said, there's people that are gonna be placing their stop loss above there in order for me to get out
+[00:16:42] of the position, if I did place my stop up there, I have to buy back the position, okay? And if I'm buying back the position,
+[00:16:50] someone has to sell my contract. Someone, like if I'm buying back, someone has to sell it because for every seller, There's a buyer.
+[00:16:58] So the market's targeting these stop losses because it knows that everyone putting their stop loss here is going to generate a bunch of orders.
+[00:17:07] There's gonna be five, 600 orders sitting up there, all stop losses. And that is liquidity. All these orders resting up here are stop losses
+[00:17:16] who think, oh, if we go above this, I'm gonna get stopped out. There's a bunch of buy orders sitting up here. And if the market wants to reverse,
+[00:17:24] it needs that liquidity. It needs those buyers to buy back the position so sellers or smart money can sell up here.
+[00:17:32] Because like I said, if there was no stop losses up here, there's no orders. And how are sellers supposed to get in
+[00:17:39] if there's no orders sitting up here? So that is the science of why market target stop losses because in order to reverse, we need liquidity.
+[00:17:47] And the market knows there's a bunch of orders up there. And for every single seller, there's a buyer. And it needs those sellers.
+[00:17:54] and it needs those buyers up above here, and if we want to reverse or go the other way. That's why a lot of times when you see a double top,
+[00:18:03] there's not gonna be as many orders here as you think, because no one's getting stopped out. So there's not a bunch of orders here. There's not a bunch of stopouts here.
+[00:18:10] And that's why the market doesn't accelerate here, because there's not enough orders. And that's why when you see momentum going up
+[00:18:16] to this resistance, it's much more momentum, because there's gonna be a lot more orders of, okay, there's a bunch of orders up here.
+[00:18:23] These guys are gonna get stopped out and that's when the market will pick up. Okay. Excuse me.
+[00:18:35] Bless me. I'm sorry. I'm not adding these videos. So if you type in bless you in the comments, that'll tell me you got the 18 minute mark
+[00:18:44] and I doubt barely anyone did. This is my, so what's interesting about this bootcamp is this is gonna be my 15th episode. And in the beginning of the boot camp,
+[00:18:53] I basically said, I'm like, there's, I bet you 20% of the people who watch that first video are gonna be at the end of the boot camp.
+[00:19:01] This is only the 15th video, okay? There's gonna be like probably 35 more, if I had to guess, but if you did make it as far,
+[00:19:11] it has come toward bless you. We'll see how many people actually made it this far. And what I just said was a very good explanation. You will not find a better explanation
+[00:19:20] than what I just explained. So you might have to watch that a few times, but the gist of what I decided is for every seller, there must be a buyer.
+[00:19:27] And like I said, if there's no stop losses here, there's no buyers, which means how can people sell above this resistance
+[00:19:35] if there's no buyers here? You can't, okay? So that's like the biggest, that's like the most simplest explanation I can think of. And yeah, so that's why the market target stop losses.
+[00:19:47] And that's, and again, this resistance line is liquidity. this is just liquidity, okay? And, well, and now pause the video,
+[00:19:54] what would this be, buy side or would this be sell side? Give me one second. Okay, so if you pause the video and you said buy side,
+[00:20:03] you're correct because it's at the highs. Every single buy side of liquidity is gonna be at the highs. All the sell side of liquidity is gonna be at the lows.
+[00:20:12] And remember, you have to realize that, I don't wanna confuse anyone, but like, Technically speaking, like this is south side of the query.
+[00:20:24] This is south side of the query. This is south side of the query, this low right here. I mean, this isn't a swing low,
+[00:20:30] but it's probably a swing low on the lower time frame. Like this is south side of the query. Every single low is south side of the query. Now, remember, if our retail trader,
+[00:20:41] you have to realize how many stop losses do you think are gonna be below this low? Probably not a lot, probably, let's say 10.
+[00:20:49] Do you think it's going to increase or decrease at this low? Now, the answer is going to be increase, because this low is much more obvious.
+[00:20:57] You can very clearly see it. A lot more retail traders are going to think this is support. So therefore, the stop losses would probably be a lot there. Same thing with these.
+[00:21:06] There's probably even more stop losses here, because, again, I don't want to get too scientific here, but look at how, look at the,
+[00:21:15] so this is the reaction from this level. Now look how far this level specifically made the market move.
+[00:21:23] This level here made the market move the farthest out of this low and out of this low. So this low made the market move just a little bit.
+[00:21:33] So there's probably not a bunch of stop losses there because why? Well, there's probably not enough orders here that create all those stop losses.
+[00:21:40] There's probably just two little orders here to create million stop losses. And then this is in the middle. This one causes the market to go up pretty high
+[00:21:51] compared to this one. So there's probably a good amount of stop losses here if I had to guess. But this one causes the market to go up, let's see, nine, eight, about 40 points.
+[00:22:04] This causes it to go up about 30, 25 points. This only causes it up to go up about 10 points because again, look at this low, it's 18, 5, 3, 3.
+[00:22:14] this highs 18 5 4 2. So therefore we can conclude the most amount of stop losses are probably going to be at this low and when we do get momentum back down or when the market does show us some
+[00:22:30] reversal pattern that I'll teach you in later videos we can expect this low to be ran because this probably has the most stop losses. Okay and I'm going to later teach what the best forms of
+[00:22:40] liquidity is, you've already kind of kind of tasted that. The best forms of liquidity will be the liquidity pools or the support and resistance signs that look like there's like double tops,
+[00:22:49] double bottoms. So this would be one, this would be one, this would not be one because does this look like a double bottom? No, it just doesn't. This would be a very big one because look,
+[00:23:00] this looks like a double top. So again, this would be a really, really good one. And again, you might need to go back in the video to learn about why why is it so important
+[00:23:12] Well, this generates liquidity. What's liquidity? All liquidity is is where a bunch of orders are placed And I explained already why there's a bunch of orders up here
+[00:23:20] So go back in the video and you need to understand that if you want to make it any further in this boob camp, okay Um, so that's what liquidity is at the highs is by side at the lows of south side
+[00:23:33] And the more the market moves us, the more the low it moves us or moves the market, sorry, some of the more is a bit here. The more stop losses are going to be in the low. But remember,
+[00:23:51] a double bottom or something that looks like a low bottom is probably going to have generally the most stop losses, meaning it's probably going to be targeted the most. So let's look at a few more examples of something that would be considered double top or double bottom, all right.
+[00:24:05] Let me see if I can find a few examples. So like this would be a good example. So right here, we have equal lows right here. One, you can kind of see one, two, three. So this to me would be
+[00:24:19] considered a really good double bottom. Now, most retail traders, they're going to put their stop loss under these lows. So they're gonna have their stop loss right here. Well, go
+[00:24:31] figure. The market just pits their stop loss and bounces. Why does that happen? Well, I've already explained it because all the stop loss right here are all
+[00:24:42] cell orders. So remember, this is a buy order. Right, let's say I'm taking a buy here. It's a blue line and I place a limit. This is my limit order. And I
+[00:24:51] place my stop loss right right here because I think oh if we go on to these lines we're gonna dump away further okay now what is my stop loss well my
+[00:25:04] stop loss is a short order it's a limit order to short the market if it hits and it's basically just mean getting out of the contract that I already bought
+[00:25:13] so if people want to get in or smart money wants to buy how is smart money and then you're going to buy the market.
+[00:25:23] They need people shorting because for every seller, there's a buyer. So if there's no one shorting,
+[00:25:30] how are they gonna be able to get in their position? And that's why we balance from on the slow because there's so many people trying to, like stopping out here and they're all seller orders.
+[00:25:39] And that is allowing the smart people to buy their orders and then the marker versus and then all the retail traders get mad and they're like, oh, I was right, but I got stopped out
+[00:25:49] because the books, they teach people to put the stop losses under these lows, okay? So you have to understand that. So that's a little taste of what liquidity is.
+[00:25:58] This would be an example of south side liquidity because it's in lows. And remember, every single high and low is liquidity. This is liquidity.
+[00:26:09] This is liquidity. This is liquidity. Now let me just do a little quiz, okay? This is liquidity.
+[00:26:19] This is liquidity, everything, everything is liquidity. Now, I'm just gonna rank these in order to center and set. Like let's see, like this is liquidity.
+[00:26:32] So I'm just gonna rank these just so you understand kind of the best liquidity pools. And then we'll say this is liquidity, this liner here.
+[00:26:41] So in this example, we have one, two, three, four, five, six, seven, eight, nine black lines. So what should, so my first question is,
+[00:26:50] what should we delete off our chart? That's really technically not liquidity, okay? And I'm gonna go to, I'm gonna go to here.
+[00:26:59] So what should we technically delete all of our chart that's technically not liquidity anymore? And what I'm trying to get as is it's not liquidity
+[00:27:07] because the orders have already been ran. So take a second pause the video. All right, so the answer,
+[00:27:14] what should we delete off our chart is this line here. This line here this line here this line here this line here and this line here So there's only three remaining. Well, why are these remaining because none of these low this low here hasn't been ran
+[00:27:31] This low hasn't been ran. This high has also been not been ran right the candles not over it So we didn't trigger any orders there
+[00:27:38] all right, so If I go back all right Now that you understand that these should be deleted off for chart
+[00:27:47] What ones would I probably actually draw in live time or let me rephrase that which ones would I not try and like draw my time? Like what lines here would I not make sense to draw my time?
+[00:28:00] Take a second pause the video see if you can answer Okay, if you pause the video the answer would be this one here this one here and
+[00:28:14] It's probably about it. Okay, why those two? Well, those two are just they're not swing low. So you have to know what a swing low is. Remember, I already done a video on that It's a low lower low and a higher low here. There's only higher low higher low higher low higher low. So this is in is in a swing low
+[00:28:31] And yes, it is technically liquidity, but do you think there's more stop losses under here? Which is something that's not a swing low or do you think there's more stop loss under here?
+[00:28:41] Well, if I go back to recap and what market structure is remember We know market structure
+[00:28:49] something like this and People are going to place or stop losses below the lows below this low below this low below this low and the thing they have all in common is they're all swing lows so
+[00:29:04] That being said is this really a pivot point like is this a pivot like this is no It's not it's not a swing low. So I just wouldn't draw it same thing with something like this
+[00:29:15] Now what I truly draw all these in live time probably not I think the biggest ones here are definitely just this one here and this one here now
+[00:29:25] This is an interesting scenario. So see how this is liquidity here, but this is liquidity here. Okay. I Would probably only keep this drawn because this looks much more major to me because
+[00:29:38] Like I said, we know how stop losses work basically Stop loss is working away where if people's stop losses are above this high meaning they'd have to buy back their position to get out That causes the market to go up
+[00:29:52] So if I know stop losses here It's going to create enough force to automatically go to this next high because even more stop losses are here So knowing that I just would kind of just leave this high here because if we break this high
+[00:30:06] We should go to this high anyways knowing how the market works and how stop losses work because like I said There's gonna be buyers here because they're gonna get stopped out and it's gonna cause the market to fully go full force into this
+[00:30:18] Because this is where more stop buses are and that's what the market targets. So I'd probably only have this one drawn Okay
+[00:30:26] Probably want to draw this one. I would probably more probably draw this one And I take that back. I draw these again Why these because this is like the double bottom and this is gonna be much more important than all these lows and highs in between here
+[00:30:40] because these are not going to be as good liquidity pools or something like this. Remember, this is, and relatively speaking, this is going to have 100 stop losses.
+[00:30:48] All these other mini lows are probably going to have 10, 10, 10, they're probably not going to be significant. This is the big one.
+[00:30:55] This is what retail traders, this is what the books teach, okay? And we want to fade with the books teach. So just remember and just kind of think about that visually.
+[00:31:05] Now, I probably would have this one drawn this high. because look, it matches up perfectly with a high here, here, and here. So this is like
+[00:31:20] a triple top. So I probably wouldn't have this drawn. Okay. And remember, I'm not going to put a sloppy line right here. This is sloppy. We want to be precise. We want to put it at the exact high
+[00:31:31] where the highest high, the triple top. This is where the market should go. Not just this random I'm lying that's in between all these wicks that don't any line up. It's perfect
+[00:31:40] This is precision. This is the first taste of precision precision you probably ever seen to if you're this is your first time watching Like draw it at the highest high because it will hit because we stop losses about every single one of these highs
+[00:31:53] Look at the candle break. Like this is just all stop losses This is people buying back to position because you're like oh crap Like we're going up here because we broke the triple top. Okay
+[00:32:06] And like I said those are kind of the key liquidity points and then this one obviously because this one looks pretty major But again, this is a let's just only part one. I'm gonna be going over another liquidity video
+[00:32:16] Okay later, but this is you need to understand kind of the concept of liquidity in order to understand fair value gaps All right, and this is gonna be the video that should definitely help you remember
+[00:32:27] This is sell side. This is sell side. This is buy side. This is buy side this is bi-side. You're never going to have bi-siliquity at a low, and you're
+[00:32:39] never going to have cell-side liquidity at a high. That doesn't make any sense, okay? It's always going to be cell-side at every single low you see, and it's always going to be bi-side at every single high you see, okay? And that's really important to
+[00:32:51] understand. Again, another really good form of liquidity is look right here. See how we get a low here in the one-minute time frame? And it perfectly to the
+[00:33:00] Sent which is very rare. Look at this low this candle is 18 5 with 3.25 the low this candle is 18 5 with 3.25 it perfectly makes more equal lows. So what does the market do? It takes out those equal lows
+[00:33:15] It sees there's a bunch of stop losses underneath them and we just wicked we stop people out here This is all their orders getting stopped and smart money buys their orders getting stopped out and then we go up
+[00:33:27] Okay, and you're going to see how precise this is okay. This is this is not support This is liquidity and once you understand the concept of there's people stopping out here and that's how the marker versus
+[00:33:40] You will totally just get away from the concept of oh, this isn't a liquidity. This is support This is where people like to buy that's not how the market works. I'm telling you there's bloody people trying to shorty here
+[00:33:52] Who there's breakout traders shorting this because they go into the day and you're like, oh, I'm gonna I'm gonna short short if we break below and then let's say the level is
+[00:34:04] 18 5 with 3.25 And they literally have these orders sitting here to short if this level breaks because they think oh this breaks I'm gonna short and I know some people are like oh, but they're gonna wait for confirmation. Not everyone's gonna do that, okay?
+[00:34:18] And there's gonna be a bunch of short orders here from breakout traders There's gonna be a bunch of short orders here from people who are getting stopped out It's all going to generate orders
+[00:34:28] Getting filled in the opposite direction because for every seller there must be a buyer. Okay, so Remember that. All right, so this is gonna conclude this video for liquidity. I don't think there's anything else
+[00:34:40] I need to go over really that should be included in part one, but everything I talk about the rest of the the rest of the boot camp is all going to be in relation to where's liquidity how do we find liquidity and
+[00:34:53] What tells us we're going to go to a lower high so That's going to be it for this peace out
