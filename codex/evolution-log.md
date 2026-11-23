@@ -325,3 +325,12 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Caveat:** labeler knew outcomes; on-stream days are chosen days; 7 of 48 price-checked. Claims 20–21 go to P8/P7.
 - **Decided ~:** Izzy's forward rules: one trade a day, A/A+ only, skip flagged days, quality filters hard.
 - **Maker:** asked for steps 1–3 (2026-11-23); P8 + P7 sent to the backtester.
+
+## 2026-11-23 · Step 3: video study, batch 1 (5 videos)
+- **Studied:** candle-closure checklist, 3 characteristics of winning iFVGs, the art of taking bad setups, data wicks,
+  his "A+ backtest". Added to playbook (gap quality, B-with-obvious-draw, data-wick precedence, smart money reversal),
+  feel (his 10-point closure score) and claims 22–24.
+- **Learned ~:** his own scale for frequency: light-bulb ~3/week, B-with-obvious-draw 1–2/week. And his rules have an
+  order: a data-wick draw outranks the equal-highs/lows rule — which may explain the 5 "skip cost a winner" cases.
+- **Honesty:** his "A+ backtest" video is mostly BE trades and a −$1,000 realized P&L; he says he gave up backtesting.
+- **Maker:** not yet reviewed. 79 videos left to study.

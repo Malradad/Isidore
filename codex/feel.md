@@ -30,6 +30,13 @@ recorded on every setup, learned from outcomes, and scored automatically (muscle
    uses it alongside the seven context questions (`codex/context.md`).
 5. **Keep learning:** every new setup adds a row; the thresholds are re-checked monthly, out of sample.
 
+## His candle-closure score (youtube/20260417 NeOcYoJWEtM) ~
+He grades the inversion candle out of 10: **strength** /4 (body vs wicks), **inversion speed** /3 (immediate reaction
+off the key level vs chop, chop, then a slow close; several candles to invert = lower), **RR** /3 (close near the
+inverted edge = best entry; closing far past it = worse RR). 10 = A+, 9 = A, 8 = A−, 5 = B− ("not for my live account").
+Maps to our features: body_pct / close_loc (strength, RR), candles-to-invert + chop-before (speed).
+P6 found body % unstable across halves, so test his score as a whole (claim 22), not just its parts.
+
 ## What the data says so far (P6, 2026-11-22, `journal/backtests/2026-11-22-feel.md`)
 - ~ **Cross timing holds; read it as speed into the close.** On his mechanical model (P1, MNQ 5m, 1m data
   2023-11→2026-11), a first 1m close beyond the gap at minute 4–5 of the candle beat minute 1–3 in both periods:

@@ -34,6 +34,10 @@ Every testable prediction, judged against real prices. Never use his recap as th
 | 20 | journal/labels/2026-11-23-labeled-record.md (his rules: one trade a day, no B setups live, no trading flagged days) | NQ/MNQ | His first A-grade trade on an unflagged day wins far more than his other trades (stream record 12W/1BE/0L vs ≈ 0R for 2+ flags) | P8 backtest: A/A+ first-trade-of-day vs later/lower-grade trades, both halves | P8 | ~ (on-stream only) | If it holds on price, this is the core of Izzy's selection |
 | 21 | teacher-audit (no shorts with equal highs / data high above) | NQ | The equal-highs / data-wick no-short rule improves results | P7: with vs without the rule | P7 | ~ against (skips cost 5 winners, 0 saves seen) | Two 2026 NFP streams |
 
-**Running record:** 21 claims · 9 judged (1 supported, 3 partly, 5 not) · hit rate 1–3 / 9
+| 22 | youtube/20260417 NeOcYoJWEtM | NQ | His 10-point candle-closure score (strength 4 + speed 3 + RR 3) separates winning inversions; ≥ 9 = A/A+ | Score P1/P8 inversions from 1m bars; win rate and R by score band, both halves | P6/P8 | — | Directly testable with the feel features |
+| 23 | youtube/20250829 hk_by6YR_b4, 20260331 tRnWV2aTiPk | NQ | Light-bulb (A+) setups come about 3 a week; B setups with an obvious draw 1–2 a week | P8 counts per week | P8 | — | Decides whether ≥ 3 trades/week is possible at A quality |
+| 24 | youtube/20260331 tRnWV2aTiPk | NQ | A data-wick draw overrides equal highs/lows on the other side | P7 variant: rule with vs without the data-wick exception | P7 | — | Refines claim 21 |
+
+**Running record:** 24 claims · 9 judged (1 supported, 3 partly, 5 not) · hit rate 1–3 / 9
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.
