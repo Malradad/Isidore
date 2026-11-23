@@ -1,0 +1,275 @@
+[00:00:00] Three years ago, I made my first ever video about IVGs in my mom's basement. Three years later, I've taught almost every single mentor in the space and IVGs have just blown up. I'm super excited to make this video because this is going to be a complete guide from
+[00:00:14] my perspective as the IVG kind of founder after ICT concepts. I'm always going to credit ICT, watch the 2022 leadership, but this model, I kind of created on my own base off those concepts
+[00:00:25] and every other mentor, sorry, teaching in the space. So without further ado, here's a full, complete, foolproof guide on my IVG's, how I see them,
+[00:00:34] the different types of models you can take with IVGs and how you can become consistently profitable. Let's begin.
+[00:00:40] The number one thing that you have to understand before I show you my model, teach my model, give you any sort of thoughts
+[00:00:46] or make you think anything in your brain is this. There's only one thing that matters and it's draw on liquidity or DOL for short.
+[00:00:55] And this is the most important thing in the entire market. It is more important than daily bias. It is more important than inversion for valley gaps.
+[00:01:03] It's more important than bewap. It's more important than fairy valley gaps. It's more important than EMA's. It is the most important thing in the entire market, okay?
+[00:01:11] And every single time that you enter a trade, you need to be looking for the drawn liquidity. So what exactly is drawn liquidity? Drawn liquidity is where the market should move
+[00:01:22] in like a certain amount of time, okay? So, for example, if I go to any sort of chart and I go to a line chart here,
+[00:01:30] I'm just gonna mark out a random low. Okay, so this one right here, I already have a marked out 'cause I was doing another video,
+[00:01:36] but this low is a drawn liquidity. This high is a drawn liquidity. This low is a drawn liquidity. This low is a drawn liquidity.
+[00:01:42] This low, every single one, every single low and high you see in the entire market is a drawn liquidity. And our job is to figure out
+[00:01:49] when the drawn liquidity is likely going to hit And what about the candlesticks tells us that it's going to hit such as moment them towards it or other concepts such as market maker models that learn from ICT that is the most important by far. So let me just give you a good example of this in this case here, I know the drawing the query is going to be this low, but in this case here, I don't know that.
+[00:02:13] Okay. This is not the draw on the query at this point in time. It is only the drawn liquidity once we start shifting and once we start shifting down towards it and we get market structured that actually supports the
+[00:02:25] drawn liquidity. Go to the five minute, play price, play price. So around right here is where I'm going to be like, okay, we're dumping through everything.
+[00:02:33] Every single Fair Valley gaps failing. I know this is likely to be the drawn liquidity. And once I have that, that's when I look to take my inversion Fair Valley gap down to the draw and liquidity.
+[00:02:43] But it all starts with the draw. Where's the draw? Why is that the draw? How does it, you know, affect the daily bias? Because daily bias and drawing the quality
+[00:02:52] are completely two different things. So it is one of the most important concepts you have to understand. Now, I wanna talk a little bit about why daily bias
+[00:03:00] and why drawing the quality are different, okay? A daily bias is basically you trying to predict where the daily candle is gonna go.
+[00:03:07] So, you know, if I'm gonna see the daily candle open up here, right? you're gonna have to try to predict will it go up or down.
+[00:03:13] It is not the same thing as drawing the query though because there can be multiple different draws on the query on the woman timeframe within this whole candle.
+[00:03:21] Because this candle takes 24 hours to actually close, there's a lot of many setups and just things going on on the woman timeframe that has nothing to do with daily bias.
+[00:03:31] So me trying to predict where the daily candle is gonna go might not help me if I am bullish because there's a short term drawing the query right here.
+[00:03:38] The daily candle could be bearish where we could get a setup that looks good because we have like a mini draw on the query on the one more time frame to the upside
+[00:03:46] and not the downside. Let me just show you one more example. In this scenario here, we have a fair value gap that gets broken, we go up, and there's a short-term draw on the query
+[00:03:55] to these relative equal highs. We hit them, great. But price overall throughout the day ends up going down in the long run.
+[00:04:02] So you can see the draw on the query here is bullish, but the bias overall might be bearish. And that's why drawing the query is a lot more important because it just helps you with timing
+[00:04:10] and really getting those quick, easy, one-hour plays. Now, let me go over my favorite draw on the quiddities that are going to help you because, again,
+[00:04:18] I see the market target these constantly and constantly constantly, and you need to know what these are. These are all my draw on the quiddities,
+[00:04:25] and this is my tier list, okay? So I'm just gonna go over each one real quick. We have perfect equal highs and lows, more than three candles away and S tier.
+[00:04:33] This is the type of draw on the quiddie I see hit the most. Then we have a data high and data low with a giant width, which I will go over later in the video.
+[00:04:40] Then we have perfect decolos and highs, one the three candles away, those are A. And then we have a trend line.
+[00:04:47] Okay, trend line's a good drawing the query too. It's in the A tier. Highs and lows inside old Pravelli gaps, B tier. I love these trend line.
+[00:04:54] The query with two to three touches, B tier. New week opening gap, new day opening gap, B tier relative decolos and highs, B tier. These are not perfect, but they're relative, okay?
+[00:05:03] And then previous session lows and highs, you know, London, Asia, et cetera. And then a C tier, we have unbalanced in efficiencies and then buying imbalances.
+[00:05:11] And then F tier, I'm not even gonna go over F tier. Order blocks is one. Order blocks is not a draw on the clarity. A lot of people get this confused for some reason.
+[00:05:18] Now, some of you might disagree with something like an unbalanced inefficiency being a C tier. But in the bottom, I say, if you combined
+[00:05:27] the unbalanced inefficiency with the trend line or perfect equal highs or lows, this C tier now becomes like an A tier if you combine it. So just remember that.
+[00:05:36] an unbalanced and efficiency loan is not great. This is one thing where a lot of mentors who teach, who learn off me, actually get wrong.
+[00:05:44] They have these models where they only target unbalanced and efficiencies, but little do they realize it's not good unless they're combined with something else
+[00:05:51] and they fail to teach that. And that is a very important concept that you need to understand. So let's just go over a couple of the drawn equities
+[00:05:58] right now in the chart 'cause you need to be aware of what each one is. So one of my favorite drawn equities, which I labeled this at A tier.
+[00:06:06] Okay, it's trend line liquidity. A trend line is something like this where we get so many perfect touches in the same line and it looks so engineered and so just like juicy.
+[00:06:16] I don't even know how to explain it. And the bodies kind of respect the same level multiple times over. So you can see right here, right?
+[00:06:22] We have a level expected, we don't know what the trend line, level respected, we don't know the trend line. Okay, now we're starting to see the trend line.
+[00:06:29] Now it's starting to build up more on liquidity. So it's going from like a B tier set up a B tier liquidity to like a A, you know, almost even to an S because of how many touches there are here. So I know it's going to be ran. And again, people are longing out this trend line. So
+[00:06:43] that's where all the stop boss is going to be below this trend line. So I just, I love this for targets. I love, you know, finding entries that go run these trend lines. And again, I would probably end up giving this like an eighth year, right? Because there's just so many touches. Another
+[00:06:56] drama career I love is relative equal highs and relatively glows and perfect equal highs and lows. Right. I usually give like equal highs and equal lows that are perfect with more than three candles apart. S tier because they always hit. So for example, this would be relative equal.
+[00:07:09] Okay. This high does not run this high. So it's a completely relative equal. It's not perfect equal. Now I would still give this like an eight here because they're still pretty far apart.
+[00:07:20] And the fact that a index at 24,328 is this far apart and they're just just sitting there like like a double top is very algorithmic.
+[00:07:29] Okay, these are gonna be ran. Now, what would make it S tier? Well, if we had a perfect equal high and equal low, right? This would be perfect equal highs.
+[00:07:37] At this point, I know we're gonna run it because I know a lot of people think this is the double top. And yeah, so that would, that's my equal highs and equal lows
+[00:07:45] and what I like to target. Again, pretty simple, if you ask me. Same thing to the opposite side, you know, if we have relative equal lows like this, right?
+[00:07:53] It's the same idea. This one is not perfect. They're not touching, but they're still pretty good. As this one right here, this would be perfect to this set. So this would be a little better.
+[00:08:02] But regardless, they're both great drawing the quities and they're both good targets when we have them in the market. And again, I love targeting lows and highs like this.
+[00:08:10] Now, for my famous one, Data Wix, Data High and Data Low, if you don't know what these are, it's basically red folder news that forms a candle at exactly 8.30.
+[00:08:20] Okay, sometimes 10 o'clock, sometimes I foam see just any really news event. So I'm not going to show you guys a live example because I want you to go back to yourself. And I, I don't want to keep showing you, Oh, here's a data wake and here's how you play
+[00:08:32] it. But complete hindsight. Okay. I'm giving you a concept. You're going to learn it. You're going to be a free thinker.
+[00:08:38] And you're going to go back to yourself. So remember, these are usually at a 30. So let's say this is a 29. And then we get a, you know, a 30 red folder news event, which again, in order to find
+[00:08:48] these, you have to go to FX replay. Okay. And again, in order to find these, you have to go to 4xfactory.com, pretty simple to type in. And, you know, if we go to tomorrow, at the time of making this video, there's no red folder news
+[00:09:02] next day. And we have red folder news, USD. This is what you're going to want to look for. So Tuesday, we have red folder news at 945. And we could potentially get a data work there. But I
+[00:09:13] like the 830 data, which is the best off of CPI and a fee, you know, unemployment claims, those are like my favorite ones, but that's we're going to find these. And typically what happens at
+[00:09:23] this 8.30 breath for our news is we'll get some sort of algorithmic handle with either a giant wick to the upside, giant wick to the downside, or even both. But essentially, if we, if one of these are swing low or swing high, okay, you need to understand that they're going to be a great
+[00:09:37] drawn liquidity. So this would be a drawn liquidity right here. And then this would be a drawn liquidity. And typically what I do is I wait for one of them to hit and then I look for the opposite.
+[00:09:47] Wait for one to hit. Look for the opposite. And this is like what I do. So I want you to go back test this. Okay, only 830 red folder news events only. And I want you to go look at how price reacts and you know how you can play. So right here is an example of we had news at 830. You can see how
+[00:10:04] obviously Zwix were. We wait for one to be ran right here and then an inversion for everybody I get back to the upside. And you can see we just perfectly rerun the data highs. And funny enough, This is on Bitcoin, but this works in everything and cute Bitcoin gold anything with red folder news
+[00:10:19] It can work with the orange folder and yellow folder, too But red folder is gonna be obviously your best bet with the most likelihood of getting a candle it looks like this But this is typically the you know the setup. I like to look for now another one of my favorites highs and lows
+[00:10:33] Inside old for a valid gaps and I only care about these when price reverses, okay? So, for example, going to the next week at the time of this video, I do love this for a target.
+[00:10:43] It is an old high inside of a Ferrelli gap, and we respected it, and it just makes sense to go hit because of this reversal. Right here, if I go in the replay mode, this is not a good drawing
+[00:10:54] liquidity. There's nothing telling me the market's gonna go up. There's nothing telling me the market's gonna reverse. There's nothing telling me that this is going to be a target. This is bearish, okay? When we go down, we go down, right? We're just kind of watching price. And then all
+[00:11:07] All of a sudden, boom, hourly inversion back to the upside, signifies some smart money reversal. Where it could have drowned the quitter to be?
+[00:11:14] This high inside this for a rally gap right here. I love these, I love when I combine it with these inefficiencies because technically, this is the part of the inefficient inefficiency
+[00:11:22] that's still unfilled. So this is a great target, not only to target the rest of the inefficiency of the for a rally gap, but also the high inside of the for a rally gap.
+[00:11:30] Because when price goes down here initially, what causes price to go down? Sellers or algorithm selling.
+[00:11:36] where their stop loss is gonna be at this high that causes them to go down initially. And once we do get that true reversal, that's true smart money reversal,
+[00:11:43] then this is going to be a very prime and really good target. All right, two more. I wanna talk about new week opening gaps and new deal opening gaps.
+[00:11:50] I'm not gonna go spend time trying to find these. I'm just gonna type in a new week opening gap indicator. Okay, turn this on, I guess.
+[00:11:57] Now, these are also great drawing the quantities, but the reason I have them in my B tiers because there's just a lot of them,
+[00:12:04] you know, they're going to be drawing the queries no matter what at some point. But my favorite ones are when we open up on a Sunday, like down here, okay, or up here and we have like the gap right away.
+[00:12:17] So let's say price just opens up here or opens on here. And then we have a giant gap right here or right here. Price will usually draw into the unfilled gap, right?
+[00:12:27] If we open here, price is going to draw to the unfilled gap like this. We'll label this a bluish color. Okay, and if we open higher on the Sunday gap,
+[00:12:35] price is likely going to retrace into the gap right there. And if we don't do it on Sunday night, then this is a great draw on the hoodie for Sunday morning.
+[00:12:43] Let's say price opens, we don't even go for the gap, we just go up and also it's 9.30 and we need this gap below. I would be looking for shorts back into that gap
+[00:12:51] and filling the whole gap. So it's on the beach here, but when you combine with other stuff, it's even better. And last but not least, I want to go over
+[00:12:57] unbalanced in efficiencies. These are just unbalanced for rally gaps. So for example, price goes down here and we left an unbalanced 15-minute gap. So price a lot of times likes to rebalance or retrace into these gaps if we're still
+[00:13:12] bearish. So, right, this might be a good time to target a long into this unbalanced gap. But even better when you combine it with other stuff.
+[00:13:21] So here you can actually see we have kind of like this mini-tremel inequality. So not only do we have a gap above that's unfilled, but we also have, you know, good highs of target here, which is why this might be a good play. A lot of mentors when they reteach
+[00:13:32] this, they're like, oh, it's a good because we just have an unbalanced gap. But there's a lot more and you need to understand there's a lot more because if this weren't here, this probably would not be a good drawing liquidity in the first place. When you combine the unbalanced gap with the
+[00:13:44] all these stacked up highs, well, then this becomes a much better drawing liquidity. And yeah, that's pretty much it for drawing liquidity. There's a lot more, but I go more in the depth in my everyday live streams in live time. I hate explaining hindsight, but this is just a starter for you to kind of
+[00:13:58] to look into this and understand why drawing the Quitty is the most important thing in the market. Alright, now that you understand drawing the Quitty, I'm going to be going over my actual model. Okay, my model is nothing without drawing the Quitty, but drawing the Quitty is nothing without
+[00:14:10] my model as well. So let me just teach you my whole model and do a basic rundown of what I like to do. Alright, so here's my basic IPG model. And before you get confused and you're like,
+[00:14:20] what is going on here? Okay, let me explain. Okay, don't worry. And by the way, I'm going to leave a link to all these PDFs I show in this video in the description. So, don't worry about that.
+[00:14:29] This is my PG model and there's two main things I like the best, okay? And it's actually going to be one and two here, okay? Which the one is look pretty sweet, okay? Like when we go above or below,
+[00:14:41] some old high and two is delivery from a fairy alley gap, okay? Before I go any further into this, let me just show you some examples so you can get what I'm talking about, okay? So, if I go here,
+[00:14:52] there's actually a very easy one right here. Look, you have a previous day low sitting right here. If I just zoom in, you can see below, you know, if I go to the five minute, you can better, and we go below it, and then we kind of just shoot back up. This is the first thing I look for,
+[00:15:06] okay. The second thing I look for is some sort of Fair Valley gap or a PD array to the left right here. I don't know if there's one here. Let's just check and see if I go to like the fit. Nope,
+[00:15:16] hourly. Okay, there is an hourly balance price range here. Look at this. So, there's an hourly for a rally gap combined with a bearish for a rally gap here, which is a balanced price range.
+[00:15:26] And you can see when we were inside of it, there was never a candle closure on the hourly below this zone telling me that we're going to go down. So when we swap liquidity here, this was still a
+[00:15:36] very valid liquidity sweep based off of this hourly zone holding, if that makes sense. If we swap the liquidity pool right here, but the hourly close below it, then that would not be as good,
+[00:15:48] right? Because the hourly doing a close yet, we still know this is a valid long setup, okay? So that's like the first thing I'd like to look for with my model, okay? Now, the third thing I'd like to look for is a clear liquidity target, which I just talked about.
+[00:16:00] I think this is the most important, a super clear and strong, strong liquidity, where I can see I have equal highs, equal lows, intermediate term high, which is a high incentive for rally gap, intermediate term low, which is low
+[00:16:11] incentive for rally gap, data highs, data lows, or LRLR, which is trend line equity, okay? I love this. If we don't have a clear target, I will likely not take it on my live account.
+[00:16:20] Maybe I'll take it on a funded, but obviously I trade those a little more loosely, okay? And then for the singular and obvious for a rally gap, if it stands out, if I can see it all the way back here,
+[00:16:31] then I absolutely love it. If I don't see it from back there, then I hate it, okay? Yes, you can get higher R, taking very non-obvious for a rally gap,
+[00:16:39] so the drawn liquidity, which I can do and I have done. And, you know, a couple of other mentors in the space like to do that, but long term, it's very harder and will make you stressed out
+[00:16:49] because you will probably take a couple more losses doing that. But if you really want, you could be patient and wait and take the obvious gaps.
+[00:16:56] And if you're not a patient, you could try those, just hopefully your RR makes up for it and hopefully you're really good at understanding the math because it will be lower one, right?
+[00:17:03] But it can be profitable as well because there's more RR basically to be made, okay? And then last one at least,
+[00:17:10] the long and discount short and premium, okay? Typically, when I'm taking a lot of account trade to putting a lot of risk on the setup I take,
+[00:17:17] I love to only take it if it's in discount for long and premium for short. All right, I will not, you will not catch me longing an inversion for backup in my live
+[00:17:27] account. Like way up here. Like sometimes they work, but like I just, I don't love doing that. Okay.
+[00:17:33] So this one right here just way, way too, uh, way too high basically. And you can see some of them do work, but some of them also fail as well. And I just don't like the probability.
+[00:17:41] I'd rather just stick to the ones when we're like super low, like near low a day or stick to the shorts where we're a high day, right? It's going to be a lot more high probability
+[00:17:49] taking shorts up here than it's going to be taking shorts on here. It'll be a lot more high probability taking lungs down here than it's going to be taking up there. Okay, so that is basically my main model. I like the V shape and I like the liquidity sweep and
+[00:18:02] delivery from a higher timeframe gap. And again, there's a lot more to this model. So give me a second. I'll explain. But let's just go over a few examples of what this model looks like so I can show you what trades I like to take. We're going to go back to this
+[00:18:15] first example I just showed you. We have a lower day that was from the previous day low right here. We swept it, and I don't know how we're going to react to this in hindsight. Like, I generally don't know if we're going to bounce off this or not. Okay, but we react to it. All right.
+[00:18:28] And I'm looking for some sort of singular obvious for a rally gap. And on this PDF, it says singular and obvious for a rally gap. But this set up here has this for a rally gap here. And then this
+[00:18:39] for a really gap here. Now is this singular? No, but you can combine both of these and say, okay, there's two for really gaps here. They both combine and are very obvious. This is singular.
+[00:18:49] I do that all the time. So this would actually still be valid. But when I see this reaction on hindsight, okay, at this low here, this is a good setup to me because not only is it obvious,
+[00:18:59] not only is it like an obvious for a really good breaking, but we have a liquidity. We're delivering off an hourly. There's just such good momentum back to the upside. So how do I enter? I basically just get in on the close and I target like a one the two are this one. I probably target these equal highs
+[00:19:16] before this Inefficiency because it's like I don't know if this is gonna break or not and at that point I'm up one R or 1.2 R actually and it's just it's a safe kind of like play for me because I don't know if this is gonna break
+[00:19:28] You could always guess if this is gonna break But I really won't target higher unless this wasn't there this wasn't here And there is more drawn liquidy up here are very obvious high or equal highs up here or a traumatic
+[00:19:38] What I probably end up tiring up there now this set up right here is a short that actually alerted live And I took on my live account and this one is a little less V shape, but what's important about this?
+[00:19:50] We swept this trendline liquidity right here. There's three highs or consecutively we swept these equal highs right here
+[00:19:57] They were triple equal highs and we got a very bearish reaction from not only the triple equal highs But this third rally gap here, which actually is also a balanced price range, okay?
+[00:20:07] So that's already three confluities in the trade. We swept around the putty of the trend line We swept the equal highs and we're delivering from this gap and we're in premium, okay?
+[00:20:16] Now it's a little less V shape on the five minute, but if you go to like the 15 minute, okay? Right here the section the time from it took it off of it looks a little better, right?
+[00:20:26] It takes one two three four candles inverse, right? It's singular. It's obvious I don't even combine this with anything and there was a drawn liquidity on the other side if I go to the hourly
+[00:20:37] Which was a low inside of my favorite like gap, okay? And this is where it should all start to be coming together. Okay, what did I see first before ever taking this trade? I saw the drawn liquidity. I saw momentum going towards just low inside this favorite like gap
+[00:20:51] I call this out multiple times with my stream. I'm like guys, listen not bearish yet But the second we start death can I do here just keep in mind There's a low inside of her very like up here very obvious and if we get a setup to it, I'm taking it
+[00:21:03] What do you notice? I wake up that morning. I saw this death candle blow is 50 minute And I'm thinking hmm. Have we hit the hourly low here yet? And the answer is no So I took this knowing that and literally just targeted this hourly low
+[00:21:15] Then that was my trade, but it doesn't start with the inversion It starts with the drawn liquidity and then I look for context right out there right here Okay, they can see just how important that is now
+[00:21:25] I want to go over my other rule on break even because this is a big part of my model and a lot of people fail to understand this. They just see oh, dodgy inversions. But I have this special break
+[00:21:37] even method I do and I want to explain the idea behind it first just so you understand why do it, okay? And just, you know, explain. Okay, listen, let's say we sweep liquidity here and version back up like this. We have let's say we have equal highs up here super obvious and I'm looking to
+[00:21:51] to target these. If we have an inversion for a rally gap and Bryce looses above the gap, but also hits the internal high at the same time,
+[00:22:02] which are low, I likely won't take it. Because I like to go break even at these highs because in so many of my winning trades,
+[00:22:11] if we get an inversion for back to the upside and there's obviously the highs, we will just accelerate through that break even point and boom, go down.
+[00:22:18] And what I've noticed is if we don't accelerate Through this internal high, okay, if we don't accelerate, it will likely fail and go down again.
+[00:22:27] So if we do like this, we just kind of slow down and we go back to my break even, it usually ends up failing. I would say that fail is about 60% of time.
+[00:22:34] Now for the other 40% of time, it goes above and then it still works, you're like mad, but like this is where I start branching off
+[00:22:42] of other mentors a little bit and where other mentors kind of change it up because there is times where like we will hit the break even point, but I'll still take the trade
+[00:22:49] because I'm still pretty confident but then there's times where like I don't like conditions and I won't. And this is where, you know, other mentors teaching my strategy
+[00:22:56] to start to get really subjective on when to go break, even when not to go break even. And this is one of the most important things I think you can understand in the market
+[00:23:04] because it's like every single one of my winning setups if I go back to I just all run just so quickly. And if it doesn't, then I don't want to participate in price.
+[00:23:12] Okay? Like for example, if we just go to my trade recap channel here, like again, look, this inverse it ran super quickly, right? I would gone break even quickly there.
+[00:23:21] And what does price do? It just goes to the TB. And I don't wanna be in a trade that's gonna stall, okay? Another trade right here, okay? This one in versus we kind of go back into the fabric
+[00:23:31] up a little bit, but then look, when we run this internal high and these equal highs, I'm going break even because it's like,
+[00:23:38] I know if the market's gonna go in my favor, it's just gonna keep running and not do BS and not pull back. And if it does, we're either one I'm wrong
+[00:23:45] or two E bad price action. Again, a typical winning trade for me will typically run like pretty well. And if it doesn't, it's just,
+[00:23:52] I don't know, I don't like it, okay? But you know the one. This one right here, I took a loss on this one. Well, and look, what do you notice? It just, it didn't burst
+[00:23:59] and then we just didn't really get that running candle like I'm in winning trades. So I figured this one would lose because we didn't get the same reaction
+[00:24:06] we did as my winning trade, okay? Another one if I go up here, there's another one here. Okay, this one is a little different.
+[00:24:13] This one was in the five minutes and sometimes this happens. But this one did kind of chop around a little bit, then come up, then go down.
+[00:24:20] But even after this is a reaction at the five minute, look how quickly we just go down. This is where I'm going break even. The next intro low, we kind of chop before, don't hit it.
+[00:24:28] We go retest it and then boom. It just instantly runs through the break even and then goes lower because I know if price is right and it goes to go in my direction,
+[00:24:36] the break even will just get plummeted through. And if we, again, if we bad price action or I'm wrong, it will not.
+[00:24:41] And that's just what I've kind of learned from my past experiences, okay? but this is something you're going to have
+[00:24:47] to back test yourself. Same thing with this trade. When I took this long, we just absolutely sprinted up. We did not slow down, it was beautiful, it just worked.
+[00:24:55] And again, that's just what my typical winning trade looks like. So I wanna show you guys a couple of examples of, you know, invalid versus valid trades, okay?
+[00:25:04] So right here, okay, we have these two forever rally gaps. So I'm gonna combine them in the one because I like the singular forever rally gap kind of theory.
+[00:25:12] And you can see where's the mechanical spot go break even. The high that is a swing high, which basically a swing high, if you don't know what that is, is basically when we have a high, higher high, lower high, right, and
+[00:25:24] this would be your swing high, the top of the three. This would be the breaky end point. So this trade would be a trade that would just instantly be a break even because you can see we hit the break even point and then we go down. And did it work out there? Yes,
+[00:25:35] it did. Sometimes it sucks, but in the long run, I know that saves me. Okay. Another break even point is a Ferrari gap. So this one right here, we have a bearish Ferrari gap. We close above,
+[00:25:48] but at the same time of closing above, we also hit this Ferrari gap. So this would be an invalid trade because we yes, we close above this, but we need to close above both in this situation.
+[00:25:59] Let's say price closes right here. Where do you go, Ricky, even you go, Ricky, even here because 'cause it's a high inside this reality gap, okay?
+[00:26:08] So, that is very, very, very, very important. Okay, let me go to the hourly timeframe. Okay, let me see if we can find an example on the hourly,
+[00:26:17] right here. We have an inversion for the reality gap. It looks like we swept a lot of liquidity. I'm feeling too loud, we swept, I guess this though right here. Here's the entry, or the break human point P,
+[00:26:27] the break human point would be at the next high, which this would be a new week opening gap as well. And the reason I do this is because look,
+[00:26:35] this trade hits the breaking point. We never go back down to the entry point. And if we did though, not be good sign and price just runs. And I know if I'm right and I know if I'm,
+[00:26:44] it's gonna be good price action and not bad conditions, we will not go back to the entry. And most times you do,
+[00:26:50] it just ends up being horrible conditions anyways and just horrible PA. And I don't like trading when that happens. And that's just for our own psychology.
+[00:26:56] If you like sitting in trades with choppy conditions for hours or you are okay with being wrong and taking a lot more losses,
+[00:27:02] the breakeven method is probably not for you. Some people do it, some people don't. It's really up to you and that's just what I prefer. That makes sense. Now let me show you one more advanced method to go breakeven. This one is something I've kind of built after years of experience and
+[00:27:17] it's just right here. We have two probability gaps, right? If we close above them, boom, we'd probably go up here. Okay. And I want to show you what happens. We close and hit this breakeven point, right? This would be the breakeven point because it's the last swing hive for the
+[00:27:31] for the favor I get. But low key, I'd still probably take this trade or try it because if you ever see us close
+[00:27:38] and there's trend line liquidity and let's say we hit like one of the highs but not all of them, I still know we're gonna finish running
+[00:27:44] the trend line liquidity. So this is one of those examples where if we close above, I still might take it because I'm like, okay, we close above.
+[00:27:51] Yes, we hit this little tiny high but we still have a lot more liquidity to run. And let's say we closed here. Let's say we closed here.
+[00:27:58] This would be a valid trade. but on this trade, I might not go break even right here because it's like this should technically be a domino effect.
+[00:28:06] If we close there and we hit the high, I know we should domino into the other eyes. So I would not go break even until we started running more of the highs.
+[00:28:13] I'll probably wait a break even for a little bit and go break even here. Same thing with this example. We have a giant trend line here. It's like a two minute trend line, okay?
+[00:28:21] And we get a break of structure here, okay? We get an inversion in the woman of time frame here. Technically speaking, the breakeven would be here.
+[00:28:31] Okay, for if you took this trade, right? And then by the way, I'm gonna go over stop loss in a second, so just spare with me.
+[00:28:37] How do I go breakeven here? But for this, I probably honestly wait to go breakeven like here, because we have so much trend line
+[00:28:45] of liquidity here, and it's like, I know if I'm right, price is not gonna stop here. And if we do stop here and go up, I'm like, I still have enough conviction that prices can keep running these lows.
+[00:28:53] So that might be an example where I might move my subjective breakeven from my mechanical break here and from here and make a subjective and go break even here instead.
+[00:29:00] And that's just something you're gonna figure out through screen time. So yeah, that's basically three examples of when I do and don't move my saw the break even,
+[00:29:08] but it really just depends on you and your experience. Now, pretty much last thing I wanna go over is stop losses.
+[00:29:15] And stop losses are interesting because they're pretty subjective or they can be subjective.
+[00:29:22] Let me go over like my typical stop loss. When I take an inversion for a rally gap like this, some mentors just put hard stops below the low,
+[00:29:30] some just do it right at the bottom of the inversion, some just guess, but here's my way of doing it. If we have an inversion that looks pretty obvious,
+[00:29:39] but we don't close too far above it, I will keep the stop loss as a close back below the inversion. So what I typically do is I will risk one contract less
+[00:29:51] than what I'm comfortable with. if I'm in micros, usually in minis I don't 'cause I'm only taking like one to five minis and like there's not much leeway for room.
+[00:29:58] But unlike micros, what I'll do is if I'm about to take like six micros in a trade, I'll take five instead, just in case the close below is really bad
+[00:30:06] and it wrecks me more than normal. I somewhat do a stop loss that's like this though. Okay, so if I were to see this trade,
+[00:30:12] I'd probably do a stop loss around here if I'd guess. I don't like to keep it like at the swing low, but I don't like to keep it right here
+[00:30:18] and I do it right there. Okay, that's what I size for. but I will not stop out if we don't go and close below back below it, okay?
+[00:30:25] So if I had to stop us here, I would not stop out of this because we didn't close below. I had my hand in the X button and I'd be ready to click the X,
+[00:30:34] but I would not stop out there yet because we didn't close below, okay? So that's super important to understand. Same thing with right here.
+[00:30:40] Right here, we have a five minute inversion. Right, we close below. I would probably guesstimate the stop loss
+[00:30:47] to be somewhere between the swing high the top of the inversions like right here ish and that's what I'd size for it doesn't mean I'd stop out there it just means that's what I'd size for and sometimes if you do stop out sometimes the
+[00:30:59] clothes is actually a lot better than you think so you lose less than you think and sometimes it's worse anything okay I'm always gonna keep a hard stop at the swing high no matter what but I size
+[00:31:09] for like this and usually if I get stopped here and then here sometimes it usually bounces out to to somewhere like this.
+[00:31:15] So right here, here's an example where we have a bull's-for-valley gap. We close below it right here, and you can see price actually closes right here,
+[00:31:24] which is not too bad, right? Where I probably would have had my stop-loss size for here. So as you can see, sometimes it closes above much better than you think right here,
+[00:31:31] and you'll actually lose less than you think, but sometimes, but it's gonna bounce up because sometimes you might close there, that makes sense. So you can see this is actually a horrible setup.
+[00:31:38] I'm just using it for example, but it stops out clearly, and even after we close, it would have just wrecked you anyway. And last but not least, in this video, I want to do a couple of trades on FX3 play and backtest it just so you guys can see, you know, what my thoughts are on live time.
+[00:31:51] So I'm going to take two trades. I'm not going to edit this out. Okay, so let's just get into this. So I'm always going to go to New York session. We're going to go to 9.30 open just to make it easy and we're going to start with the woman timeframe.
+[00:32:04] Now, I'm going to first check that 15 minute. Is there anything obvious? Yes, there is. There's an obvious 15 minute forever. I get here. We have any inversions on the 15 minute time frame
+[00:32:14] And not really and then hourly Hourlies below this but we have it closed. Oh, okay. I see something like there's a lot of trend line the query right here I think we run this so at this point I'd probably be bearish but we did hold this 15 minutes or not yet
+[00:32:28] So let me just play price and see what happens here and I'll kind of give you my thought process thinking I'm gonna look for a short to get one here 30 second. Okay, 30 seconds short. I'll take this boom right there
+[00:32:38] Look there's a play right there. I'm bearish right. There's my entry this case I'd probably do a stop above like like a hard stop here because there's an order block an order block right there
+[00:32:48] And then I target all of that trend line liquidity down to here. So you can see let's see what happens here Okay, so what have been a scale half such breakeven trade and we're probably gonna go back down as my guess eventually
+[00:33:00] But pretty bad PA here But you can see we get a move up it open But I'm leaning bearish because I knew we had the liquidity below and then we V shape back through it
+[00:33:10] I'm shorting that I'm doing probably like honestly main TP. I'm probably doing it these equal lows these relative equal lows I'm probably getting on most here and then I'll probably to see runner and out against out the runner
+[00:33:21] That's what I would have done for that. Okay, and then I'll bend on for the day. Okay, so that's one win Let's go to the next session right here. Okay. All right, so we're gonna go to the 15 minute I'm gonna see if there's anything out. Oh my this looks horrible. Okay, so this I would not use a 15
+[00:33:34] I'm gonna hear two choppy. There's no for rally gaps. Hourly, no for rally gaps. So I would not have a hard timeframe bias here. This looks awful.
+[00:33:42] I probably just sit in the one minute timeframe and look for a decent pattern trade or DC equal highs. I guess we have equal highs here
+[00:33:50] and see if I can make something work. Let's see what happens. Hey, there's open, there's dumping, dumping. Any like 30 second inversion here, maybe?
+[00:33:57] Ooh, okay. We have a pretty good 30 second here. Pretty good Thursday. I like how you manipulated below
+[00:34:03] and I like how this is so B-shape and I like how we have a really good break even point right here.
+[00:34:09] So I'm almost guaranteeing that this is gonna be not a loser. And are we, yes, we are. Look, we're delivering from a five minute gap right here.
+[00:34:18] The body held the gap but also held this little vitamin balance. So this would still be valid in my opinion. It's probably just cleaner out the 15 minute though.
+[00:34:27] Yeah, look, 15 minutes like what we're actually delivering off of. See how we have a 15 minute here? So I think this would be a great trade. I know we don't really have a higher timeframe bias,
+[00:34:35] but we just swept into these lows right here. These are all too close. And then we have a 30 second. So I take that person.
+[00:34:42] I go for like a one R. I probably go for this high inside this for a reality gap and then up here, anything interesting? Ooh, okay.
+[00:34:49] Maybe kind of have equal highs here. So I'd probably like, I'd probably look the target there to be honest. Maybe scale half here,
+[00:34:56] but let's see what happens here. Okay, break even. So what about a break even trade? All right, now does it end up saving me? Yes, it does.
+[00:35:02] Look, look how bad this price action was out there. Okay, so you can see how to go break even there, what about a break even trade,
+[00:35:08] and look how bad the conditions are after. This is why I like to go break even, because I know if I'm wrong,
+[00:35:14] I'm either going to stop break even, and I know if there's going to be bad price action, I want to get stop break even. Okay, so yeah, all right,
+[00:35:21] so I would not trade the rest of the debt. I would probably get stop break even, and be like this can be horrible, and then go to the next day. Next session, we're going to start with the 15 minute.
+[00:35:28] Pretty, pretty damn bullish. Yeah, I'm probably bullish here. We're just ripping. We're probably going to go to like this buy side, if I had to guess, it looks like it's
+[00:35:37] an old high inside of a Fair Valley gap right here. Oh, just because momentum and everything and I just want to rip here, let's see if we, so this is where I'd be going to the one minute looking for like a fake move down to the downside
+[00:35:48] and then an inversion up. Okay. We're just not going to get it. But that's fine. So I had to draw on the clearly there, right? Right.
+[00:35:54] I figured we'd go to this 15 minute just because momentum, you know, it's kind of a freight train, but unfortunately, oh, and also if you look to the left here, look, we universe But we just didn't get like a lower time free model. Okay, so at that point we expanded 50 million points
+[00:36:09] I'd probably not trade that day probably just go to next next session 15 minute time frame again. We have a bearish gap right here. We're kind of inside of we haven't broken it But we do look bullish. So I'm just gonna kind of see if we can live it. So no clothes above
+[00:36:22] So I'm probably leaning bearish here. Let's see if we get anything. Okay, so we're not gonna get any model here But yeah, we're just nothing
+[00:36:28] But the fact that we fail the close about that 15 minute down tell me we're bearish or this point We're so far alive. I mean, I guess we could go down here, but okay, this long actually looks pretty good I like how we came into this fair rally gap and I like how even if the bias is still bearish for likely to retrace
+[00:36:44] To the point five here, so I'd maybe try this It's like a five-minute inverse here stop at the like midpoint of this week target like the ceo'd see if it works Again, I wouldn't get out yet because we didn't close below. Let's see. I'd go break even here.
+[00:36:58] I know if I'm right, we're not going to stall and boom, I could stop break even. So that would probably be like a break even trade for me, right? And look, I would knock it out of this trade because we did not close back below this five minute, right? But I liked that trade idea because
+[00:37:09] I figured we'd go to 50%. We probably will, but that was just really bad for though. Unfortunately, this would not save me, but it's fine. Was there like another setup to get in? I probably would have gone back in if we got another setup maybe, but not the most light bulb. Go over to one more
+[00:37:22] your accession. I'm going to do that. Okay, uh, your accession, we're going to go to the one 15 minute first 15 minute. This is very tricky. We have this for our valley gap, but then we have
+[00:37:33] this high. Um, okay, rejecting this. So I'm leaning bearish just based off this reaction. hourly doesn't really tell me, okay, we're rejecting this hourly too. I'm leaning bearish
+[00:37:43] because of this reaction. So now what I'm going to do is I'm going to go in the one minute. Is there a setup? Yes, there is. Look at this. Perfect V shape. I'm bearish because of reaction. I probably short this stop at loss at the death candle high and then I probably target
+[00:37:56] like a little low guess there's an age of low yeah and I probably just started this age of low so again I didn't really know it was gonna happen in that but I was leaning bearish just because of reactions to happens and boom it would
+[00:38:06] have been a break even trade so you can see I would have gone and probably break even there and it would have saved me see and now it looks like we're gonna go long again I bullish here but I would probably don't for the day to be on
+[00:38:15] so yeah that's basically what I do in my thought process all right let me find one more example because I kind of want to end it away and not a break even trade.
+[00:38:24] All right, so like I said before, we're going to do the same thing. Here's 9.30 open. We're going to go to the 15 minute, see what's obvious, see what we're working with. It looks like we're pretty high in premium. So I'd probably be looking for some sort of short here. Is there any gap we
+[00:38:37] can base anything off of to the left? No, it looks like we're at Altum High. So we're Altum High is probably going to be a little tricky, but we're going to see if we get some sort of decent short.
+[00:38:47] Okay, this already looks decent. Okay, I will say this, taking a short like this at Altum High is not the smartest plan in the world. Okay, we're not delivering from anything and we're never
+[00:39:00] delivering anything off of Altum High. So the win rate of these setups go way down. Can maybe profitable. Yes. So we're going to try it. Um, this could be a loss. And if it is, I'm going to keep
+[00:39:10] in the video, but I like how, you know, we manipulated, we're in premium. I like how there's a quick break even point, and I think I'm just gonna go for a 1R and go for this gap because usually
+[00:39:19] all time high just keeps running up. So we're gonna try it. I think this is probably like a 50, 60% win rate play, but it doesn't look bad and loses. I guess it'll be better because it'll be more transparent for the video to show that I don't win every time. So let's try it.
+[00:39:32] Get in and boom. Okay, just stop that instantly. So yeah, okay, wow. So it ended up stopping me out, hit the hard stop here, but it never closed back about the inversion and then it did hit my DP.
+[00:39:45] Um, yeah, wow, just unlucky, I guess, and then we did go to low a day, but yeah, shorting all time highs is not the, um, not my strong suit.
+[00:39:54] Okay. Storming all time highs is pretty risky. All right. We're going to try again one more time, see if we can end in a win here. Again, we're going to start with the 15 minute time frame.
+[00:40:03] See where we're at. Um, it looks like we have an obvious 15 minute gap here, which I think this could be a higher time frame hourly.
+[00:40:09] Let's check. Okay. We're in our very obvious hourly. Okay. Probably gonna base my bias based off of whatever happens in this hourly.
+[00:40:18] So let's just watch price and see kind of the vibe open. And I go to the one, I usually like to start the one with a chart, but. Okay, so pretty bearish reaction.
+[00:40:26] Okay, pretty bearish reaction. We cannot break this hourly. So I'm thinking that this is going to be a short. Okay, this candle closure here.
+[00:40:36] I'm gonna do a stop like probably at the high here. And I'm gonna go for, what's a good target. So you're gonna get liquidity pools. I like to look for equal high as your glows.
+[00:40:43] have anything major. I guess we kind of have, I guess we consider these relatively close, but not the greatest targets, but we're gonna try it. We're reacting obviously, you know, we're in
+[00:40:53] premium, though it looks good. I'll probably go break even. We take this low again. It looks pretty good. Okay. And boom. Funny enough that the candle didn't even close when I got in, it closed down
+[00:41:05] here, but you can still see the concept applies, right? In premium, rejected the gap, kind of just to start shooting, do this target relative you close.
+[00:41:13] Could you target down here? Probably, but it's a little risky when we're close to auto highs. You know, you're not always gonna get that target hits. Looks like it's just not gonna hit, though.
+[00:41:21] Yeah, what if I'm gonna break even? Okay, so I feel great about that one. And yeah, and with that, that is gonna be a full beginner's guide
+[00:41:29] on how I trade inversion for really gaps, okay? If you scroll on Instagram, you scroll on YouTube, you're gonna see a lot of other mentors
+[00:41:36] teaching my exact model. They'll kind of have their own renditions of it. You know everyone in the space who does this like either taught or I taught their mentor or their mentor And I'm not claiming to take credit for their experience
+[00:41:49] Because you know once they do get the experience they kind of just learn and teach things themselves but it's crazy how far and how wrong some of these guys are teaching this and I Still believe my ways the best way and then you're gonna find your own kind of rendition of it and get your own experience
+[00:42:05] And that's where you're gonna truly become profitable. So this is a good baseline to start I hope you guys understood if you guys have any questions in the comments Let me know and that's pretty much gonna be here for this video
+[00:42:14] Don't forget to do dodgy for all prop firms. I strongly recommend, you know buying a few prop firm accounts You know, whatever one has a discount apex 20 counts as well code dodgy and you know try this strategy as a beginner
+[00:42:26] And see how you do and I would probably stick with it for six months to a year before you decide Hey, maybe I don't like it, but most people do like it. So good luck go study go back test and
+[00:42:38] Let's get rich
