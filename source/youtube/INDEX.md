@@ -123,3 +123,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241015 | dvZzbzhN5h4 | This One iFVG Setup causes you losses | captions | done |
 | 20241009 | L1obO-lTjjE | Never miss the REAL draw on liquidity again | captions | done |
 | 20241002 | OmuOMsNjg9E | My +80% Winrate iFVG Strategy (my new model) | captions | done |
+| 20240930 | kMHOjdL1TsY | These 2 Concepts give me an 80% Winrate! (full guide) | captions | done |
