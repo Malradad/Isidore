@@ -1,0 +1,146 @@
+[00:00:00] So, this is going to be very, very basic. What is an actual candlestick, okay? There's a difference between a candlestick chart and a line chart, okay?
+[00:00:11] When it comes to a candlestick chart, this is where you're going to want to use. And like I said in the first video, okay, like I said in that video, you need to understand a candlestick.
+[00:00:21] You cannot be trading a line chart because these little bodies, so this right here, let Let me just zoom in show you guys
+[00:00:31] This right here is very very important when it comes to trading. Okay, a lot of people overlook this But this is literally like if I could give you
+[00:00:39] One tip from this whole course would be be pay attention to these bodies Okay, and you're not gonna Know what I mean
+[00:00:47] Until probably the end of the court until the end of this bootcamp But you just you have to pay attention to these bodies and I'm gonna show you guys how easy it is to study in your own and and how easy it is to just look up what a candlestick is.
+[00:01:02] So literally, I can just go on a Google page and go, what is a candlestick trading?
+[00:01:10] Okay, it's very, and it's gonna give me a bunch of diagrams. It's gonna be very, very, very easy. All right, and immediately it gives me
+[00:01:19] something very, very straightforward and easy to read. This is how easy it is, right? I don't have to be making this videos. You could do this all on your own.
+[00:01:26] All right, but this is a candlestick. Okay, basically the green candle's bullish and the red candle's bearish.
+[00:01:34] You can see I kind of have my chart colors change a little bit. So let me take a look at my chart. These black candles are actually red candles, but I can change up the black
+[00:01:42] because I prefer black for the down move. But again, let me go back to this. So this is a bullish candle
+[00:01:49] and these little things are wicks and this giant thing is a body. Okay, so you can see this is the body.
+[00:01:57] And this is actually called an upper shadow and lower shadow. I've never used that term. I would not suggest calling these shadows.
+[00:02:04] These are called the wicks, okay? So these are called the wicks, not shadows. I guess I get where they're coming from,
+[00:02:10] but I would consider these just called wicks, okay? But you can see how easy it is to look.
+[00:02:18] And you can see this is the high of the candle where we wake up, this is where the candle closes. So this is the closing price of the candle.
+[00:02:26] This is the opening price of a candle. And this is the low of the candle. So I would recommend just studying that for a little bit
+[00:02:34] and maybe saving that to your chart. But you can see if I just, like if I go to this candlestick right now
+[00:02:42] on the one with a chart. Okay, this is a red candle at the time. Now does it mean it's gonna close the red candle?
+[00:02:51] No, this can go all the way back up. So you're gonna see it just did close this red candle. So see how on the new candle form,
+[00:03:00] see how it just, we just opened right there. So this is always, always, always going to be the opening price until it closes again. So you can see there's 41 seconds, 40, 39, 38
+[00:03:10] until this candle actually closes again. But for now, but the whole time this is gonna be the opening price, this is not going to change.
+[00:03:17] But the wick during the candle may change. like you may see us fluctuate up and down. The wick can't change,
+[00:03:25] but wherever we open at, this is never going to change. So this one, you can see this is a bearish candle. So here would be the opening of the candle.
+[00:03:34] Here'd be the close. And during that whole candle, price actually went from 18, 4, 5, 1.25 all the way down to 18, 4, 4, 8.25.
+[00:03:46] However, price did not close here before the time ended. Okay, it closed right here after the minute went by because I'm on the one-minute timeframe.
+[00:03:56] It's just every single candle is one minute. So see how that candle opened up green right here, but see and see how it was green when we had this wake up,
+[00:04:06] but before the candle closed, it came back down again. So this means, okay, when this candle closes as a red candle and that's that. So again, it's pretty straightforward how these work.
+[00:04:18] Again, this is like, again, this is the opening price of the candle and because price is trading higher than what the candle opened at, for now it's a green candle,
+[00:04:27] but you gotta realize there's 20 seconds left, this candle could wick back down below this opening price and come down here and this could be a red candle
+[00:04:36] before the time runs out. So let's see, there's 10 seconds left. Again, it's only if we go below this opening price,
+[00:04:44] this opening candle, okay. So it looks like this candle is gonna be maintained. So the candle did close green.
+[00:04:54] But again, that could have been a red candle if we traded back below the opening price and closed below it. So yeah, that's kind of how a candlesticks work.
+[00:05:03] I would just recommend studying this. Okay, it doesn't really take a lot of time to understand this. And yeah, so there's something called candlestick patterns.
+[00:05:12] And this is just another one. Open price, high price, closed, low. There's something called candlestick patterns.
+[00:05:19] And I still like, I mean, I'll show you what patterns I use and I'll show you like a bunch of these.
+[00:05:27] So, again, these are candlestick patterns. There's like different,
+[00:05:36] so obviously when we're looking at the chart here, you can clearly see that a lot of these
+[00:05:45] different shapes and sizes okay and they all mean something but do they really when you get to where I am you I do not care about candlestick patterns but I
+[00:05:56] still think it's important for you to understand because I actually do use some like candlesticks like some candlesticks to me are more important than other candlesticks and I'll explain why so let me let me show you this chart
+[00:06:11] So I think the main one and the most, the ones you'll see the most of the hammer, the inverted hammer, or sometimes called the shooting star and a doji candle.
+[00:06:24] So a doji and the hammers are the one that I use the most. And I don't even use these, but when I started, these are the ones I use the most.
+[00:06:32] And it's important to understand them because, like I said, if you're ever in a discord chat or something and someone says this, you're going to know what it means. So all a hammer candle is is when price wicks down.
+[00:06:49] So see how price right here wicks down. And then before the hand of closes, we close back above. So a hammer kind of, you can see it kind of looks like a hammer, right?
+[00:07:00] That's why it's called a hammer candle. So see how we come down, we wick down, but then before price closes down here, it wicks back up.
+[00:07:08] It's usually a really bullish signal because it's like sellers wanna, and by the way, when I say sellers and buyers, I don't believe in true sellers and buyers in the markets,
+[00:07:16] all in algorithm and you're gonna understand that as you continue your journey. But anyways, sellers were down here at one point and it looked really bearish.
+[00:07:26] But when buyers push it up right before the candle closes, that's actually a bullish signature in price, which is why it's called the hammer candle,
+[00:07:33] which is why this is a reversal candle pattern. So typically when you see this, you'll see some sort of reversal or some sort of bounce.
+[00:07:40] And you can see the next candle did indeed bounce and we did go up a little bit. So I think it's important to understand
+[00:07:47] that this is a hammer. And let me see if I can show you a few more examples. And we're gonna see them all over the chart, to be honest.
+[00:08:02] So this one is an all right one. See how the wick is kind of the same size is what the body is, they're kind of the same size.
+[00:08:10] Typically, you want the wick to be a little bigger. They want the wick to be like this,
+[00:08:17] and then you wanna see like the candle to be like this. So this is like the typical thing you wanna see it. Now, this would not be a hammer candle, why?
+[00:08:26] Because this, you can see sellers and buyers are both in control. See how there's a wick here and a wick here,
+[00:08:33] and the body's in between. This doesn't really tell you much. This tells me more, right?
+[00:08:39] Sellers weren't in control, but at the last second, buyers took control and closed the candle up here, forming into a little hammer pattern.
+[00:08:48] Okay, so let's that. Let me look for a hammer at the top real quick. So this would, I mean, these two examples right here,
+[00:08:58] these would be like an inverted hammer. Okay, now you can see there's a small wick here, but for the most part, it's the same concept.
+[00:09:12] It's the same concept of there's a lot of buyers here, but at the last second, sellers push down the wick, making the body close down here.
+[00:09:23] And you're going to see it's a nice reversal pattern. Same thing right here. We actually get two hammers, so we get another one here.
+[00:09:31] and buyers at one point had price go up to this high, but at the last second,
+[00:09:38] you can see sellers push it right back down, all right? So you can clearly see how that works and the psychology behind like why it's called a hammer
+[00:09:47] or why it's called, I mean, some people call this a shooting star, all right? So I'm gonna go to one more example.
+[00:10:01] Okay, and you'll see these all over the chart. So I mean, this is not a bad example here.
+[00:10:08] So again, another week where at one point, prices way up here, it looked like we're just gonna close, but the last second sellers,
+[00:10:17] push this candle down right before it closes. And again, you're gonna see it's a nice reversal pattern. So to me, these don't really mean much
+[00:10:24] because I don't trade using candle patterns. Now, keep in mind, I used to,
+[00:10:33] but to me, they don't really mean much anymore, but I think it's a good start for learning trading, and I think you should understand what they are, okay?
+[00:10:44] Now, the other candle pattern that you should know is a doji. So doji is when price opens and closes at the same spot.
+[00:10:54] And all this really means, when you see a bunch of doji candles, it's really a sign, not the trade. because it's like, it shows an indecision
+[00:11:03] between buyers and sellers. So an example would be like, right, let me see an example.
+[00:11:14] So I mean, right here, okay. See this counter here?
+[00:11:20] See how there's a wick on both sides and a really small body in the opening and closing price is really close.
+[00:11:26] That just shows that buyers and sellers are not in control, it's neutral, it's probably choppy, and you probably don't want to trade it.
+[00:11:34] So let's really, when I see doji, that's kind of what I'm thinking, just don't trade. Another one would be like right here.
+[00:11:43] So here's another doji candle. See how the opening and closing price are at the same exact level at this 18, three, three, 1.5.
+[00:11:51] So again, this is the same exact level, all right? And it just shows that buyers or sellers
+[00:11:58] neither are in control. And it just, it means stop trading, don't trade. Okay, you do not wanna trade that
+[00:12:07] because the biggest thing that when I first are learning, I didn't understand that you, to be profitable, not trading is good.
+[00:12:17] I don't understand, I thought you had the trade. Like if I ever seek this a lot of times, I will not trade because I don't wanna get chopped up.
+[00:12:25] I don't want to buy and get chopped up and then just for price to go my way, right? That's not ideal.
+[00:12:31] You want to allow this to take out and then you want to allow us to break the range and then you can trade.
+[00:12:39] Don't trade while we're getting all these doji choppy candles because it will become unprofitable if you over trade something like this
+[00:12:46] because you will get wrecked. Or what will happen is you'll sell price will, or you'll buy price will go hit your stop loss
+[00:12:55] or whatever it may be, and then it'll just go back up. Why? Because it's choppy, and price will just typically just go like this. So it's not like you're wrong,
+[00:13:02] but it's also not like you're right, because price is chopping around. So a doji candle is just a sign, let me move my face here real quick.
+[00:13:13] A doji candle's just a sign that it's an indecision. You want to typically stay out of the market. Now, there's all these other ones.
+[00:13:22] You can study these. I mean, you can really just type in candles like patterned cheat sheet. I'm gonna go over one more.
+[00:13:30] Another one is a bearish engulfing or bullish engulfing. So what that basically means is when a,
+[00:13:42] when we get a super, super bullish candle. So for example, this one right here. And then we get another, like a super green candle.
+[00:13:53] And then we get another red candle which maybe overtakes that green candle. That's considered an engulfing candle
+[00:14:00] because let me just draw it real quick. So let's say this is a green candle. All right, let's say we're going up
+[00:14:08] but then the next candle is just completely red. Okay, let's say the next candle is complete red
+[00:14:16] and the body overtakes this whole candle. Okay, so this is the red candle here. And then this is a green candle here. So it's a golf thing because again, it's an engulfs this whole candle
+[00:14:29] And this is another really good reversal pattern, and I I actually do use this sometimes But it has to line up with the narrative it has to line up with how I trade and using for a rally gaps and
+[00:14:39] And everything else I'm gonna get to at a later standpoint um like a good example of this would be Something like this
+[00:14:47] See how we get this really really red candle here, but then immediately it's just button back up right here with an immediate green candle.
+[00:14:56] So this, to me, I would almost combine these two green candles because think about momentum. When we have momentum down, which you can see,
+[00:15:05] this is a strong body, and again, a strong body, what a strong candle means is basically when there's almost no wicks.
+[00:15:12] So on this candle here, it's a strong body or a strong momentum down because look how tiny the wicks are. So these wicks are barely noticeable.
+[00:15:21] consider this a lot of sellers in control. So when you immediately see this momentum shift back up with now buyers in control, it's a real really really good reversal because it's like well all
+[00:15:35] these all this momentum with all these sellers in control literally just got bought back up the next candle. So what does that tell me that tells me that these guys are probably getting stopped out
+[00:15:47] or probably wrong, okay. And that's something I still use this day. It's just, it's a really, really good pattern. Even here, look at this. So we have a big, big down candle right here,
+[00:16:01] I'm going to circle this, really big down candle. And then look, look what happens after these two green candles, just eat those up, up, look at, we just trend up after that. See how we kind of,
+[00:16:14] the market just trends up after that. So you can see how powerful these actually are. And you have to think of it from a psychology standpoint, right? From a psychology standpoint,
+[00:16:26] if I'm a seller here and I'm like, "Oh, we're going down," but then I see these two candles and this whole candle is bought right back up. Okay? What do you think you would be thinking?
+[00:16:36] You'd probably be like, "Oh my God, I'm about to get wrecked. We're about to go the the episode I'm doing. So what do you do?
+[00:16:41] You get out of your position. Now when you get out of your position, you're buying back the market. You're buying back market shares, market contracts.
+[00:16:50] And when you buy back those shares that causes the market to go back up. So think about all these guys shorting or selling a position and they're buying back here
+[00:16:59] because they're like, oh, I'm gonna get wrecked here. We're not going down. They're just causing the market to go back up again. Okay, so, um, bullish engulfing and bearish engulfing are pretty important.
+[00:17:12] I think those are the ones I use the most, um, and yeah, they're just pretty good. Even this one right here, look at this one right here.
+[00:17:20] So a giant down candle with no wicks. So I'd consider this a strong body and a giant up close candle here, which I would consider this a strong body as well.
+[00:17:31] So when you see this strong momentum down, get eaten up with strong momentum back up, that means it's probably a short-term reversal.
+[00:17:39] And you can see we go up the next few candles. So that's what you should know about candlestick patterns. I mainly, I love bullish engulfing
+[00:17:48] and bullish and bearish engulfing. Just remember, a strong candle will look like this.
+[00:17:57] Okay, this is what a strong candle look like. No matter if it's bullish or bearish. A weak candle will look something like this.
+[00:18:08] Okay, where there's almost no body and there's an indecision between sellers and buyers. These are the two things you should know about candles and don't spend your whole life paying,
+[00:18:19] like, oh, I'm gonna trade base off of this. Knowing candlestick pattern for just, it's like second hand nature to me. I don't pay attention to them, but some,
+[00:18:27] Like, let me give you an example. Based off a screen time, let's say I'm in a trade, so let's say I'm shorting right here.
+[00:18:40] So let's say I'm short here. Oops, so let me exit this out real quick. Let me go to another example.
+[00:18:51] Let's say I'm longing right here, so let's say I'm taking a buy and I want a long right here. Does this candle really give me confidence that we're going to keep going up?
+[00:19:03] Not really. It's just kind of like an indecision candle. But then we get this candle.
+[00:19:12] Do you think this is going to add conviction or add confidence to the trade amount or do you think it's going to kind of destroy my confidence? Probably add confidence.
+[00:19:20] And when I see a candle like this, I might size up so I might buy again and my average might move up.
+[00:19:27] So sometimes when you see like this momentum or this strong candle, it just, it makes you more confident trade and this is, this is, this is why understanding candles, like patterns
+[00:19:37] help me with psychology because when I see something like this, it helps my psychology because it's like, okay, now we have momentum.
+[00:19:44] I have a good feeling about this, right? When you're in a trade, you don't want to see like, you don't want to take a buy and see all these like weak candles.
+[00:19:52] You don't want to see this. You want to keep seeing momentum and these big candles go up because that's going to serve of you the best, especially psychology wise. Now, I'm going to talk about what this is in the future.
+[00:20:01] So this is called accumulation. I'll talk about this at some point. But I just want to say,
+[00:20:10] you're not trading based off how big the candles are, but it's important to understand when you're in trade to kind of pay attention to, okay,
+[00:20:17] are we getting momentum? Are we getting strong candles? Should this work in my favor? And sometimes if we are, I will cut the position, right?
+[00:20:25] like, let's say, let's say we're here. I see two ground candles.
+[00:20:32] Oh my god, this is a good short. This is a good reversal. I see a hammer candle right here. See how this is a hammer candle? So I'm going to take a short.
+[00:20:40] And my stop loss is going to be at the high, all right? Now let me play a few candles. It's like, OK.
+[00:20:52] We've chopped it around. We lost momentum, right? There's no good strong candle down here. So instead of maybe keeping my stop loss right here,
+[00:21:01] I might cut the position instead for minus 200 dollars instead of letting it go even more red.
+[00:21:08] Why might I do that? Because you don't want to see candle sticks like this. You want to see the momentum continue down. All right, you don't want to see momentum back up.
+[00:21:17] And you can see it would have saved me anyways, right? So see how this kind of chop here and this lack of acceleration back downwards kind of helps. And this is actually something that will take you
+[00:21:27] two to three years to learn. Very, very advanced. But sometimes it will come positions early if I'm not seeing any strong candles in my direction
+[00:21:35] after like five or six candles. And again, that will be a screen time thing. You will learn that through screen time and you will not be able to learn that
+[00:21:43] just after this course, okay? I promise you, if you're still here in three to four years and you come back to this video, you're gonna remember exactly what I said. You're gonna be like, oh, now I get what you're saying.
+[00:21:51] But you're ideally not going to understand what I'm seeing right now. So that's kind of how I use candlesticks. And I kind of talked a little bit about why screen time is important there, just based
+[00:22:02] off of candlesticks. I think the key is, I think you should know what a strong versus weak candlesticks, just for the sake of when you're getting in position or getting out of position, whatever.
+[00:22:15] And yeah, that is it for this video. Have a good one. Peace.
