@@ -135,3 +135,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240814 | IlTBW6poSxQ | This Liquidity Pool Has a 90% Winrate! | captions | done |
 | 20240809 | X48F_bYzWOk | How I made $10,000 profit using Inversion FVGs | captions | done |
 | 20240808 | lVX67RYizV8 | When to AVOID Trading for ICT Traders | captions | done |
+| 20240802 | UhUy838qkpg | My 100% Winrate Strategy (Full Backtesting Session) | captions | done |
