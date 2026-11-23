@@ -178,3 +178,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240319 | zBmDsWQIv1I | How to Transform from Beginner to Professional Trader | captions | done |
 | 20240318 | 9LBXzNphlB8 | Professional Trader Shares 5 Top Down Weekly Analysis Examples | captions | done |
 | 20240314 | UP4eU601xLQ | When is Daily Bias in ICT ACTUALLY Required？ (No Daily Bias Tips) | captions | done |
+| 20240309 | HwBMjq-tVS8 | The Hardest Part of Trading： Saving Capital for A+ Price Action | captions | done |
