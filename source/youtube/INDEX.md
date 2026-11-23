@@ -173,3 +173,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240402 | ZmIN34ia7rk | Top 5 Reasons You Lose Money Trading ICT | captions | done |
 | 20240331 | oXiwX8qa7wo | This Secret ICT Gem Will Make You 2x More Profit! | captions | done |
 | 20240327 | Hh1b4esmsAQ | What is an iFVG？ | captions | done |
+| 20240324 | QnKifGjSHuQ | My Subscribers Share Their Losses! | captions | done |
