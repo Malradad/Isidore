@@ -31,6 +31,9 @@ Every testable prediction, judged against real prices. Never use his recap as th
 | 18 | youtube/20250630 gpn8BvK-G4s | NQ | Hourly inversion after a sweep sets the session bias, right ~90% (neutral in chop) | Backtest: 1h iFVG-after-sweep → session bias; % of sessions price reaches the next 1h high/low in that direction; then as a filter on P1+filters and v0.4 1/day | Next quota | — | Real bias definition (replaces the EMA proxy) |
 | 19 | codex/feel.md (his "I like taking trades off speed"; "can't jump the gun") | MNQ | Feel features of the inversion candle (cross speed, flips, decisiveness, volume, chop, reaction) separate winners from losers | P1 5m with features from 1m bars, PF by tertile in both halves | ✓ 2026-11-22 | ~ Partly | Only **cross timing** holds: a late cross (minute 4–5 of the 5m candle) has PF 2.19 / 1.05 vs an early cross 0.67 / 0.65 (2023–24 / 2025–26). Fast-at-the-open is *worse*. Flips are worse in both periods (n=23). Body %, chop, volume and reaction reverse or fail between halves. `journal/backtests/2026-11-22-feel.md` |
 
-**Running record:** 19 claims · 9 judged (1 supported, 3 partly, 5 not) · hit rate 1–3 / 9
+| 20 | journal/labels/2026-11-23-labeled-record.md (his rules: one trade a day, no B setups live, no trading flagged days) | NQ/MNQ | His first A-grade trade on an unflagged day wins far more than his other trades (stream record 12W/1BE/0L vs ≈ 0R for 2+ flags) | P8 backtest: A/A+ first-trade-of-day vs later/lower-grade trades, both halves | P8 | ~ (on-stream only) | If it holds on price, this is the core of Izzy's selection |
+| 21 | teacher-audit (no shorts with equal highs / data high above) | NQ | The equal-highs / data-wick no-short rule improves results | P7: with vs without the rule | P7 | ~ against (skips cost 5 winners, 0 saves seen) | Two 2026 NFP streams |
+
+**Running record:** 21 claims · 9 judged (1 supported, 3 partly, 5 not) · hit rate 1–3 / 9
 
 All five judged on Izzy's mechanical v0.4 model (1m MNQ, Jan 2025 – Nov 2026, Deep Backtesting). A ✗ judges that coding of the rule, not every reading of it.

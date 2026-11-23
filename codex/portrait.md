@@ -29,6 +29,8 @@ I lose off stream"), has big off-stream losses, and doesn't alert eval losers. J
     "for the audience". On days that met his rules, his picks mostly won.
   - In the backtest, his own model fails alone but turns positive in both halves only with **all** his
     no-trade filters + his 10:00 exit (PF 1.20 / 1.40, ~12 trades/yr). Promising, not proven. ~
+- **Labeled (2026-11-23):** his first A-grade trade on a day he hadn't flagged went 12W/1BE/0L (≈ +1R); trades
+  carrying two or more of his own red flags were ≈ 0R. His rules work; breaking them is where the edge leaks. ~
 - **His selection rules** (`codex/context.md`, the seven questions):
   where price comes from (HTF level, "what's to the left") · where it's going (S/A-tier liquidity:
   equal highs/lows, data highs/lows, trend lines) · one-sided liquidity · location (discount/premium) ·

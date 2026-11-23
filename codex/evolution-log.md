@@ -315,3 +315,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   and his A+/A/A−/B grade; (2) test whether A/A+ alone carries the record and how often it occurs (≥ 3/week?);
   (3) test the equal-highs / data-wick no-short rule (P7), which cost him on both 2026 NFP streams audited today.
 - **Maker:** not yet reviewed.
+
+## 2026-11-23 · Step 1: labeled record (48 takes, skips)
+- **Did:** flagged every take from his pre-entry words only (2nd trade/after done, flagged day, grade < A, outside
+  window, against bias, audience); tabulated skips by reason. `journal/labels/2026-11-23-labeled-record.md`, `tools/labels/takes.py`.
+- **Learned ~:** first trade of the day, unflagged day, A or better → 12W/1BE/0L, ≈ +1R. Two or more red flags → ≈ 0R.
+  His 11:00 cutoff doesn't show up as a loss source. Quality skips (chop, no close, small gap) right 9 of 11; the
+  equal-highs/data-wick no-short rule skipped 5 visible winners (claim 21, P7).
+- **Caveat:** labeler knew outcomes; on-stream days are chosen days; 7 of 48 price-checked. Claims 20–21 go to P8/P7.
+- **Decided ~:** Izzy's forward rules: one trade a day, A/A+ only, skip flagged days, quality filters hard.
+- **Maker:** asked for steps 1–3 (2026-11-23); P8 + P7 sent to the backtester.
