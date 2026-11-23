@@ -119,6 +119,25 @@ More ✓ = higher grade. Chart: NQ1! on the 2-minute. See `codex/visual/README.m
 _In progress: frames from his charts are arriving. Each example will link the
 frame that shows the gap, the sweep, the inversion candle, entry, stop and target._
 
+## Video study, batch 1 (2026-11-23) ~
+- **Gap quality, three tests** (youtube/20241123 GoU3p4sgxz0): (1) *clarity*: the gap stands out against the
+  10–30 candles around it, neither tiny nor giant; (2) *size*: 10–20 pts is the sweet spot, 30–50+ is too big for
+  $200 risk → drop to a 30s/1m entry inside the HTF gap instead; (3) "can you see it 10 feet from the screen" —
+  obvious gaps work better "from backtesting".
+- **B setups are allowed only with a very obvious draw** (youtube/20250829 hk_by6YR_b4): "you can take a non-obvious
+  setup with a very obvious draw on liquidity, or an obvious setup with a non-obvious draw" — never both non-obvious.
+  "These come maybe once or twice a week." The most light-bulb setups: "three setups a week".
+- **Data-wick draw beats equal highs/lows** (youtube/20260331 tRnWV2aTiPk): a data high/low = the wick of *any*
+  news event (incl. headlines, not only red folder). He longed with equal lows below because "a data high draw is
+  stronger than equal lows and equal highs". An A+ short against that draw is "A+ but your bias is wrong".
+  → his "no longs with equal lows below" rule yields to a data-wick draw. Inversions outside a killzone: skip.
+- **Smart money reversal = his favourite** (youtube/20250901 pEJwLyVZ8ng): a spike far outside the recent range
+  ("like outside the Bollinger bands"), V-shape back, death-candle inversion on 2m/3m/5m. "Once a month, maybe
+  zero"; he sizes up and doesn't go BE until near target. Window 09:00–11:00; never lunchtime, half days, or
+  "news Monday" before the reaction.
+- **Honesty flag:** in that same "A+ backtest" he says "I gave up backtesting years ago", runs mostly BE trades and
+  shows realized P&L −$1,000. His backtest videos are not evidence of an edge.
+
 ## Mechanical model (his 2023 class) — testable as stated
 Source: streams/2023-09-04 ErsWq6j87uY @ 00:18:15–00:55:53. ~
 1. Mark the **previous day's high and low**. Never trade inside them.

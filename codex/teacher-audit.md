@@ -204,7 +204,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 
 ## Running score
 - Streams audited: **37 of 37 — complete** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 48 → 26 wins (2 small), 10 breakeven, 12 losses** (his words; 7 ✓px, two on 15m bars only) ·
-  Skips: 109 (+4 in the gamble stream) · Price-checked: 7 of 48 (the feed has no intraday history before 2026). Avg ≈ +0.5R per take with readable levels ~ (≈ +17.5R total).
+  Skips: 109 (+4 in the gamble stream) · Price-checked: 7 of 48 (the feed has no intraday history before 2026). Avg ≈ +0.36R per take with readable levels (n=40) ~.
+- **Labeled (journal/labels/2026-11-23-labeled-record.md):** first trade of the day, unflagged day, graded A or better → **12W / 1BE / 0L, ≈ +1R**;
+  2+ of his own red flags (2nd trade, bad day, grade < A, audience) → 6W / 5BE / 8L, ≈ 0R. ~
 - (P) for-fun micros after his window: 5 Jun 2026 went 0W/3L, cutting a +$600 day to ≈ +$300 (his account).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 4 (3 "passed", 1 not filled) · (G) eval gamble: 4 accounts blown, 1 passed.

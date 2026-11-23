@@ -316,11 +316,29 @@ _Session entries: date · what was learned · decision · maker response · perf
   (3) test the equal-highs / data-wick no-short rule (P7), which cost him on both 2026 NFP streams audited today.
 - **Maker:** not yet reviewed.
 
+## 2026-11-23 · Step 1: labeled record (48 takes, skips)
+- **Did:** flagged every take from his pre-entry words only (2nd trade/after done, flagged day, grade < A, outside
+  window, against bias, audience); tabulated skips by reason. `journal/labels/2026-11-23-labeled-record.md`, `tools/labels/takes.py`.
+- **Learned ~:** first trade of the day, unflagged day, A or better → 12W/1BE/0L, ≈ +1R. Two or more red flags → ≈ 0R.
+  His 11:00 cutoff doesn't show up as a loss source. Quality skips (chop, no close, small gap) right 9 of 11; the
+  equal-highs/data-wick no-short rule skipped 5 visible winners (claim 21, P7).
+- **Caveat:** labeler knew outcomes; on-stream days are chosen days; 7 of 48 price-checked. Claims 20–21 go to P8/P7.
+- **Decided ~:** Izzy's forward rules: one trade a day, A/A+ only, skip flagged days, quality filters hard.
+- **Maker:** asked for steps 1–3 (2026-11-23); P8 + P7 sent to the backtester.
+
+## 2026-11-23 · Step 3: video study, batch 1 (5 videos)
+- **Studied:** candle-closure checklist, 3 characteristics of winning iFVGs, the art of taking bad setups, data wicks,
+  his "A+ backtest". Added to playbook (gap quality, B-with-obvious-draw, data-wick precedence, smart money reversal),
+  feel (his 10-point closure score) and claims 22–24.
+- **Learned ~:** his own scale for frequency: light-bulb ~3/week, B-with-obvious-draw 1–2/week. And his rules have an
+  order: a data-wick draw outranks the equal-highs/lows rule — which may explain the 5 "skip cost a winner" cases.
+- **Honesty:** his "A+ backtest" video is mostly BE trades and a −$1,000 realized P&L; he says he gave up backtesting.
+- **Maker:** not yet reviewed. 79 videos left to study.
 ## 2026-11-23 · P8 his grades, P7 equal-highs rule
 - **Learned ✓ (price):** his A+/A/A−/B scale, coded (`tools/pine/izzy_grades.pine`), has no edge on MNQ. 5m AM A+
   PF 0.93 / 0.81; on 5m the order is reversed (B best, 1.00 / 1.14). 1m A+ 1.10 then 0.75, about 4.7 a week, so his
   "4–5 A+ a week" frequency is right but the edge isn't there. His filters and the PM window don't fix it. P7 as
-  coded (any untaken equal pair / 08:30 spike wick) helps one half, hurts the other. Claims 20 ✗, 21 ✗ (coding caveats).
+  coded (any untaken equal pair / 08:30 spike wick) helps one half, hurts the other. Claims 25 ✗, 21 ✗ (coding caveats).
 - **Decided ~:** the grade labels aren't what makes his stream record. Before more backtests, blind-label his audited
   takes/skips with this grader to check my coding matches his calls. Then a tighter P7 (nearby equal pair, real
   CPI/NFP dates) and his dealing-range definition.
