@@ -1,0 +1,346 @@
+//@version=5
+// Izzy P8 — the Teacher's own grade scale, coded (source/streams/2024-10-30 JrAXEtFejNw.trades.md):
+//   A+ = liquidity sweep + FVG inversion + discount (long) / premium (short)
+//   A  = inversion + one of (sweep, right side of the range) missing   [~ Izzy: sweep on the wrong side, or no sweep in discount]
+//   A- = inversion in mid-range                                        [~ Izzy: 0.4–0.6 of the dealing range]
+//   B  = chop before the setup (or a target at a protected high; not coded)
+//   C  = no sweep and wrong side (not on his scale; logged for completeness)
+// Inversion valid only after a close through BOTH the FVG and any volume imbalance inside it (his rule, 02:57:24).
+// Stop: close back through the inversion (hard stop beyond the sweep extreme / recent swing, sizes the trade).
+// Management: scale `scaleFrac` at `scaleR` R, stop to BE once price tags the first internal high/low or the scale
+// fills, runner to the next pool (PDH/PDL or the next untaken swing), flat at 12:00 / 15:55 and session end. Costs as v0.4.
+// Every entry comment logs: side|grade|loc|sweep|chop|R-to-runner.  Simulation only; not the live strategy.
+strategy("Izzy P8 grades", shorttitle="Izzy grades", overlay=true,
+     initial_capital=50000, currency=currency.USD,
+     default_qty_type=strategy.fixed, default_qty_value=1,
+     commission_type=strategy.commission.cash_per_contract, commission_value=0.62,
+     slippage=1, pyramiding=0, process_orders_on_close=false, calc_on_every_tick=false)
+G1 = "Model"
+amS        = input.session("0930-1100", "AM window (NY)", group=G1)
+pmS        = input.session("1330-1530", "PM window (NY)", group=G1)
+sessMode   = input.string("AM", "Trade", options=["AM", "PM", "AM+PM"], group=G1)
+gradeSel   = input.string("All", "Grades to take", options=["All", "A+", "A", "A-", "B", "C", "A+ or A", "A+/A/A-"], group=G1)
+armMin     = input.int(60, "Sweep counts for N minutes", group=G1)
+gapAgeMin  = input.int(60, "FVG max age (minutes)", group=G1)
+minGapTicks = input.int(8, "Min gap (ticks)", minval=1, group=G1)
+dispMin    = input.float(0.5, "Displacement: body >= x of range", step=0.05, group=G1)
+pivLen     = input.int(3, "Swing strength", minval=1, group=G1)
+discMax    = input.float(0.4, "Discount: loc < x (long); premium: loc > 1-x (short)", step=0.05, group=G1)
+midMax     = input.float(0.6, "Mid-range upper bound", step=0.05, group=G1)
+chopMax    = input.float(2.6, "Chop index >= x = B", step=0.1, group=G1)
+rngMode    = input.string("Session (since 18:00)", "Dealing range", options=["Session (since 18:00)", "Prior day + today"], group=G1)
+bufTicks   = input.int(2, "Hard-stop buffer (ticks)", group=G1)
+scaleR     = input.float(1.25, "Scale at R", step=0.25, group=G1)
+scaleFrac  = input.float(0.67, "Scale fraction", step=0.05, group=G1)
+riskUSD    = input.float(225, "Risk per trade ($)", group=G1)
+maxQty     = input.int(9, "Max contracts", minval=1, group=G1)
+maxDay     = input.int(3, "Max trades per day", group=G1)
+maxLoss    = input.int(2, "Stop after N losses per day", group=G1)
+G2 = "Run-1 no-trade filters (switchable layer)"
+useFilt    = input.bool(false, "Use the run-1 filters (a, c, d)", group=G2)
+ovnPts     = input.float(200, "a. skip NY AM if overnight range > N pts", group=G2)
+eqTolTicks = input.int(8, "d. equal tolerance (ticks)", group=G2)
+G3 = "P7"
+useP7      = input.bool(false, "P7: no short with equal highs / data high above; no long with equal lows / data low below", group=G3)
+newsMult   = input.float(1.5, "08:30 bar range >= x * avg = data candle", step=0.1, group=G3)
+
+tick = syminfo.mintick
+pv   = syminfo.pointvalue
+tfMin = timeframe.in_seconds() / 60.0
+armBars = math.max(1, math.round(armMin / tfMin))
+gapAge  = math.max(2, math.round(gapAgeMin / tfMin))
+inSess(s) => not na(time(timeframe.period, s, "America/New_York"))
+inWin = (sessMode != "PM" and inSess(amS)) or (sessMode != "AM" and inSess(pmS))
+
+pdh = request.security(syminfo.tickerid, "D", high[1], lookahead=barmerge.lookahead_on)
+pdl = request.security(syminfo.tickerid, "D", low[1], lookahead=barmerge.lookahead_on)
+newDay = ta.change(time("D")) != 0
+
+// session levels: Globex session (18:00 →), overnight (18:00–09:30), London (02:00–05:00)
+var float sesH = na
+var float sesL = na
+var float ovnH = na
+var float ovnL = na
+var float lonH = na
+var float lonL = na
+if newDay
+    sesH := high
+    sesL := low
+    ovnH := high
+    ovnL := low
+    lonH := na
+    lonL := na
+else
+    sesH := math.max(sesH, high)
+    sesL := math.min(sesL, low)
+    if inSess("1800-0930")
+        ovnH := math.max(nz(ovnH, high), high)
+        ovnL := math.min(nz(ovnL, low), low)
+if inSess("0200-0500")
+    lonH := math.max(nz(lonH, high), high)
+    lonL := math.min(nz(lonL, low), low)
+rthOn = inSess("0930-1600")
+
+// liquidity sweeps (sell-side for longs, buy-side for shorts): PDL/PDH, overnight L/H (during RTH), London L/H (after 05:00)
+var int   sslBar = na
+var int   bslBar = na
+var float sslExt = na
+var float bslExt = na
+var bool  tPDL = false
+var bool  tPDH = false
+var bool  tONL = false
+var bool  tONH = false
+var bool  tLNL = false
+var bool  tLNH = false
+if newDay
+    tPDL := false
+    tPDH := false
+    tONL := false
+    tONH := false
+    tLNL := false
+    tLNH := false
+    sslBar := na
+    bslBar := na
+after5 = not inSess("1800-0500")
+sweptL = (not tPDL and not na(pdl) and low < pdl) or (rthOn and not tONL and not na(ovnL) and low < ovnL[1]) or (after5 and not tLNL and not na(lonL) and low < lonL)
+sweptH = (not tPDH and not na(pdh) and high > pdh) or (rthOn and not tONH and not na(ovnH) and high > ovnH[1]) or (after5 and not tLNH and not na(lonH) and high > lonH)
+if not na(pdl) and low < pdl
+    tPDL := true
+if not na(pdh) and high > pdh
+    tPDH := true
+if rthOn and not na(ovnL) and low < ovnL[1]
+    tONL := true
+if rthOn and not na(ovnH) and high > ovnH[1]
+    tONH := true
+if after5 and not na(lonL) and low < lonL
+    tLNL := true
+if after5 and not na(lonH) and high > lonH
+    tLNH := true
+if sweptL
+    sslBar := bar_index
+    sslExt := low
+else if not na(sslBar) and low < sslExt
+    sslExt := low
+if sweptH
+    bslBar := bar_index
+    bslExt := high
+else if not na(bslBar) and high > bslExt
+    bslExt := high
+lSweep = not na(sslBar) and bar_index - sslBar <= armBars
+sSweep = not na(bslBar) and bar_index - bslBar <= armBars
+
+// untaken swing points (targets, equal highs/lows)
+ph = ta.pivothigh(high, pivLen, pivLen)
+pl = ta.pivotlow(low, pivLen, pivLen)
+var array<float> phs = array.new_float()
+var array<float> pls = array.new_float()
+if not na(ph)
+    array.push(phs, ph)
+    if array.size(phs) > 80
+        array.shift(phs)
+if not na(pl)
+    array.push(pls, pl)
+    if array.size(pls) > 80
+        array.shift(pls)
+if array.size(phs) > 0
+    for i = array.size(phs) - 1 to 0
+        if high > array.get(phs, i)
+            array.remove(phs, i)
+if array.size(pls) > 0
+    for i = array.size(pls) - 1 to 0
+        if low < array.get(pls, i)
+            array.remove(pls, i)
+f_above(array<float> a, float px) =>
+    float best = na
+    if array.size(a) > 0
+        for i = 0 to array.size(a) - 1
+            v = array.get(a, i)
+            if v > px and (na(best) or v < best)
+                best := v
+    best
+f_below(array<float> a, float px) =>
+    float best = na
+    if array.size(a) > 0
+        for i = 0 to array.size(a) - 1
+            v = array.get(a, i)
+            if v < px and (na(best) or v > best)
+                best := v
+    best
+f_equal(array<float> a, float px, float tol, bool above) =>
+    bool found = false
+    if array.size(a) > 1
+        for i = 0 to array.size(a) - 1
+            vi = array.get(a, i)
+            if (above ? vi > px : vi < px) and i < array.size(a) - 1
+                for j = i + 1 to array.size(a) - 1
+                    if math.abs(array.get(a, j) - vi) <= tol
+                        found := true
+    found
+
+// last opposite FVG + any volume imbalance inside the 3-bar pattern (body gap between neighbours)
+var float bTop = na
+var float bBot = na
+var int   bBar = na
+var float uTop = na
+var float uBot = na
+var int   uBar = na
+bodyHi(k) => math.max(open[k], close[k])
+bodyLo(k) => math.min(open[k], close[k])
+if bar_index > 2 and high < low[2] and low[2] - high >= minGapTicks * tick
+    vi1 = bodyHi(1) < bodyLo(2) ? bodyLo(2) : na
+    vi0 = bodyHi(0) < bodyLo(1) ? bodyLo(1) : na
+    bTop := math.max(low[2], nz(vi1, low[2]), nz(vi0, low[2]))
+    bBot := high
+    bBar := bar_index
+if bar_index > 2 and low > high[2] and low - high[2] >= minGapTicks * tick
+    vi1 = bodyLo(1) > bodyHi(2) ? bodyHi(2) : na
+    vi0 = bodyLo(0) > bodyHi(1) ? bodyHi(1) : na
+    uTop := low
+    uBot := math.min(high[2], nz(vi1, high[2]), nz(vi0, high[2]))
+    uBar := bar_index
+rng  = high - low
+disp = rng > 0 and math.abs(close - open) / rng >= dispMin
+longInv  = not na(bTop) and bar_index > bBar and bar_index - bBar <= gapAge and close > bTop and close > open and disp
+shortInv = not na(uBot) and bar_index > uBar and bar_index - uBar <= gapAge and close < uBot and close < open and disp
+lInvLvl = bBot
+sInvLvl = uTop
+if not na(bTop) and close > bTop
+    bTop := na
+if not na(uBot) and close < uBot
+    uBot := na
+
+// dealing range and location
+rHi = rngMode == "Session (since 18:00)" ? sesH : math.max(sesH, nz(pdh, sesH))
+rLo = rngMode == "Session (since 18:00)" ? sesL : math.min(sesL, nz(pdl, sesL))
+loc = rHi > rLo ? (close - rLo) / (rHi - rLo) : 0.5
+chopN = 6
+chopIdx = (math.sum(high - low, chopN)[1]) / math.max(ta.highest(high, chopN)[1] - ta.lowest(low, chopN)[1], tick)
+f_grade(bool sw, float l) =>
+    // l = location from the trade's side: 0 = deep discount for a long / deep premium for a short
+    string g = ""
+    if chopIdx >= chopMax
+        g := "B"
+    else if l >= discMax and l <= midMax
+        g := "A-"
+    else if sw and l < discMax
+        g := "A+"
+    else if sw or l < discMax
+        g := "A"
+    else
+        g := "C"
+    g
+gradeOK(string g) =>
+    gradeSel == "All" or g == gradeSel or (gradeSel == "A+ or A" and (g == "A+" or g == "A")) or (gradeSel == "A+/A/A-" and (g == "A+" or g == "A" or g == "A-"))
+
+// run-1 filters + P7
+ovnOK = not useFilt or not inSess(amS) or (ovnH - ovnL) <= ovnPts
+var float dataH = na
+var float dataL = na
+avgR = ta.sma(high - low, 20)[1]
+if newDay
+    dataH := na
+    dataL := na
+if inSess("0830-0831") and (high - low) >= newsMult * avgR
+    dataH := high
+    dataL := low
+if not na(dataH) and inSess("0831-1600")
+    if high > dataH
+        dataH := na
+if not na(dataL) and inSess("0831-1600")
+    if low < dataL
+        dataL := na
+eqBelow = f_equal(pls, close, eqTolTicks * tick, false)
+eqAbove = f_equal(phs, close, eqTolTicks * tick, true)
+lFiltOK = ovnOK and (not useFilt or (not eqBelow and not tPDH)) and (not useP7 or (not eqBelow and na(dataL)))
+sFiltOK = ovnOK and (not useFilt or (not eqAbove and not tPDL)) and (not useP7 or (not eqAbove and na(dataH)))
+
+// signals
+ll5 = ta.lowest(low, 5)
+hh5 = ta.highest(high, 5)
+lSL   = (lSweep ? math.min(sslExt, ll5) : ll5) - bufTicks * tick
+lDist = close - lSL
+lT1   = f_above(phs, close)
+lRun  = not na(pdh) and pdh > close + scaleR * lDist ? pdh : (na(lT1) ? na : f_above(phs, lT1))
+lQty  = lDist > 0 ? math.min(math.floor(riskUSD / (lDist * pv)), maxQty) : 0
+lGrade = f_grade(lSweep, loc)
+sSL   = (sSweep ? math.max(bslExt, hh5) : hh5) + bufTicks * tick
+sDist = sSL - close
+sT1   = f_below(pls, close)
+sRun  = not na(pdl) and pdl < close - scaleR * sDist ? pdl : (na(sT1) ? na : f_below(pls, sT1))
+sQty  = sDist > 0 ? math.min(math.floor(riskUSD / (sDist * pv)), maxQty) : 0
+sGrade = f_grade(sSweep, 1 - loc)
+longOK  = inWin and longInv and lQty >= 1 and gradeOK(lGrade) and lFiltOK
+shortOK = inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and sFiltOK
+f_tag(string side, string g, float l, bool sw, float runR) =>
+    side + "|" + g + "|l" + str.tostring(math.round(l * 100)) + "|s" + (sw ? "1" : "0") + "|h" + str.tostring(chopIdx, "#.##") + "|r" + (na(runR) ? "na" : str.tostring(runR, "#.#"))
+
+var int   nDay = 0
+var int   nLoss = 0
+var float invLvl = na
+var float t1 = na
+var float runT = na
+var float entryPx = na
+var float riskPts = na
+var int   qty0 = 0
+var bool  beSet = false
+lastBar = session.islastbar
+if newDay
+    nDay := 0
+    nLoss := 0
+if strategy.closedtrades > strategy.closedtrades[1]
+    for i = strategy.closedtrades[1] to strategy.closedtrades - 1
+        if strategy.closedtrades.profit(i) < 0 and strategy.closedtrades.exit_time(i) >= time("D")
+            nLoss += 1
+f_place(string id, int dir, int q, float sl, float runTarget, float d) =>
+    tp1 = close + dir * scaleR * d
+    q1 = q >= 2 ? math.max(1, math.round(q * scaleFrac)) : q
+    strategy.exit(id + "a", id, qty=q1, stop=sl, limit=tp1)
+    if q - q1 > 0
+        strategy.exit(id + "b", id, qty=q - q1, stop=sl, limit=runTarget)
+if barstate.isconfirmed
+    canTrade = strategy.position_size == 0 and nDay < maxDay and nLoss < maxLoss and not lastBar
+    if canTrade and longOK and not (shortOK and bslBar > sslBar)
+        strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist))
+        f_place("L", 1, lQty, lSL, nz(lRun, close + 3 * lDist), lDist)
+        invLvl := lInvLvl
+        t1 := lT1
+        runT := nz(lRun, close + 3 * lDist)
+        entryPx := close
+        riskPts := lDist
+        qty0 := lQty
+        beSet := false
+        nDay += 1
+    else if canTrade and shortOK
+        strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sGrade, 1 - loc, sSweep, na(sRun) ? na : (close - sRun) / sDist))
+        f_place("S", -1, sQty, sSL, nz(sRun, close - 3 * sDist), sDist)
+        invLvl := sInvLvl
+        t1 := sT1
+        runT := nz(sRun, close - 3 * sDist)
+        entryPx := close
+        riskPts := sDist
+        qty0 := sQty
+        beSet := false
+        nDay += 1
+    // BE once the first internal high/low is tagged or the scale has filled
+    if strategy.position_size > 0 and not beSet and ((not na(t1) and high >= t1) or strategy.position_size < qty0)
+        q1 = qty0 >= 2 ? math.max(1, math.round(qty0 * scaleFrac)) : qty0
+        if qty0 - q1 > 0
+            strategy.exit("Lb", "L", qty=qty0 - q1, stop=strategy.position_avg_price, limit=runT)
+        if strategy.position_size == qty0
+            strategy.exit("La", "L", qty=q1, stop=strategy.position_avg_price, limit=strategy.position_avg_price + scaleR * riskPts)
+        beSet := true
+    if strategy.position_size < 0 and not beSet and ((not na(t1) and low <= t1) or math.abs(strategy.position_size) < qty0)
+        q1 = qty0 >= 2 ? math.max(1, math.round(qty0 * scaleFrac)) : qty0
+        if qty0 - q1 > 0
+            strategy.exit("Sb", "S", qty=qty0 - q1, stop=strategy.position_avg_price, limit=runT)
+        if math.abs(strategy.position_size) == qty0
+            strategy.exit("Sa", "S", qty=q1, stop=strategy.position_avg_price, limit=strategy.position_avg_price - scaleR * riskPts)
+        beSet := true
+    if strategy.position_size > 0 and not na(invLvl) and close < invLvl
+        strategy.close_all(comment="close thru")
+    if strategy.position_size < 0 and not na(invLvl) and close > invLvl
+        strategy.close_all(comment="close thru")
+    if strategy.position_size != 0 and (inSess("1200-1201") or inSess("1554-1556"))
+        strategy.close_all(comment="time")
+    if lastBar and strategy.position_size != 0
+        strategy.close_all(comment="session end", immediately=true)

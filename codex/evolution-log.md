@@ -315,3 +315,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   and his A+/A/A−/B grade; (2) test whether A/A+ alone carries the record and how often it occurs (≥ 3/week?);
   (3) test the equal-highs / data-wick no-short rule (P7), which cost him on both 2026 NFP streams audited today.
 - **Maker:** not yet reviewed.
+
+## 2026-11-23 · P8 his grades, P7 equal-highs rule
+- **Learned ✓ (price):** his A+/A/A−/B scale, coded (`tools/pine/izzy_grades.pine`), has no edge on MNQ. 5m AM A+
+  PF 0.93 / 0.81; on 5m the order is reversed (B best, 1.00 / 1.14). 1m A+ 1.10 then 0.75, about 4.7 a week, so his
+  "4–5 A+ a week" frequency is right but the edge isn't there. His filters and the PM window don't fix it. P7 as
+  coded (any untaken equal pair / 08:30 spike wick) helps one half, hurts the other. Claims 20 ✗, 21 ✗ (coding caveats).
+- **Decided ~:** the grade labels aren't what makes his stream record. Before more backtests, blind-label his audited
+  takes/skips with this grader to check my coding matches his calls. Then a tighter P7 (nearby equal pair, real
+  CPI/NFP dates) and his dealing-range definition.
+- **Maker:** requested P8 then P7 (relayed); results pending review. Branch izzy/p8-grades-2026-11-23, not merged.
