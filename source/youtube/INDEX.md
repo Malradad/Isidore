@@ -134,3 +134,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240816 | pnYWkikRbXc | Why FVGs Don't Work For You | captions | done |
 | 20240814 | IlTBW6poSxQ | This Liquidity Pool Has a 90% Winrate! | captions | done |
 | 20240809 | X48F_bYzWOk | How I made $10,000 profit using Inversion FVGs | captions | done |
+| 20240808 | lVX67RYizV8 | When to AVOID Trading for ICT Traders | captions | done |
