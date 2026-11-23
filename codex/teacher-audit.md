@@ -55,6 +55,9 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-03-06 YKRoRbq1BTU | 09:34:48 | 30s/1m | S | **real** | after the death-candle close | → BE | ? | **TP ~+1R**, then "done for the day" | ~+1 | — | NFP day; bearish hourly inversion; "I like taking trades off speed… a slow open I don't trade" |
 | 2026-06-05 f4LM3kNzquo | 08:38:02 (add 08:43:56) | 30s → 1m CISD | L | funded, then full size live | ~30,058 ~ / add ~30,072 ~ | 30,053.50 ~ (below the 30,052 sweep) | data wick high 30,151.75 ~ | **partials at first high + CE (0.5) of the data wick, rest BE: live ≈ +$600, funded 0** | ~+0.5 ~ | ✓px (15m) stalled under the data high (08:45 high 30,135.50), CE ≈30,112 reached, low 30,053.50 = his stop line, fell through at 09:00 — matches his BE account | NFP day; sellside swept after the news candle; long toward the data wick; "start of the killzone" (before the open) |
 | 2026-02-11 8wgnYYcVHuc | 08:52:49 | 15m/5m | L | **funded only** (no live) | ~25,384.75 ~ | ~25,308.25 ~ (77 pts, "massive") | PDH / buyside 25,513.25 ~ | **BE** (moved to BE before the open, stopped 09:35) | 0 | ✓px (15m) max +80 pts (25,465.25, ≈ +1R) then BE hit 09:30–09:45; the original stop was taken 09:45 (low 25,290), so BE saved −1R; target never reached | NFP day; hourly gap held + 08:30 inversion; long bias to PDH. Bias wrong: equal highs, then −400 pts. "I'll probably regret longing here" |
+| 2024-10-30 JrAXEtFejNw | 09:55:57 | 2m/3m | L | eval (election week, 3 MNQ) | ~20,621 ~ | 20,570.25 ~ | 2 lots 20,673.25 ~, runner data highs | **BE after 10:00 news, 2/3 TP at 10:09, avg-up, rest BE** | ~+0.7 ~ | — (no intraday history that far back) | rated A−: discount, but too close to data lows + election week → eval only |
+| 2024-10-30 JrAXEtFejNw | 10:56:35 | 30s | L | eval ("educational", 4 MNQ) | ~20,661 ~ | 20,644.75 ~ | protected high ~20,697 ~ | **stop** (trend-line rejection) | −1 ~ | — | **rated B in advance**: "to show you this is not a great trade" — the B lost |
+| 2024-10-30 JrAXEtFejNw | 11:24:22 | 1m/2m | L | eval (5 MNQ) | 20,647.00 ~ | 20,623.25 ~ | 3 lots 1.5R ≈20,683 ~, then protected high | **3/5 at 1.5R, rest BE** | ~+0.9 ~ | — | rated A−: re-manipulated below the new engineered sell side; after his window (11:24) |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -86,6 +89,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-06-05 f4LM3kNzquo | (N) NFP "passing method" on 3 Apex evals (long one, short one, buy-stop + sell-stop on the third) | **not filled** ("only a 30-point candle"); unclear if real orders |
 | 2026-06-05 f4LM3kNzquo | (P) three 1-micro shorts after 10:00 "for fun" ("Please do not actually take this trade"; "a B setup… just gambling") · (O) NQ puts a month out, no stop, target NWOG | **3 losses:** −$67, ≈ −$95 ~, ≈ −$131 ~ (✓px 15m: both readable stops traded through before the targets) · puts: open |
 | 2026-02-11 8wgnYYcVHuc | (N) NFP "passing method": hedge across 3 Apex evals (long one, short one, stops on the third) + buy/sell stops on Topstep, 10 minis, "a hundred percent gambling" | **passed 2 Apex**; Topstep ≈ +$1,300–1,500 per account (his) |
+| 2024-10-30 JrAXEtFejNw | (P) two 1-micro eval tries after "I'm done for the day" ("so if I lose I'm still green") · (O) SMCI stock investment, ~$5K, below a monthly FVG | manual exit small loss (no volume-imbalance close) + BE · SMCI −25–30% that day |
 
 ## Skips (with what happened next)
 | stream | market time (NY) | tf | side | his reason | what price did ~ |
@@ -183,10 +187,18 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-02-11 8wgnYYcVHuc | 10:15:11 | 3m | L | logged off: "no trade day"; 1m too small for the dump | BE/loss in his recap ~ |
 | 2026-02-11 8wgnYYcVHuc | 10:22:09 | 30s | ? | eval play, "horrible-ass close" | — |
 | 2026-02-11 8wgnYYcVHuc | 09:11:24 | 1m/2m | S (gold) | alerted only; take not said | BE (his) |
+| 2024-10-30 JrAXEtFejNw | 08:48:55 | — | S | data high above ("extremely strong magnet"), mid-range, A− | — |
+| 2024-10-30 JrAXEtFejNw | 09:00:06 | 2m/3m | L | no instant inversion; two FVGs, both must break | — |
+| 2024-10-30 JrAXEtFejNw | 09:09:24 | 30s | L | A−; wanted the 5m to invert first | — |
+| 2024-10-30 JrAXEtFejNw | 09:12:06 | 5m | L | chat-poll yes (C), but no close = no trade | no trigger |
+| 2024-10-30 JrAXEtFejNw | 09:35:41 | 30s | L | A−, dumping too hard; "too low to short down here" | — |
+| 2024-10-30 JrAXEtFejNw | 10:53:50 | 30s/1m | L | protected high: no long until sell side is taken | (took the next one at 10:56 anyway; lost) |
+| 2024-10-30 JrAXEtFejNw | 11:54:12 | 15s | L | no close | — |
+| 2024-10-30 JrAXEtFejNw | 12:08:33 | 15s/30s | L | no close | price fell (his) — the close rule saved him |
 
 ## Running score
-- Streams audited: **35 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 44 → 23 wins (2 small), 10 breakeven, 11 losses** (his words; 7 ✓px, two on 15m bars only) ·
-  Skips: 96 (+4 in the gamble stream) · Price-checked: 7 of 44. Avg ≈ +0.53R per take ~ (≈ +16.5R total).
+- Streams audited: **36 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 47 → 25 wins (2 small), 10 breakeven, 12 losses** (his words; 7 ✓px, two on 15m bars only) ·
+  Skips: 104 (+4 in the gamble stream) · Price-checked: 7 of 47. Avg ≈ +0.5R per take with readable levels ~ (≈ +17R total).
 - (P) for-fun micros after his window: 5 Jun 2026 went 0W/3L, cutting a +$600 day to ≈ +$300 (his account).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
 - (N) news straddles: 4 (3 "passed", 1 not filled) · (G) eval gamble: 4 accounts blown, 1 passed.
@@ -222,6 +234,12 @@ Three kinds of trading appear on stream; only (A) is his playbook:
   a would-be −1R into 0, and he skipped every short because of equal highs above. "Where I go break even saves me"
   ✓px here. Cost: the rule-skipped shorts ran ~300 pts. Third stream where the equal-highs / data-wick rule skips a big winner
   (5 Jun ×2, 11 Feb ×2) — P7 must test it, not assume it.
+- **His own grades predict (30 Oct 2024):** called two longs A− and one B before entry; both A− won (partials
+  at ~1R/1.5R, rest BE), the B lost. Grade scale (his words): A+ = sweep + FVG + discount/premium; A = one missing;
+  A− = mid-range; B = chop or a protected-high target, "I don't take B setups on a live account". Election week =
+  eval only. Worth labeling every audited take with his grade and testing whether A/A+ alone carries the edge.
+- **The close rule saves him repeatedly:** "no close, no trade" skipped 4 setups that day, at least one of
+  which fell; and the IFVG needs a close through *both* the FVG and the volume imbalance.
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.

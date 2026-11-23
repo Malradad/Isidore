@@ -282,3 +282,16 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Noted:** straddle/hedge "passing method" again (passed 2 Apex); 15s timeframe he does not trade; "Lewis low"
   = a data low that isn't a swing low, lower probability.
 - **Maker:** not yet reviewed.
+
+## 2026-11-23 · Audit 36 of 37: 30 Oct 2024, election week (JrAXEtFejNw)
+- **Playbook (eval micros only, election week):** two A− longs won (partials at ~1R and 1.5R, rest BE); the one he
+  graded B in advance lost. Then two 1-micro tries after "done for the day" (small loss, BE), logged as (P).
+  Record 47 → 25W/10BE/12L. No price check possible: intraday history on this feed starts in 2026.
+- **Learned ~:** his pre-trade grade looks predictive (A− won, B lost). His scale is now explicit: A+ = sweep + FVG +
+  discount/premium, A = one missing, A− = mid-range, B = chop or protected-high target. Next labeling pass: grade every
+  take and see whether A/A+ alone carries his record. This also points at the ≥3 trades/week question: A/A+ is
+  "four or five a week" in his words — a claim to test.
+- **Rule details:** an IFVG is valid only after a close through both the FVG and the volume imbalance; BE when price
+  stalls at internal highs ("60% of the time it comes back to my stop"); no trailing; a protected high needs
+  re-manipulation before it is a target; uncertain weeks → trend lines are respected.
+- **Maker:** not yet reviewed.
