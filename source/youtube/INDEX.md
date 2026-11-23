@@ -96,3 +96,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250326 | pDuYfau3qmI | How I made $6,969 in ONE DAY Trading My BEST ICT Strategy | captions | done |
 | 20250324 | OIWxvbwFsFU | Step-by-Step Breakdown of My 4R Trade Today (Super Simplified iFVGs) | captions | done |
 | 20250323 | gKm9LlVpT3s | How I Discovered iFVGs (Did I Invent Them？) | captions | done |
+| 20250319 | 5TxTJlmsQ24 | I Took 5 Losses in a Row for the First Time Ever Lol | whisper | done |
