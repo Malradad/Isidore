@@ -14,7 +14,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-08-12 | MHyNCqLCI7k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 2h46m | 4 (paper CPI straddle −$10.7k; paper long TP; 2 funded: short "30k level", long BE; no live futures) | 6 | done |
 | 2026-08-07 | qbHHGoPD6Yc | NFP Special Live Trading NQ/ES/GOLD - DodgysDD Live From Las Vegas! | 2h30m | 1 (news straddle on competition acct, +$246; no live) | 8 | done |
 | 2026-07-14 | nE8GE9YBd8k | CPI LIVE Trading ICT Concepts NQ/ES/GOLD - DodgysDD | 3h9m | 4 (paper CPI straddle; 1 live 2m long −0.5R; 2 funded micros, net ~0) | 6 | done |
-| 2026-06-05 | f4LM3kNzquo | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 3h30m | | | transcript + meta; trade log todo |
+| 2026-06-05 | f4LM3kNzquo | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 3h30m | 1 (+1 add) + 3 micro "for fun" | 9 | done |
 | 2026-05-31 | 8F91svfKM10 | Weekly Outlook NQ Futures | 0h26m | 0 | 0 | no-trading (weekly outlook + replay backtests) |
 | 2026-04-03 | jOmHQ7INwFw | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 1h4m | 1 (NFP straddle on ~20 Apex evals, TP; market closed 09:15) | 0 (+3 recap skips) | done |
 | 2026-03-11 | Lprbu9HeOCI |  CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h43m | 4 (paper CPI straddle; 3 Lucid-eval MNQ trades by chat poll: −$167, partial+BE, BE) | 3 | done |
