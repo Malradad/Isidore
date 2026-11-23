@@ -141,3 +141,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240713 | 2h2tHWLYkQA | How to trade Market Maker Models (the easy way) | whisper | done |
 | 20240705 | TL7mPEDO0rU | Top 3 ICT Entry Models (easiest way to trade ICT) | captions | done |
 | 20240702 | tTrVIwiJO1M | 3 Easiest ICT Entry Models (copy this) | captions | done |
+| 20240625 | LQo0WY-AJaU | MSS vs Liquidity Sweep (avoid bad trades) | captions | done |
