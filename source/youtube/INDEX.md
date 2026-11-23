@@ -175,3 +175,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240327 | Hh1b4esmsAQ | What is an iFVG？ | captions | done |
 | 20240324 | QnKifGjSHuQ | My Subscribers Share Their Losses! | captions | done |
 | 20240321 | peAgR_CA80I | REAL Trading from a REAL Trader ｜ Not Entertainment ｜ ICT Concepts | captions | done |
+| 20240319 | zBmDsWQIv1I | How to Transform from Beginner to Professional Trader | captions | done |
