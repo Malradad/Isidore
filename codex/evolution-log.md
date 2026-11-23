@@ -343,3 +343,10 @@ _Session entries: date · what was learned · decision · maker response · perf
   takes/skips with this grader to check my coding matches his calls. Then a tighter P7 (nearby equal pair, real
   CPI/NFP dates) and his dealing-range definition.
 - **Maker:** requested P8 then P7 (relayed); results pending review. Branch izzy/p8-grades-2026-11-23, not merged.
+- **Addendum (relayed, same day) ✓ (price):**
+  - His 10-point candle-closure score has no order: ≥ 9 PF 1.10 / 0.86, 8 0.68 / 0.81, ≤ 7 0.91 / 1.04 (claim 22 ✗).
+  - First A+/A of the day = all A+/A on 5m (0.89 / 0.87); 1m 1.13 → 0.65 (claim 20 ✗ on price).
+  - Frequencies roughly match his (claim 23 ~).
+  - P7 with the data-wick override is the only P7 version better than no rule in both halves (0.90 / 0.98 vs
+    0.86 / 0.92), still < 1 (claim 24 ~).
+- **Decided ~:** stop grade backtests. Next is blind-labelling his audited setups with the grader and score.

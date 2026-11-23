@@ -9,7 +9,8 @@
 // Stop: close back through the inversion (hard stop beyond the sweep extreme / recent swing, sizes the trade).
 // Management: scale `scaleFrac` at `scaleR` R, stop to BE once price tags the first internal high/low or the scale
 // fills, runner to the next pool (PDH/PDL or the next untaken swing), flat at 12:00 / 15:55 and session end. Costs as v0.4.
-// Every entry comment logs: side|grade|loc|sweep|chop|R-to-runner.  Simulation only; not the live strategy.
+// Every entry comment logs: side|grade|k score/10|loc|sweep|chop|gap pts|R-to-runner. v3: his candle-closure score,
+// P7 data-wick override (claim 24). First-setup-of-day = Max trades per day 1.  Simulation only; not the live strategy.
 strategy("Izzy P8 grades", shorttitle="Izzy grades", overlay=true,
      initial_capital=50000, currency=currency.USD,
      default_qty_type=strategy.fixed, default_qty_value=1,
@@ -41,8 +42,10 @@ useFilt    = input.bool(false, "Use the run-1 filters (a, c, d)", group=G2)
 ovnPts     = input.float(200, "a. skip NY AM if overnight range > N pts", group=G2)
 eqTolTicks = input.int(8, "d. equal tolerance (ticks)", group=G2)
 G3 = "P7"
-useP7      = input.bool(false, "P7: no short with equal highs / data high above; no long with equal lows / data low below", group=G3)
+p7Mode     = input.string("Off", "P7: no short with equal highs / data high above (long: lows / data low below)", options=["Off", "Strict", "Data-wick override"], group=G3)
 newsMult   = input.float(1.5, "08:30 bar range >= x * avg = data candle", step=0.1, group=G3)
+G4 = "Candle-closure score (his /10)"
+scoreSel   = input.string("All", "Score band", options=["All", ">=9", "8", "<=7"], group=G4)
 
 tick = syminfo.mintick
 pv   = syminfo.pointvalue
@@ -204,6 +207,12 @@ longInv  = not na(bTop) and bar_index > bBar and bar_index - bBar <= gapAge and 
 shortInv = not na(uBot) and bar_index > uBar and bar_index - uBar <= gapAge and close < uBot and close < open and disp
 lInvLvl = bBot
 sInvLvl = uTop
+lEdge = bTop
+sEdge = uBot
+lGapPts = bTop - bBot
+sGapPts = uTop - uBot
+lAge = bar_index - bBar
+sAge = bar_index - uBar
 if not na(bTop) and close > bTop
     bTop := na
 if not na(uBot) and close < uBot
@@ -229,6 +238,16 @@ f_grade(bool sw, float l) =>
     else
         g := "C"
     g
+// his candle-closure score: strength /4 (body vs wicks), speed /3 (candles to invert, chop before), RR /3 (close near the inverted edge)
+bodyFrac = rng > 0 ? math.abs(close - open) / rng : 0.0
+f_score(float edge, int age) =>
+    st = bodyFrac >= 0.85 ? 4 : bodyFrac >= 0.7 ? 3 : bodyFrac >= 0.55 ? 2 : bodyFrac >= 0.4 ? 1 : 0
+    sp = age <= 2 and chopIdx < 2.2 ? 3 : age <= 4 and chopIdx < 2.6 ? 2 : age <= 7 ? 1 : 0
+    beyond = rng > 0 and not na(edge) ? math.abs(close - edge) / rng : 1.0
+    rr = beyond <= 0.25 ? 3 : beyond <= 0.5 ? 2 : beyond <= 0.75 ? 1 : 0
+    st + sp + rr
+scoreOK(int sc) =>
+    scoreSel == "All" or (scoreSel == ">=9" and sc >= 9) or (scoreSel == "8" and sc == 8) or (scoreSel == "<=7" and sc <= 7)
 gradeOK(string g) =>
     gradeSel == "All" or g == gradeSel or (gradeSel == "A+ or A" and (g == "A+" or g == "A")) or (gradeSel == "A+/A/A-" and (g == "A+" or g == "A" or g == "A-"))
 
@@ -251,8 +270,10 @@ if not na(dataL) and inSess("0831-1600")
         dataL := na
 eqBelow = f_equal(pls, close, eqTolTicks * tick, false)
 eqAbove = f_equal(phs, close, eqTolTicks * tick, true)
-lFiltOK = ovnOK and (not useFilt or (not eqBelow and not tPDH)) and (not useP7 or (not eqBelow and na(dataL)))
-sFiltOK = ovnOK and (not useFilt or (not eqAbove and not tPDL)) and (not useP7 or (not eqAbove and na(dataH)))
+lP7 = p7Mode == "Off" or (not eqBelow and na(dataL)) or (p7Mode == "Data-wick override" and not na(dataH))
+sP7 = p7Mode == "Off" or (not eqAbove and na(dataH)) or (p7Mode == "Data-wick override" and not na(dataL))
+lFiltOK = ovnOK and (not useFilt or (not eqBelow and not tPDH)) and lP7
+sFiltOK = ovnOK and (not useFilt or (not eqAbove and not tPDL)) and sP7
 
 // signals
 ll5 = ta.lowest(low, 5)
@@ -269,10 +290,12 @@ sT1   = f_below(pls, close)
 sRun  = not na(pdl) and pdl < close - scaleR * sDist ? pdl : (na(sT1) ? na : f_below(pls, sT1))
 sQty  = sDist > 0 ? math.min(math.floor(riskUSD / (sDist * pv)), maxQty) : 0
 sGrade = f_grade(sSweep, 1 - loc)
-longOK  = inWin and longInv and lQty >= 1 and gradeOK(lGrade) and lFiltOK
-shortOK = inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and sFiltOK
-f_tag(string side, string g, float l, bool sw, float runR) =>
-    side + "|" + g + "|l" + str.tostring(math.round(l * 100)) + "|s" + (sw ? "1" : "0") + "|h" + str.tostring(chopIdx, "#.##") + "|r" + (na(runR) ? "na" : str.tostring(runR, "#.#"))
+lScore = f_score(lEdge, lAge)
+sScore = f_score(sEdge, sAge)
+longOK  = inWin and longInv and lQty >= 1 and gradeOK(lGrade) and scoreOK(lScore) and lFiltOK
+shortOK = inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and scoreOK(sScore) and sFiltOK
+f_tag(string side, string g, float l, bool sw, float runR, int sc, float gap) =>
+    side + "|" + g + "|k" + str.tostring(sc) + "|l" + str.tostring(math.round(l * 100)) + "|s" + (sw ? "1" : "0") + "|h" + str.tostring(chopIdx, "#.##") + "|g" + str.tostring(math.round(gap)) + "|r" + (na(runR) ? "na" : str.tostring(runR, "#.#"))
 
 var int   nDay = 0
 var int   nLoss = 0
@@ -300,7 +323,7 @@ f_place(string id, int dir, int q, float sl, float runTarget, float d) =>
 if barstate.isconfirmed
     canTrade = strategy.position_size == 0 and nDay < maxDay and nLoss < maxLoss and not lastBar
     if canTrade and longOK and not (shortOK and bslBar > sslBar)
-        strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist))
+        strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist, lScore, lGapPts))
         f_place("L", 1, lQty, lSL, nz(lRun, close + 3 * lDist), lDist)
         invLvl := lInvLvl
         t1 := lT1
@@ -311,7 +334,7 @@ if barstate.isconfirmed
         beSet := false
         nDay += 1
     else if canTrade and shortOK
-        strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sGrade, 1 - loc, sSweep, na(sRun) ? na : (close - sRun) / sDist))
+        strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sGrade, 1 - loc, sSweep, na(sRun) ? na : (close - sRun) / sDist, sScore, sGapPts))
         f_place("S", -1, sQty, sSL, nz(sRun, close - 3 * sDist), sDist)
         invLvl := sInvLvl
         t1 := sT1
