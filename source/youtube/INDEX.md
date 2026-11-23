@@ -167,3 +167,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240424 | _MZd1aiiENA | Risk Management Framework ｜ Bootcamp Ep. 15 | whisper | done |
 | 20240423 | TWyEkbDky1U | Retail Concepts + Liquidity ｜ Bootcamp Ep. 14 | whisper | done |
 | 20240422 | gWMFkZ5ZjOg | Trading using Volume ｜ Bootcamp Ep. 13 | captions | done |
+| 20240418 | -aItyppGRSk | Trading with Discipline ｜ Bootcamp Ep. 11 | whisper | done |
