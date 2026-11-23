@@ -1,0 +1,112 @@
+[00:00:00] What is going on, we are back with a risk management video for the bootcamp and this is the last video before I finally, finally, finally get into what you should actually
+[00:00:12] be trading with, how you should be trading and how the market really moves. So the reason why I'm doing this video before any of that is because you will not understand that you cannot be profitable if you do not understand this video.
+[00:00:24] management is everything, and you need to understand how risk management works to be profitable.
+[00:00:31] So if you don't under use trading view, what you should already be using, there's basically something called a long position tool and a short position tool, and this is what you should do to calculate your risk.
+[00:00:41] So let's say I want to take a short here, okay? You just click that, you draw this, and basically this line is the entry, this is going to be the stop loss, this is going to be the take profit.
+[00:00:53] And I'm using an EMA to show the wrist manager what I want to try to do. And like I said in the previous video before, I could go back to using indicators and be
+[00:01:04] profitable because of wrist management. So let's say I want to take a short position because we close under this EMA and I think oh, because we close under the EMA, we're going to go down.
+[00:01:14] So what I want to do is I want to take a short entry when we tap the EMA again. Now typically for most stop losses, for anything you take, your stop should be above the higher
+[00:01:25] low. So the swing higher swing low. Don't get it confused with this high. This is not a swing high right here because there's a lower high, lower high, lower high.
+[00:01:37] This is a swing high because it's a lower high, higher high, and then a lower high. It's just like that three-cannal formation.
+[00:01:45] So don't get confused with that. So your stop loss should be above the most recent swing high, which would be here. So let's say I want to take a short here, and this is going to be the entry, and let's
+[00:01:56] say I want to target a one to one R, meaning the stop loss size is the same as the take profit size.
+[00:02:06] Now if you're going to take a one to one trade, you need to see this diagram. And this is the most important diagram you will ever look at regarding risk management.
+[00:02:18] I know it seems a little daunting first, but let me show you how to read it. So basically, this is called the risks reward versus the win rate, meaning it tells you if you have a so-and-so win rate, it tells you what risks reward you need to be profitable.
+[00:02:36] So basically starting off, if you have a 50% win rate, you need at least a one-to-one risk award to be break even.
+[00:02:47] Okay. So here's a one-to-one risk award. This is what is drawn in the chart right now. This is a one-to-one. So to be break even, you need a 50% win rate at a one-to-one.
+[00:02:57] Okay. Now, if you want to be profitable, okay, keyword profitable, taking one-to-one our trades. You need a 60% win rate, 70% win rate, 80% win rate,
+[00:03:08] or a 90% win rate to be profitable. Okay, so do you see how that works? So again, you can see for a nine-to-one our trade,
+[00:03:25] you need to have a 90% win rate to be profitable. Okay, if this means if you have any lower, then you're not gonna be profitable.
+[00:03:32] Now for a one to nine meaning something like this, this is a one to nine would be something like this.
+[00:03:41] You need at least a 10% win rate to be possible or profitable.
+[00:03:47] Now this is very hard to do. And you're probably wondering, well why wouldn't you just do this and try 10 attempts? It's just very hard, I will not recommend this.
+[00:03:55] But basically it's just, it's pointing out that you need to be profitable. you need at least a 20% win rate, okay, for a nine hour play. So I'm gonna start with just going over one to one
+[00:04:09] and two to one R. So here's one to one, here's two to one. And I don't really like,
+[00:04:17] I wish these numbers were switched around, this should be the opposite. But here's a one R and here's two R. I personally like and believe that the most profitable traders
+[00:04:27] taking one to one R trades or one to two R trades, meaning their typical stop loss and their take profit is about going to be generally the same or their take profits generally going
+[00:04:40] to be double with their stop losses. So some are around here. Okay. And there's benefits to both. But here's, here's the benefit to the one to one. The benefit to the one that
+[00:04:51] one R is a one-to-one R trade if I were to short here is not very difficult, meaning even if I'm wrong, we still could hate to take profit and then go back up because the take
+[00:05:04] profit's so short. So it's actually easier to get a 50% win rate or higher to be profitable, taking one-to-one than it then you think because there's some situations where again, if I'm taking a short
+[00:05:17] here. Okay, let's say I take a short here. We log into paper trading real quick. Like I could be wrong. If I take a short year, I could be wrong, like I said, but my take profit might
+[00:05:30] still hit. And then we might go up after that. So that's the beauty of taking one R. And with any solid edge strategy, it's very easy to have higher than a 50% win rate if you use a one to
+[00:05:43] one hour kind of method. Now, the downside to that is if your win rate isn't that high, it's like 60%. It's very hard to be
+[00:05:53] profitable with one to one hour. Okay. Now, I would say if you don't have as much of an edge, or if you're not as confident,
+[00:06:00] then one to one hour trades are going to work better for you. But if you have a very good edge, and your strategy is very good, which it should be by the end of this bootcamp, then go for
+[00:06:11] two to one hour trades. Here's why. If you're going for two to one hour trades, you only need a 40% win rate, which by the way, the technical term, it's actually a 33% win rate to break even. I've done
+[00:06:24] the show that here. You need a 34% or higher win rate to not be read or to be profitable. All right, now why is that important? Because if you truly have an edge in this market and by edge, I mean,
+[00:06:39] not buying off the EMA is because that's not an edge that's just gambling then you can very easily have a 2r you can very easily catch 2r trades you just need to win them more than 34% of the time
+[00:06:54] and 2r trades are very very attainable at least 50% of time you could have a 50% win rate for a 2R trade and be profitable. Now, here's the thing. A 50% win rate at a 2R is
+[00:07:10] profitable, which means what? Which means you could literally flip a coin and with any sort of edge you could be profitable. You could flip a coin if coin is 50/50.
+[00:07:20] But if you flip a coin and go for five 2R trades, you could be profitable just flipping a coin because of how risk the word works. And again, let's think about let's think about technicality here all right if I take one contract
+[00:07:33] short all right I just sell on contract my stop loss here let's say it's my stop loss let's say it's a hundred bucks so I lose hundred bucks now let's say I take
+[00:07:49] the same trade later down the road same con same number contracts seem everything but let's say it's a win so let's say this one's a loss but then
+[00:07:59] let's say this one's a win. I lost $100 here but then I gained $200 here so I'm still profitable even after one loss and one win with a one-to-one R if one loss
+[00:08:15] and one one you'd be a break even again because you lose a hundred here and gain a hundred here but if you're again if you're if you lose one here if you lose here you're losing $100 but you win here you're gaining $200 and that my friends
+[00:08:32] is the power of risk to reward and why risk to reward is so important because it's very attainable if you do have that edge to win 50% of the time or more attitude on our if you know what you're doing and you study hard enough and
+[00:08:46] again it's very very attainable so I would recommend going to this diagram and just type in win rate risk management and you can go there's a bunch more you
+[00:08:55] You can literally look at this, whatever's most easy for your read. But they're all going to tell you the same thing, the same thing, all right.
+[00:09:05] And that's so important. So when you're using this tool, okay, the short position tool or the long position tool, on trading view, okay, basically what you're going to want to do is if you want to get
+[00:09:19] in a position, you need to know how much you're willing to risk, okay, whether that be 100 by 200. And the typical risk on people's accounts is 1%. So if I just bring up a calculator,
+[00:09:36] the typical risk you will do is 1%. If I bring up a calculator, maybe let's say we're on a $50,000 account when I do times 0.01. So people would typically risk $500 on a $50,000 account.
+[00:09:52] okay and that's fine now for a prop firm account which i already went over i would actually do less than one percent i'd probably do probably zero point five percent so on a fifty thousand
+[00:10:06] dollar account on a prop firm account i'd probably do times 0.05 um oops i didn't mean to do that 50,000 times 0.005 equals 250.
+[00:10:21] So I'd risk $250 per trade on a $50,000 account. So let me just reset this real quick. Okay, let me just type in 50,000.
+[00:10:33] So let's say I'm on a $50,000, it's a prop firm account. It's fake money, this is a challenge. We need the past to get paid real money.
+[00:10:41] And I want to take a trade here. Well, you're going to right click this, you're gonna click create limit order. All right, and you're gonna do type in the risk
+[00:10:49] and we actually have to do this on the micros because this is gonna be too much for this. So, same thing on the micros.
+[00:10:56] We're gonna put a limit here, stop loss at the high and go for a two to one R, all right. We're gonna right click create limit order,
+[00:11:04] type in 250 because that's how much we can risk. And it allows us to risk five contracts. If I type in 270, it doesn't even bring it up.
+[00:11:14] If I type in 280, it doesn't bring it up. If I type in 290, it does allow us to risk six. But at 250, the highest amount is going to be five contracts.
+[00:11:24] So I just click sell there. And now I have a limit place, now has a stop loss, and now has a take profit.
+[00:11:31] So on a $50,000 account, if you're trading on a prop firm, I think a 0.5% risk is good.
+[00:11:40] And I think it's 0.5% risk is good on every account. But basically, if you lose a trade, you're losing 0.5% of your account.
+[00:11:49] Now, if you're on a live personal account, that basically means you could lose a lot of trades. You could lose 50 trades and still not even
+[00:11:58] get close to blowing up your account is what I'm trying to get out here. And basically, you would be risking 0.5% of your account here to make, which is $250 about in order to make 500.
+[00:12:15] So you could double your money and make 1% off of only risking 0.5%, which is very good. Okay, now, obviously the percentages are a little
+[00:12:28] different because as the count goes off, the percentage is gonna change, but you guys see what I mean. All right, so that's really important to understand.
+[00:12:38] Why because rich management is everything so? All you need to know how to deal is click rate limit order type in the risk you want to take which
+[00:12:49] This risk would be 250. It allows me to take five contracts, and that's what I do. I sell five contracts Okay
+[00:12:57] Now let's say I want to take a long here Same thing. Let's say I want to take a long Let's say I think this is a demand zone
+[00:13:04] Even though we don't trade demand zones and I want to take a long in the demand zone my stop losses below the demand One and I'm gonna target a two to two are right here
+[00:13:18] Okay, same thing right click create lemur by limit, okay, remember I taught you guys limited stop orders and I'm gonna do
+[00:13:29] 250 and allows us to take again five contracts. I'm just gonna click buy and now if price comes down and hits my entry It's gonna fill me it's gonna get me in the position and if it hits here
+[00:13:40] I'm gonna lose $232, but if it hits here, I'm gonna loot I'm gonna gain 464 And remember if I lost this trade and a 2r, but I won the next trade
+[00:13:52] Yeah, I'd understand that I would still be profitable And you're probably wondering well, how how can you be profitable with a 50% win rate? That's break even technically cuz of it Because the first award and where your take profit actually is compared to your stop loss, right?
+[00:14:08] 2r 2r So if this loss you'd be losing 1r and at this one you'd be gaining 2r What's the difference 1r because 2r minus 1r equals 1r?
+[00:14:22] So that's kind of how race manager works. I strongly recommend using these long and short position tools You definitely want to be using these and I think that's about it for this video
+[00:14:36] Just remember when you're trading what I teach in the following in the following videos I
+[00:14:45] Definitely change my wrist award a lot. I just don't if you're literally just strictly going for 2R That's very difficult, because depending on where we are in the market, there's going to be different targets.
+[00:14:59] For example, there's no point in me taking a 2R trade here, and holding, like, I do not want to hold passes high, because once you understand that the market should go for stop losses, which means highs and lows,
+[00:15:16] Holding for a 2R here is the gambling because you don't know if we're going to go above this high or not.
+[00:15:22] You know we're going to hit the high, right? You know we're going to hit the high, but for all you know, we could go like this. So the biggest thing when you are managing a risk is make sure you are targeting a meaningful
+[00:15:33] high or low. Almost all my targets are highs and lows with a few exceptions of just targeting for rally gaps only but 95% of my targets are all highs or lows okay so I always say like I've been
+[00:15:50] saying just target 2R target 2R that's you don't want to just target 2R just because it's 2R you want to target an actual meaningful spot and price where you know the market should hit or you know
+[00:16:00] the market will be attracted to okay because if you're not doing that you're gonna see a lot of situations where we're going to hit like 1.8 R and you're like, come on, go for 2R.
+[00:16:11] But then we're going to dump because, yeah, we hit one 8.8 R and we hit the first target. But the market doesn't want to go higher than that, just it's going to stop out people
+[00:16:20] here and then just shoot down again. So that's the number one non-financial advice tip I have for that. And yeah, again, remember, even if you go for 3R, like you could go for 3R here because
+[00:16:36] look this line this high lines up here that means if you win this trade you could lose the next three trades and be break even so if you win a three-yard trade you could lose the next three trades
+[00:16:48] and still be a break even you could lose the next two trades and still be profitable and the other thing important with risk management is this
+[00:16:58] if you truly have an edge do not size up or size down I have been sizing up and sizing down for the last year only because I've gotten pretty good at knowing when to
+[00:17:11] do that. But when you're starting off, do not size up and do not size down. Why? Well, let's say I want to risk $250 in this position and let's say it's a loss.
+[00:17:28] Okay, let's say I want to risk $250, it's a loss and I'm so mad. So then the next position up like okay I lost I'm ready for the day I'm only going to risk 150 now
+[00:17:43] now what's the problem with risking 150 on the next position well if I'm risking 150 in the next position I don't know why it's getting me in there and that
+[00:17:56] 150 is a win but you lost to 250 before you could be read because you didn't size the same. Now in this example if you're going for like a 2R and you let's
+[00:18:09] do the math here so let's say you risk $250 okay $250 for the risk let's say it stops you out so now you're down one or 250. Next trade I'm gonna risk 250
+[00:18:20] here. Okay let's say a risk 250 here or 150 here and I'm already down 250. Well You can see if I'm going for a 1.57 R and it is a winning play, I'll make 2.14. So I would have
+[00:18:38] lost 2.50 and made 2.14. So even though I lost one and then won the next one at a higher than a one R, I'm still red because I size lighter for the next one. But if I size the same and I size
+[00:18:56] 250 for both trades, then look, the next trade, I'd be up 374. So I would be green. So when you're starting, I would definitely recommend doing the same position size. And if you guys want to check
+[00:19:08] out FX replay to get the hang of this, you just type an FX replay. It's basically back testing software where you can back test and queue if you want a 15% discount code used code dodgy 15.
+[00:19:23] you can use this and it allows you, let me just sign in real quick, it literally allows you to calculate your risk, okay, so let me just pull this up real quick. And it's really, really nice,
+[00:19:40] so this is the Euro chart and again, I'm just going to take a trade for just because, well, let's take a short here, just because I think we're in a dump, but obviously I don't think that, but
+[00:19:52] Again, if I click it, click place order, it'll tell you, okay, how much percentage of your account do you want to risk? And let's say 0.5, 0.5 of 12,036 is automatically allowing us to risk
+[00:20:09] $50. So I just click save, and then it gets me in the position. Okay, now let's see what happens. Okay, so that is a loss. Okay, so that's a loss. Now, I just risked 0.5% of the count.
+[00:20:26] And I just lost about $50. Now, what if I go in another short risk the same amount or risk the less amount like 0.30 and risk $30. And what if it's a win? Let's see. Can this be a win?
+[00:20:48] look let's see let's see this okay right there look that was a win but that really didn't do much because i sized down and i lost more in the previous position because i was sized up more
+[00:21:02] but if i sized the same on this i'd overall be green so do you understand how that works so that's why sizing is important too and as a beginner i definitely size the same for most
+[00:21:12] your trades and if you go in and back test enough actually play I just typically do 1% of the count typically for every single play take and you'll find that if you risk 1% of the count of every play it'll definitely give you more
+[00:21:25] definitive results than just if you risk 1% versus 5.5 or versus 3%. Once you get really advanced and in a lot of screen time you can risk different depending on
+[00:21:34] the setup in your confidence but that's something for down the road so again and code dodgy 15 if you're interested in that. And I think another thing that backtesting in FX
+[00:21:45] you play will help you with, even though I don't like backtesting is, it really shows you the power risk reward
+[00:21:53] and like you could take three losing trades or four or five losing trades and then two winning trades that might be two or three are such as this will get you back green.
+[00:22:02] And it's kind of cool just to see the power risk reward when you size the same. So, that is it for this video. Let me know if you guys any questions.
+[00:22:10] I will see you in the next one where the fun stuff starts to begin and I will see you as later. Peace.
