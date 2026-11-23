@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20260307 | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
+| 20260223 | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
+| 20260213 | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
+| 20260209 | qt3nyykeBC0 | Why Today was the Easiest Trading Day in a Long Time (Trade Recap) | whisper | done |
+| 20260203 | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 | 20260202 | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 | 20260127 | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
 | 20260112 | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
