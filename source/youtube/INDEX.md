@@ -85,3 +85,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250613 | 2a3fBH2_5eM | Live Bias Backtesting (100% Accuracy Predicting Bias) | whisper | done |
 | 20250608 | -xLZ2ekyja4 | Five A+ iFVG Setups with Full Explanation | whisper | done |
 | 20250527 | Y0qANs6tdcY | This Day Trading Strategy has a 90% Win Rate (Not Clickbait) | whisper | done |
+| 20250521 | On4hdloSLHI | Real Talk： the Hardcore Trading Mindset You Need Right Now | captions | done |
