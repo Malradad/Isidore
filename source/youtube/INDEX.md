@@ -108,3 +108,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241217 | WC9rMIgUjRo | When Are You Finally Ready to Trade Solo？ | captions | done |
 | 20241213 | cOrOPPbYCwM | My $20,000 Trading Setup | captions | done |
 | 20241210 | 2vca8XZNDbI | 2 Years in My Discord and He Made $130,000+ in Payouts THIS YEAR with iFVGs | captions | done |
+| 20241203 | aEdEggrt9iU | I Surveyed 1000+ Students – What They Revealed About Their iFVG Trading Journey | captions | done |
