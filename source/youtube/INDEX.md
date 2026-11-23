@@ -91,3 +91,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250501 | JY3N5WC5ZRY | This Setup has a 90% Win rate (One Setup for Life) | captions | done |
 | 20250427 | PVLWCtDXeUA | Simplified ICT Daily Bias (my method for high volatility conditions) | captions | done |
 | 20250419 | Ot4R3x9Ai9w | Reacting to NEW 2025 ICT Lecture Series ｜ Pt. 5 | whisper | done |
+| 20250408 | ck2KF2rl_Ts | Should You Trade Solo or in a Group？ | captions | done |
