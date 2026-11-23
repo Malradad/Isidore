@@ -146,3 +146,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240621 | zOWPMHpCyV4 | The Most Powerful Form of Liquidity - Use this! | captions | done |
 | 20240619 | yUgpq9EFwLs | Use this FVG in your trading (best type of FVG) | captions | done |
 | 20240604 | PTUHbInIYEw | Breaker Blocks ｜ Bootcamp Ep. 44 | whisper | done |
+| 20240603 | 2-43-eoC_0E | Market Maker Models (MMXM) ｜ Bootcamp Ep. 43 | captions | done |
