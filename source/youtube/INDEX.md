@@ -59,6 +59,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20251013 | FHQP0_d_YNs | 5 Trading Rules to Follow for Life – Increase Your Win Rate | whisper | done |
 | 20251008 | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 | 20251006 | xtvTVd-9tsI | Less Than 0.01% of Traders Can Do This - Copy Me and Change Your Life with Trading | whisper | done |
+| 20251003 | 3cctESRZ5WU | Is Your Environment Sabotaging Your Trading？ (A New Beginning For Yourself) | captions | done |
 | 20251001 | wTPhJMLuvuE | How I made $4,000 Trading Asia and London Using HTF iFVGs | whisper | done |
 | 20250926 | fg1tbrPwcx0 | Understand These Losses or Stay Unprofitable | whisper | done |
 | 20250924 | rDUgUcHF-iA | When the Bias is Easy but the Entry Model is Hard - Trade Recap | whisper | done |
