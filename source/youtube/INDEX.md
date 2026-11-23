@@ -72,6 +72,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250829 | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 | 20250826 | xSQAygcawZ4 | This is the difference between future millionaires and future brokees (Trade Recap) | whisper | done |
 | 20250818 | 3tznO7UHj74 | My HIGHEST Win Rate ＂Trap＂ Setup at Market Open (9_30 AM) | whisper | done |
+| 20250814 | IkTXIUDag4w | This Liquidity Masterclass Can Change Your Life | captions | done |
 | 20250805 | 9wl9pSBf8fA | Critiquing 5 Student iFVG Trades (Would YOU Take These？) | whisper | done |
 | 20250730 | E3R30a_70E8 | How I Made $4000 Profit in 30 Seconds Today (No BS Trade Explanation) | whisper | done |
 | 20250727 | HxD2Og6L5to | The Side of Trading No One Talks About (I feel lost...) | whisper | done |
