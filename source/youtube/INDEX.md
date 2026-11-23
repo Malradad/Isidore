@@ -113,3 +113,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241123 | GoU3p4sgxz0 | These 3 Characteristics define Winning iFVGs | whisper | done |
 | 20241118 | 2rgNnOVqYkQ | STOP Overcomplicating Your Trading | whisper | done |
 | 20241115 | SEy3z7TBmlg | How I predicted a $30,000+ Move on Bitcoin | whisper | done |
+| 20241113 | Cv58OBP3P0A | Backtesting iFVGs with A+ Checklist (New FX Replay Features!) | captions | done |
