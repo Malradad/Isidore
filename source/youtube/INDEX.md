@@ -150,3 +150,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240530 | FcavHM6e97E | Liquidity Voids ｜ Bootcamp Ep. 41 | whisper | done |
 | 20240529 | 0al3VbTOasA | Creating Your One Setup for Life ｜ Bootcamp Ep. 40 | whisper | done |
 | 20240528 | HJJYZFsIS1U | Data Wicks ｜ Bootcamp Ep. 39 | captions | done |
+| 20240527 | c6HQJHxIULg | Time (Macros) Pt. 2 ｜ Bootcamp Ep. 38 | captions | done |
