@@ -261,3 +261,13 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Maker:** needs ≥ 3 trades/week. Next: widen the model where he actually trades (more sweep levels from his tier
   list, 1–3m entries inside 5m/15m context, PM window, ES/gold) one change at a time, keeping the filters; target
   ≥ 3/week with PF ≥ 1.2 in both halves.
+
+## 2026-11-23 · Audit 34 of 37: 5 Jun 2026 NFP (f4LM3kNzquo)
+- **Playbook:** one NFP-sweep long toward the data wick (30s funded, added on the 1m CISD live); scaled at the first
+  high and the CE of the wick, rest BE. ≈ +$600 live (his). ✓px on 15m bars (1m/5m history doesn't reach June):
+  price stalled ~16 pts under the data high and fell through his BE line, so his account holds. Record 43 → 23W/9BE/11L.
+- **Learned ~:** the data high missed for the second NFP in the sample, and his "never short under a data wick" rule
+  skipped two shorts that ran ~200 pts. Both rules go to testing (claim 12, P5/P7), not into the codex as fact.
+- **Learned ~:** after "I'm done", three 1-micro "for fun" shorts, all losses: the fourth stream where his losses come
+  after his own stop signal. For Izzy, "done for the day" is a hard stop.
+- **Maker:** not yet reviewed.

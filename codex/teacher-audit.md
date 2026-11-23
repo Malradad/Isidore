@@ -53,6 +53,7 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-12-19 SVeqDyk3DmA | 11:26:11 | 1m | L | funded (small) | ? | close back beneath FVG | equal highs | **stop, ~−10 pts** | −1 ~ | — | against bias, after 11:00; "for you guys… don't want to go on stream and not take trades" |
 | 2024-01-12 ZAlQEve_WnE | 11:04:09 | 2m | L | not named (10 MNQ) | ~16,955.50 ~ | ~16,937 ~ (hard, 18.5 pts) | data highs ~17,055 (R:R 5.4) | **BE → partials at ~+25–30 pts, runner trailed** | ~+1.5 ~ | — | data highs above; won't short under them |
 | 2026-03-06 YKRoRbq1BTU | 09:34:48 | 30s/1m | S | **real** | after the death-candle close | → BE | ? | **TP ~+1R**, then "done for the day" | ~+1 | — | NFP day; bearish hourly inversion; "I like taking trades off speed… a slow open I don't trade" |
+| 2026-06-05 f4LM3kNzquo | 08:38:02 (add 08:43:56) | 30s → 1m CISD | L | funded, then full size live | ~30,058 ~ / add ~30,072 ~ | 30,053.50 ~ (below the 30,052 sweep) | data wick high 30,151.75 ~ | **partials at first high + CE (0.5) of the data wick, rest BE: live ≈ +$600, funded 0** | ~+0.5 ~ | ✓px (15m) stalled under the data high (08:45 high 30,135.50), CE ≈30,112 reached, low 30,053.50 = his stop line, fell through at 09:00 — matches his BE account | NFP day; sellside swept after the news candle; long toward the data wick; "start of the killzone" (before the open) |
 
 ## Takes — (N) news straddles and (G) eval gamble (not playbook; logged for honesty)
 | stream | what | result (his) |
@@ -81,6 +82,8 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2026-08-16 7ZBHfQC6Nss | (P) Asia paper trades, "invalid according to my model" short and a "for fun… gambling" long | short ~BE (−5.5 pts), long +0.7R |
 | 2026-09-11 7vLdDIq4J0A | (N) CPI straddle, 4 minis each side, "no stop loss for this" | short leg, "got funded" |
 | 2026-09-29 oiJnEazL4Lg | (G) 26 takes on Apex 25K evals, often no stop ("stop loss is the account") | **4 accounts blown**, 5th passed |
+| 2026-06-05 f4LM3kNzquo | (N) NFP "passing method" on 3 Apex evals (long one, short one, buy-stop + sell-stop on the third) | **not filled** ("only a 30-point candle"); unclear if real orders |
+| 2026-06-05 f4LM3kNzquo | (P) three 1-micro shorts after 10:00 "for fun" ("Please do not actually take this trade"; "a B setup… just gambling") · (O) NQ puts a month out, no stop, target NWOG | **3 losses:** −$67, ≈ −$95 ~, ≈ −$131 ~ (✓px 15m: both readable stops traded through before the targets) · puts: open |
 
 ## Skips (with what happened next)
 | stream | market time (NY) | tf | side | his reason | what price did ~ |
@@ -160,12 +163,22 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 | 2023-12-19 SVeqDyk3DmA | 09:29–10:01 | 1m–5m | S/L (YM/NQ) | tape-read only | BE / worked (his) |
 | 2023-03-24 ksztwIzHgcE | 09:38:53 | 1m | S | equal highs above + news: "even if we dump 100 points" | — |
 | 2026-03-06 YKRoRbq1BTU | 09:40:17 | 1m | L | "A+ if bullish", against his bearish bias | — |
+| 2026-06-05 f4LM3kNzquo | 08:25:16 | 15m | S (gold) | bias call only, "should have shorted gold, that was my banger" | worked (his) |
+| 2026-06-05 f4LM3kNzquo | 09:07:31 | 30s | L | didn't like the close; waiting for the open | — |
+| 2026-06-05 f4LM3kNzquo | 09:20:01 | 5m | S (YM/NQ) | giant data wick above: "I'd never take this" | NQ fell later ✓px (15m) — skip cost a winner |
+| 2026-06-05 f4LM3kNzquo | 09:31:42 | — | L | 30,000 psychological bounce: "my model is not buying a psychological level" | bounced (his) |
+| 2026-06-05 f4LM3kNzquo | 09:35:37 | 30s | S | data wick above: "shorting with a data wick above has gotten me wrecked more times than not" | BE point, then ~−200 pts by 09:50 ✓px (15m low 29,771) — skip cost a winner |
+| 2026-06-05 f4LM3kNzquo | 09:44:34 | 1m | L | gap too tiny; expects sellside first | right: sellside hit 09:50 ✓px |
+| 2026-06-05 f4LM3kNzquo | 09:51:16 | 30s/3m | L | no manipulation after an instant 200-pt dump, "~50% win rate"; done, "game plan didn't play out" | — |
+| 2026-06-05 f4LM3kNzquo | 10:36:38 | — | L | equal lows below | — |
+| 2026-06-05 f4LM3kNzquo | 10:45:07 | 3m/2m | S | no close below the 3m gap = no entry | — (new box drawn, maybe taken off screen) |
 
 ## Running score
-- Streams audited: **33 of 37** (4 blocked by YouTube) (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 42 → 22 wins (1 small), 9 breakeven, 11 losses** (his words; first 5 ✓px) ·
-  Skips: 78 (+4 in the gamble stream) · Price-checked: 5 of 42. Avg ≈ +0.55R per take ~ (≈ +16R total; one win only because he widened the stop) (wins ~+0.7–2.2R, 3 × 0R, 1 × −1R).
+- Streams audited: **34 of 37** (6 with no live trading on stream) (incl. 2 with no trading: weekly outlook, 1 Mar joke clip) · **(A) playbook takes: 43 → 23 wins (2 small), 9 breakeven, 11 losses** (his words; 6 ✓px, one on 15m bars only) ·
+  Skips: 87 (+4 in the gamble stream) · Price-checked: 6 of 43. Avg ≈ +0.55R per take ~ (≈ +16.5R total).
+- (P) for-fun micros after his window: 5 Jun 2026 went 0W/3L, cutting a +$600 day to ≈ +$300 (his account).
 - **Breakevens and the loss all came on one day (4 Sep NFP)**, the day the "93%" data high missed by ~2.5 pts.
-- (N) news straddles: 2 (both "passed") · (G) eval gamble: 4 accounts blown, 1 passed.
+- (N) news straddles: 3 (2 "passed", 1 not filled) · (G) eval gamble: 4 accounts blown, 1 passed.
 - Verdict: none yet. 5/5 in his words is not evidence; price checks needed, and ≥ 10 streams.
 
 ## Patterns (update as streams come in)
@@ -187,6 +200,13 @@ Three kinds of trading appear on stream; only (A) is his playbook:
 - **Trend-line targets cut both ways (14 Nov 2025):** "most of my losses come from going to trendline liquidity
   and not being able to break it, but my best wins also occur there." Don't trade a flag with trend-line
   liquidity on both sides. PM session is not his ("why I don't trade PM").
+- **Data-wick rule, both sides (5 Jun 2026 NFP):** traded *toward* the data wick (long, small win; wick never
+  reached — second NFP data-high miss after 4 Sep) and refused to short *under* it twice; both refused shorts
+  would have run ~200 pts. "Data wicks get tapped 86%" failed again, and the no-short-under-a-data-wick rule
+  cost him that day. Test both (claim 12, P5/P7) instead of trusting either.
+- **Done for the day, then gambled anyway (5 Jun 2026):** "I'm done… game plan didn't play out" at 09:54, then
+  three 1-micro "for fun" shorts after 10:00, all losses. Same as 22 Jan 2025 and 4 Sep: his losses come after
+  his own stop signal. Izzy rule: after "done", nothing.
 - **His beginner rules (3 Apr):** one trade a day; trade only 09:30–10:30, favourite 09:30–09:50; if there's no
   draw on liquidity, wait for New York to form one. Don't fade data highs; don't short the first inverse out of
   a giant pump. Bias: inside weekly + monthly FVG → bullish; "fully bullish" after the daily FVG inverts.
