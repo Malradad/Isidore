@@ -171,3 +171,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240410 | _yl0senWFEo | Futures Trading ｜ Bootcamp Ep. 5 | whisper | done |
 | 20240408 | I6t6BkqiasU | Candlesticks ｜ Bootcamp Ep. 3 | whisper | done |
 | 20240402 | ZmIN34ia7rk | Top 5 Reasons You Lose Money Trading ICT | captions | done |
+| 20240331 | oXiwX8qa7wo | This Secret ICT Gem Will Make You 2x More Profit! | captions | done |
