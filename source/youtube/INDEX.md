@@ -183,3 +183,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240301 | 9zkTzJNvLI8 | When Should You ACTUALLY Trade？ [News⧸Red Folder Events] | captions | done |
 | 20240228 | Tbqch_ezER4 | How I Passed an Evaluation Account in 1 Trade (100% Win Rate) | captions | done |
 | 20240225 | awBzQTJ0jD8 | How to Manage Risk EFFICIENTLY Using iFVGs | whisper | done |
+| 20240224 | VM_G3gKzjp4 | The Ultimate Hierarchy of iFVGs (Best Versus Worst iFVGS) | captions | done |
