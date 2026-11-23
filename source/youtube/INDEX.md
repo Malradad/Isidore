@@ -149,3 +149,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240603 | 2-43-eoC_0E | Market Maker Models (MMXM) ｜ Bootcamp Ep. 43 | captions | done |
 | 20240530 | FcavHM6e97E | Liquidity Voids ｜ Bootcamp Ep. 41 | whisper | done |
 | 20240529 | 0al3VbTOasA | Creating Your One Setup for Life ｜ Bootcamp Ep. 40 | whisper | done |
+| 20240528 | HJJYZFsIS1U | Data Wicks ｜ Bootcamp Ep. 39 | captions | done |
