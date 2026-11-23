@@ -153,3 +153,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240527 | c6HQJHxIULg | Time (Macros) Pt. 2 ｜ Bootcamp Ep. 38 | captions | done |
 | 20240524 | pFIJWpCfP6A | Daily Bias Pt. 2 ｜ Bootcamp Ep. 37 | captions | done |
 | 20240522 | SYXKsb5jD2w | SMTs ｜ Bootcamp Ep. 35 | whisper | done |
+| 20240521 | N2BDFpgxK00 | iFVGs (My Main Strategy) ｜ Bootcamp Ep. 34 | whisper | done |

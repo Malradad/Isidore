@@ -1,0 +1,122 @@
+[00:00:00] All right, this is the video that I'm finally going to go over kind of how I trade. So we need to recap, okay, that when I kind of talk about fair rally gaps, the idea is
+[00:00:11] kind of looking for some sort of sell side, whether it be equal lows, equal highs, London lows, London highs, some sort of sell side, and to recap, we might not always know how we're going to react to it.
+[00:00:21] Like if we just do this and we don't really get any market structure shift, there's probably some sort of sell side we're probably missing lower, which is fine.
+[00:00:29] you just don't take a set up here. But if you ever see us come down to a cell side and you see the kind of like a very wiki reaction off it and we instantly kind of pump back up,
+[00:00:38] chances are we're probably gonna go higher. So what do you do? You look for a fair valley gap, maybe it's a discount of the leg, okay?
+[00:00:45] Maybe it's a discount, maybe it's not. Maybe it's like this. And you take along in that fair valley gap again and this is kind of your model.
+[00:00:56] So this is the basic model. Now, that's actually not how I trade, but that's how people start trading, how I talk about, okay, and that's fine.
+[00:01:04] This is fine, I just don't trade that way, I don't prefer it. Excuse me.
+[00:01:11] What I do is I trade inverse for a rally gap, so I wait for them to be broken, and I just think it's much more higher probability than this,
+[00:01:20] because it takes a lot of, you need to be really good to take setups like this, like really good, really, really know the drama liquidity.
+[00:01:28] The reason why I like in-verse failure rally gaps is because sometimes if I'm wrong, I'm still gonna bank, okay, if that makes sense.
+[00:01:36] So what I do is I actually don't take this up. I wait to see if the failure rally gap gets broken and then I take kind of the short set up here.
+[00:01:45] So that's what I do. So how do I actually use this along with sell side and buy side and all that? Well, what I do is if we ever hit sell side or something
+[00:01:56] And we have a bearish for a reality gap here. Now, because people don't pay attention and because people don't really understand
+[00:02:04] what a bearish gap is, what they're gonna do is, and actually it's not that. It's people don't understand how to read liquidity. People are like, oh, there's a bearish for a reality gap here.
+[00:02:14] We must reject it. And you can see, here's an example right here. See this bearish for a reality gap? Why don't we reject it?
+[00:02:20] Because of liquidity. We've already made such a big move down and already swept this major low. So why in the world would you see us
+[00:02:29] reject this for a reality gap? And for the people who are like, oh, I've seen us reject it for a reality gap like that before, that's fine. It's just not a trade you typically take
+[00:02:37] that's a good setup. And if we do reject this gap, there's probably some sort of sell side you're missing below that's just more to the left of your chart.
+[00:02:44] But anyways, you wouldn't short a gap like this, but most new traders are not gonna know that because they don't pay attention.
+[00:02:51] They don't know where liquidity is. They don't think with a brain. And with my brain, all I see here is big leg down, way too short to short, way too low to short,
+[00:03:01] and we swept the low. Why in the world would this very rarely get be rejected? It shouldn't. So what I do for my model is I kind of wait for a singular,
+[00:03:12] a singular obvious gap. Something that the classic new trader is going to see with her naked eye very, very easily.
+[00:03:19] I think this would qualify as one, someone's clearly gonna see this and they're gonna short it. So I kind of wait for that to form.
+[00:03:26] And if we think about it, if there's a bunch of algorithms who create this candle because you know retail traders aren't gonna create a candle like this, it's just too massive,
+[00:03:34] there's a bunch of algorithms creating this candle and institutional candle. What do you think's gonna happen when we go back above it?
+[00:03:43] Well, all these orders that create this candle are probably gonna get stopped out because that's how the market moves. So I kind of like, what I do is I wait for us to hit
+[00:03:53] some sort of cell site. And again, you might not always know the reaction off the cell site, but if, if, and that's if we hit that cell site and then just instantly pop back up
+[00:04:02] over that bearish gap and the body, keep in mind and see the body closes above it, that's my sign along. Now in the beginning of the boot camp, I basically said,
+[00:04:12] bodies are gonna be the most important thing you wanna pay attention to because I use bodies all the time. Wicks do the damage, but bodies are gonna be
+[00:04:19] more confident. And ideally, if you're taking a frame rally gap that gets broken, you want to wait for the closeover. So you can kind of see these two wicks here kind of wick over,
+[00:04:29] but you ideally want to wait for us to close over. It's more of like a concrete confirmation sign. So you're probably wondering what timeframe do I use? I use the one to five minute timeframe for entries. And then the 15 and above just for bias only, I do not use a 15 above for
+[00:04:43] entries. So, this is my model. Now, if there's ever two Fabriela gaps, let's say there's two bearish gaps in a row here, okay? So, it looks like this maybe. You
+[00:04:59] can still take the trade, but it's not gonna be as smooth because we could literally go to this gap here or we could even go down further and there's not
+[00:05:10] not really an easy way to enter. So your risk is gonna be kind of if we close, if the body closes below both of those gaps.
+[00:05:19] Now, you're probably wondering, why close below? Because if you go study and back test in versus reality gaps, most of the time we close above them,
+[00:05:27] we will actually not get a close back on them if you're right. And most of the time we do close back below, we're just gonna go and hit the low lower.
+[00:05:34] So what I do is I kind of calculate my risk. I kind of do like 75% of what I would actually risk. And then if we do get like a really bad close,
+[00:05:42] maybe we close down here, I just kind of get out. But sometimes it's actually you risk less than you think 'cause we'll get like a close here,
+[00:05:49] but your stop loss will maybe be here. I would not suggest doing a hard stop loss here, but you could do the low if you wanted, but it's just gonna make your risks
+[00:05:56] and work a lot worse, as you can see. And again, if you go back test inverse for every eye gaps or in other words, IFGs,
+[00:06:04] a lot of times you're gonna actually realize that be closed back below or probably gonna go lower. So it's just, it saves yourself some money.
+[00:06:13] Now, going back to what I've said before, you ideally do not want there to be two for rally gaps here because the risk is gonna be much wider
+[00:06:22] than if there was kind of one for a rally gap here. So you can kind of see this would be a little tighter and that's kind of what you do. Now, I, as long as the risk is fine,
+[00:06:30] I actually enter in the market close. I do not wait for a retest because I find myself missing trades sometimes. If the candle is a very big close,
+[00:06:38] I will wait for the retest, but not typically. It's up to you what you wanna do, and this is where you're gonna have the back test. So on this close, right here,
+[00:06:45] I'll get in right on the close. I will not wait for the retrace, and in this example happens to retrace, but like what if it didn't?
+[00:06:52] And then that's how I kinda get in. I kinda guesstimate my stop while some are not here. I risk 75% of what I would usually do. So I'd take off, sorry.
+[00:07:02] I'd risk, I'd take off 12.5% risk. That's what I do. It's actually even that's like 88% so if I want to risk $200 and a 50k count I'll actually only risk like 175 just in case the stop loss is more than I expect
+[00:07:17] Okay, so that's kind of how I do my stop loss, but I'm looking for the same model that you all look for the 2022 model except I'm making sure there's an inverse for reality I got for a bearish reveal. I get that gets broken in the process to take a long set up
+[00:07:31] Okay, so that's important to know now Now, why do I like a singular freebie gap? Why not two?
+[00:07:38] Well, if there's gonna be two, the risk might be a little wider because you're gonna have to have your stop below both of these gaps. Because like I said, if the market's bullish,
+[00:07:46] we could go to this one and then bounce. It doesn't have to be this one. Now, sometimes if there's two, you can actually, what you're gonna do is,
+[00:07:54] what if this is the one minute timeframe? But you see two gaps. Well, you can check the two minute timeframe
+[00:08:01] to see if there's actually a singular gap. Okay, and this is what I do. And then I'll just end up using the two minutes.
+[00:08:08] So this is the one-minute timeframe. Let's see, there is a tiny gap here, but it's not obvious enough for the naked eye to recognize. So it doesn't really matter to me that I'm watching.
+[00:08:17] This is the more obvious, singular one. So if I go to the two-minute, the two-minute has a more obvious gap here. And us breaking this two-minute
+[00:08:28] or closing above this two-minute tells me we're gonna go at least to the higher gap here. So if we know the market targets highs lows and if inefficiencies,
+[00:08:38] I know the close above this two minute gap is at least going to target this gap here. Now the problem with this one is this actually,
+[00:08:46] this kind of closes above this, um, this candle actually closes above this and hit it at the same time. So actually this will not be a valid trade. Okay. Um,
+[00:09:00] and yeah, you can kind of see how it works. So in this example, we have two gaps here. We have this one and we have this one. So would you do this situation? Well, you'd have to wait for the last one to break because if we broke this one, what
+[00:09:15] if we rejected this one? That's the logic I think with. So I had to wait for both on the broke to break the tell me we're going higher. And you can see we end up closing above this one. We retest it and you can actually see we come down. We come up to this tiny,
+[00:09:29] tiny gap up here and this makes totally complete sense because this gap tells me we're going to go to the next high or the next inefficiency. So the next high
+[00:09:40] is here and the next for real gap or inefficiencies is right here. So I at least know we're going to go to here, okay, which may allow me to move my stop to
+[00:09:49] break even. At least know we're going to go there. So the risks of water want to be the greatest, but you can see the logic and how the market moves here. So that's kind
+[00:10:02] of that. So let's go over another example. Here, this is actually, I actually called that one earlier. So here's a bearish gap right here. Okay. And we get a very strong
+[00:10:16] high momentum candle closing over this bearish gap. So, I said on my channel, I said, "Tape-read this," right? I kind of drew it out.
+[00:10:27] I said, "Tape-read it." I called it a lot of time. "Tape-read" means either you can tape-read or you can take this setup, I don't care. But you kind of tape-read it.
+[00:10:35] So this was actually the three-minute chart, and I said, "Tape-read it," and this is kind of the risk of what I drew right here, which ended up working.
+[00:10:45] And then, we also, if you go to the 32nd, which you'll probably think I'm crazy if we're going to the 32nd, but you will when you get good, trust me, 32nd time is very good.
+[00:10:56] You can see there's another bearish gap. Now, think in terms of common sense, how many people do you think you're going to short this because you're like, "Oh, my God, very bearish candle.
+[00:11:06] Now you got a bearish gap." ICT told me to short this, probably a lot. That's where I come in.
+[00:11:13] I kind of wait. I wait I wait for it to be broken if it is sometimes it isn't broken just depends and Then I take my long setup. So you can see one of my executions earlier was in trade recaps
+[00:11:24] You can see I long this inverse for a rally gap when I kind of broke or closed below or above and I just targeted the next time and that's what I did
+[00:11:34] So you can see those my executions and I just targeted their next like decent high Which was this what happened to me here you could target higher you could target lower I had to go so and I was already kind of pretty green for the day
+[00:11:47] So I probably should have targeted it like this high and then this high But you're gonna learn that through screen time. I again. I couldn't really hold the trade. I was busy, but that was that So on the three-minute timeframe here
+[00:12:01] We broke a three-minute bearish gap which a lot of people probably shorted We come down retest it and this is when I said tape read this long setup and we get a 30-second reentry So you kind of have two very nice entries here, and they both work nicely because I
+[00:12:19] Know majority of the people are gonna be shorting a gap like this So I kind of wait for the break now. Why is this gap so good? Why wouldn't I use like a let's say? Why would I use a gap like this for a long entry?
+[00:12:32] Well to me this gap isn't as obvious and also to we already kind of hit the high right here So you can see the cannon closes above it, but also hits the hide that this gap was created on and the this magic magical
+[00:12:48] the reason why this strategy so good is because an Inverse for every I get tells you works for certain or 90% certain we're going to the next high and I can't say now that Oh, we close above this. I can't say we're 90% certain to go next high because we already hit the high
+[00:13:04] So here in this example The high was here, so in this example, I could say, okay, this gets in verse or one this gets close above We're 90% certain we're gonna go to this next high which allows you to one move yourself a break even or two take some profits off
+[00:13:20] But in this example here one this is kind of too far left where this is kind of just right there It's just kind of formed and we just kind of break it right away and that's that
+[00:13:30] You can see another example is another 30 second trade another 30 second bearish gap It's singular we kind of swept the low to the left which is the most important part a lot of people think oh
+[00:13:42] It's a bearish very very like I've got this inverse you have to use these with context I'm telling you have to use these context. I mean we clearly swept some lows
+[00:13:51] We swept this low this low didn't really get much displacement now. Do I know we're actually gonna sweep these lows right here? No, I have no idea. I see this
+[00:14:01] Do I know we're gonna inverse this for every I get no I have no idea, but when we do it's like okay Well, we swept these lows now in hindsight didn't really just place
+[00:14:11] Below them. I now know this is probably gonna be a decent long setup and you can see it goes like a decent Goes up to these little tiny equal highs that we kind of got here see these two equal highs
+[00:14:22] And then we just dump but you can still see how like impactful it is in the market and you can see this is just a clean signature in price because it's singular, it's big, it's obvious to the
+[00:14:31] naked eye and people are going to short it. So you can see how it works there. Now let's look for another one. Let's look for a bad example. All of these would be bad examples.
+[00:14:52] there's too many. There's not a signature price which is clean here. It has to be singular. There's too many here. It's not something I'd use. I wouldn't just be like, "Oh, I'm going to use
+[00:15:07] this one." It's just not a clean signature and price and you're going to learn that. I post these Best Inverse for Valley Gap posts of the week threads on Twitter every Saturday morning. I suggest
+[00:15:18] subscribing to my Twitter and turning on notifications for that but even like throughout the day I post some but this one was good because in this singular
+[00:15:28] leg in this leg we had a singular bearish gap where you know a lot of noobs or new people are probably going to short it because people think we're going to
+[00:15:39] reject the FBI gap which is not always the case so when this closes above you You can see this can't close above.
+[00:15:47] I'm almost certain we're gonna go back to the high, which allows me to one, either take some profit or just move south to break even and target higher.
+[00:15:54] So you can kind of see, I kind of got in here before the retracement and I did call this entry on a stream. So fair rally guys, very nice,
+[00:16:01] because if your bias is truly wrong and we do go back to the lows, let's say this were to happen. Chant as are, we get a good fair rally gap
+[00:16:10] that gets broken. Chant as are, you're at least gonna be able to take some profit. These don't fail a lot if you use them right. Now, this happened to be in discount.
+[00:16:19] It happened to sweep below. There's multiple other confluences that cause us to work. Okay, multiple other confluences that cause us to work.
+[00:16:29] Don't look at the market in terms of IVGs. Look at the market in terms of liquidity. Does it make sense to reverse here? Well, yes, because we swept,
+[00:16:38] if you look to the left, we had equal lows here. So we just swept three equal lows that they were just sitting here. Lots of stop losses on her here.
+[00:16:47] What does the market need to reverse stop losses? So the fact that we swept these, kind of build up our generate liquidity under here, tells me that it wouldn't be terrible
+[00:16:57] if we did get a long setup to long here. And if this IPG didn't form, let's say we kind of didn't form a frame rally gap there,
+[00:17:06] let's say with a quick look at this, I probably would not have taken the setup, but it would still make sense to pump here. and that's just based off of my knowledge of the market.
+[00:17:15] Now, the nice thing is it happens to give us one, but sometimes that's not always gonna be the case. So, you just have to look at the market in terms of,
+[00:17:23] like, does it make sense to balance? Are we in discount? Are we in premium? What liquidity do we sleep? IPGs are just an entry model.
+[00:17:30] They will come second to everything else. And you need to understand everything else I teach in this in order to understand IPGs and kind of that good entry model.
+[00:17:38] So this is only a basic introduction to IFGs. There's a couple more rules, couple more. There's a lot of signatures and price opposed to my Twitter
+[00:17:47] that are gonna be good ones. If you wanna learn more about IFGs, I suggest buying my course. The link is in the description.
+[00:17:54] It's a full lifetime fee, you get my course and you can even watch 10 old live streams I've done. And I'll probably update that.
+[00:18:03] Now in my course, I also talk about daily bias update like update and post some new deity bias videos and I'll even make some predictions of what I think's gonna happen for the week just it just depends but I try to do two of
+[00:18:15] those every like couple weeks and go over like okay here's the deity bias here's how I use my entry model which is using IPGs to enter base off my deity bias so if you really
+[00:18:27] really want to learn IPGs in depth I would buy my course I have two I have about a hundred slides alone that are specifically geared towards IFGs and how to trade them.
+[00:18:37] So, if you want to get good at those, just again, click the link in the description. If not, you're just going to have to experiment with these yourself because they will work,
+[00:18:47] but a lot of people give up using these because they don't understand the broader picture of the market. They're literally just taking every single IFG they see. Like, for example, like some will will just take this one just randomly, and it just we bounce right after we close
+[00:19:03] blow it. Well, why wouldn't this make sense to take off this candle? Well, this candle sweeps so many lows. Like, we've already swept all the targets that could have been the targets if we kind of fell below this, you know? So, like, why would
+[00:19:17] we keep going down if we just swept the low and we're just coming into another free reality gap? I mean, it's just it's common sense at the end of the day and you're gonna learn this through screen time. So, like, a lot of new people might
+[00:19:28] short this because they're like, oh, we broke a fair value gap that was holding a lot, okay? It just from common sense, it wouldn't be a good sort because we've already swept too many lows at the same time they cannot close and that's what people don't understand.
+[00:19:40] And then we just get this really bad choppy price action that's just probably wrecking everyone. So again, if you want to study IVGs or my strategy more advanced, I would definitely buy my course, but obviously it's up to you. And yeah, I don't want to do too much marketing here, but
+[00:19:57] This is basically an introduction or whatever on what they are and how to use them and just remember the biggest tip is look at the market in terms of liquidity, not IFGs. IFGs are
+[00:20:09] just an entry model. Sometimes you might know where that market's gonna go but we might not get the IFG to get there. We might get the bullish from where I got to get there but I fell in love with IFGs. I'm not taking normal for a rally gap anymore. I just can't and that's gonna be
+[00:20:23] it for the video. See you guys later. Peace!
