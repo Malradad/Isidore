@@ -132,3 +132,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240823 | Grvv12fLIj8 | The Secret to doing Top-Down Analysis - ICT Concepts | captions | done |
 | 20240821 | XUJR9e8dtb4 | How to use Time & Price (ICT Macros) | captions | done |
 | 20240816 | pnYWkikRbXc | Why FVGs Don't Work For You | captions | done |
+| 20240814 | IlTBW6poSxQ | This Liquidity Pool Has a 90% Winrate! | captions | done |
