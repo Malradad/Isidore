@@ -1,0 +1,241 @@
+[00:00:00] Um, welcome. Before I get started, if you didn't check the announcements, this is the last day. Okay. And I know you're like, Oh, please don't promote Apex. I promise you, dude. Apex will probably not do us 90% off set for another two or three months. So that's all I'm going to say. I'm not going to be like, Oh, go buy an account because I'm not going to tell you to do, but just know it's the last day. Do what you want. Yeah. All right. Um. So for this class, I want to kind of go over a little bit about a little bit about like
+[00:00:36] break even like when we saw the break even stop loss and like risk stuff. So I want to start off with the risk. When you when I take an IPG. So if you come from the 2022 model, a lot of people they they're risking what do you guys risk? I'm curious. What do you guys risk?
+[00:00:53] what percent of gender count? Let's, let's hear this. Ah, yes. You can, you can PB. Okay. 0.5 to one. That's most, most of what I was expecting. Okay. Most of what I was expecting.
+[00:01:07] 0.5 to 0.1, which I would agree with. I'd trade up to 0.1, all right. So let's take 1% for example, OK?
+[00:01:25] Let's say 1% for example. So let's say you're going into trading an IFG or whatever with one-- and this only applies to the IFGs.
+[00:01:34] Why would this not apply to the 2022 model? I'm gonna tell you why, it's because the 2022 model always says a step stop. So the 2022 model stops always below below. Alright, so that's why it doesn't really apply to 2022. But why does it apply to ifg's because an ifg is a closed below candle. Like, if I'm taking this, like if I'm taking this for example, I don't know why this is white. Like the stop loss is literally like a manual stop.
+[00:02:06] It's a closed below. And you have to be willing to accept that risk. So the first thing is like when I take any setup that has a manual stop, like, oh, if we break this,
+[00:02:16] I'm gonna get out, but I don't know where the candle close is gonna be. I always, always, always do 75% of what I typically risk with the 2022 model or what I'm comfortable with.
+[00:02:28] Does that make sense? So instead of like 1% I do 75. Instead of 0.5, I do 0.375, right? Er, yeah, I think that's right.
+[00:02:45] Does that make sense? So if you guys didn't know, all right, there's actually a little trading view tool and you can use, so let's say I'm targeting this high
+[00:02:59] And then log on the paper. Let's say I'm targeting this high and I want to do a limit order.
+[00:03:08] And I want to risk 1%. Okay. Sorry. I have no idea why this is like this.
+[00:03:16] I don't use easy accounts very much. Here's that account.
+[00:03:26] Okay, so let's say I want to, no, I don't started from the bottom trader.
+[00:03:34] All right, so listen, listen, listen. You guys listening? That point I feel listening. Okay, okay, just making sure, just making sure.
+[00:03:46] All right, now let's say you want to risk 75%. So what I do is, on a 2022 model, I'm risking 1%. That's a set amount, okay.
+[00:03:55] it's a set amount, I'm bursting 1%, whatever 1%, so that would be two contracts, so I do that. And I know that no matter what, no matter what the candle close looks like,
+[00:04:03] my stop is going below here. Does that make sense? Okay.
+[00:04:12] But as you know, my stop loss is different. Mine's a close below. Now what's the problem with that?
+[00:04:25] it can come down way deep yet it could close anywhere yes exactly I don't know exactly where it's going to close and I'm hoping that I'm right so it doesn't even get close
+[00:04:43] so it's not a fixed up so what is the not being a fixed up mean well So I would risk 1% here, and I'm taking a manual stop. I'm like, okay, this is not a risk,
+[00:04:55] this is not a full stop. So I'm gonna do 0.75% instead. So I'm gonna do 0.75 and I'm gonna do that,
+[00:05:05] which would still be two contracts. Okay, obviously this is not much, but let me go to, let me go to M on Q8 or M on Q1.
+[00:05:16] So let's go to M on heal one, all right. So we want to take the play here. We want to do a stop as a closed blow
+[00:05:24] and we want to do 0.75 risk. So that allows us to take 30 contracts here. Now, I always do this just in case
+[00:05:34] and I do 0.75 risk because I don't know exactly the candle closes, it could close anywhere. So if it closes here, it's actually less.
+[00:05:41] It's better, but if it closes here, it's worse. So if we do somehow just get a nasty, nasty candle and it closes down here, will I still,
+[00:05:50] will I be losing more than the typical 1% most of the time? No, because I'm risking 0.75% as it plays a whole.
+[00:06:02] So even if it is a bad close, it's still not gonna be a bad loss. Now does that make sense? So it's just what your comforter would losing.
+[00:06:10] And I, I risk 0.5, that's just me. Okay, my fondant accounts. So that's kind of, that's kind of that.
+[00:06:21] And another thing I want to talk about. So that's kind of like the risk management part. The risk 75% of what I actually risk for the 2022 model, when I do take the 2022 model.
+[00:06:30] And typically, I'll risk like 1%. It just depends on the account size. It later depends on the account size.
+[00:06:36] It's not like a set thing. So let's say it risks 1% for the 2022 model. I'll do 0.75% for the inverse because I don't know exactly where it's going to close.
+[00:06:50] But we know how high of a win rate they have, so we know it's not going to happen too much. And we rarely get those big, a lot of you going into IPGs, you're like, "Well, what if we get a big hand like this?"
+[00:07:01] That rarely happens to me. I'm not going to lie. It might happen to you a lot at first, but it's just, it's not like a rare, it's not like a thing that happens to every single time.
+[00:07:10] And once you understand that, you'll be less scared. So that's kind of how I do my risk, okay? 0.5 from account size.
+[00:07:25] Okay, now let's say I'm on a 50K count and I go to 40, let's say I'm on a 50K count and I go to 48,500.
+[00:07:34] Do I de-risk or add risk? Yeah, ID risk. So I full put I'm just kidding. Um, so if I go down ID risk, so let's say I go from 50,000 to 49,000. Um, if I'm risking 1% at 50,000, I'll start risking, uh, let's say, like I'll cut that in like maybe quarter, sometimes even half. Um, I'll, I'll, I'll, I'll, I'll be risk by like half a percent or even a quarter percent. Does that make sense?
+[00:08:09] and then if I get to like 48,000, I'm like, I'm like a whole de-risking.
+[00:08:16] I'm at like 0.5, maybe even less than that. Like zero point, let's say 0.4 or something, but now when you go up in profit,
+[00:08:27] when you go to like, let's say 52,000, dude, de-risk or at risk? And this is a trick question.
+[00:08:42] Some people say address, some people say, all right, wait, now let's say you're on an apex account, you're up 52,000, do you add risk or do you risk?
+[00:08:55] Neither, good, you don't, you know change. Let's say you're on an apex account and you're at 55,000, do you add risk or do you risk? Yeah, I would add because the trailing drawdown is now $5,000.
+[00:09:11] You now have $5,000, not $2,500. So that'd address. Let's say you're at $52,500 on a top step account. Do you add risk or do you risk?
+[00:09:31] Let's say, whoa, wait. Okay, I would see this is like the most 50/50 answer. I'd say some people just depends.
+[00:09:41] For me, I'd probably add a risk. Some people might say de-risk, but Apex is only one where it's trailer drawn-ons. I wouldn't change anything.
+[00:09:48] Unless you're up like 54,000 or more in Apex, do not add risk. Does that make sense, everyone? Okay, up.
+[00:10:04] Okay, so that's kind of the first thing I wanted to go over. Now, as you guys know, I have my little break even method,
+[00:10:13] which a lot of people, some people hate it, some people love it. I'm not gonna explain why I do it, you know why I do it,
+[00:10:20] but some people ask me, like, they're like, how do you know when to hold a trade through break even or like just hold in general?
+[00:10:28] So this is actually a situation that happened Friday and I just want to talk about this a little bit. So I took this set up. I called it up. Do you remember when I called this out on chat? Remember I said I'm in
+[00:10:41] 30 second? I think it was the 30 second. I go I'm in 30 second. Let's see. I think I said the word let's see or something. So if you're on chat you saw me call that
+[00:10:53] out. Now here's the typical stop. Okay, here's the stop. And look what happened. This is probably not good to show and I'm like, I mean, I'm going to show around the queue.
+[00:11:10] Now, look what happened. Would this have been a break even trade for you?
+[00:11:22] I'm gonna break even trade. Okay, now I did not get south to break even on this. Why do you think I didn't stop out of break even? because I had so much conviction.
+[00:11:50] So, I got in here at this close, obviously. All right, I got in the close. And at first, my target was here.
+[00:11:59] And I just wanna go through the thought process of what I think in this situation, 'cause I think this is actually gonna really help a lot of you. So, I get in the trade.
+[00:12:06] I'm just gonna do like a little skit and act high wood. Okay, so I'm gonna do a little skit. All right, guys, I'm in the trade here.
+[00:12:13] I'm gonna target this high right here. All right, I really, I really, really think we're gonna target at least this LRLR.
+[00:12:21] It's an intermediate term high inside of an old Ferrelli gap. And we kind of got a bunch of stops here. And it just, it looks really, really juicy. Okay, I've seen this play out a lot.
+[00:12:30] I kind of see low resistance liquidity here. I think we're at least going to hit this if not this, this and this, okay? So I'm gonna look for a buy here.
+[00:12:38] So I'm gonna get in a buy here, all right? And let's do the buy here as well because I want to make my average here
+[00:12:46] because this is where I did in live time. Now, I'm in here. Okay, let's see what happens here. So I'm targeting up here and I have two contracts.
+[00:12:53] So let's just play price a little bit. Stop the break even would be at this red line. Let's see what happens.
+[00:13:02] Okay, we got really close there. I really, really, really think that, okay, we're delivering off of this.
+[00:13:11] We're delivering off of this BPR, which I know is the strongest PD array in the market. All right, I really, really, really think we're gonna run this right now.
+[00:13:20] It looks really good. It's about to be the launch macro. It's about to be 12.50. I really think we're gonna run it during this time. I'm actually gonna hold off on stopping a break even here.
+[00:13:29] I see we kind of just created these equal highs here. I still think we come back to them. I see these equal lows.
+[00:13:36] So I think I'm not gonna put myself the break even because I feel like the market would be fine sweeping these and then going up. Again, I'm not okay. I like that reaction. Okay. I think I'm now going to put this thought to break even and
+[00:13:49] boom That's literally exactly what I thought when I took this live trade Friday Exactly what I thought and I just kind of reenacted it for you guys
+[00:13:58] So I hid so much conviction in this trade where like I saw these equal lows. I saw where you're delivering from here I saw this I saw this moment them
+[00:14:05] I felt like it was fine to the market that come down and kind of take these lows out because I just I was like dude There's no way we don't have this high.
+[00:14:13] We had so much LRLR and it was a lunch macro. This is 1252, okay? This is when the lunch macro starts,
+[00:14:22] but the big thing for me is, I'm gonna create a little checklist at some point, but here's kind of my deal with the breakeven things.
+[00:14:31] Okay, conviction, and by conviction, there needs to be like three things telling you
+[00:14:37] that pricing no here. no break even. This is hard to explain. So this is going to be something that's really hard to explain. How am I going to explain this? I'm going to go back and show you guys
+[00:14:56] what I mean. Okay. Okay, so I see this. Let's say I'm in the position. Let's say I'm in the buy, okay? Let me, let me go back to here. So I'm in the buy here. I'm in the buy here.
+[00:15:11] So I'm in the buy. I'm not moving my solid breaking even yet. Okay, this is completely fine. Okay, I like this reaction. Now I move my solid breaking even. Does that make sense?
+[00:15:30] this is like all screen time like you like look at this wick we swap this we sweat decalose there's no reason we should come back down after that I mean
+[00:15:42] there was a reason here that maybe we're gonna come back down these equal lows but like okay now there's not a reason to come back down so now my stop goes to break even does that make sense to you guys it's it's it's something that's
+[00:15:56] It's unexplainable in some aspects, and the fun, the hard part is this is not going to be a repetitive situation.
+[00:16:07] I'm, it's just common sense in knowing how to trade and having extreme time. It's like, yeah, we should now, we shouldn't come back. It's like here, I would have, I mean, it's fine if we come back here because it's like,
+[00:16:19] oh, the market did leave equal lows. I mean, that would be fine if we did come back. But once you see this reaction, it's like, no, we should not come back. 100% stop at break even. Does that make sense?
+[00:16:32] And in this situation, I'm like, let's go back in line time. There's one more part of this skid I forgot to see.
+[00:16:41] All right, you forgot to listen to. So, all right, ready? Three, two, one action. All right, ready? Listen. All right. So I'm in this by guys. Um, why won't I get in this by?
+[00:16:53] Okay, I guess not. Okay, there we go. I'm in this buy. We just put in a super nice OB here. So the candle should--
+[00:17:03] this candle should be ran. This LRLR, 99% of the time you will see this next candle really shoot up because this lower resistance is a quiddity.
+[00:17:12] So I'm just going to-- it looks good. Oh, oh, OK. Not really liking these candles.
+[00:17:18] Typically, we'll just shoot right up here. Yeah, I don't know. You know what, guys?
+[00:17:24] I think I'm actually gonna only target here. I just, I don't like this price action. It's just horrible. I mean, most environments we will speed here,
+[00:17:32] especially during a macro. So I'm actually only targeting here. Okay, I'm scaling some there. I usually want to scale a lot,
+[00:17:39] but I'm scaling more than usual. I just don't like this price action. We're not getting that really big pump with LRLRs. We normally get.
+[00:17:49] And I'm still out of the break game for the other contract. See how like I'm going to target here, but when you know characteristics of a trade,
+[00:17:57] like when you know that, okay, this is lunch macro, we should have started here. And you don't see that? I will lessen my take profit
+[00:18:04] because I know if my bias is truly right, do you really think this is gonna happen? No, and what happened later? We actually end up totally missing that high, okay?
+[00:18:12] So let's see what happens. We never even hit the high. We just dumped there. And I'm so glad that we did
+[00:18:18] because it's like it proved my point of, Okay, I don't think we're actually truly bearish if we're not getting these candles run through this LRR.
+[00:18:27] You will not typically see candles like this bad, especially with this really nice liquidity here. And that's kind of why I kind of changed my price
+[00:18:35] to target down on Friday. And I was all out here instead of holding runner. So see how it kind of changes a little bit and how my conviction changes.
+[00:18:42] And it's like, okay, I do have conviction here, but it's like, okay, now it's just like, eh, I don't really, I don't really enjoy watching this.
+[00:18:49] I don't think this, I think, I think based off screen time and past experiences, I think the candle would have ran it already.
+[00:18:55] Does that make sense where a screen time comes in? Okay, so that's kind of a,
+[00:19:06] that's a really, really, really big thing for me. And have you ever seen ICT in Twitter?
+[00:19:14] He tweets, "This candle should accelerate here." And he's kind of got really good timing of that. Why do you think he knows all that?
+[00:19:21] It's because he's watched it so much. And same thing with me. I can do the same thing as he can do because he's watched it price so much. So let's kind of that.
+[00:19:29] So if I hit decent conviction or I see like, okay, I have conviction, but we left equal lows. Maybe I will hold one more.
+[00:19:36] Then I won't do a break even. Let's say there's no LRR, no equal highs or equal lows, then I'll do a break even every time.
+[00:19:48] I don't care, okay. The most times I don't do the break even is when we have low resistance liquidity,
+[00:19:59] okay, so we have low resistance liquidity or equal highs or equal lows. Why do you think I'm more likely to have more conviction
+[00:20:07] with low resistance liquidity and equal highs and equal lows? yeah because I've seen them ran so much. And I had so much trust in them being ran that
+[00:20:29] like, that is the only time we're in the biggest thing that gives me like, okay, I definitely have conviction and it's just it's a big, big thing for me. And if I don't see any L
+[00:20:40] R L R or equal high as equal lows, I will go to break even because I don't have that Same conviction I do when I sequel has your glow. So that's kind of what I base off of all right
+[00:20:54] I Think so I think these are the two big ones
+[00:21:01] I mean I'm trying to learn more about myself and explain what I do because I do some of this instinctively I'm trying to learn what I do and I'm trying to think of like
+[00:21:09] What I do in my time So I think these are the two big ones there's a couple other like small instances base off screen time or maybe I won't move the break even but another time oh I know another time another time is this if we ever get
+[00:21:25] like a unicorn slash 2022 and I'm already in so this is one time if you ever get a unicorn or 2022 model and let's say I already entered the inversion so this
+[00:21:43] this could be an example right here. See this right here? Let's say I'm entering this inversion here. Okay, I just figured I just learned something else too.
+[00:21:54] There's another one, there's a fourth one I wanna go over. So this is gonna be the fourth one. I'll come back to this one a second. Okay, right here, this would be a perfect example.
+[00:22:02] I will not stop out of this. So I'll enter here, I'm not stopping out of this. We barely even run this. There's a 30 second BPR.
+[00:22:09] There's a one minute Fair Valley gap. See how it's like a whole new 2022 model and I'm already in from the inversion.
+[00:22:15] That is an instance where I will hold, but that's not gonna be easy for some of you 'cause you don't know these other models
+[00:22:21] and that's why it's so important to watch ICT. So this is actually one of the ways I will hold. Does that make sense?
+[00:22:31] And I'll even, sometimes I will average down. Like if I did, I executed this and I averaged down when I saw these,
+[00:22:38] I'm like, dude, this is a lot of LRLR. looks perfect. We're going to probably run this and average down in here. So it's like, I go into the trade. I'm like, okay, I'm in here. This is all I'll do some acting again.
+[00:22:50] So I'm in here. I like it. Looks good. Momentum's good. We have a really, really obvious intermediate term high. I have a lot of conviction we're going to hit it. And this momentum is just
+[00:23:01] unbeatable. You can't be this momentum. I just it looks really good. So I'm going to get in there. So now I'm in. Okay. Now I see 30 second BPR. I really think this is going to hold. It's a really nice V shape recovery. The times we've actually gone through this
+[00:23:15] is not a lot. So I think I'm not just not going to move myself break even because in this situation, my entry is really close to the high. So it's probably going to be a break
+[00:23:24] even trade anyways, but I still have a conviction. So I'm actually going to kind of, I'm going to accept the risk and I'll take the loss if it gives me it. So I'm just going to kind to play price. I don't really mind here. I think we're still going to hold this because
+[00:23:37] it's really like V shapey. I have a lot of conviction. Okay. It looks like we're kind of mentioning highs. I'm not going to lie. I think I'm going to take one more average
+[00:23:54] down if we get it. See if we get down here. Okay. I'm going to try. I'm going to actually try one more average down I really like kind of how we're holding this. Before I wasn't so sure
+[00:24:06] but now I'm even more sure because of all this l-r-l-r. So I'm actually gonna take an average down I think. I just I really like this liqueuria. I'm getting a lot of conviction just from seeing this in
+[00:24:17] live time and it gives me enough conviction to okay I'm an average down here because I just feel comfortable enough because I've seen it so much. Okay as long as this doesn't get closed below I
+[00:24:27] I still like it. Okay, boom, I'm averaging up there. I know we're gonna run it now. And this is, a lot of you're like, oh, it's just hindsight.
+[00:24:37] This is exactly what I did too. I was on an email account Friday. This is exactly what I did to pass it. Literally exactly that thought process
+[00:24:44] was what was going through my head. So it kind of starts with, okay, this is like, all right. I mean, I'm in here.
+[00:24:51] I'm not moving my South break even yet because I still have conviction and I know that my entry was something greatest. So maybe I will enter this like half size.
+[00:24:59] If I see it's really close to the internal high because it's like, I know the chance of me getting stopped the break even here is pretty high.
+[00:25:06] So maybe I will go half size or something. I did not go half size for this, but I kind of averaged in here.
+[00:25:13] I was like, yeah, I mean, every low is being souped. I kind of watched the reaction. I think we're going to go up here. And we kept generating all this LRR.
+[00:25:21] I'm like, dude, there's no way we don't go up here. That's Liddy what's going through him in my mind. There's no way we don't go up here.
+[00:25:28] And it just happened to be a nice trade because of kind of, I was trading, I wasn't being mechanical here, I was literally trading. I was seeing the mark was feeding me new data.
+[00:25:36] And I was trading based off what I saw kind of here. So that's what I kind of liked about that, all right. Yep, exactly, Colabri.
+[00:25:45] So I'm gonna go back to what I had before. So conviction, like LRLR or equal high Z-glows,
+[00:25:56] I typically try not to go break even, which you can de-risk. If you're planning and not going to break even, de-risk.
+[00:26:05] If you're in a normal position size or even more, then yeah, I guess you would go to break even. But there's times where I really have a lot of confidence.
+[00:26:12] So maybe you do de-risk for the start and to see how it goes. And then I typically will go to break even anytime there's no LLR or just no equal highs.
+[00:26:21] And then if there's another model like this, for example, I'm already kind of in I won't do the break-even thing especially and that comes along with conviction as well, okay?
+[00:26:34] So that's kind of my that's kind of my three kind of rules of when I go to break in when I don't go to break-even If that makes sense
+[00:26:47] Okay, so the fourth one is Interesting, okay, let me just copy and paste this
+[00:26:56] The fourth one is how far, how far do we move? Okay, there's times where I go into a trade
+[00:27:06] and I expect not to go break even, but here's the thing. So on this trade here, this trade here. This is a good trade because we have this V-shape
+[00:27:17] really high momentum recovery. We swap south side, okay. So I really like this trade and I kind of get in there
+[00:27:26] and my targets here. I'm like, yeah, dude, I just have so much conviction in this, I'm not moving myself break even.
+[00:27:33] But, it's like, okay, we've moved so high at this point, we've moved, like if I kind of draw this range a little bit,
+[00:27:42] I just kind of eye this. It's like from my entry to where we've moved, according to where, see how I draw this fit,
+[00:27:49] like from my entry to where the target is, to how much we've moved. See how we've moved over 0.5 of what I was kind of expecting.
+[00:27:57] Does everyone understand that? This is like a little way that you could measure it maybe. I typically just eye it, but does everyone understand
+[00:28:05] how I draw this fib? Like where I enter to kind of where my target is? And then the point five.
+[00:28:14] So it's like if I get, we go more than 50% of what I'm actually looking for. I mean, there's almost zero trance.
+[00:28:23] I don't move myself, break even. Does that make sense? Like, no matter what, even if I do have conviction, I'm moving myself to break even here.
+[00:28:30] We've just moved so far. If it came back down at that point, I would be emotional. And I kind of know that about myself.
+[00:28:36] Does that kind of make sense how I manage that break even stop there? Now, let's say we come up to here, and then we go down, it's like, okay,
+[00:28:45] we really didn't move far from my entry. Anyways, maybe I will hold. But if it's like more than 50% of what I'm expecting, then yeah, I'll move myself to break even.
+[00:28:54] See how there's a lot of, what do you guys, how do you guys think I got these rules? Do you think I'm just making them up on the spot?
+[00:29:04] Yeah, I just, I got them all from experience and not even experience what I'm actually comfortable with. Okay, I, like some of these are like,
+[00:29:14] I'm comfortable these and through trial and error, I mean, I just kind of do this, okay? Yep, exactly.
+[00:29:22] And this is no simplistic class. This is an advanced class, okay? So I'm surprised there's as many people in here as there is
+[00:29:29] because it's like, this is kind of an advanced class. And these are like the four instances on what I do to break you even.
+[00:29:35] And there are maybe a little more, but they barely ever happened, okay? Sometimes, here's something right here.
+[00:29:50] this, I did the same thing here. I think I bought this. I bought there and I never moved my stop.
+[00:30:02] Why are you thinking I never moved my stop there? Yeah, just 'cause before I got into the trade,
+[00:30:12] I didn't see those equal highs. Equal highs formed after I got in the trade, but it's like, I don't know. It's like, okay, we need equal highs.
+[00:30:18] Now there's just no shot, we don't hit 'em. and I won't move my stop there. So that's like another little situation sometimes. Yeah, Calabri, I mean, I don't want to go over there right now.
+[00:30:31] So hopefully that kind of made sense to you. So it talks about risk a little bit,
+[00:30:37] talking about like a little break-even, like technical stuff. I mean, is there any other scenario I can think of
+[00:30:48] where like, I won't, I won't stop. There's a difference between,
+[00:31:05] this is gonna be hard to explain. This is all screen time, man. This is gonna be really advanced
+[00:31:18] and that's a happen a lot, but I would move myself to break even on something like this. Only because I know if we got a candle like this
+[00:31:35] and then this, I know that this next candle should be run. And if it doesn't, it's probably gonna be losing a trade. So like something like that, I'll move myself to break even.
+[00:31:45] But then you're gonna be like, Well, why wouldn't you, why wouldn't you move in in this situation over here? Because there's a BPR holding us.
+[00:31:53] Was there a BPR holding us here? No. So you kind of get the difference. It's like there's different things that are going to be holding us.
+[00:32:04] That will give you more conviction. How to trade a 150 K kill zone. I would risk about 500 maybe on that account, 100 for the K.
+[00:32:16] I know I that's why I liked it. I mean, we were in the hourly frame rally gap at that point So I kind of liked it
+[00:32:29] But apparently it just didn't want to bounce so that's why I liked it And the reason why you guys know why I failed, right?
+[00:32:44] Yeah, we we create equal lows right here. I totally missed these so There's perfect equal lows here to the tick. I
+[00:32:53] Wish I would have not have taken the setup if I saw these That's why I always look like whenever I'm when I'm from in the market and even on my live streams I always look to the left on like let's say I'm bullish on the day. I
+[00:33:06] Always always always double check a few timeframes just to make sure we didn't create equal lows is some random low down here Like if we made equal lows with like this low,
+[00:33:15] I would not long yet. And I'm always checking that every morning, just like if I'm looking to get in a long position, I'm usually just checking that out.
+[00:33:22] So you just said they really locked in and focused. Exactly, Cass, he's looking for PD erase to hold
+[00:33:33] in his favor. I'm actually looking for PD erase to break and then I get in. Does that see how I kind of trade a little differently? My logic is different.
+[00:33:41] I look for a PDA race to break, and then I like to get in. Because I know when they break, I'm probably on the right side of the trade
+[00:33:47] if I get in after that. So, I think that's really it for this class. Again, it's a lot of technical stuff today.
+[00:34:01] And again, it's all screen time. How many times out of 10 do you think this is gonna fail? Look at this, just look at this. V-shape BPR, like, I don't know man,
+[00:34:11] That just looks so good. It's just, see like there's times, right?
+[00:34:19] Just one of my, I'll maybe take a, I'll go half size here and then average down if I need to, it's just, it depends on the setup. And you guys know what good signature in price looks like.
+[00:34:28] And you guys know what bad signature in price looks like. Okay, like it's, there's going to be different days where we get a lot of good signature in price.
+[00:34:36] And, usually if you're questioning, oh, is this a good signature in price? It's probably not if I had to say something. If you're questioning it,
+[00:34:44] it's probably not a good signature in price. Yeah, no problem X. Yeah, I agree, Cass.
+[00:34:51] So does anyone have any other questions regarding this topic only? Yeah, OBs will give me a lot of conviction as well.
+[00:35:07] The more OBs I see created and how that gives me conviction for sure. Like seeing something like this form, it's like, oh, let's go. Like this down. Like, that's something that's yeah, that's a good one. That's good one. I like how you do that.
+[00:35:23] Yeah, this can be relevant to Asia. Um, I mean, there's no Asia kind of sucks sometimes and it It just moves really slow, but yeah.
+[00:35:43] Can you cover the top step balances? Top step has a 50k, a 100k, a 150k. I don't care how you pass the account,
+[00:35:53] I fullported it, it's what, two times. That's how I pass, but when you're on a, if you've never gotten a payout before,
+[00:36:00] literally just go for one mini a day, do 10 point stop and 10 point take prop or 11 point stop, 11 point take profit to be safe. Do that for two weeks straight.
+[00:36:10] You the only way you blow up the count is if you lose five setups in a row, which is unlikely to happen to my FPGs. That's what I did.
+[00:36:16] And I tried to wait for a pullback entry. I have a video on my YouTube saying how I pass the top step account with a 93% win rate. I literally just went for like five set up, five setups.
+[00:36:30] I'll go in for 11 points, and I gotta pay out. So, probably the three minute Mattan, or the two, I would say two, I like to do the best,
+[00:36:42] but one is fine, three is fine, it just depends. It depends on where the singular one is. Right, if there's a singular freewhella gap on this,
+[00:36:51] then well this just really looks good. If there's a singular gap in the three minute, it looks like this, well then I'll use the three minute. No, Calibri.
+[00:37:00] They do not have to be swing lows. Equal lows or equal lows. It doesn't have to be swing low. Eagle, I can't, I don't have my headphones on.
+[00:37:13] You can't come up and speak right now. And then I can't, guys, and this is not a class on teaching how to do Apex and E-Vail or whatever.
+[00:37:20] I'll make videos on YouTube about that stuff. One of the videos this week is gonna be how I pass my E-Vail account on one trade.
+[00:37:29] And I'm gonna go over a little bit about that. Yeah, it could be profitable, but probably lower one rate unlocks.
+[00:37:36] Like if you're fully mechanical, it's gonna have a lower one rate. Yeah, Tony, I do worse in back testing because the problem in back testing
+[00:37:46] is you can't see speed of the candles, and that's a big giveaway for me. I like to see like speed of the actual candle, and in back testing, you can't see that.
+[00:37:54] And you're also not in flow in the market. You don't know what the news is. In a lot of time, you know all that. So it's just like you're not in flow. Boss, if you went about a week last week,
+[00:38:05] then I had a risk 100 per train. See if you can build your components back up. BPR is a balanced price range.
+[00:38:16] It's when we kind of get these, this bearish and bullish gap kind of lining up here. So yes, I will be live tomorrow.
+[00:38:25] I'll be live all day this week, all week and the week after I will be in Florida. So, leopards are gonna stream Monday, Tuesday,
+[00:38:36] and I have no idea about the other days yet. Let me know idea, so we'll see. Yeah, you can take them, risk.
+[00:38:51] I would trade micros on the $50,000 Apex, yes. can I show dude meta prints, you're really OG, aren't you?
+[00:39:00] Where have you been, bro? I haven't seen you. A unicorn setup would be something like, bro, I don't even know.
+[00:39:19] Okay, technically, maybe this, I guess. I mean, it's not unicorn because it's no fair value gap.
+[00:39:28] I'm gonna, it's gonna take me, I don't know where to find one. Doo doo, does anyone got a unicorn set up?
+[00:39:43] Can you someone just send a chart? I don't wanna go look for a unicorn set up. I'm not expecting a reversal, but we just get a mozzler candle out of nowhere risk, I will change my mind. Like, let's say I'm not respecting a reversal but we just get a mozzler candle out of nowhere risk. I will change my mind. Like, let's say I'm not respecting a reversal, but we just get a mozzler candle out of nowhere risk, I will change my mind. Like, let's say I'm not respecting a reversal, but we just get a mozzler candle out of nowhere risk, I will change my mind.
+[00:40:24] like let's say I'm not respecting your verse, expect your reversal, but then just out of nowhere, Mozart, Canno comes and we just violate something. Well, then I will maybe change my mind.
+[00:40:38] So, oh, we're here. Would this technically be one? Fair valley, I mean, I guess.
+[00:40:54] So see, I don't like these as order blocks. I mean, I guess 'cause there's a doji here, but I feel like it'd be this total thing.
+[00:41:06] My time when I trade is silver. What do you mean by that? John, you can do that, but yeah, that's fine, John.
+[00:41:22] It's not gonna mess you up that bad. once in a while it will. If you do analysis in M&Q instead of NQ. So.
+[00:41:36] All right. Yeah, I do not, I trade all day. Yeah, typically I'll always have alerts in the market and kind of see what happens.
+[00:41:44] So yeah, I take a lot of silver bolts set up like 10 to two or sorry, 10 to 11 just depends. So, I want it to take forever to get a payout
+[00:41:56] if you trade micros. No, it depends on, no, not if you're targeting like higher time frame liquidity.
+[00:42:05] If you're taking like all one to ones, yeah. There's times where like, I took a 12 to one hour trade because I knew there was equal highs up here.
+[00:42:13] Like on like, I will get big trades because of experience. Like a long, a forever I get up down here
+[00:42:20] instead of selling for like a one-to-one, I'll hold one to like way up here. And it just makes it, that's how you,
+[00:42:28] and that's why people pretty mechanically, it's gonna be harder for them to get payouts 'cause they're not gonna know how to trade. I know how to trade.
+[00:42:34] I know how to hold something till here, you know? So, dude, does that make sense? Unless you can figure out to hold this long,
+[00:42:44] it's not gonna be easy for you to payouts. And I'm not even talking about your full position. maybe like a quarter, but these runners like they go
+[00:42:55] for like five to 10 hour will add up. So knowing the higher timeframe draws important, even if you're just trading mechanically.
+[00:43:01] So that's it for this class. I will see you guys later. And yeah, let me know if you have any questions. This will be up on YouTube and yeah, peace.
