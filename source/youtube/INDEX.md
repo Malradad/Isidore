@@ -103,3 +103,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20250203 | segUNF3hGzg | Are iFVG Setups LOSING Effectiveness？ | captions | done |
 | 20250130 | WdRsT1zEluQ | This Is What Makes a Setup A+ | captions | done |
 | 20250121 | hMMIPZPyWFk | Reacting to ICT Mentorship (After I'm Profitable) ｜ Pt. 4 | captions | done |
+| 20250105 | g7lOI8bwd9o | Reacting to ICT 2022 Mentorship ｜ Pt. 3 | captions | done |
