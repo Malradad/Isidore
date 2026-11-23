@@ -1,0 +1,48 @@
+[00:00:00] Stop donating your money to the market. Seriously, if you're sick and tired of watching your P&L go up and down exactly like a heartbeat monitor from the hospital and you want a strategy that actually wins much, much more than it loses, then stop scrolling.
+[00:00:14] Most traders are obsessed with zero or hero trades, trying to catch one move that's going to make them rich and this is the reason they blow their account. Today, I'm going to show you my specific high win rate strategy that is designed to win a lot more than it loses.
+[00:00:29] One goal in mind high win rate. It's not magic. It's not a secret algorithm It's a simple step-by-step mechanical process that the market will repeat and repeat and repeat But again in this video, you're going to have the exact entry technique exit technique
+[00:00:45] Know how to manage your trade and the rules to execute this tomorrow without further ado. Let's get into it I'm gonna make this lesson 20 seconds
+[00:00:52] But one of my students told me that they got paid a thousand extra dollars because they didn't get their payout within 24 hours Which one next will pay you if they don't pay you out in 24 hours
+[00:01:01] So I started looking at the firm and they have one day to pass and you can get a payout within three days I just bought a bunch of accounts I'm gonna keep you guys updated and it's a firm that has been around for a while now
+[00:01:10] And I'm never gonna partner with a firm that's never been around for a while So go check them out before you ask. Yes, this works for any single time frame. Okay now What is the main thing that I look for no matter what time frame I'm creating which applies to all the higher time frame?
+[00:01:24] Well, I'm looking for two things, a liquidity sweep from some sort of low or high to the left. And this could be months ago, this could be months and months and months to the left.
+[00:01:33] And the strongest and most creative traders are going to be able to scroll out and zoom out and look to the left to see if that's case. Like, we could theoretically get this could be
+[00:01:43] October and then this could be December. We could come down and we tap a low from like that long go and boom, I have a swing trade. Hey, so that is the first thing I'm looking for. I'm looking for
+[00:01:53] some sort of obvious low to get swept. Now, a lot of people say, Oh, look, we're low, look for high, but I look for something specific. If I see low and I can back away all the way back here and I can
+[00:02:04] still see that low, it's probably obvious. And it's probably one you should be noting. Like, for example, I'm not I'm never going to mark like a highlight dip. Okay, I know like there's probably lower time
+[00:02:14] for him setups on this, but it's just not that obvious. The one I have marked looks like a valley low or maybe a mount on top flipped around and that's always a low that I'm going to personally use. The other thing I look for is a delivery from a Fair Valley gap beneath
+[00:02:29] that low. So I mainly prioritize two things. A sweep of an old low, okay, it could be a month ago, it could be a day ago, it could be a week ago, and then I like for us to bounce
+[00:02:39] into a Fair Valley gap at the same time. Now what is my actual entry model though? My actual entry model is an inversion off of a level like this. So I look for a bearish fairbelly gap in this
+[00:02:50] situation like this. And don't worry, I'm going to go over a live example in a second. And I look for a strong speedy high momentum v-shape recovery light bulb candle back to the upside. And that
+[00:03:01] is when I get in. Okay, so it's going to look something like this. And I usually enter off the clothes, and I usually put my stop loss as a close back below the inversion fairbelly gap.
+[00:03:11] If you want to be safe, you could definitely put it at the low, but you're sacrificing rr when you don't really need to, but you can back test this. Now, I don't want to spend too much time going over random lines of accounts that don't exist
+[00:03:23] because that's how I can help you. I'm going to pull up a random ticker and it's I trade nq futures, but for the love of the game, I'm just going to go to bitcoin or something because I'm trying to prove that this works in anything works on gold, bitcoin, oil, um,
+[00:03:37] I need commodity pretty much okay so I'm just gonna you know go in a Bitcoin chart right um and I'm going to go to the one hour four hour because when we're swing trading we ideally want 15
+[00:03:47] minute above entries when you're day trading you ideally want five minute below so we're gonna go on like the four hour and look for some four hour examples okay now four hour looks you know decent okay and I already see a fail example okay look at this check this out see how we have a four hour
+[00:04:04] forever I get here and it completely breaks to the upside right here. Why didn't this work? Well, do you see a forever I get up to the left that we swept into? No, you don't, right? We even
+[00:04:13] though we swept the low, that would only make this an A or A minus set up. But the A plus set-ups that I would only swing trade are the set-ups that are going to tap into an unbalanced gap to the
+[00:04:23] left at the same time. And we don't have an unbalanced gap here. And some of you might wonder, like, oh, but what about this? But we didn't sweep into the untapped part, right? We've already tapped all the way down from here to this low.
+[00:04:34] We would want to sweep below that low and then go up and then get the inversion. So that's why I set up like this tends to fail. Now, let me just go to a working example
+[00:04:41] so you can see what I mean. So I'm still in the four hour chart and in this example here, we swept this high. We have a liquidity sweep.
+[00:04:48] And do we have our hard time frame for a rally gap tab? Yes, we do. Okay, look, this whole thing is a fair rally gap. And I'm in the four hour now,
+[00:04:56] but this is the daily fair rally gap. But you can see I'm combining each four hour gap here, here, here, because it's all consecutive to make it one.
+[00:05:04] So this would count as us sweeping a high to an untapped gap. Now, where's the actual inversion for a rally gap though? Oh, look right here, right here, okay?
+[00:05:13] And you can see that we held it the first time and then the second time absolute death can't upload it. And you can even see that my own personal indicator,
+[00:05:22] which I use every single day, alerted the century, which basically doesn't really mean much besides what I'm saying is accurate and I have coded this
+[00:05:29] into its own little indicator. And it's just a proof that I don't fully trade discretionary. I still have an idea or logic that I'm trying to teach you,
+[00:05:37] which I can still code into an algorithm or an indicator. If you're interested in this, just click the link in the description. Let me just say it's been doing very, very well.
+[00:05:44] Now, to move on to gold, because again, I trade in key futures, but this works for almost everything. I'm in the hourly timeframe.
+[00:05:51] Okay, we have a very, very obvious giant bearish (indistinct) and it stands out, okay? If I'm over here, it stands out.
+[00:05:58] Now, where's our liquidity sweep? Where's our entry? And where's our Fair Valley Gap delivery? Here's the entry when it closes above and you can see it would have only been
+[00:06:05] about a day's worth of holding. And if you wanted, you could have held, you know, higher. Here's the liquidity sweep over here. Now, where's our Fair Valley Gap delivery?
+[00:06:12] There is none, right? Well, if you go to the daily chart, we tap into a daily Fair Valley Gap. So I basically just opened up your eyes to show you that,
+[00:06:20] hey, we might not have a hourly Fair Valley Gap delivery here, but if we have one in the hard timeframe, it can just be just as good.
+[00:06:27] Now, if you're comparing a one-minute gap to a daily gap, like a one-minute entry to a daily gap, it's a little too far-fetched. Ideally, hourly paired with a daily is completely fine,
+[00:06:38] four-hour compared to the daily's fine, and obviously daily with a daily's fine. Don't get too small of time frames, but you can still see hourly swept below
+[00:06:46] off of daily frame daily gap, inverse, target, all-time highs again. It's the same concept every single time. Now, don't take my word from the video to trust me.
+[00:06:55] because I want you to go open a random chart, go to any random ticker and queue, gold. Yes, it doesn't matter.
+[00:07:02] Go to the four hour daily, weekly and just go back to this is 50 times. I guarantee you, if you go anywhere and you see some sort of inversion,
+[00:07:10] the first step I want you to look for it was, is there a liquidy sweep? Yes, there was. We're sweeping these lows right here and already bounce out of a fair rally gap.
+[00:07:17] Yes, we are right here. Okay, you can kind of see it's combining with this little alignment belt. And you will constantly see this repeat over and over
+[00:07:25] over and over again, every single time frame. Backtest this before you put a single dollar into it, 'cause I don't want you to lose your money. If you wanna see me trade the strategy live next week
+[00:07:34] for free on YouTube, smash the like button, and if you get a thousand likes, I'll drop a full live trading session. Get to work, I will see you in the next one.

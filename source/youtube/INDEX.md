@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20251228 | TSpdkjI3VNs | My ＂Stupid Simple＂ ICT Strategy That Actually Works | whisper | done |
+| 20251222 | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
+| 20251217 | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
+| 20251209 | lkyLJsrAYGk | Live Day Trading Winning $4,670 (I HAVE THE BEST MODEL IN THE WORLD) | whisper | done |
+| 20251117 | OJEV8x9wyVg | If You Think Trading Is Getting Easy You Need to Watch This NOW | whisper | done |
 | 20251106 | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
 | 20251030 | D4D99ZxYSe0 | TJR is the Exception (his #1 trading secret) | whisper | done |
 | 20251027 | S5JNoso6fG0 | How I Built my Trading Empire From Scratch ｜ The Story Behind DodgysDD | whisper | done |
