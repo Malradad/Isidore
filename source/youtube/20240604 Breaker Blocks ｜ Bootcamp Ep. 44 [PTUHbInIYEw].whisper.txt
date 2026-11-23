@@ -1,0 +1,74 @@
+[00:00:00] All right, what is a breaker block? So, as we know, an order block is typically something you want to see sweep liquidity. Might be red candle and a bullish order block would be something like this.
+[00:00:17] So maybe we get a green candle right here. We swept some sort of low and then we get another green candle, again, validating this to become the order block.
+[00:00:25] So I draw the line at the open because this is where we're going to get the most precise Obviously the whole candle is the order block and the whole candle could be support But that's where it's gonna be the most prominent to draw from so we now know once this candle closes above this is the not or block
+[00:00:40] now Let me show you something so Why don't a break so a breaker block is a
+[00:00:50] In theory it failed or a block, but let's let's take a few stuffs back here. That's not really what it is Okay a common common sense is this you're probably like oh well if we validate this order block and then violate this
+[00:01:06] It's probably gonna be used as resistance because support turns in the resistance and resistance turns in support So yes, that is our right idea
+[00:01:14] We it's just like an inverse reality gap if we kind of get a death candle or a big candle kind of violating this or block here Yeah, it's probably bearish
+[00:01:23] But let's back up here for a second What if we've already swept south side here? What if we've already swept some sort of equal lows? What if we've already swept the low without displacement and then we get this well, does it make sense to reject this?
+[00:01:36] No, it doesn't because we've already swept south side If we haven't then yeah, that'd be a different story Maybe we're way up in premium and we haven't swept south side
+[00:01:45] Then it would make sense for this to be resistance out there. It got's broken So that's kind of what a breaker block is a breaker block in theory is when we get an order block
+[00:01:54] We have not swept sell side yet in that order block which retail noob traders are going to expect us to bounce off of Just completely gets brawn through and then that's going to act as resistance for to bring us lower
+[00:02:07] so the main characteristic with an oral block is It should sweep some sort of higher low first, okay, so You want us to so let's say there's bi side here
+[00:02:20] Okay, let's say there's a wick there's a can right here, and this is by side Okay, so we have bicellicorty here and
+[00:02:33] All of a sudden we dump through this we dump through this and then we get this is this a breaker block? This would not be a breaker block, okay
+[00:02:43] Here's why well, yeah, this might be very but we didn't run a high this would actually Be a mitigation block because we don't sleep a query
+[00:02:54] But that it's still not a mitigation block and I'll explain why in a second, but We want to see a candle run this high and then go down that would make this a breaker That's the first characteristic of a breaker, which I know this is gonna advance
+[00:03:07] I know you're gonna need to see a lot of repetitive exam Just like when you're studying for a quiz you just need to see a lot of them to or a lot of this answer to know To know you know what you're doing
+[00:03:18] Now a breaker block has to be a swing low So it has to be a swing low this right now. It's not a swing low because there's a higher low high low high low But if we get something like this
+[00:03:30] Where it is a swing low right here? This would be a swing low now because we have a low lower low high low and We broke it. This would now become a breaker
+[00:03:40] So this is the main characteristic. So this right here. Let me just recap this This right here would be a breaker because we take out liquidity and then inverse the order black back to the downside
+[00:03:51] Now the the cool thing is we wouldn't like if we swap buy side Why would you expect an a bounce off the sword block in the first place?
+[00:03:59] And if we do get a bounce off it, so what that means there's probably a high your higher buy side You're probably missing above somewhere you probably just don't know about or you need to go in the chart and review again
+[00:04:10] But if we do violate that or black this is to be expected Maybe we have south side down here. We already split by side and you see us close below this and
+[00:04:22] This is to be expected we want to go lower because it just makes sense because We've already ran stop losses at the highs. We need to run stop losses to the lows now, okay? So it makes sense for this to be a breaker
+[00:04:34] This would be a mitigation block You smart people are going to understand about two seconds the difference between a mitigation or breaker. This is a breaker This is mitigation. This is a breaker. This is a mitigation. I'm not going to explain
+[00:04:47] mitigation blocks of the same thing. It's that they don't run liquidity. So let's look at some live examples. We have a can right here. It's a red candle sandwiched between this and we run by side and we take out some sort of liquidity. So would this be a breaker when we trade back
+[00:05:06] through it? Remember bullish people are going to be like, Oh, we should bounce off the sort of block but but smart people are gonna think well we already swept by side why would you balance all the sort of block there's no point because you've already
+[00:05:17] ran stop losses up here and maybe they're like oh there's a bunch of engineered lows right here I think we're gonna run all these lows there's a lot of stop losses here it looks like retail support that's what the smart people are
+[00:05:28] thinking so they see us break to this now would this be a breaker block the answer is no why because it's actually not a swing low so I kind of tricked you guys are a little bit, this is not a swing low. So this would not be a breaker. It would
+[00:05:41] just be an order block that was broken. And yeah, it does work, but it would not be a breaker technically. This would be a breaker. So these three down close candles right here
+[00:05:56] would be a breaker. Why? Well, what do you see here? You see three down close candles, which are three candles sandwiched between these green candles and these green candles.
+[00:06:07] this would be your order block. But you kind of see that order block breaks and when this order block or now breaker, which it's a breaker when it goes closed below, gets closed below.
+[00:06:24] You now say, okay, now this is a breaker, we should reject. And then you might take the short after we close below and take the retracement of the breaker and you stop boss at a high and then take profit at, let's say, this low.
+[00:06:36] The full TP would not have hit here, but you would have probably scaled some of this bullish reality gap. Just in case, you're gonna learn how to scale
+[00:06:44] through a lot of time and energy put in the market. Sometimes I will scale a lot in these bullish reality gaps
+[00:06:54] in the vice of the curve, just in case, just in case this happens, you can see it would have worked out. But you can see three donco's candles, and why is this a breaker and not a mitigation block?
+[00:07:03] because we run this high here. So this is our manipulation leg. All right, and this is hindsight.
+[00:07:10] Like, while I'm trading this a lot of time, I don't know we're gonna get a breaker. I don't know we're gonna get a manipulation leg. I'm just kinda watching.
+[00:07:17] Now I know, oh, the breaker just activated. I now see this was, was a manipulation leg. So I now know this would probably be a good short.
+[00:07:26] So hopefully that makes sense. So let's go back a little bit. second example would be right here. So we got a green candle sandwiched between these two red
+[00:07:39] candles. We know it as a bearish order block at this point, but when looking for my common sense point of view, it seems as if we are bullish because we kind of got pretty close to this high,
+[00:07:52] did not quite hit it, which means we're going to usually come back to it later. We got a bunch of trend line liquidity here and what happens when we perform this trend line liquidity, it's usually ran. So I usually run all these stops. So from a liquidity perspective, it does not
+[00:08:09] make the sense to reject a bearish word block if we know there's trend line liquidity above and these stops are going to be ran. Because that's how the market works. So when I see this screen
+[00:08:19] cano, which is also a swing high, get broken, that would be my chance to maybe long off this breaker block and then target the top of the trendline liquidity or that high or high from here that
+[00:08:31] was just failed to be hit before. So you can just see it's an order block that you kind of wouldn't expect to work and that's why some of this is common sense. Like you wouldn't expect
+[00:08:41] this order block to reject if we have trendline liquidity above. Also we have these equal highs above here and the market's always going to prioritize liquidity and stop runs. All right,
+[00:08:50] it's going to want to run stops. So just another breaker that makes sense. Okay, if I keep going over to the right we got two more here. So right here we got another swing high it's a green candle
+[00:09:05] and you can see that again this green candle right here would technically become your breaker once it's broken. So you can see this is an order block at this point because we kind of get a
+[00:09:26] big red candle close below it. All right, and then when we go back above it, you're like, okay, it is now a breaker because it's a swing high. It was an old order block that we would not expect
+[00:09:39] to work. Why would you not expect the work? Again, just goes back to the we have equal highs here, we have equal highs here and we have too much stops up here and we've already ran stops
+[00:09:50] at low day twice. Do we really need to run them again without running some sort of stops above? And this is where it gets complicated. A lot of people are like, well, the higher time frames
+[00:09:59] bearish. Yeah, it's bearish, but we need to retrace first before we dump because we need to generate how are people going to get filled with these highs if we don't have enough liquidity to dump
+[00:10:10] more. We need to stop more people out. We need to fill orders. Smart money needs to get in somehow and to get in they need real resting by stop orders sitting here so they can get in a short.
+[00:10:22] That's what and that's why we do that. All right. So you see this breaker work nicely to support and you would have targeted these equal highs and you would have targeted these equal highs.
+[00:10:33] All right. Now let me go to here. We got this time it's a series of three two candles. I just realized I thought this is a red candle.
+[00:10:44] It's not a red candle. So this actually would not be a breaker block, but it's the same concept. Let's say this was a red candle. Let's say this was a red candle.
+[00:10:51] This is a single low. As soon as we close below these, which took out this high, this would be a breaker.
+[00:11:00] And I actually just realized I made a mistake. This actually would be a mitigation block. Why?
+[00:11:05] Because we didn't actually run this low day here. See that? So, now let's say we would have wicked here, then this would have been a breaker for sure,
+[00:11:14] but we actually, it's not a breaker because we didn't run that low day. Now this is not a breaker either, but it's the concept that counts. This is a breaker right here.
+[00:11:23] See this candle right here? This was an order block.
+[00:11:29] It gets held a support here. Why does it get held a support here, but not here? Well because we have equal highs here, we have liquidity.
+[00:11:36] We don't run all the liquidity, but we run enough to reverse. And again, in live time, what I'm thinking is I'm like, oh, I'm going to buy this order
+[00:11:46] block. All right, let me play a couple of candles. All right, there's my first EP. I'm going to sell half here. I'm now going to have a stop loss of breakeven and do the other target up here.
+[00:11:56] So let's see what happens. Oh, I get stopped to break even. Oh, now the sort of block that ran, like to me, I'm thinking, oh, well, I'm going to
+[00:12:06] Well I guess they didn't need all this liquidity to go up or maybe there was an SMT. Maybe I'm missing an SMT or something.
+[00:12:13] But at this point I'm like, okay, when this candle gets broken, this is now a breaker block. It was an order block. It got respected when it should have been because we had equal highs above.
+[00:12:22] Does it really make sense to be respected the second time around when you've already ran a decent amount of liquidity? No, not really.
+[00:12:29] So now you'd switch short here and this and again, this is a swing low. So that's why it's so important.
+[00:12:36] It's also a breaker because we run all these highs. It's not a mitigation block. And then you'd reverse short up that.
+[00:12:43] (coughing) So that is a breaker. Again, very advanced episode. It's fully full on new, but it's not gonna understand this.
+[00:12:53] You need to make sure you understand my other bootcamp verse. You just need to see, go to YouTube, say what is a breaker block?
+[00:12:59] Look up PDFs. You're gonna see a decent amount of what is a breaker block on Google. You just need to see repetitive examples of this, in my opinion, and that's how I learned.
+[00:13:08] I mean, it's just, it's like studying for a quiz, you just need to see the same thing a bunch of times. So, that's it for this video, peace.
