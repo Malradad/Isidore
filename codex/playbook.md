@@ -138,6 +138,33 @@ frame that shows the gap, the sweep, the inversion candle, entry, stop and targe
 - **Honesty flag:** in that same "A+ backtest" he says "I gave up backtesting years ago", runs mostly BE trades and
   shows realized P&L −$1,000. His backtest videos are not evidence of an edge.
 
+## Video study, batch 2: losses and rules for life (2026-11-23) ~
+- **Why setups lose, his reading** (youtube/20250926 fg1tbrPwcx0):
+  - **No BE point before the target** → skip. If there's no internal high, BE goes at the *next gap* above;
+    price should spool through it.
+  - **Protected-high target** (a high that took another high *inside an FVG* = rejection block) → skip. It needs
+    rebalancing or more sweep first.
+  - **Inverting the wrong leg:** enter the inversion of the leg you're on (the V-shape), not an older leg. Such
+    trades are "maybe 60%".
+- **Five rules for life** (youtube/20251013 FHQP0_d_YNs):
+  1. **Trade 09:30–11:00 only.** Pre-open is "hit or miss".
+  2. **One trade per session; a breakeven doesn't count.** "If you're hesitating, it's not the one."
+  3. **Reversals must be fast:** at most ~6 candles from the sweep to the inversion.
+  4. **Momentum:** a "light bulb"/death candle that stands out from the candles around it.
+  5. **Target engineered liquidity:** equal highs/lows or a trend line tapped many times. Asia/London highs alone
+     aren't enough; they must be paired with one of those.
+- **Loss rules** (youtube/20250319 5TxTJlmsQ24, youtube/20260203 Xx6n4K_sEbs):
+  - **Two losses in a day → stop.** "An A++++ after two losses is not A+" — those go to paper only.
+  - On a bad-price-action day, **stop after one loss**.
+  - Live account: **one trade a day**; "ending the day −1R… has gotten me the most payouts."
+  - After 5 straight losses he added: **wait for every timeframe to close**, and never leave a trade unattended.
+  - He kept trading funded accounts after the live stop (−3R there). His rules bind his live account, not his props.
+- **Honesty flags:**
+  - "Trading is gambling… some things just fail" (Feb 2026).
+  - The $42k day was blamed on an order bot or a platform glitch (youtube/20260326 tknOdyn6E60).
+  - In the same video: "six figures a month from every stream" — affiliate codes, Discord, a $250k private loan.
+    Trading isn't his main income.
+
 ## Mechanical model (his 2023 class) — testable as stated
 Source: streams/2023-09-04 ErsWq6j87uY @ 00:18:15–00:55:53. ~
 1. Mark the **previous day's high and low**. Never trade inside them.
