@@ -130,3 +130,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240829 | t1CnP1Ihp8E | The BEST Timeframe for ICT Traders | captions | done |
 | 20240827 | hDNSAlL0fBk | Reacting to ICT 2022 Mentorship ｜ Pt. 2 | captions | done |
 | 20240823 | Grvv12fLIj8 | The Secret to doing Top-Down Analysis - ICT Concepts | captions | done |
+| 20240821 | XUJR9e8dtb4 | How to use Time & Price (ICT Macros) | captions | done |
