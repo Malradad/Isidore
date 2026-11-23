@@ -159,3 +159,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240513 | 9R0U7hUccOk | Premium & Discount ｜ Bootcamp Ep. 28 | whisper | done |
 | 20240511 | z3eIusDqdR0 | Passing a Funded Challenge with $200 Drawdown Left ｜ iFVG Model Trader Interview | captions | done |
 | 20240510 | kNzFo0h5QQk | Useful Liquidity Pools ｜ Bootcamp Ep. 27 | whisper | done |
+| 20240504 | EPhGzsxE9zQ | +$300 One Setup for Life ｜ Live Execution | whisper | done |
