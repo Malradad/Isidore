@@ -162,3 +162,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240504 | EPhGzsxE9zQ | +$300 One Setup for Life ｜ Live Execution | whisper | done |
 | 20240502 | _QZHjgy1eb4 | ICT Trading Models ｜ Bootcamp Ep. 21 | whisper | done |
 | 20240430 | lmlcXPBDbKI | Creating Rules in Trading ｜ Bootcamp Ep. 19 | whisper | done |
+| 20240429 | 6BTGyxNKM2I | Market Structure + Fair Value Gaps (FVGs) ｜ Bootcamp Ep. 18 | captions | done |
