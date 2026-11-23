@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20250917 | MwrRzZs8Fqw | ONE OF THE BEST FOMCs WE HAVE EVER GOTTEN (Trade Recap) | whisper | done |
+| 20250916 | SvlZTP6kKRs | How to Trade at ATH – My 3 STRICT Rules | whisper | done |
+| 20250911 | c5Mvs-soag4 | Breaking Down 4 Student Biases (Common Mistakes Explained) | whisper | done |
+| 20250906 | 2J3DyAAGN24 | The Dark Side of Trading： The Creature That Can Destroy Your Life | whisper | done |
+| 20250904 | tkCffe5C2HI | The Best Model for Realistically Quitting Your 9-to-5 Job — Today's Trade Recap | whisper | done |
 | 20250901 | pEJwLyVZ8ng | DodgysDD iFVG Model Complete A+ Backtest & Analysis | whisper | done |
 | 20250829 | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 | 20250826 | xSQAygcawZ4 | This is the difference between future millionaires and future brokees (Trade Recap) | whisper | done |
