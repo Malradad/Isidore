@@ -120,3 +120,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241026 | HNjZaOF8MZs | The 4 Stages of becoming a Profitable iFVG Trader | captions | done |
 | 20241021 | SbMWBVB-GmY | Took a Loss？ DON'T trade, answer these first | captions | done |
 | 20241018 | kewvT3TvrfI | What A+ Setups look like (5 perfect examples) | captions | done |
+| 20241015 | dvZzbzhN5h4 | This One iFVG Setup causes you losses | captions | done |
