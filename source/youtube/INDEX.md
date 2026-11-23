@@ -26,3 +26,8 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20250630 | gpn8BvK-G4s | Foolproof Bias – Here's How I'm Right 90 % of the Time | whisper | done |
+| 20250617 | aP_oySAybqo | Swing Trading with a 90% Win Rate (Higher Timeframe iFVGs) | whisper | done |
+| 20250613 | 2a3fBH2_5eM | Live Bias Backtesting (100% Accuracy Predicting Bias) | whisper | done |
+| 20250608 | -xLZ2ekyja4 | Five A+ iFVG Setups with Full Explanation | whisper | done |
+| 20250527 | Y0qANs6tdcY | This Day Trading Strategy has a 90% Win Rate (Not Clickbait) | whisper | done |
