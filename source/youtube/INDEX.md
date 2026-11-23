@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20260330 | m1Ly_P-XnnU | How You Can be Profitable with Just 30% Win rate (The Math of Winrate) | whisper | done |
+| 20260326 | tknOdyn6E60 | I just lost $42,000 in a single day | whisper | done |
+| 20260323 | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
+| 20260321 | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
+| 20260314 | IWa7YCzVONU | Beat 99% of Traders with This 2026 Trading Gameplan (Step by Step) | whisper | done |
 | 20260307 | DNYACb_9WUI | The Most Unbeatable Trading Strategy | whisper | done |
 | 20260223 | PGUCvpAtJmM | This Scalping Strategy is UNBEATABLE | whisper | done |
 | 20260213 | Ajh6yGnYXy8 | The Only Trading Strategy Prop Firms Can’t Stop | whisper | done |
