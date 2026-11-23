@@ -112,3 +112,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241129 | 4bPMW6jQ4Wk | Backtesting... but Students Vote on Trades – Will They Make Profit？ | captions | done |
 | 20241123 | GoU3p4sgxz0 | These 3 Characteristics define Winning iFVGs | whisper | done |
 | 20241118 | 2rgNnOVqYkQ | STOP Overcomplicating Your Trading | whisper | done |
+| 20241115 | SEy3z7TBmlg | How I predicted a $30,000+ Move on Bitcoin | whisper | done |
