@@ -111,3 +111,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20241203 | aEdEggrt9iU | I Surveyed 1000+ Students – What They Revealed About Their iFVG Trading Journey | captions | done |
 | 20241129 | 4bPMW6jQ4Wk | Backtesting... but Students Vote on Trades – Will They Make Profit？ | captions | done |
 | 20241123 | GoU3p4sgxz0 | These 3 Characteristics define Winning iFVGs | whisper | done |
+| 20241118 | 2rgNnOVqYkQ | STOP Overcomplicating Your Trading | whisper | done |
