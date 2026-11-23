@@ -128,3 +128,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240911 | m5Ki1SL_yEY | Backtesting the iFVG + SMT Strategy! (insane WR) | captions | done |
 | 20240906 | pdy1HPYYeWc | How to identify Daily Bias for ICT Traders | captions | done |
 | 20240829 | t1CnP1Ihp8E | The BEST Timeframe for ICT Traders | captions | done |
+| 20240827 | hDNSAlL0fBk | Reacting to ICT 2022 Mentorship ｜ Pt. 2 | captions | done |
