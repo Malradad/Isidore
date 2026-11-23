@@ -28,10 +28,13 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
 |  | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
 |  | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
+|  | -xLZ2ekyja4 | Five A+ iFVG Setups with Full Explanation | whisper | done |
+|  | -xLZ2ekyja4 | Five A+ iFVG Setups with Full Explanation | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 0z6PwblQYXk | I've Never Seen this in my 7 Years of Trading (Trade Recap) | whisper | done |
 |  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
 |  | 2J3DyAAGN24 | The Dark Side of Trading: The Creature That Can Destroy Your Life | whisper | done |
+|  | 2a3fBH2_5eM | Live Bias Backtesting (100% Accuracy Predicting Bias) | whisper | done |
 |  | 3tznO7UHj74 | My HIGHEST Win Rate "Trap" Setup at Market Open (9:30 AM) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
 |  | 8jfFwmxZtjA | How I Flipped a Loss Today Into $15K Profit (From -1R to +4R) | whisper | done |
@@ -65,6 +68,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | Xx6n4K_sEbs | How I Lost $10,000 Daytrading iFVGs (I Got Wrecked) | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
 |  | YRu4r_-iMIY | The Truth About Candlesticks Nobody Tells You | whisper | done |
+|  | aP_oySAybqo | Swing Trading with a 90% Win Rate (Higher Timeframe iFVGs) | whisper | done |
 |  | c5Mvs-soag4 | Breaking Down 4 Student Biases (Common Mistakes Explained) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
 |  | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
@@ -73,6 +77,7 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 |  | fxJvieNZRP8 | Live Day Trading Making $31,000 (Live Trade + Analysis) | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
 |  | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+|  | gpn8BvK-G4s | Foolproof Bias – Here's How I'm Right 90 % of the Time | whisper | done |
 |  | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 |  | hk_by6YR_b4 | The Art of Taking Bad Setups | whisper | done |
 |  | l2vld_1H1xo | Today Was The Best Day of Price Action Ever (Trade Recap) | whisper | done |
