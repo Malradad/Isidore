@@ -157,3 +157,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240520 | qQQHJwqzBQk | Judas Swing ｜ Bootcamp Ep. 33 | captions | done |
 | 20240514 | N6seSMkJrqw | Daily Bias ｜ Bootcamp Ep. 29 | captions | done |
 | 20240513 | 9R0U7hUccOk | Premium & Discount ｜ Bootcamp Ep. 28 | whisper | done |
+| 20240511 | z3eIusDqdR0 | Passing a Funded Challenge with $200 Drawdown Left ｜ iFVG Model Trader Interview | captions | done |
