@@ -26,6 +26,11 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20260605 | hd8OyKtQfx0 | The Wrong Way to Trade IFVG's | captions | done |
 | 20260528 | DtX8ohvX4YQ | Watch This Video if You Think You Know How Liquidity Works | captions | done |
 | 20260417 | NeOcYoJWEtM | My High Accuracy Inverse Candle Closure Checklist | whisper | done |
+| 20260202 | gAjLia6mEWg | This Gold Trading Strategy is Technically UNBEATABLE | whisper | done |
+| 20260127 | lGUNKOoEx70 | How I Made $10,000 Using the Greatest Daytrading Model in the World (Trade Recap) | whisper | done |
+| 20260112 | fHf-khw8KYM | How I Made $6,767 in 15 Seconds (Trade Recap) | whisper | done |
+| 20260108 | z7Um85usvck | How I Made $67 in 1 Minute (TRADE RECAP) | whisper | done |
+| 20260107 | sI5ku6PZPaw | Trading Psychology is a Scam (What I Know After 6 Years) | whisper | done |
 | 20251228 | TSpdkjI3VNs | My ＂Stupid Simple＂ ICT Strategy That Actually Works | whisper | done |
 | 20251222 | -vYOyufu5xA | How I Made $2,000 in my Mom’s Basement (Full Trade Recap Analysis) | whisper | done |
 | 20251217 | A4oiOgKIkrQ | The Only Trading Strategy I’d Use if I Had to Start Over | whisper | done |
