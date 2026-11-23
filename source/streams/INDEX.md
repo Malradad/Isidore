@@ -21,7 +21,7 @@ Newest first, from https://www.youtube.com/@DodgysDD/streams (37 streams). Statu
 | 2026-03-06 | YKRoRbq1BTU | NFP Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h50m | 4 (NFP straddle on Alpha eval failed; real NQ short ~+1R; 2 paper/chat BE) | 1 | done |
 | 2026-03-01 | DqSuUNyjgwg | War News Exclusive LIVE Trading NQ/ES/GOLD - DodgysDD | 1h1m | 0 (1 joke paper trade at the Sunday open) | 0 | no-trading (joke paper clip, Apex news, giveaway) |
 | 2026-02-13 | 7w6pya1dubs | CPI Special LIVE Trading NQ/ES/GOLD - DodgysDD | 2h35m | 3 (CPI straddle + Apex hedge on evals; 2 Alpha eval longs: 1 L, 1 TP) | 6 | done |
-| 2026-02-11 | 8wgnYYcVHuc |  LIVE Futures Trading NQ/ES/GOLD - DodgysDD | 3h20m | | | transcript + meta; trade log todo |
+| 2026-02-11 | 8wgnYYcVHuc |  LIVE Futures Trading NQ/ES/GOLD - DodgysDD | 3h20m | 1 funded (BE) + NFP hedge | 10 | done |
 | 2025-11-14 | imzrLPjXVxE | ICT Live Trading Futures - 80% Win Rate! (Inversion Fair Value Gap Model) | 1h2m | 2 (both paper, PM: 1 ~stopped, 1 open +£319) | 2 | done |
 | 2025-10-26 | 2rLiG2J4eiQ | Dodgysdd LIVE in Japan  - Q&A & Live Analysis | 0h35m | 0 | 0 | no-trading (Japan travel Q&A) |
 | 2025-10-15 | YTBcXcI70io |  Launch Day: Trading ICT Futures LIVE with My New iFVG Indicator | 1h51m | 3 (longs: −0.5R, −1R, +3R; net +1.5R) | 0 | done |

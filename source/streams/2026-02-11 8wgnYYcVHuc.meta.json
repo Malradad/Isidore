@@ -7,11 +7,11 @@
   "live_status": "was_live",
   "release_timestamp": 1770814729,
   "live_start_utc": "2026-02-11T12:58:49Z",
-  "live_start_ny": "2026-02-11 07:58:49 EST (Wednesday)",
+  "live_start_ny": "2026-02-11 07:58:49 EST (Wednesday)", "time_offset_note": "true start 07:59:13 NY (TradingView clock 08:30:15 at stream 00:31:02)",
   "timestamp": 1770830668,
   "transcript_source": "Whisper (whisper.cpp base.en, -mc 0) on the audio.",
   "video_local": "%USERPROFILE%isidore-videosstreams${j.id}.webm",
-  "trade_log": "todo",
+  "trade_log": "2026-02-11 8wgnYYcVHuc.trades.md",
   "collected_by": "Audrey",
   "collected": "2026-11-23"
 }
