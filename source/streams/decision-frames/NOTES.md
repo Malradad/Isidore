@@ -9,6 +9,9 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 
 | id | note |
 |---|---|
+| 2026-08-16_7ZBHfQC6Nss_1 | time cell "00:07:28 → 00:08:41": used the start, 00:07:28 |
+| 2026-08-16_7ZBHfQC6Nss_2 | time cell "00:52:28 → 00:53:20": used the start, 00:52:28 |
+| 2026-08-16_7ZBHfQC6Nss_5 | time cell "01:35:17 → 01:36:03": used the start, 01:35:17 |
 | 2026-09-04_N6eOC8wtapo_10 | stream time cell "00:41:17 (explains)" is his later explanation; used 00:38:47 = market ~10:29 from the trades.md offset |
 | 2026-09-04_N6eOC8wtapo_3 | SKIPPED: decision was made before the stream started ("01:15:43 (recap); open at 00:00:00"); no pre-decision frames exist |
 | 2026-09-04_chlCV294CTk_1 | time cell "00:18:57 → 00:20:40": used the start, 00:18:57 |
