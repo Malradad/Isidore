@@ -31,7 +31,7 @@ for f in sorted(glob.glob(os.path.join(S, '*.trades.md'))):
         mt = r.get('market time (ny)', r.get('day (his words)', ''))
         ins.append(dict(id=did, date=date, market_time=mt, side=r.get('side', ''), symbol=r.get('symbol', ''),
                         tf=r.get('tf', ''), frames_pre=';'.join(pre)))
-        outs.append(dict(id=did, call=ev, account=r.get('account', ''), entry=r.get('entry', ''), stop=r.get('stop', ''),
+        outs.append(dict(id=did, stream_time=st, call=ev, account=r.get('account', ''), entry=r.get('entry', ''), stop=r.get('stop', ''),
                          target=r.get('target', ''), result=r.get('result', ''), his_words=r.get('his words', '')))
 os.makedirs(os.path.join(root, 'journal/decisions'), exist_ok=True)
 for fn, rows in (('inputs.csv', ins), ('outcomes.csv', outs)):

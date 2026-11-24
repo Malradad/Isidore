@@ -367,3 +367,9 @@ _Session entries: date · what was learned · decision · maker response · perf
   from outcomes. Asked Audrey for pre-decision strips (−60/−30/−15/−5/0 s). Started a fresh, never-exposed Izzy session
   as blind labeler (seven questions, closure score, loss reasons, TAKE/SKIP call).
 - **Next:** join blind calls with his calls and outcomes; every disagreement becomes a cited lesson; then shadow him live.
+
+## 2026-11-24 · Decision read, round 1 (blind, chart only)
+- Fresh labeler, 215 decisions: 36 TAKE / 169 SKIP; agreed with him 52%. On his playbook takes, Izzy-TAKE 7W/3BE/3L
+  (+0.46R) vs Izzy-SKIP 17W/6BE/9L (+0.23R): weak separation. It avoided 15 of his 19 rule-breaking trades, but also
+  skipped 4 of his 7 clean winners. Lessons into context.md (news-day killzone, day context first, second sweeps).
+- **Decided ~:** the chart alone isn't enough; selection lives in day context. Round 2 adds a "what he knew" pack.
