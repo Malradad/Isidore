@@ -359,3 +359,11 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Refines step 1:** "one trade per session, BE doesn't count" — my D flag counted a BE first trade; 3 of 22 D trades
   followed a BE (minor). Keep.
 - **Honesty:** "trading is gambling"; $42k loss blamed on a glitch; most income is not trading. 74 videos left.
+
+## 2026-11-24 · Decision dataset started (selection + feel)
+- **Maker:** "his selection and feel is very important; his strategy is just another confluence as an entry model."
+  Izzy agrees: every coded entry/grade has no edge; his record splits by selection.
+- **Did:** indexed all 215 on-stream decisions (103 TAKE, 112 SKIP) into `journal/decisions/` with blind inputs split
+  from outcomes. Asked Audrey for pre-decision strips (−60/−30/−15/−5/0 s). Started a fresh, never-exposed Izzy session
+  as blind labeler (seven questions, closure score, loss reasons, TAKE/SKIP call).
+- **Next:** join blind calls with his calls and outcomes; every disagreement becomes a cited lesson; then shadow him live.
