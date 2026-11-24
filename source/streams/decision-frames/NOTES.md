@@ -9,3 +9,6 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 
 | id | note |
 |---|---|
+| 2026-09-04_chlCV294CTk_1 | time cell "00:18:57 → 00:20:40": used the start, 00:18:57 |
+| 2026-09-04_chlCV294CTk_3 | time cell "00:35:16 → ~00:36:00": used the start, 00:35:16 |
+| 2026-09-04_chlCV294CTk_5 | time cell "01:04:56 → 01:08:40": used the start, 01:04:56 |
