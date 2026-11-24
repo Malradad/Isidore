@@ -9,6 +9,33 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 
 | id | note |
 |---|---|
+| 2023-02-24_XGuIB-0gn_A_1 | SKIPPED: decision was made before the stream started ("before 00:00 → 00:17:40 (recap)"); no pre-decision frames exist |
+| 2023-02-24_XGuIB-0gn_A_2 | time cell "01:28:33 → 01:31:24": used the start, 01:28:33 |
+| 2023-02-24_XGuIB-0gn_A_3 | time cell "~01:39:00 → ~01:40:30": used the start, 01:39:00 |
+| 2023-02-24_XGuIB-0gn_A_4 | time cell "~01:40:30 → ~01:42:13": used the start, 01:40:30 |
+| 2023-02-24_XGuIB-0gn_A_5 | time cell "00:56:17 / 01:20:29 / 01:53:05": used the start, 00:56:17 |
+| 2023-03-14_rr2qsQ5mRfM_5 | time cell "02:28:42 ~": used the start, 02:28:42 |
+| 2023-03-24_ksztwIzHgcE_3 | time cell "00:39:24 → 00:45:48": used the start, 00:39:24 |
+| 2023-04-21_yVWktthvtJQ_1 | time cell "00:32:48 → 00:34:49": used the start, 00:32:48 |
+| 2023-04-21_yVWktthvtJQ_2 | time cell "~00:47:01 → 00:50:55": used the start, 00:47:01 |
+| 2023-04-21_yVWktthvtJQ_3 | time cell "01:18:55 → 01:20:24": used the start, 01:18:55 |
+| 2023-04-21_yVWktthvtJQ_4 | time cell "01:51:15 → 01:53:04": used the start, 01:51:15 |
+| 2023-09-04_ErsWq6j87uY_1 | time cell "00:17:24 → 00:44:50": used the start, 00:17:24 |
+| 2023-09-05_e7oYxdPNvhY_1 | time cell "00:17:07 → 00:19:01": used the start, 00:17:07 |
+| 2023-09-05_e7oYxdPNvhY_3 | time cell "00:40:16 → 00:41:27": used the start, 00:40:16 |
+| 2023-09-05_e7oYxdPNvhY_4 | time cell "01:16:17 → 01:20:21": used the start, 01:16:17 |
+| 2023-09-05_e7oYxdPNvhY_5 | time cell "01:22:54 → 01:29:34": used the start, 01:22:54 |
+| 2023-09-05_e7oYxdPNvhY_6 | time cell "01:40:45 → 01:46:34": used the start, 01:40:45 |
+| 2023-09-05_e7oYxdPNvhY_7 | time cell "01:12:06 / 01:52:30": used the start, 01:12:06 |
+| 2023-09-06_I3AJJI0RY00_1 | time cell "00:23:26 → 00:23:45": used the start, 00:23:26 |
+| 2023-09-06_I3AJJI0RY00_4 | time cell "00:58:33 → 00:59:08": used the start, 00:58:33 |
+| 2023-09-06_I3AJJI0RY00_5 | time cell "01:29:06 → 01:33:55": used the start, 01:29:06 |
+| 2023-09-06_I3AJJI0RY00_6 | time cell "01:52:24 → 01:58:25": used the start, 01:52:24 |
+| 2023-09-06_I3AJJI0RY00_7 | time cell "01:57:28 / 02:03:30": used the start, 01:57:28 |
+| 2023-12-19_SVeqDyk3DmA_1 | time cell "00:23:42 / 00:40:12 / 00:55:12": used the start, 00:23:42 |
+| 2023-12-19_SVeqDyk3DmA_2 | time cell "01:48:24 → 01:54:14": used the start, 01:48:24 |
+| 2023-12-19_SVeqDyk3DmA_3 | time cell "01:57:04 → 01:58:32": used the start, 01:57:04 |
+| 2023-12-19_SVeqDyk3DmA_4 | time cell "02:20:06 → 02:25:12": used the start, 02:20:06 |
 | 2024-03-01_d1aj1D87IuM_10 | time cell "02:01:10 → 02:10:30": used the start, 02:01:10 |
 | 2024-03-01_d1aj1D87IuM_2 | time cell "00:53:16 → 00:54:05": used the start, 00:53:16 |
 | 2024-03-01_d1aj1D87IuM_3 | time cell "01:06:48 → 01:14:41": used the start, 01:06:48 |
@@ -42,6 +69,7 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 | 2026-02-13_7w6pya1dubs_6 | time cell "01:44:43 / 01:46:22": used the start, 01:44:43 |
 | 2026-02-13_7w6pya1dubs_7 | time cell "02:00:48 → 02:01:34": used the start, 02:00:48 |
 | 2026-02-13_7w6pya1dubs_9 | time cell "02:16:28 → 02:18:24": used the start, 02:16:28 |
+| 2026-03-01_DqSuUNyjgwg_1 | m060 shows no chart (white zoomed screen on stream at that moment); the other 4 frames show the chart |
 | 2026-03-01_DqSuUNyjgwg_1 | time cell "00:10:28 → 00:11:30": used the start, 00:10:28 |
 | 2026-03-06_YKRoRbq1BTU_1 | time cell "00:23:01 → 00:28:22": used the start, 00:23:01 |
 | 2026-03-06_YKRoRbq1BTU_2 | time cell "01:32:47 → 01:34:07": used the start, 01:32:47 |
