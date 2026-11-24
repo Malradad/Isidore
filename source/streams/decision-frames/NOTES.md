@@ -69,6 +69,7 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 | 2026-02-13_7w6pya1dubs_6 | time cell "01:44:43 / 01:46:22": used the start, 01:44:43 |
 | 2026-02-13_7w6pya1dubs_7 | time cell "02:00:48 → 02:01:34": used the start, 02:00:48 |
 | 2026-02-13_7w6pya1dubs_9 | time cell "02:16:28 → 02:18:24": used the start, 02:16:28 |
+| 2026-03-01_DqSuUNyjgwg_1 | m060 shows no chart (white zoomed screen on stream at that moment); the other 4 frames show the chart |
 | 2026-03-01_DqSuUNyjgwg_1 | time cell "00:10:28 → 00:11:30": used the start, 00:10:28 |
 | 2026-03-06_YKRoRbq1BTU_1 | time cell "00:23:01 → 00:28:22": used the start, 00:23:01 |
 | 2026-03-06_YKRoRbq1BTU_2 | time cell "01:32:47 → 01:34:07": used the start, 01:32:47 |
