@@ -1,0 +1,74 @@
+# Decision frames: notes (Audrey)
+
+Pre-decision strips for `journal/decisions/inputs.csv`: `<id>/m060.jpg … m000.jpg` = the stream at decision −60, −30, −15, −5 and 0 s,
+where the decision = the row's **stream time** in its trades.md. Nothing after the decision. Frames are cut from local video, 1280 px wide, JPEG q≈70.
+
+- **Not cropped.** The layout changes across streams (webcam overlaid on the chart's lower left, sponsor banners top or bottom, a 2nd monitor in early streams), so a fixed crop would cut chart.
+- A 0 s frame (and sometimes −5 s) on a TAKE may show his order box; that is allowed.
+- Rows whose time is a range, a list or "~" use the **first** time given. They are listed below, with skipped rows.
+
+| id | note |
+|---|---|
+| 2024-03-01_d1aj1D87IuM_10 | time cell "02:01:10 → 02:10:30": used the start, 02:01:10 |
+| 2024-03-01_d1aj1D87IuM_2 | time cell "00:53:16 → 00:54:05": used the start, 00:53:16 |
+| 2024-03-01_d1aj1D87IuM_3 | time cell "01:06:48 → 01:14:41": used the start, 01:06:48 |
+| 2024-03-01_d1aj1D87IuM_4 | time cell "01:20:30 → 01:21:20": used the start, 01:20:30 |
+| 2025-01-22_j0tG6Mj-ds4_10 | time cell "02:06:55 → 02:10:26": used the start, 02:06:55 |
+| 2025-01-22_j0tG6Mj-ds4_11 | time cell "~02:13 → 02:19:18": used the start, 02:13:00 |
+| 2025-01-22_j0tG6Mj-ds4_2 | time cell "00:36:27 / 00:41:02": used the start, 00:36:27 |
+| 2025-01-22_j0tG6Mj-ds4_3 | time cell "00:53:13 → 00:55:14": used the start, 00:53:13 |
+| 2025-01-22_j0tG6Mj-ds4_4 | time cell "00:57:34 → 00:58:19": used the start, 00:57:34 |
+| 2025-01-22_j0tG6Mj-ds4_6 | time cell "01:27:36 → 01:33:05": used the start, 01:27:36 |
+| 2025-01-22_j0tG6Mj-ds4_7 | time cell "01:38:40 → 01:47:12": used the start, 01:38:40 |
+| 2025-01-22_j0tG6Mj-ds4_8 | time cell "01:49:08 → 01:55:44": used the start, 01:49:08 |
+| 2025-01-22_j0tG6Mj-ds4_9 | time cell "02:00:21 → 02:01:51": used the start, 02:00:21 |
+| 2025-06-11_IF67n-KIDnA_1 | SKIPPED: decision was made before the stream started ("before stream → 01:30:42 (still open)"); no pre-decision frames exist |
+| 2025-06-11_IF67n-KIDnA_2 | time cell "01:01:57 → 01:08:36": used the start, 01:01:57 |
+| 2025-06-11_IF67n-KIDnA_3 | time cell "01:19:34 → 01:35:18": used the start, 01:19:34 |
+| 2025-10-09_q-cngrviF2A_1 | SKIPPED: decision was made before the stream started ("before 00:00:00 → 00:00:30"); no pre-decision frames exist |
+| 2025-10-09_q-cngrviF2A_3 | time cell "00:36:06 → 00:38:13": used the start, 00:36:06 |
+| 2025-10-09_q-cngrviF2A_4 | time cell "00:39:30 → 00:46:07": used the start, 00:39:30 |
+| 2025-10-09_q-cngrviF2A_6 | time cell "01:36:06 → 01:36:18": used the start, 01:36:06 |
+| 2025-10-09_q-cngrviF2A_8 | time cell "01:46:22 → 01:47:30": used the start, 01:46:22 |
+| 2025-10-15_YTBcXcI70io_1 | time cell "00:16:54 → 00:17:18": used the start, 00:16:54 |
+| 2025-10-15_YTBcXcI70io_3 | time cell "00:19:45 → 00:20:19": used the start, 00:19:45 |
+| 2025-10-15_YTBcXcI70io_5 | time cell "00:26:38 → 00:26:52": used the start, 00:26:38 |
+| 2025-11-14_imzrLPjXVxE_1 | time cell "00:21:59 → 00:23:16": used the start, 00:21:59 |
+| 2025-11-14_imzrLPjXVxE_2 | time cell "00:40:34 → 00:41:14": used the start, 00:40:34 |
+| 2025-11-14_imzrLPjXVxE_3 | time cell "00:58:26 → 01:01:33": used the start, 00:58:26 |
+| 2026-02-13_7w6pya1dubs_1 | time cell "00:10:08 → 00:19:56": used the start, 00:10:08 |
+| 2026-02-13_7w6pya1dubs_4 | time cell "01:29:13 → 01:30:32": used the start, 01:29:13 |
+| 2026-02-13_7w6pya1dubs_5 | time cell "01:33:02 → 01:37:10": used the start, 01:33:02 |
+| 2026-02-13_7w6pya1dubs_6 | time cell "01:44:43 / 01:46:22": used the start, 01:44:43 |
+| 2026-02-13_7w6pya1dubs_7 | time cell "02:00:48 → 02:01:34": used the start, 02:00:48 |
+| 2026-02-13_7w6pya1dubs_9 | time cell "02:16:28 → 02:18:24": used the start, 02:16:28 |
+| 2026-03-01_DqSuUNyjgwg_1 | time cell "00:10:28 → 00:11:30": used the start, 00:10:28 |
+| 2026-03-06_YKRoRbq1BTU_1 | time cell "00:23:01 → 00:28:22": used the start, 00:23:01 |
+| 2026-03-06_YKRoRbq1BTU_2 | time cell "01:32:47 → 01:34:07": used the start, 01:32:47 |
+| 2026-03-06_YKRoRbq1BTU_4 | time cell "01:44:49 → 01:57:16": used the start, 01:44:49 |
+| 2026-03-06_YKRoRbq1BTU_5 | time cell "~02:30 → 02:47:51": used the start, 02:30:00 |
+| 2026-03-11_Lprbu9HeOCI_1 | time cell "00:06:25 → 00:14:13": used the start, 00:06:25 |
+| 2026-03-11_Lprbu9HeOCI_2 | time cell "00:25:43 → 00:44:02": used the start, 00:25:43 |
+| 2026-03-11_Lprbu9HeOCI_3 | time cell "00:49:12 → 00:51:16": used the start, 00:49:12 |
+| 2026-03-11_Lprbu9HeOCI_4 | time cell "01:33:00 → 01:36:07": used the start, 01:33:00 |
+| 2026-03-11_Lprbu9HeOCI_6 | time cell "01:43:15 → 01:43:58": used the start, 01:43:15 |
+| 2026-03-11_Lprbu9HeOCI_8 | time cell "02:16:18 → 02:17:20": used the start, 02:16:18 |
+| 2026-04-03_jOmHQ7INwFw_1 | time cell "00:04:15 → 00:16:29": used the start, 00:04:15 |
+| 2026-07-14_nE8GE9YBd8k_1 | time cell "00:09:30 → 00:17:24": used the start, 00:09:30 |
+| 2026-07-14_nE8GE9YBd8k_12 | time cell "02:34:16 → 02:36:46": used the start, 02:34:16 |
+| 2026-07-14_nE8GE9YBd8k_7 | time cell "02:02:40 → 02:03:13": used the start, 02:02:40 |
+| 2026-07-14_nE8GE9YBd8k_9 | time cell "02:09:11 → 02:09:28": used the start, 02:09:11 |
+| 2026-08-07_qbHHGoPD6Yc_1 | time cell "00:13:22 → 00:28:07": used the start, 00:13:22 |
+| 2026-08-07_qbHHGoPD6Yc_9 | time cell "02:14:12 → 02:15:08": used the start, 02:14:12 |
+| 2026-08-12_MHyNCqLCI7k_1 | time cell "00:09:34 → 00:28:14": used the start, 00:09:34 |
+| 2026-08-12_MHyNCqLCI7k_2 | time cell "00:30:18 → 00:32:54": used the start, 00:30:18 |
+| 2026-08-12_MHyNCqLCI7k_5 | time cell "01:28:50 → 01:29:23": used the start, 01:28:50 |
+| 2026-08-12_MHyNCqLCI7k_8 | time cell "01:47:19 → 01:49:10": used the start, 01:47:19 |
+| 2026-08-16_7ZBHfQC6Nss_1 | time cell "00:07:28 → 00:08:41": used the start, 00:07:28 |
+| 2026-08-16_7ZBHfQC6Nss_2 | time cell "00:52:28 → 00:53:20": used the start, 00:52:28 |
+| 2026-08-16_7ZBHfQC6Nss_5 | time cell "01:35:17 → 01:36:03": used the start, 01:35:17 |
+| 2026-09-04_N6eOC8wtapo_10 | stream time cell "00:41:17 (explains)" is his later explanation; used 00:38:47 = market ~10:29 from the trades.md offset |
+| 2026-09-04_N6eOC8wtapo_3 | SKIPPED: decision was made before the stream started ("01:15:43 (recap); open at 00:00:00"); no pre-decision frames exist |
+| 2026-09-04_chlCV294CTk_1 | time cell "00:18:57 → 00:20:40": used the start, 00:18:57 |
+| 2026-09-04_chlCV294CTk_3 | time cell "00:35:16 → ~00:36:00": used the start, 00:35:16 |
+| 2026-09-04_chlCV294CTk_5 | time cell "01:04:56 → 01:08:40": used the start, 01:04:56 |
