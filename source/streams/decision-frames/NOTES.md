@@ -9,6 +9,15 @@ where the decision = the row's **stream time** in its trades.md. Nothing after t
 
 | id | note |
 |---|---|
+| 2025-01-22_j0tG6Mj-ds4_10 | time cell "02:06:55 → 02:10:26": used the start, 02:06:55 |
+| 2025-01-22_j0tG6Mj-ds4_11 | time cell "~02:13 → 02:19:18": used the start, 02:13:00 |
+| 2025-01-22_j0tG6Mj-ds4_2 | time cell "00:36:27 / 00:41:02": used the start, 00:36:27 |
+| 2025-01-22_j0tG6Mj-ds4_3 | time cell "00:53:13 → 00:55:14": used the start, 00:53:13 |
+| 2025-01-22_j0tG6Mj-ds4_4 | time cell "00:57:34 → 00:58:19": used the start, 00:57:34 |
+| 2025-01-22_j0tG6Mj-ds4_6 | time cell "01:27:36 → 01:33:05": used the start, 01:27:36 |
+| 2025-01-22_j0tG6Mj-ds4_7 | time cell "01:38:40 → 01:47:12": used the start, 01:38:40 |
+| 2025-01-22_j0tG6Mj-ds4_8 | time cell "01:49:08 → 01:55:44": used the start, 01:49:08 |
+| 2025-01-22_j0tG6Mj-ds4_9 | time cell "02:00:21 → 02:01:51": used the start, 02:00:21 |
 | 2025-06-11_IF67n-KIDnA_1 | SKIPPED: decision was made before the stream started ("before stream → 01:30:42 (still open)"); no pre-decision frames exist |
 | 2025-06-11_IF67n-KIDnA_2 | time cell "01:01:57 → 01:08:36": used the start, 01:01:57 |
 | 2025-06-11_IF67n-KIDnA_3 | time cell "01:19:34 → 01:35:18": used the start, 01:19:34 |
