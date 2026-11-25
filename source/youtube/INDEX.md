@@ -262,3 +262,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230925 | CHte9uZTmXY | Backtesting Cameron's Model + Extra ICT Gems - Sunday Night Class | captions | done |
 | 20230923 | kg9yMxFI-YI | NY AM Session ICT Commentary + Signals | captions | done |
 | 20230922 | Q9HmhoWlKUU | The A+ Ultimate Inversion Confirmation Setup | captions | done |
+| 20230921 | YE4VIIIduQM | The Most Banger Educational ICT Live Stream You Will Ever Watch - 9.21.23 | captions | done |
