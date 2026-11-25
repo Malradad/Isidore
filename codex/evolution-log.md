@@ -389,3 +389,24 @@ _Session entries: date · what was learned · decision · maker response · perf
   makes every engine A one of his, but on price the A+ set still loses in 2025–26 (PF 0.76–0.83).
 - **Decided ~:** his edge is selection in context (day, bias, Judas/killzone timing), not a codable setup grade. Next:
   calibrate the blind reader on a training set of his clean winners, then shadow him live.
+
+## 2026-11-23 · P9 grader vs his eye (started, blocked)
+- Built the audit: 119 audited NQ setups since Nov 2023 (34 takes, 85 timed skips) and an audit mode in the grader
+  (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota
+  ran out. No numbers yet. Plan: 6-month windows tomorrow, then the confusion table, then fix the coding his way.
+- **Maker:** P9 relayed ("do what you think is necessary"). Branch izzy/p9-grader-check-2026-11-23, not merged.
+
+## 2026-11-25 · P9 grader vs his eye (run)
+- **Learned ✓ (price):** the 1m grader fires on only 32/119 audited setups (6/24 of his A takes). His entries are
+  mostly on 30s/2m/3m, and his sweeps are often internal lows my engine doesn't count. Where it fires, it agrees with
+  his grade 56% of the time.
+- His loss reasons as fixes make my A's match his: window + reversal ≤ 6 gives 3/3 engine A's that are his A; window +
+  same leg gives 4/5. But on price (A+ 1m AM, May 2025 → Nov 2026) they only move PF 0.75 → 0.76 / 0.83. Still losing.
+- **Decided ~:** stop grading tweaks on 1m. Next: internal-liquidity sweeps, 5m/15m context, and a forward log of his
+  live streams.
+- **Maker:** P9 resumed at the maker's request (relayed). Branch izzy/p9-grader-check-2026-11-23, not merged.
+- **Addendum 2 (relayed, 2026-11-25) ✓ (price, 5m):**
+  - His impulse-leg 0.5 location: A+ PF 0.85 / 1.15 (vs 0.93 / 0.81).
+  - Judas-only (09:30–10:00 false move into a marked pool against the draw, 1/day): 0.71 / 1.13, ~1.1/wk.
+  - Both are better in 2023–26, worse in 2019–22, and driven by longs. Neither holds in both halves.
+  - Next: code his HTF bias (1h/4h FVG inversion) for the Judas draw; then 1m Judas.

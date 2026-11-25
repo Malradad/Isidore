@@ -1,0 +1,1073 @@
+[
+ {
+  "kind": "TAKE",
+  "date": "2026-11-02",
+  "t": "09:39:21",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "live+evals 28,695.50 ~ 28,660.25 ~ 28,723.50 ~ TP +0.8 ~ \u2713px TP first (fill 28,711.75 at the minute close; worst \u221224 pts, stop never touched) 30s inverse off ma"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-11-02",
+  "t": "10:10:12",
+  "tf": "30s",
+  "side": "L",
+  "grade": "B",
+  "text": "Vest, light 28,720.25 ~ 28,706.00 ~ 28,750.00 ~ TP (~$600) ~+2.1 ~ \u2713px TP first (fill 28,719.25; no adverse move) B setup; BPR holding; momentum candle out of c"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-10-02",
+  "t": "09:42:57",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "props (copy) 31,154.25 ~ (model 31,146.50) 31,101.75 ~ (OB) 31,190 partial, runner 31,223 partial at high, runner BE ~+0.7 to +1.3 ~ \u2713px partial 31,190 first (f"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-11",
+  "t": "08:38:09",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "? (1 mini) ~29,350 ~ swing low (not shown) data highs ~29,400 ~ TP (~$1,000, ~+50 pts) ? \u2713px 29,400 reached (fill 29,371.75; worst \u221229 pts; his stop not logged)"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-29",
+  "t": "09:31:42",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "live (+eval) ? \"probably no stop\" equal lows win (his) ? ~px direction right: +110 pts after 2 h (best +132, worst \u221243); levels not logged Judas swing off the o"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-04",
+  "t": "09:50:00",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "funded (~30 copy) 29,599.50 ~ 29,539.50 ~ 29,694 (data high) **BE** after coming ~2.5 pts from target; gave back ~+92 pts open ~0 \u2014 NFP day; Judas swing re-entr"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-04",
+  "t": "10:14:30",
+  "tf": "30s",
+  "side": "L",
+  "grade": "A",
+  "text": "funded ~29,629 ~ 29,603.75 ~ \u2192 **widened** to 29,594.75 29,694 **stop (\u22121R; ~\u221235 pts vs widened stop)** \u22121.0 to \u22121.3 \u2014 \"A setup\", delivering from a gap, data hi"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-04",
+  "t": "08:44:34",
+  "tf": "1m/2m",
+  "side": "S",
+  "grade": "B",
+  "text": "eval 29,558 ~ 29,579 ~ sellside 29,475 ~ **closed early, ~+47 pts** ~+2.2 ~ \u2014 NFP day after the 08:30 candle; \"B setup\u2026 coming out the two minute\"; exited early"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-09-04",
+  "t": "09:14:14",
+  "tf": "2m",
+  "side": "L",
+  "grade": "pattern",
+  "text": "**live** (+funded, see 09:50 row) 29,564.50 ~ 29,535.25 ~ 29,694.25 (data high) **BE** (moved to BE before the open) 0 \u2014 He called it \"not a good trade\u2026 a patte"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-08-12",
+  "t": "09:49:12",
+  "tf": "1m (5m inverse)",
+  "side": "L",
+  "grade": "",
+  "text": "funded (not live) ~29,970.50 ~ ~29,915 ~ \u2192 BE buyside above **BE** 0 \u2014 CPI day; bullish daily bias; chop under 30,000; he later: \"don't drop to the 1m in chop\""
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-07-14",
+  "t": "09:45:35",
+  "tf": "2m",
+  "side": "L",
+  "grade": "",
+  "text": "**live** (micros, half size) ~29,797 ~ ~29,743 ~ ~29,849.75 (1R) **cut early, ~\u22120.5R** (\"down ~$300\") \u22120.5 \u2014 CPI day he had called a no-trade day; \"strength of "
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-03-11",
+  "t": "09:59:15",
+  "tf": "4m",
+  "side": "L",
+  "grade": "",
+  "text": "Lucid evals (MNQ) ~25,103 ~ 25,062.50 ~ \"up here\" **partial at target, rest BE** (small win) ~+0.3 ~ \u2014 CPI day; chat poll said yes and he agreed: \"four minute l"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-03-11",
+  "t": "10:32:18",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "Lucid evals (MNQ) ~24,993 ~ 25,020.75 ~ equal lows ~24,950 **BE** (\"break even saved me\") 0 \u2014 his own call, toward equal lows"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-02-13",
+  "t": "10:26:59",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "Alpha evals ~24,818.50 ~ ~24,805.50 ~ ~24,850 (the high) **TP** ~+2.4 ~ \u2014 CPI day; \"little 30-second inverse\" to the high"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-10-15",
+  "t": "09:42:04",
+  "tf": "1m/30s",
+  "side": "L",
+  "grade": "",
+  "text": "Apex (half size) ~24,963 ~ 24,947.25 ~ 25,045.50 (buy side) **stop** \u22120.5 \u2014 indicator launch day; \"I don't love this\u2026 bad play\""
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-10-15",
+  "t": "09:44:55",
+  "tf": "30s/1m",
+  "side": "L",
+  "grade": "invalid",
+  "text": "Apex (full) ~24,978 ~ ? 25,045.50 **stop** \u22121.0 \u2014 \"I know it's invalid, but I'm trying to take what the indicator is gonna alert\""
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-10-15",
+  "t": "09:51:48",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "Apex (full) 24,953.25 ~ 24,926.25 ~ 25,045.50 **out early, ~+78 pts** (target hit later) ~+2.9 \u2014 third attempt at the same idea; \"footprints sold it\"; rule: ret"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-10-09",
+  "t": "09:13:00",
+  "tf": "3m",
+  "side": "S",
+  "grade": "B",
+  "text": "Apex (half, micros) 25,321.25 ~ 25,330 ~ \u2192 **widened** 25,334.50 25,293.75 (LRLR) **TP** after widening stop \"last second\" ~+3 (vs original) \u2014 \"a B\u2026 just guessi"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-10-09",
+  "t": "11:00:07",
+  "tf": "5m",
+  "side": "L",
+  "grade": "",
+  "text": "Apex (\"really light\") ~25,250 ~ 25,220.25 ~ 25,349 (LRLR) **BE** 0 \u2014 late session"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-01-22",
+  "t": "10:06:08",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "single eval ~22,017 ~ \u2192 BE the high **BE** 0 \u2014 taken **against his own rule** (equal lows below); bad-PA day he'd flagged (200+ pt overnight move)"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-01-22",
+  "t": "10:57:42",
+  "tf": "2m",
+  "side": "S",
+  "grade": "",
+  "text": "eval ? close back above inversion equal lows **stop** \u22121 \u2014 same flagged day"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-01-22",
+  "t": "11:08:55",
+  "tf": "30s",
+  "side": "S",
+  "grade": "",
+  "text": "eval ? ? equal lows **loss** (his count) \u22121 ~ \u2014 same day, after his 11:00 cutoff rule"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-01-22",
+  "t": "11:15:29",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "eval ? \u2192 BE \u2014 **BE** 0 \u2014 after 11:00"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2025-01-22",
+  "t": "11:21:00",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "eval (micros) ? ? the high **win** (partial + runner) +1 ~ \u2014 after 11:00"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2024-03-01",
+  "t": "10:05:47",
+  "tf": "30s/1m",
+  "side": "L",
+  "grade": "",
+  "text": "funded (MNQ, light) ~18,148.75 ~ below gap \u2192 BE ~18,178 (data high) **TP, ~+30 pts** ~+1.5 ~ \u2014 after the 10:00 ISM news; long in discount; \"done on live\" alread"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2023-12-19",
+  "t": "11:03:09",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "funded (2 MNQ) ? below the low +10 pts **TP, +10 pts** ? \u2014 against his bearish bias; after 11:00 (\"outside my window\")"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2023-12-19",
+  "t": "11:26:11",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "funded (small) ? close back beneath FVG equal highs **stop, ~\u221210 pts** \u22121 ~ \u2014 against bias, after 11:00; \"for you guys\u2026 don't want to go on stream and not take "
+ },
+ {
+  "kind": "TAKE",
+  "date": "2024-01-12",
+  "t": "11:04:09",
+  "tf": "2m",
+  "side": "L",
+  "grade": "",
+  "text": "not named (10 MNQ) ~16,955.50 ~ ~16,937 ~ (hard, 18.5 pts) data highs ~17,055 (R:R 5.4) **BE \u2192 partials at ~+25\u201330 pts, runner trailed** ~+1.5 ~ \u2014 data highs ab"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-03-06",
+  "t": "09:34:48",
+  "tf": "30s/1m",
+  "side": "S",
+  "grade": "",
+  "text": "**real** after the death-candle close \u2192 BE ? **TP ~+1R**, then \"done for the day\" ~+1 \u2014 NFP day; bearish hourly inversion; \"I like taking trades off speed\u2026 a sl"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-06-05",
+  "t": "08:38:02",
+  "tf": "30s \u2192 1m CISD",
+  "side": "L",
+  "grade": "",
+  "text": "funded, then full size live ~30,058 ~ / add ~30,072 ~ 30,053.50 ~ (below the 30,052 sweep) data wick high 30,151.75 ~ **partials at first high + CE (0.5) of the"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2026-02-11",
+  "t": "08:52:49",
+  "tf": "15m/5m",
+  "side": "L",
+  "grade": "",
+  "text": "**funded only** (no live) ~25,384.75 ~ ~25,308.25 ~ (77 pts, \"massive\") PDH / buyside 25,513.25 ~ **BE** (moved to BE before the open, stopped 09:35) 0 \u2713px (15m"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2024-10-30",
+  "t": "09:55:57",
+  "tf": "2m/3m",
+  "side": "L",
+  "grade": "A-",
+  "text": "eval (election week, 3 MNQ) ~20,621 ~ 20,570.25 ~ 2 lots 20,673.25 ~, runner data highs **BE after 10:00 news, 2/3 TP at 10:09, avg-up, rest BE** ~+0.7 ~ \u2014 (no "
+ },
+ {
+  "kind": "TAKE",
+  "date": "2024-10-30",
+  "t": "10:56:35",
+  "tf": "30s",
+  "side": "L",
+  "grade": "B",
+  "text": "eval (\"educational\", 4 MNQ) ~20,661 ~ 20,644.75 ~ protected high ~20,697 ~ **stop** (trend-line rejection) \u22121 ~ \u2014 **rated B in advance**: \"to show you this is n"
+ },
+ {
+  "kind": "TAKE",
+  "date": "2024-10-30",
+  "t": "11:24:22",
+  "tf": "1m/2m",
+  "side": "L",
+  "grade": "A-",
+  "text": "eval (5 MNQ) 20,647.00 ~ 20,623.25 ~ 3 lots 1.5R \u224820,683 ~, then protected high **3/5 at 1.5R, rest BE** ~+0.9 ~ \u2014 rated A\u2212: re-manipulated below the new engine"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-11-02",
+  "t": "09:33:00",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "gap too small, choppy, nothing obvious \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-11-02",
+  "t": "09:54:09",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "eval-only: terrible liquidity, chop \"already getting wrecked\" (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-11-02",
+  "t": "09:56:07",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "tiny 30s, eval trade, chop \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-11-02",
+  "t": "10:01:10",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "decent EV play, not live \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-11-02",
+  "t": "10:31:55",
+  "tf": "1m",
+  "side": "S",
+  "grade": "A+",
+  "text": "A+ from 4h gap, skipped: already 2/2 in profit ~ (28,848 \u2192 28,809)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "08:38:36",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "buyside still above, \"shorting a freight train\" worked (his: \"can't believe that short worked\")"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "08:43:28",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "too high in premium; eval-only \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "08:48:49",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "too high; eval play at most worked (his: \"the eval play worked\")"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "09:33:18",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "RR trash; 30s had no internal liquidity / no BE point \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "09:39:20",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "no close yet: \"you can't jump the gun\" then closed \u2192 became his trade"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-10-02",
+  "t": "09:59:04",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "\"didn't go the first time\"; negative R (~0.64) hit target (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "09:31:57",
+  "tf": "2m",
+  "side": "L",
+  "grade": "",
+  "text": "no close; no internal liquidity \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "09:34:27",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "done for the day: \"following my rules\" stopped out / maybe saved (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "09:46:02",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "not in (commentary) BE (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "09:49:43",
+  "tf": "15s",
+  "side": "L",
+  "grade": "",
+  "text": "price action already bad: \"why trust this setup\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "10:07:17",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "(maybe, if zone breaks) \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-11",
+  "t": "10:21:01",
+  "tf": "3m",
+  "side": "L",
+  "grade": "",
+  "text": "eval-only ~1R; already done \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "10:29:00",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "external gap above; no CISD; \"one confluence is not enough\" price kept falling ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "11:19:57",
+  "tf": "\u2014",
+  "side": "S",
+  "grade": "",
+  "text": "(leaving) \"only long if we sweep sell side\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "08:37:23",
+  "tf": "1m",
+  "side": "L",
+  "grade": "pattern",
+  "text": "no structure, sellside below: \"pattern trader\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "09:29:35",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "(\"looks so good\") just stopped at BE, didn't re-enter **ran ~+70 pts** ~ (missed winner)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "09:31:27",
+  "tf": "5m",
+  "side": "L",
+  "grade": "",
+  "text": "no real entry, would be a chase \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "09:37:23",
+  "tf": "\u2014",
+  "side": "S",
+  "grade": "",
+  "text": "data high above; no draw on liquidity down \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-09-04",
+  "t": "09:42:26",
+  "tf": "15s/30s",
+  "side": "L",
+  "grade": "",
+  "text": "internal liquidity build-up \"sucks\"; rejecting BPR/0.705 \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-12",
+  "t": "09:35:08",
+  "tf": "2m",
+  "side": "S",
+  "grade": "",
+  "text": "against daily bias: \"rather wait for a long\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-12",
+  "t": "09:41:59",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "no internal draw, into a high that rejected a big gap \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-12",
+  "t": "09:53:07",
+  "tf": "3m",
+  "side": "S",
+  "grade": "A+",
+  "text": "\"A plus\" from premium, skipped only for bullish bias \u2014 (day chopped; bias wrong per him later)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-12",
+  "t": "10:06:22",
+  "tf": "30s",
+  "side": "L",
+  "grade": "pattern",
+  "text": "pattern trade / eval play \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-12",
+  "t": "10:18:40",
+  "tf": "3m",
+  "side": "L",
+  "grade": "",
+  "text": "candle never closed above the gap \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "08:44:28",
+  "tf": "\u2014",
+  "side": "S",
+  "grade": "",
+  "text": "\"not interested in any trade\" after the news \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "09:26:22",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "\"textbook\" but no longer bullish \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "09:31:00",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "too close to the data low \u2192 would be BE, wants full TP \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "09:36:40",
+  "tf": "2m",
+  "side": "S",
+  "grade": "",
+  "text": "against bias: \"rather wait for a long\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "09:49:32",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "middle of the range, two draws on liquidity \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "09:55:51",
+  "tf": "2m",
+  "side": "S",
+  "grade": "",
+  "text": "eval play, not funded \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "10:08:25",
+  "tf": "30s",
+  "side": "S",
+  "grade": "",
+  "text": "tape-reading only \"just got wrecked\" (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-08-07",
+  "t": "10:16:30",
+  "tf": "2m/3m",
+  "side": "L",
+  "grade": "A",
+  "text": "\"A\" long off data-low sweep + CISD, skipped (psychology/weekend) **hit target** ~ (R:R 1.23)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-07-14",
+  "t": "09:23:21",
+  "tf": "30s",
+  "side": "L",
+  "grade": "light bulb",
+  "text": "didn't see it (\"textbook\u2026 light bulb candle, CISD\") \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-07-14",
+  "t": "09:30:44",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "targets not engineered \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-07-14",
+  "t": "09:37:45",
+  "tf": "3m",
+  "side": "L",
+  "grade": "A+",
+  "text": "\"A plus\" (discount, off FVG, swept) but never closed \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-07-14",
+  "t": "10:23:47",
+  "tf": "5m",
+  "side": "S",
+  "grade": "pattern",
+  "text": "pattern trade, shorting into a BPR \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-07-14",
+  "t": "10:47:00",
+  "tf": "3m/5m",
+  "side": "S",
+  "grade": "",
+  "text": "\"mentally in\", not trading (already lost) \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-04-03",
+  "t": "10:25:00",
+  "tf": "5m",
+  "side": "S",
+  "grade": "A+",
+  "text": "called it A+, but: first inverse out of a giant pump \u2014 don't short it \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-03-11",
+  "t": "08:41:43",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "tape-read only (death candle, breaker) BE by his words"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-03-11",
+  "t": "09:05:12",
+  "tf": "3m",
+  "side": "L",
+  "grade": "",
+  "text": "chat poll vetoed it (to data highs) **hit target** ~ (~2R his words)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-03-11",
+  "t": "10:51:24",
+  "tf": "\u2014",
+  "side": "L",
+  "grade": "pattern",
+  "text": "pattern-wise only; getting off \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-13",
+  "t": "08:34:47",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "tape-read before the open \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-13",
+  "t": "08:36:42",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "70-pt stop, hourly not broken, bad targets \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-13",
+  "t": "09:39:44",
+  "tf": "5m",
+  "side": "S",
+  "grade": "",
+  "text": "called it, tape-read only **TP** (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-13",
+  "t": "09:43:33",
+  "tf": "1m",
+  "side": "L",
+  "grade": "A+",
+  "text": "\"A+\", but against his bias **hit target** ~ (data high)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-13",
+  "t": "09:55:14",
+  "tf": "1m/30s",
+  "side": "L",
+  "grade": "B",
+  "text": "B setup; missed the 30s \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2025-11-14",
+  "t": "14:30:32",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "tape-read only (PM) failed (\"getting cooked\")"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2025-01-22",
+  "t": "09:34:39",
+  "tf": "1m",
+  "side": "S",
+  "grade": "A+",
+  "text": "would be A+ only with a death candle; 1R \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2025-01-22",
+  "t": "09:45:01",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "not obvious; eval trade at most first target (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2025-01-22",
+  "t": "10:01:47",
+  "tf": "15s/30s",
+  "side": "L",
+  "grade": "",
+  "text": "rule: no longs with equal lows below \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "09:16:47",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "internal low already hit \u2192 not valid \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "09:38:33",
+  "tf": "15s",
+  "side": "L",
+  "grade": "",
+  "text": "before red-folder news worked ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "09:52:05",
+  "tf": "1m",
+  "side": "L",
+  "grade": "A+",
+  "text": "\"A+\", but before the 10:00 news worked ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "10:21:03",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "equal lows below; already green \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "10:26:57",
+  "tf": "\u2014",
+  "side": "L",
+  "grade": "",
+  "text": "premium \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-03-01",
+  "t": "10:46:27",
+  "tf": "2m/3m",
+  "side": "L",
+  "grade": "A+",
+  "text": "\"A+\", done for the day target hit ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2025-06-11",
+  "t": "10:13:12",
+  "tf": "3m",
+  "side": "L",
+  "grade": "",
+  "text": "his rule: no trades between the data high and data low (CPI day) ~+1R, BE where he said ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-03-06",
+  "t": "09:40:17",
+  "tf": "1m",
+  "side": "L",
+  "grade": "A+",
+  "text": "\"A+ if bullish\", against his bearish bias \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "09:07:31",
+  "tf": "30s",
+  "side": "L",
+  "grade": "",
+  "text": "didn't like the close; waiting for the open \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "09:31:42",
+  "tf": "\u2014",
+  "side": "L",
+  "grade": "",
+  "text": "30,000 psychological bounce: \"my model is not buying a psychological level\" bounced (his)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "09:35:37",
+  "tf": "30s",
+  "side": "S",
+  "grade": "",
+  "text": "data wick above: \"shorting with a data wick above has gotten me wrecked more times than not\" BE point, then ~\u2212200 pts by 09:50 \u2713px (15m low 29,771) \u2014 skip cost "
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "09:44:34",
+  "tf": "1m",
+  "side": "L",
+  "grade": "",
+  "text": "gap too tiny; expects sellside first right: sellside hit 09:50 \u2713px"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "09:51:16",
+  "tf": "30s/3m",
+  "side": "L",
+  "grade": "",
+  "text": "no manipulation after an instant 200-pt dump, \"~50% win rate\"; done, \"game plan didn't play out\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "10:36:38",
+  "tf": "\u2014",
+  "side": "L",
+  "grade": "",
+  "text": "equal lows below \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-06-05",
+  "t": "10:45:07",
+  "tf": "3m/2m",
+  "side": "S",
+  "grade": "",
+  "text": "no close below the 3m gap = no entry \u2014 (new box drawn, maybe taken off screen)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "09:29:59",
+  "tf": "30s",
+  "side": "L",
+  "grade": "below A (\"nothing light bulb\")",
+  "text": "\"nothing light bulb\" right: fell \u2713px"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "09:35:43",
+  "tf": "15s",
+  "side": "L",
+  "grade": "",
+  "text": "doesn't trade the 15s; no FVGs on any timeframe right \u2713px"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "09:47:47",
+  "tf": "30s",
+  "side": "L",
+  "grade": "B",
+  "text": "B\u2212, too choppy, \"eval trade\" right \u2713px"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "10:00:21",
+  "tf": "2m",
+  "side": "L",
+  "grade": "",
+  "text": "waited for a 2m gap that never formed: \"what do we do? Nothing\" right: no trigger, then \u2212300 pts \u2713px"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "10:06:12",
+  "tf": "1m",
+  "side": "S",
+  "grade": "",
+  "text": "equal highs above: \"against my rules\u2026 you lose seven out of ten\" **worked**: \u2212300 pts by 10:30 \u2713px (15m low 25,058) \u2014 skip cost a winner"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "10:09:26",
+  "tf": "30s",
+  "side": "S",
+  "grade": "",
+  "text": "\"not a trade I'll take, I'm up four on the week\" **worked** (his; \u2713px)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2026-02-11",
+  "t": "10:15:11",
+  "tf": "3m",
+  "side": "L",
+  "grade": "",
+  "text": "logged off: \"no trade day\"; 1m too small for the dump BE/loss in his recap ~"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "08:48:55",
+  "tf": "\u2014",
+  "side": "S",
+  "grade": "A-",
+  "text": "data high above (\"extremely strong magnet\"), mid-range, A\u2212 \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "09:00:06",
+  "tf": "2m/3m",
+  "side": "L",
+  "grade": "",
+  "text": "no instant inversion; two FVGs, both must break \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "09:09:24",
+  "tf": "30s",
+  "side": "L",
+  "grade": "A-",
+  "text": "A\u2212; wanted the 5m to invert first \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "09:12:06",
+  "tf": "5m",
+  "side": "L",
+  "grade": "",
+  "text": "chat-poll yes (C), but no close = no trade no trigger"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "09:35:41",
+  "tf": "30s",
+  "side": "L",
+  "grade": "A-",
+  "text": "A\u2212, dumping too hard; \"too low to short down here\" \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "10:53:50",
+  "tf": "30s/1m",
+  "side": "L",
+  "grade": "",
+  "text": "protected high: no long until sell side is taken (took the next one at 10:56 anyway; lost)"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "11:54:12",
+  "tf": "15s",
+  "side": "L",
+  "grade": "",
+  "text": "no close \u2014"
+ },
+ {
+  "kind": "SKIP",
+  "date": "2024-10-30",
+  "t": "12:08:33",
+  "tf": "15s/30s",
+  "side": "L",
+  "grade": "",
+  "text": "no close price fell (his) \u2014 the close rule saved him"
+ }
+]

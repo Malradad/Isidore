@@ -1,0 +1,29 @@
+setups 119, engine fired (same side, ±3 min) on 32; his good 34
+| fix | engine "A" on fired | agree with him | his-good he/eng both A | his-bad engine A (false A) |
+| v3 grader (as is) | 12/32 | 18/32 (56%) | 5/12 | 7/20 |
+| 1 dealing range swept->opposite swing | 10/32 | 16/32 (50%) | 3/12 | 7/20 |
+| 2 BE point before target | 12/32 | 18/32 (56%) | 5/12 | 7/20 |
+| 3 no protected target | 10/32 | 18/32 (56%) | 4/12 | 6/20 |
+| 4 reversal <= 6 candles | 4/32 | 22/32 (69%) | 3/12 | 1/20 |
+| 5 same leg | 7/32 | 21/32 (66%) | 4/12 | 3/20 |
+| 6 engineered target | 3/32 | 21/32 (66%) | 2/12 | 1/20 |
+| 7 window 09:30-11:00 | 8/32 | 22/32 (69%) | 5/12 | 3/20 |
+
+| combo | his-A kept (TPR) | his-below-A passed (FPR) | engine A |
+| window | 5/12 (42%) | 3/20 (15%) | 8 |
+| window+rev6 | 3/12 (25%) | 0/20 (0%) | 3 |
+| window+leg | 4/12 (33%) | 1/20 (5%) | 5 |
+| window+rev6+leg | 2/12 (17%) | 0/20 (0%) | 2 |
+| window+eng | 2/12 (17%) | 0/20 (0%) | 2 |
+| window+leg+eng | 2/12 (17%) | 0/20 (0%) | 2 |
+
+coverage by his timeframe (takes+skips, engine fired same side):
+  30s: 9/38
+  1m: 13/35
+  2m: 4/13
+  3m: 1/10
+  —: 3/8
+  15s: 0/7
+  5m: 2/6
+  4m: 0/1
+  15m: 0/1
