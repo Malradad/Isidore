@@ -268,3 +268,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230917 | zY50Qx_Kpqo | Best Inversion Model A+ Checklist from ICT Mentorship | captions | done |
 | 20230912 | Xm79wfL8GGU | This Simple ICT Strategy Requires ＊NO＊ DAILY BIAS | captions | done |
 | 20230912 | yN-aHT_8TWo | Top Mistake People Make With Inversion FVG Setup | captions | done |
+| 20230911 | _5KmeGfPNQY | How to Place targets and Be More Open to Bias - Sunday Night Class ICT | captions | done |
