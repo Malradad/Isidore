@@ -359,6 +359,26 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Refines step 1:** "one trade per session, BE doesn't count" — my D flag counted a BE first trade; 3 of 22 D trades
   followed a BE (minor). Keep.
 - **Honesty:** "trading is gambling"; $42k loss blamed on a glitch; most income is not trading. 74 videos left.
+
+## 2026-11-24 · Decision dataset started (selection + feel)
+- **Maker:** "his selection and feel is very important; his strategy is just another confluence as an entry model."
+  Izzy agrees: every coded entry/grade has no edge; his record splits by selection.
+- **Did:** indexed all 215 on-stream decisions (103 TAKE, 112 SKIP) into `journal/decisions/` with blind inputs split
+  from outcomes. Asked Audrey for pre-decision strips (−60/−30/−15/−5/0 s). Started a fresh, never-exposed Izzy session
+  as blind labeler (seven questions, closure score, loss reasons, TAKE/SKIP call).
+- **Next:** join blind calls with his calls and outcomes; every disagreement becomes a cited lesson; then shadow him live.
+
+## 2026-11-24 · Decision read, round 1 (blind, chart only)
+- Fresh labeler, 215 decisions: 36 TAKE / 169 SKIP; agreed with him 52%. On his playbook takes, Izzy-TAKE 7W/3BE/3L
+  (+0.46R) vs Izzy-SKIP 17W/6BE/9L (+0.23R): weak separation. It avoided 15 of his 19 rule-breaking trades, but also
+  skipped 4 of his 7 clean winners. Lessons into context.md (news-day killzone, day context first, second sweeps).
+- **Decided ~:** the chart alone isn't enough; selection lives in day context. Round 2 adds a "what he knew" pack.
+
+## 2026-11-25 · Step 3: video study, batch 3 (4 videos: Judas swing, BE method, premium/discount, student critiques)
+- **Learned ~:** by his own tracking, his live trades are almost all 09:30–10:00 Judas swings with a known bias; "it's not
+  the IFVG that matters". That backs the maker's read (strategy = entry confluence; edge = selection and liquidity).
+  His "discount" is the 0.5 of the latest impulse leg — the dealing-range definition P8 lacked; sent to the backtester.
+- **Maker:** resumed work 2026-11-25. 70 videos left.
 ## 2026-11-23 · P9 grader vs his eye (started, blocked)
 - Built the audit: 119 audited NQ setups since Nov 2023 (34 takes, 85 timed skips) and an audit mode in the grader
   (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota

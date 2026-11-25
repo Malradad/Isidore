@@ -29,7 +29,7 @@ pivLen     = input.int(3, "Swing strength", minval=1, group=G1)
 discMax    = input.float(0.4, "Discount: loc < x (long); premium: loc > 1-x (short)", step=0.05, group=G1)
 midMax     = input.float(0.6, "Mid-range upper bound", step=0.05, group=G1)
 chopMax    = input.float(2.6, "Chop index >= x = B", step=0.1, group=G1)
-rngMode    = input.string("Session (since 18:00)", "Dealing range", options=["Session (since 18:00)", "Prior day + today"], group=G1)
+rngMode    = input.string("Session (since 18:00)", "Dealing range", options=["Session (since 18:00)", "Prior day + today", "Impulse leg (his 0.5)"], group=G1)
 bufTicks   = input.int(2, "Hard-stop buffer (ticks)", group=G1)
 scaleR     = input.float(1.25, "Scale at R", step=0.25, group=G1)
 scaleFrac  = input.float(0.67, "Scale fraction", step=0.05, group=G1)
@@ -54,6 +54,7 @@ fxProt     = input.bool(false, "Skip a protected-high/low target", group=G6)
 fxRev      = input.int(0, "Max candles sweep extreme -> inversion (0 = off)", group=G6)
 fxLeg      = input.bool(false, "Same leg: gap formed after the sweep extreme", group=G6)
 fxEng      = input.bool(false, "Target must be engineered (equal highs/lows)", group=G6)
+fxJudas    = input.bool(false, "Judas-only: 09:30-10:00 false move into a marked pool against the draw, then inversion; 1/day", group=G6)
 G4 = "Candle-closure score (his /10)"
 scoreSel   = input.string("All", "Score band", options=["All", ">=9", "8", "<=7"], group=G4)
 
@@ -170,11 +171,14 @@ var array<bool>  phP = array.new_bool()
 var array<bool>  plP = array.new_bool()
 var float lastPH = na
 var float lastPL = na
+var int   lastPHbar = na
+var int   lastPLbar = na
 // protected = the swing took the previous swing and closed back inside (rejection)
 if not na(ph)
     array.push(phs, ph)
     array.push(phP, not na(lastPH) and ph > lastPH and close[pivLen] < lastPH)
     lastPH := ph
+    lastPHbar := bar_index - pivLen
     if array.size(phs) > 80
         array.shift(phs)
         array.shift(phP)
@@ -182,6 +186,7 @@ if not na(pl)
     array.push(pls, pl)
     array.push(plP, not na(lastPL) and pl < lastPL and close[pivLen] > lastPL)
     lastPL := pl
+    lastPLbar := bar_index - pivLen
     if array.size(pls) > 80
         array.shift(pls)
         array.shift(plP)
@@ -275,8 +280,11 @@ if not na(uBot) and close < uBot
     uBot := na
 
 // dealing range and location
-rHi = rngMode == "Session (since 18:00)" ? sesH : math.max(sesH, nz(pdh, sesH))
-rLo = rngMode == "Session (since 18:00)" ? sesL : math.min(sesL, nz(pdl, sesL))
+// his location: the 0.5 of the latest impulse leg (last swing high <-> last swing low, extended as new extremes print)
+legHi = math.max(nz(lastPH, high), ta.highest(high, math.max(1, math.min(500, nz(bar_index - lastPHbar, 0) + 1))))
+legLo = math.min(nz(lastPL, low), ta.lowest(low, math.max(1, math.min(500, nz(bar_index - lastPLbar, 0) + 1))))
+rHi = rngMode == "Impulse leg (his 0.5)" ? legHi : rngMode == "Session (since 18:00)" ? sesH : math.max(sesH, nz(pdh, sesH))
+rLo = rngMode == "Impulse leg (his 0.5)" ? legLo : rngMode == "Session (since 18:00)" ? sesL : math.min(sesL, nz(pdl, sesL))
 loc = rHi > rLo ? (close - rLo) / (rHi - rLo) : 0.5
 chopN = 6
 chopIdx = (math.sum(high - low, chopN)[1]) / math.max(ta.highest(high, chopN)[1] - ta.lowest(low, chopN)[1], tick)
@@ -328,6 +336,33 @@ eqBelow = f_equal(pls, close, eqTolTicks * tick, false)
 eqAbove = f_equal(phs, close, eqTolTicks * tick, true)
 lP7 = p7Mode == "Off" or (not eqBelow and na(dataL)) or (p7Mode == "Data-wick override" and not na(dataH))
 sP7 = p7Mode == "Off" or (not eqAbove and na(dataH)) or (p7Mode == "Data-wick override" and not na(dataL))
+// Judas swing (his core trade): 09:30-10:00, a false move against the draw into a marked pool, then the inversion back
+var int   jBias = 0
+var bool  jSwL = false
+var bool  jSwH = false
+var float o930H = na
+var float o930L = na
+inJ = inSess("0930-1001")
+if newDay
+    jSwL := false
+    jSwH := false
+    jBias := 0
+    o930H := na
+    o930L := na
+if inSess("0930-0931") and na(o930H)
+    // draw = the nearer untaken prior-day extreme from the 09:30 open (~ Izzy)
+    dUp = not tPDH and not na(pdh) ? pdh - open : na
+    dDn = not tPDL and not na(pdl) ? open - pdl : na
+    jBias := na(dUp) and na(dDn) ? 0 : na(dDn) ? 1 : na(dUp) ? -1 : dUp <= dDn ? 1 : -1
+    o930H := high
+    o930L := low
+else if inJ
+    if low < pdl or low < ovnL or (not na(lonL) and low < lonL) or (not na(dataL[1]) and low < dataL[1]) or (not na(o930L) and low < o930L)
+        jSwL := true
+    if high > pdh or high > ovnH or (not na(lonH) and high > lonH) or (not na(dataH[1]) and high > dataH[1]) or (not na(o930H) and high > o930H)
+        jSwH := true
+judasL = inJ and jBias == 1 and jSwL
+judasS = inJ and jBias == -1 and jSwH
 lFiltOK = ovnOK and (not useFilt or (not eqBelow and not tPDH)) and lP7
 sFiltOK = ovnOK and (not useFilt or (not eqAbove and not tPDL)) and sP7
 
@@ -366,8 +401,8 @@ lScore = f_score(lEdge, lAge)
 sScore = f_score(sEdge, sAge)
 lFix = (not fxBE or lBE) and (not fxProt or not lProt) and (fxRev == 0 or lRev <= fxRev) and (not fxLeg or lLeg) and (not fxEng or lEng)
 sFix = (not fxBE or sBE) and (not fxProt or not sProt) and (fxRev == 0 or sRev <= fxRev) and (not fxLeg or sLeg) and (not fxEng or sEng)
-longOK  = inWin and longInv and lQty >= 1 and gradeOK(lGrade) and scoreOK(lScore) and lFiltOK and lFix
-shortOK = inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and scoreOK(sScore) and sFiltOK and sFix
+longOK  = fxJudas ? (judasL and longInv and lQty >= 1 and lFiltOK) : (inWin and longInv and lQty >= 1 and gradeOK(lGrade) and scoreOK(lScore) and lFiltOK and lFix)
+shortOK = fxJudas ? (judasS and shortInv and sQty >= 1 and sFiltOK) : (inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and scoreOK(sScore) and sFiltOK and sFix)
 f_fx(float l2, bool be, bool pr, int rv, bool lg, bool en) =>
     "|m" + str.tostring(math.round(l2 * 100)) + "|b" + (be ? "1" : "0") + "|p" + (pr ? "1" : "0") + "|v" + str.tostring(rv) + "|n" + (lg ? "1" : "0") + "|e" + (en ? "1" : "0")
 f_tag(string side, string g, float l, bool sw, float runR, int sc, float gap) =>
@@ -399,7 +434,7 @@ f_place(string id, int dir, int q, float sl, float runTarget, float d) =>
 if barstate.isconfirmed
     if auditMode and strategy.position_size != 0
         strategy.close_all(comment="audit")
-    canTrade = strategy.position_size == 0 and (auditMode or (nDay < maxDay and nLoss < maxLoss)) and not lastBar
+    canTrade = strategy.position_size == 0 and (auditMode or (nDay < (fxJudas ? 1 : maxDay) and nLoss < maxLoss)) and not lastBar
     if canTrade and longOK and not (shortOK and bslBar > sslBar)
         strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist, lScore, lGapPts) + f_fx(lLoc2, lBE, lProt, lRev, lLeg, lEng))
         f_place("L", 1, lQty, lSL, nz(lRun, close + 3 * lDist), lDist)

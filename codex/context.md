@@ -46,6 +46,14 @@ Stop: close back through the FVG, or hard under the order block. Scale half at t
 Tiers combine: two B's (e.g. a London high inside an FVG) → an A. Prefer S/A targets; C/F alone are weak draws.
 "The IFVGs are the entry model, but the delivery and reactions from previous PD arrays… that's what makes you money."
 
+## Lessons from the blind decision read (journal/decisions/round1.md, 2026-11-24) ~
+- **Q7, news days:** after a CPI/NFP release, 08:30–09:30 is a killzone for him, not "pre-open". Both of his news-day
+  08:38 longs won (2026-09-11_7vLdDIq4J0A_4, 2026-06-05_f4LM3kNzquo_3); a blind read had skipped them as pre-open.
+- **Day context decides:** the losers a chart-only read would take came on a day he'd called no-trade
+  (2026-07-14_nE8GE9YBd8k_5), an indicator showcase (2025-10-15_YTBcXcI70io_3) and a teaching example
+  (2023-09-05_e7oYxdPNvhY_4). Judge the day before the chart.
+- **A second sweep can be the trade** (2026-11-02_KhQiTa8YxJk_2 won); his rule is up to 3 attempts at a ≥ 2R idea.
+
 ## Grades (his own)
 - **Live / A–A+:** 1–7 mostly yes, momentum candle, clean target.
 - **Eval-only / B:** valid inversion but chop, poor location or thin liquidity.

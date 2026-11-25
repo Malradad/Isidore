@@ -1,0 +1,50 @@
+[00:00:00] you just want to be doing a video and update a video on how I use order blocks, so how I use order blocks from ICT and I'm going to go over low probability ones versus high probability
+[00:00:11] ones. First off, we need to pay attention to the candle and if you don't follow T tear it trades, he gave me the idea of this. Basically, what he talks about is there's a high probability
+[00:00:22] order block which is something like, or a high probability I'll just say candle in this case, there's like a high probability candle, which is something like this. And then there's
+[00:00:31] like a low probability candle, which would be something like something like this. Okay. So what's the difference? Well, the first candidate you can see is just, it looks like,
+[00:00:46] even though we can't see it, right? This is going to be a big vine candle, because buyers, right? The L grow is pushing this candle one way, right? So this one is just going to be probably likely the next candle is it going to span up right versus this one right this
+[00:01:00] is more of a decision candle right this seller there's buyers and sellers here right we know those are the algorithms um so this would be a higher probability candle this would be low
+[00:01:10] probability because this one you can more you better high probability of guessing the direction of the next candle okay which would be if this was right candle the next candle be down could you
+[00:01:20] guess the direction of this next candle probably not okay so this is why I consider this high probability this is low probability okay so now if you're to go to the chart okay how do I use order blocks well the first thing I do is I kind of look for him on
+[00:01:35] the daily so a lot of people mistake this okay someone would say what I say in order block is it's the last red candle before I move okay but it has to be a
+[00:01:47] red candle like sandwiched between a red and a green okay so like see how this one like see how this one this whole candle would be the word block which I'm
+[00:01:57] gonna talk why I drew it later right this is not an word block because you got this candle this candle this candle so and then you got a green can right here so
+[00:02:06] technically this whole thing like this whole zone will be the word block right here okay because it's the last red candles before not move it's if there's multiple right candles in row it's all the red candles not just the one and
+[00:02:18] sometimes what happens is if you get something like like a red candle like too many maybe let me go to the one minute okay let me just show an example
+[00:02:31] okay so like right right here this is not a good order block because this is just these are one two three red candles before the down move right this zone is
+[00:02:43] way too big the best order blocks to find or will be a single candle or maybe two candles sandwiched in between green candles so something like this right here see how this
+[00:02:56] one right here this is also a low probability order block but it's still an orb block see how this one is sandwiched between this green candle and then this green candle these are the best ones okay and if you want to be more precise what you want to do is you want to draw them from the
+[00:03:10] open of the candle so this is a don closed candle so the open would be the top so to be more precise If you want to enter off an order block you'd literally draw the open of the candle right here, okay?
+[00:03:20] And let me just show you another example. So like see like this candle right here. This is a higher probability word block, okay? Right the entry would be here
+[00:03:30] Okay, stop loss would be under the swing low right here. So it'd be something like this, okay
+[00:03:40] So something like this and then your target would be where I rather know where it be but they suffer higher over here Anyways, see how this one is a high probability order block because this one just the body is so thick, right?
+[00:03:52] And after this form we get a giant up move. So what does this tell you? This tells me that people who sold here, right? This is the manipulation, which is either banks, Smart money, right? People selling here, they have to flip their position.
+[00:04:08] So what happens is when we expand above this and come back, they get our break even and then we go back up again because that's how they mitigate their loss.
+[00:04:15] So when this happens, this is an order block and this is such a high probability one because it's a very small area to enter, okay, right? We can enter the open stops below this.
+[00:04:25] It's just a single green can up before this up move right here, okay? And then another part of the order block is if you draw from the close right here
+[00:04:32] to the open fib with the 50% marking, okay? If you draw that, let me just do this real quick.
+[00:04:42] If you draw that, this is called the mean threshold, okay? You do not want to see a closed below the mean threshold. So this little bit of safe wrenching video,
+[00:04:49] you don't always hit it, okay? But this is considered the mean threshold. As you can see, we hold it twice, okay? And I usually never take an order block twice,
+[00:04:57] but it's still good. It's like support and resistance, okay? So you want to see it hold this mean threshold, okay? Another good example of an order block
+[00:05:04] would be like this one right here. Okay, why? Red candle, sanders in between this one, this up move, and then this green candle.
+[00:05:12] Okay, here's an example, like right here. These are all sort of blocks, okay? I know it's not one candle, but it's still like
+[00:05:19] sandwiched between these, this giant up move and this up move, there's just multiple candles here. So this would be the order block, okay? And that's a bullish order block, okay?
+[00:05:29] This right here, right? Some people mistake this candle, "Oh, this is the order block," okay? Technically it's not, okay?
+[00:05:37] If this was a red candle here, then this would be a great order block, okay? But this is a doji, right? So, really, it's this whole zone, which is kind of too big, so I don't really consider this an orb block.
+[00:05:45] I like that to be one or two green candles, okay? Or one or two candles only. So, like, right here, right?
+[00:05:53] See how we get these two green candles before this down move, right? So, both those green candles,
+[00:06:01] those would be the orb block, okay? And notice how it's not like 50 million green candles, it's only two, so I like one, two, or three.
+[00:06:08] Three fits kind of a smaller area. same with like right here right you can see balance off this to the tick right this green candle before the down move although this is not a high probability
+[00:06:18] order block remember right it's more of a doji candle but these are still considered or blocks the ones I like are the ones like this right these are high probability candles okay so those are a few examples of the word blocks again
+[00:06:31] this is a nice large body here just kind of a big wick but this would do you know or black as well right and I just like to draw it from the open if you ever go past the open and you're in a short just put your stop loss if we've ripped
+[00:06:44] through a mean threshold that kind of close above it so that's a good stop loss so a lot how to use these or blocks I basically check for them like in the four hour right so I like to see if they're on like the four hour daily chart like
+[00:06:57] for example in a daily okay these two red candles a foolish China move these are or blocks okay okay you can notice you balance off them twice so they're gonna
+[00:07:06] use of support, right? These are pretty major or blocks. And what I do is, let's say this is the four hour, for example, what I do is when I get down to them, that's when I go
+[00:07:15] to the lower time frame, and then I start looking for like a potential long set up, right? So I know this area is really the word block. Now what I do is I just start looking for long
+[00:07:25] setups, right, which would maybe be something like this right here, right? See this retracement of this for value gap, right along here. I know this is also the word block. This is
+[00:07:34] is the entire entry though, like this is a confirmation entry and then I long. So that's how I use order blocks. That's what an order block is. Okay, they're very important to me because they're really good when combined with Fair Valley gaps. Let me see if we can
+[00:07:47] find this up real quick. The best possible setup on an order block is one they line up with a Fair Valley gap. So let me just quickly see if I can find an example. Got to be one
+[00:08:02] here somewhere. So like right here, okay, but you have this fur valley gap, right? And then you see these one, two, three, four ground candles before this up move. So it's like a double area,
+[00:08:15] right? And if you, if I went to the 15 minute, this would probably be, or the 10 minute, this would probably be more singular red candles, right? Like just one green or one red candle. So when
+[00:08:26] they're combined, they're even a better setup, okay? So hope you guys enjoyed this video. Let me know if you make sure to subscribe like the video okay and thank you for watching
+[00:08:37] peace out

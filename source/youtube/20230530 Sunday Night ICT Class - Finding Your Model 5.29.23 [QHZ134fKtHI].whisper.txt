@@ -1,0 +1,256 @@
+[00:00:00] and that. Alright, so today I'm going to be talking about models and how to find your model and
+[00:00:22] just different types of models you have. I know a lot of people, I'm going to give you my honest advice on what I think you should do. Start things off, there's a lot of models
+[00:00:34] in ICT, there's a lot. There's about 70 PD arrays, which ICT has publicly said. I know about 30 I know some PD rays that he has not taught just from figuring out
+[00:00:45] myself and I just there's a lot more and I don't even use the PD rays I know that he isn't taught because there's no point right once you I think what you
+[00:00:55] should do is after you watch the videos in the quarter I think you should just focus on like two or three max and again if you I think the most successful like like when I first started learning I say to you, right, I tried, I tried, uh, using
+[00:01:11] everything combined. So I'd be like, Oh, I'm going to find a breaker block combined with the order block combined with a fair bit. I get combined with a binary balance.
+[00:01:17] And when all four combined, the play has to work, right? Like, uh, and there's just, I tried to do so money and this, it didn't work that well. Okay.
+[00:01:28] And I think what helped me the most is I started narrowing them down to like, okay, I'm just going to use for a fair value gaps on OBS. And that's what led to what I do.
+[00:01:35] So personally, I just use fairy bear like Epson OB's. Okay, I don't really use anything else. Okay, I'll use occasional volume balances.
+[00:01:44] I use occasional breaker box, but like my main setups has a fair bearing gap and an OB because my theory is,
+[00:01:52] if there's no fair bearing gap, does that really mean price wants to keep re-pricing towards that direction? Probably not, right?
+[00:01:57] I need to see some sort of fair bearing gap, some sort of inefficiency, which I prefer a fair bearing gap to tell me, Okay, price keeps, wants to go this way, right?
+[00:02:07] The fact, just like this, obviously this is a bad example 'cause it's a bad time trade, but like, if we don't get a favorite I get up here,
+[00:02:15] do you really think I'm looking the shorter here? Absolutely not, right? Even like in the back of my head, if there's no favorite I get up here,
+[00:02:23] do you really think I would expect some sort of rejection here? Probably not, right? I need to see some sort of favorite I get, but that's my main model.
+[00:02:30] Okay, and I'm gonna be going over the main model where if you're brand new, I'm gonna be going over, okay, here's what you should do,
+[00:02:38] and here's what you should stick to for like a month, and here's what is going to, you're going to try, and here's where you're going to back to us, okay?
+[00:02:46] And it's literally the simplest, simplest model of all, okay? And it's just, it's so easy, you don't have to worry about breaker blocks, I do that stuff, okay?
+[00:02:54] And if you're new, this is just, it's so easy. Okay, and it's just, this is just like the 2020 Q model. Okay, but it's, I'm gonna simplify a little bit.
+[00:03:02] So if you had to start with a model, right? Here's like my favorite model. You can just, you can start with this
+[00:03:10] and you can kind of transfer if you want, but my model is this, okay? This is not mine, right?
+[00:03:18] I typically use a little more advanced model than this, but if you really want to have a simple, easy model, By the way, what pellet end which is a very very powerful trader pellet on Twitter jade cap rate
+[00:03:32] Both of their models. They're the same they involve simplicity They don't require 50 million breaker implied fair valley gap block crap whatever Right, it's just they learned from ICT and they said this they learned all their models and they literally just they doubt
+[00:03:48] Just do one thing even though they learned so much more from ICT, but you don't really need to do That's so much more if you only need one model, okay, and if this sort of is so
+[00:03:59] I don't think she's in here But again, there's a person my discord name BB by and I like how she words this but basically it's kind of what she does So and I totally do this so if you think about internal liquidity, right?
+[00:04:12] We got like external on the weekly up here and let's say The other external would be this okay? Why this low? Well, you can see this is clearly swing the next swing low right?
+[00:04:23] you can see there's this is the last possible swing low until you get up to external liquidity. Okay, so here's the model. Okay, let's say this is one by timeframe. What BB by, which is the person I talked to about this, okay, that's the
+[00:04:37] name, what she calls this is waiting for the edges, okay, and I like that. So this is an edge, this is an edge, and this is literally the most simple model. So really,
+[00:04:49] If you see two really nice edges, and a swing low, and a bold swing high, and we're kind of in between, what you want to do is you wait for one of those edges to hit, and then
+[00:04:59] you look further reversal, and I'll explain this in a second, but again, this is literally the most simple thing you could ever do.
+[00:05:07] You just wait for one to hit, and you look, and you wait for the reversal on edge, okay? So let's say you're on the victim time frame.
+[00:05:14] This is an edge right here, this line, this is an edge. So let's say you want to take a nice swing setup because obviously this is the weekly time frame so you're not really going to be looking for a verse on the 5 minute, based
+[00:05:26] out the weekly. So if I was on the weekly time frame and I had these edges marked, I would be looking for probably like a, probably a daily setup.
+[00:05:35] So I'd have these edges marked on the weekly and I'd be like okay I'm going to go to the daily. I'm going to wait until one of these hits first, I don't know what's going on in the first, And then I'm gonna wait for like a daily setup,
+[00:05:45] and that's just a simple break of structure, for everybody to get a replacement, or whatever. Okay, this is the daily timeframe.
+[00:05:53] So, I'm gonna go on a smart timeframe. Okay, this is what I do. So, really, right now, this is a really nice edge, right? Because it's kind of lined up with,
+[00:06:03] it's like the high, it's the most obvious high. So I'd call this an edge, and I'd call something like this an edge.
+[00:06:11] OK. And I'd actually probably go to the hourly. And I'll call this an edge.
+[00:06:18] So if you want really, really, really high probability trades, what you've got to do is, OK, stay in the one hour. Wait to one of these edges hits.
+[00:06:26] And then look for the setup, OK? And it's just the basic 22 model. So really, instead of trying to like gamble,
+[00:06:34] and just-- this is not gambling, by the way, because what I do, by the way, what I do because I know what I'm just gonna hit first, base off a structure, base off whatever else.
+[00:06:43] I'm thinking, but if you don't know, and you're bad at drawing liquidity, just wait till we hit an edge and look for the opposite setup, right?
+[00:06:50] So if we open up in the morning, we, let's say we have a London high or London low. Okay, we form it overnight high and overnight low.
+[00:06:57] Just wait till one of them are hit and then just wait to see if you get a reversal setup, okay? This is literally the most simplest model.
+[00:07:05] I think this is the model everyone should start with. It's what I started off with. So right now, I don't care if I see a bullish setup here. I'm not longing.
+[00:07:12] I'm going to wait till the edge gets hit up here, and I'm going to wait for something like possibly this. So let's say you get a high, something like this,
+[00:07:22] high or low, we purge the liquidity, and then we break the high or low. And then I'm taking the fair value gap short, right?
+[00:07:29] This is the model you just got to wait for. And the thing that makes this so good is because you're not really guessing
+[00:07:38] the draw on liquidity here. There's two ways to trade. There's the way that I do it was I guess the draw on liquidity, which I'm pretty good at.
+[00:07:45] And there's the other way where you're going to do this way and just wait till liquidity hits, meaning you don't know which liquidity is going to be hit, which is why you wait for the edge,
+[00:07:54] and then you try to take the reversal setup. So this is an example where I'm not going to guess this is going to be hit first, but let's say it is, I'm just going to look for the reversal setup.
+[00:08:03] There's going to be days where we're going to form a London High or something, for example right here.
+[00:08:09] You can see Form a London High here, but there's never a nice short set up here. Those are going to be days where you're going to find an edge and we're not going to get
+[00:08:19] the reversal set up off it. If you look at this whole range, what high sticks out to you? The only high that sticks out to me is this because it's so obvious, it's most obvious
+[00:08:29] high so I'll consider this like an edge because the edge I consider like a bunch of consolidation and it's like the most obvious high and if you look at
+[00:08:38] this it's just like this is the mount on top so what you want to do is you just okay wait for that edge to hit you're not trying to find a setup to this edge because you're not gonna be a hundred percent sure this hits but the model is
+[00:08:50] just gonna be like okay wait for this edge to hit go on like the one minute time frame and see like okay are we gonna get a short setup and when we hit this edge. A little bit of a dump but no further behind a gap or no break a structure to short right.
+[00:09:04] The short setup would have been if we obviously broke this low right and then we got the fair behind a gap to short. So in this one there's really when we hit this edge you're just going
+[00:09:15] to be no setup sometimes and that's okay okay. I'm going to use like the one minute for example now, okay? If I look at this, right? This is a one minute chart. This is not going to
+[00:09:29] be as appearing on a five minute chart, but let's say I'm looking for one minute edges. The most obvious, obvious edges in this whole range are going to be this high and this low. So just look for something like a V shape or just any consolidation. Look for the most
+[00:09:42] obvious high and low. Mark the high and low. The market will 100% of the time hit one of edges okay you don't know I need these that you don't know which edges gonna be
+[00:09:52] hit but what your job is gonna do is wait to one of them are hit look see if you get a reversal setup so in this situation we're here right we hit this edge first you're like okay we hit this edge verse now and for a short setup and
+[00:10:04] because it's a one-minute time frame we're gonna get a lot more but you can see we clearly get a nice short set up right here or you can see like we we form a high low and this is gonna be not a great example but it's still an
+[00:10:16] example. I'm going to form a higher low here. You can see we get the nice displacement below this low. See this nice displacement? I'm going to make sure this is for a valid gap
+[00:10:25] right here. Again, it's that idea of having an edge, you have a higher low, you hit that edge, look for the reversal setup. Just like the example I showed you before, way over
+[00:10:43] here okay sometimes you don't get the reversal setup you want okay and this one we got it again my model is I just like the freer valley gap and I just
+[00:10:53] like the order box so I think that's the most simple I think that's all you should use I don't even worry about it but like in this situation right the difference between this setup when we hit this edge and this setup when we hit
+[00:11:08] this edges right here we never got a breaker structure and right here there's It's number of fairy really get the short of the first place.
+[00:11:18] So you can see in this, right, there's number of fairy really get the short of the first place.
+[00:11:24] Okay. And if we go back over here, okay, remember what I said about fairy really gaps, the reason my love fairy really gaps is because they'll tell me, okay, before I'm fairy really get,
+[00:11:35] the market wants a price lower or has a better chance of, of re-pricing lower if there's There's no fair value gap first at the one of the fourth that I showed you way over here
+[00:11:45] Right, there's no fair value gap. So is that really though? Is the market really timing? We want to repress lower? There's no fair value gap problem. Not okay versus this one. We had the fair value gap
+[00:11:56] This is probably telling me that there's a more of a chance that the market will repress lower doesn't mean it will But there's definitely more of a chance. Okay. That's why you can't just short with no fair value gap
+[00:12:06] I just said you get yourself up for failure for sure with no fair value gap, okay And obviously there can be volume balance,
+[00:12:15] there can be an order block, okay, but my model is a fairly valid gap. So my mindset is I need to short a fairly valid gap, nothing else.
+[00:12:22] Okay, now I use order blocks more, my stop loss is not entries, I use a fairly valid gap for an entry, 99% of the time. I will use volume and be able to sometimes,
+[00:12:32] but mostly a fairly valid gap. So again, I think the most basic model to start it off with is wait for some sort of consolidation,
+[00:12:40] some sort of V shape or something like this pattern. We get just obvious high and low or something,
+[00:12:49] and then wait for one of those edges to hit, and then look for a versus setup, okay? And I think that's gonna make your versus word really good.
+[00:12:57] I think it's just the basic, most starting, really good model, right? Even like right here, okay?
+[00:13:07] if you go back, or if we use them a little bit. And I go to, let's say, the five minute, okay? Right now, let's say it was a five minute time frame.
+[00:13:18] Where would the edges be? The edges would be right here. And I'd say, and I guess I'd say the edges up here. Okay, and this is more of a screen time advanced thing.
+[00:13:33] Why would I not say this one? Does anyone know why I wouldn't say this is a nudge? This is more of an advanced thing.
+[00:13:44] Yeah, okay, you got it, nice. Yeah, so what L natural said, this is actually a nice lower resistance liquidity.
+[00:13:53] So my guess is if we break this, we're probably not going to get a short set up, although this technically is an address on an edge you'd probably get a short set of bonds.
+[00:14:01] So because this lower resistance liquidity, Okay, right here. There's two edges right here and right here. So this is a bad example again, but it's a good example because of time, it's a bad example. But Friday, let's
+[00:14:19] say there's a lot more time up in the day. I would consider these two nice edges. Wait till one gets hit. See if you get any short setup, right? An edge can be a swing, higher swing low they're just gonna be really obvious right so if we go back just a
+[00:14:35] lot right right here obvious edges then we got the V shape setup we got two obvious edges you don't know which one is gonna hit first you wait till one hits
+[00:14:46] first and then you look for a setup right and sometimes you might get it this one you did get it right you can see we hit this edge we kind of come down down, break structure here at this last high or low. Not too much displacement at first,
+[00:15:04] but eventually we can start trickling down, trickling down, and then I'd say you in hindsight this would be the entry, this would be the entry, this would be the entry, this would be the symbol behind the same thing. But you can see just the point is, okay, there's
+[00:15:16] your edge, here's your entry, okay, and there's a lot of different take profits. I'm not going be really talking about take profits in this Sunday class because I've done a lot
+[00:15:27] about okay where should you take profit B and where should your stop to break you would be but if I were to have to say like okay take profit I'll probably be
+[00:15:36] like first take profit would probably be like if there's an iris swing loan swing high my first take profit is definitely going to be like the equilibrium with
+[00:15:49] the range just in case we do bounce like you can see this is bullish or value gap right it'd probably be like the the opposite side pd rate if just in case your vice is wrong we do bounce and then I try to hold for like a more obvious low way down because I've seen
+[00:16:05] the vice is bearish we should violate this bearish or this bullish or value gap but yeah first target would probably be like the okay if my vice is wrong where would I take the
+[00:16:16] opposite position that's where I always get my first target is and then I see second very valid gap is a second target would be like a much more lower lower it looks really obvious and this is definitely the most obvious low before
+[00:16:31] this one right you can see this is giant wick if I back up from my screen you can kind of see it really how do you know it's very good to enter this one honestly both are fine. Okay, if we were chasing this one, definitely
+[00:16:46] wouldn't have entered here. If you're chasing this one, definitely would not have entered there. This one is okay, now the bearish, now the order flow is kind of bearish versus
+[00:16:54] this one that the order flow wouldn't really have been bearish yet. Yeah, I wouldn't be using I wouldn't actually be trading these times. These are more just hindsight examples
+[00:17:05] versus here's an obvious edge. Right, you can see this two obvious I think that's the basic model and I think that's what you should start with okay
+[00:17:20] You wouldn't enter here because this is Orderful really isn't bearish at this point yet, right? All this is a is a retracement after uptrend You want to see that uptrend broken first and then you kind of look for okay?
+[00:17:34] Are we creating bear drawer blocks? Which we create one here Okay
+[00:17:40] Does it look like these very short of auctioning respected which this one does? Because we don't go back over it and that's really how you you like, okay now we bear short of flow
+[00:17:51] That's I'm going to anticipate price to go lower Okay And yes all models you should have a certain time of day, okay, and there's a lot of models of the silver bolt model
+[00:18:04] Okay, this model right here this one I'm talking about okay wait for an action hit and then look for a virtual setup This model should only be performed from 2 to 5 a.m. During the London
+[00:18:15] from 8 30 to 11 a.m. And you're a kill zone and 130 to
+[00:18:21] 345 p.m. That's a new session and if you perform it only during these times and only there these times nothing out outside You'll have the most high probability, okay?
+[00:18:36] Okay, but that's the kind of the first model and then here's where it gets juicy Okay, once you kind of if you can get this model this model I'm telling you's all you need to be profitable. Okay, what I just showed you that model is all you need to be profitable
+[00:18:51] Okay, but here's the thing that's an example of only one model I think it's the most simple. I think it's the one that if you're struggling That's just the one you should wait for so I think it's the most simple for sure
+[00:19:02] but this I have see could be other models, okay. The other model being like a, okay,
+[00:19:11] I'm gonna try to find where do I think the draw on the query is, and I'm gonna look for like a continuation model. So, let's say you don't do the edge model.
+[00:19:20] Let's say I think I know that we're gonna go hit this high because I'm like, okay, I see a nice displacement above. I see a nice pretty red gap.
+[00:19:28] I think we're gonna go hit this high. So based off of this, you're like, okay, I have an edge marked. I think we're gonna go ahead this edge.
+[00:19:34] Now, what the model can be is, okay, I'm looking for a continuation model. Let's say in unconscious entry, but let's say you see a new firm that I get formed, right?
+[00:19:43] Your model is, okay, now I think I know where the liquidity is. I'm gonna long this and maybe stop while I sign this order to block and then target here.
+[00:19:52] Obviously not the greatest risk to award, but this is the second model. And this is what I personally do. But I've also been doing this for a while,
+[00:19:59] So I also have a lot more screen time and kind of I am pretty good at telling, okay, I think price is going to go here, okay.
+[00:20:08] It's not always easy to enter even though you may know where price is going. It's not always easy to enter and execute but I still know where price is going a lot. And this is what I kind of do and this is the second model.
+[00:20:19] So instead of waiting for like a market structure shift, you're kind of already going with a trend and you're entering in the continuation model. Thursday when I was in voice I alerted a long time like a hundred people or whatever was ever in here and
+[00:20:34] The long setup I learned it was this so I kind of said Mark out this 15 minute free bag. Yeah, I'm not flying along in it
+[00:20:42] But see if we get along from it, and if you go like the five minute, right? Oh We never really got a five minute confirmation which by the way, I said go in the one minute not the five minute
+[00:20:56] But if you go in the one minute you can see like right here right you kind of see we're knifing knifing right there's nothing telling me along yet but then I see this work and this is not an edge this is a higher time
+[00:21:11] frame PD array model okay so just like an edge you kind of can treat this higher time frame PD arrays as an edge right this is a 15-minute frame array gap and this is the other model rather than
+[00:21:22] finding an edge like I explained before find a higher time frame frame array I got a higher time and frame or block and that's your edge.
+[00:21:30] So this was an example of an edge to me, right? This is the other model you can do if you want. And the edge you're looking for your versus setup.
+[00:21:39] And edge is just, you mark two really easy price points in Ferno and you wait until either price point is hit. And then you look to do the opposite.
+[00:21:49] So you're basically marking like, yeah. So you're basically marking two sides of the marketing thing. Okay, I don't know which side the market's gonna go, But I'm going to mark both sides, and if one gets hit,
+[00:21:59] I'm going to look for your reversal. So the second type model is, OK, find a higher time frame for your bad, yep,
+[00:22:06] or a higher time frame. Word block. And then use that as your edge. So this would be my edge, right? Let's say, like the first model, let's say this is just
+[00:22:15] a swing low. Well, it's the same thing, this is an edge. But in this situation, this is just a 15-degree edge, OK? I'm trying to explain this the best I can, but not really
+[00:22:26] a great explanation, to be honest. But let's say this is my edge and my model. Versus in your model, your edge is
+[00:22:33] going to be something like this. But basically, what I do is this is another model you can use. What you do is you wait for the higher time frame PD
+[00:22:42] ready to be hit, then you go to the one minute, and then you look for a set up out of there. In this example, right here, here's a reverse model.
+[00:22:50] This is a whole model itself. Here is the trend continuation model. This is another whole model itself. So you have to start deciding, okay,
+[00:22:59] do I want to try to catch a reversal and be really early, or do I want to wait to like a reversal and let it break a structure
+[00:23:07] and then maybe enter in the trend continuation. So these are another two things you have to decide. You're going to have thighs.
+[00:23:13] You do some back tests in the CO2 when you look better. Okay, and I kind of mix both. Sometimes if I'll miss this and I'll be like,
+[00:23:20] Okay, well, I'm so comfortable entering here. Some people might not be because some people might feel like, okay, I'm a server, so I'm chasing.
+[00:23:28] But really, this is relatively low, compared to where, okay, I thought we're gonna go here. So this is still kinda relative to low, meaning, okay,
+[00:23:36] if I miss this one, this is still fine in the long, you know? And this is just another model.
+[00:23:44] You're gonna have to decide, okay, am I fine with taking the second set up? Or do I want to try to get the best versus award
+[00:23:53] and try to long the first century gives me? Should be this one right here. OK, so that's another model.
+[00:24:00] And that's going to take time for you to kind of understand. ICT talks about mental capacity taking the space, and that's kind of one of those things where, OK, do I
+[00:24:09] feel comfortable doing this, or don't want to do this? OK. But again, you're going to have to find a model and understand,
+[00:24:17] Okay, do I like the reversal set-ups more or do I like to see a reversal and then I answer in the trend continuation, okay? I think those are two big things you got to decide
+[00:24:28] Mr. Turner said Edge in this context without yes, exactly So and I just you're in the middle of the range you want to wait till I just have the rain shaking out
+[00:24:41] And then you look for an opposite setup, which sometimes might not appear Yes, and it can also be a higher time frame for a rally gap, right? So like I
+[00:24:52] Got another example of an edge could be something like Do you want a second? What's up? Good night
+[00:25:01] What would you all right? All right, so like an edge will be right here Okay
+[00:25:10] But let's say there's also a fair rally gap that's kind of blocking price of getting to the start edge. Well then I could kind of change and be like okay maybe I don't think we're going to hit this
+[00:25:20] edge. Maybe I would rather long a setup inside here rather than waiting for this edge to hit. Okay but you're going to have to decide that because sometimes you might be sometimes what
+[00:25:32] you can do is just do this right. You wait for this edge or even this edge you could hit and you can kind of see if we were to go in the one minute I bet you there's a short setup here.
+[00:25:42] Not for very long, but I bet you there's a setup here. And sometimes this might happen to where-- OK, this is an edge here.
+[00:25:50] Edge here, but there's also a free bag up in the way. So you can kind of have two edges here. And that's here.
+[00:25:56] And let's say you can count this as an edge. And you can kind of tell yourself, OK, if a long setup works at this edge, I'll take it.
+[00:26:04] If not, I'm just going to wait till this edge. And I bet you there's probably a lower time frame setup here. Obviously as I teach if you don't blind me long in this
+[00:26:12] Did big of a time frame too big of a stop plus you want to go to lower time frame and look for a more precise entry? But I know I don't think I didn't think of that mr. Jernick's I've explained this very well
+[00:26:31] I'm talking about edges like on the chart not edges like oh, this is an edge in trading This is pretty obvious edge. I'm pretty sure most people understand why I would call this an ad just because it's the lowest point
+[00:26:43] It's very obvious to see right if you're looking at edge in real life. It's obviously At the end of something or right it's that's where edges
+[00:26:54] So yeah, you got the model of marking two edges marking bias hide and sell side basically the same thing where you just okay Now you wait for one to hit look at the opposite way
+[00:27:04] You're not guessing which one's gonna hit but that's that's kind of the first model That's what I'd recommend what you start with a second model would be Finding the trend continuation being like okay
+[00:27:16] I think this is just gonna have first look for the sound to go through the ledge And that's really really got to be really good because if you're wrong you're gonna get wrecked Okay, with my confirmation set up it's hard for me to get wrecked because
+[00:27:28] Highway for the confirmation set up if I think I know where the drown the query is But the second model is finding the drone liquidity and going with the trend to that instead of waiting for the edge to hit Okay, and the third one is okay. Do I want to?
+[00:27:46] Do I want to buy or sell? The first continue with the first reversal after the edge hits or do I want to wait a little bit wait to the order flow changes after the edges hit and
+[00:27:57] And then hop on the trend continuation. Okay, that's kind of the third model So I think picking one of those three models would be good and just sticking to one of them and seeing what you like best Okay, and then once you pick one of those start thinking about okay
+[00:28:11] Do I like to use for every I guess more or do I like to use breaker blocks more okay? I think you should pick between a fair value gap and a breaker block Okay, I can see when they're combined this a little better
+[00:28:21] But I think you should focus primarily in one and then once you have that down Okay, do I like it very very good for breaker buck more? I think you should
+[00:28:32] Pick okay, do I like swing highs and swing lows is my stop bus more or by like order box to my stop bus more? Okay, again, my personal model is I I use for every I guess for entry. It's not really breaker blocks
+[00:28:45] It's obviously good to see it breaking fucking fluids but again, I focus more for it really gaps because I understand them so well and I also you like to use order boxes my swing stops
+[00:28:58] Okay, versus some people might use just use higher or regular swing highs and swing lows Especially if you don't understand the way box that well, so that's like kind of the third thing you want to know
+[00:29:10] And after that, it's just it's all from there. Just doing the same thing again, right? You're using that fair bag up every single time you're an edge anyway from the setup, right?
+[00:29:20] Not even using the volume and balance right maybe sometime in the future once you get really good at the first one Kind of have like a tool in your pocket being like, okay
+[00:29:28] I don't see if I really get here, but there is a small tiny and valent buying balance, and I have everything else setting up in my Conditions that I'm looking for
+[00:29:36] Okay, but that's not something we want to jump out early That's something we want to kind of wait down the road for because again when I start using violent bounces every every volume on the bill, it's got blown through and I had no idea why, okay, you got it, it's going
+[00:29:50] to take three in time to understand how they're using, how they should work. So that's what I'll do with that, okay.
+[00:30:03] So again, I kind of offered three different main setups to look for, right? And then I kind of went over a little bit of, okay, how are you going to enter these models
+[00:30:15] using Fair Valley gaps, using breaker blocks, combining them both. How are you gonna set your stop losses, right?
+[00:30:22] You should write down a piece of paper or something, right, what you want to use and what you're more comfortable with. I see it's gonna take, if you're new,
+[00:30:29] or you're gonna have to back test a little bit, and the other one I really didn't go over for, or the other one I didn't really go over
+[00:30:38] is the inverse Fair Valley gaps, because those are definitely a little more advanced. if you really like to use fairy mey gaps i think you should start using inverse fairy
+[00:30:48] mey gaps for sure down the road but as you start i would just focus on fairy mey gaps and i think going to expand to inverse fairy mey gaps so kind of like it's like another
+[00:30:58] tool in your back pocket but uh again you're going to have to use some back testing system some sort of tracker and kind of okay if i'm just using fairy mey gaps and i'm just using
+[00:31:09] more blocks, wait for an edge to hit, how much can my runner be? And maybe you don't know where to target. So let's just say you do the edge strategy where I talked about
+[00:31:21] just wait for one of the edge hits. And you see a setup. Okay, don't even pick a target. Just do, just pick where your stop would be, which should be the last thing low. And just
+[00:31:31] do the target to wherever a two R would be. And just keep doing two R over and over and over and over again. You don't have to find a liquidity target,
+[00:31:39] and just see how much a win rate is. Okay, just keep doing that, and do it with a few different models.
+[00:31:45] You can do it with like the edge model I talked about, waiting for the edges of the head, or you can do, or if you think you're good enough to guess the drawn liquidity,
+[00:31:54] right, do the trend continuation model. So, I'll just back test that. Do like a whole back test, just using for a rally gap, do a whole back test session with just using breaker blocks.
+[00:32:05] see what you're more comfortable with, see what you're better at. I've done a few and I've used, like, I've compared me using Break-A-Box versus me using
+[00:32:15] Inverse For Reality Gaps, and I definitely am more success using Inverse For Reality Gaps, but that's what I would recommend doing. It's gonna take you time. Again, we have a lot of time to do this. I know some of you kind of
+[00:32:31] already know what you like to enter with, okay? I know some of you in here, you always post like the same setups and it's pretty obvious and you're always entering out the same thing you're looking for the same thing but it's
+[00:32:40] pretty obvious but again try not to mix up to your money your entries don't enter off break your blocks one day then just move back to you for a minute I get the second day because like oh break your block failed the other day and move
+[00:32:52] back to favor I guess right you want to stick to the same thing okay should be mechanical system so yeah that's pretty much it for me what I got about models for the time being, and yeah, does anyone have any questions? I'll give you
+[00:33:16] someone like a minute to type. An alert real quick, ah yeah, look for a short on I'm gonna say I want a short here, but
+[00:33:33] Hmm short here right here if this load is not hit If this load is not hit this is a good short and we're 100% in this low
+[00:33:46] so like this and and then stop the break even here, free trade, and then target the TR trade probably down here,
+[00:33:58] and then maybe leave a runner to put down here. All right.
+[00:34:06] Can you clarify the difference between chasing and confirmation setup options? I can do that tomorrow in the live session.
+[00:34:18] And that's an easy question. And for a note, if you got unrelated questions, just ask me to borrow the live session.
+[00:34:31] All right, daily advice for tomorrow, I gotta check tomorrow morning. What are the minimum must have for a complete model? The minimum must have,
+[00:34:40] because you must always enter with the same thing, whether it be a favorite makeup or a buck, and you must have, okay, am I gonna wait for an edge or am I gonna try to guess what the draw on the hoodie is?
+[00:34:52] So I think picking between, am I gonna wait for the edge to hit first, am I gonna wait for bicered or celtic first, which you wouldn't know which one,
+[00:35:01] or am I gonna try to guess which one's gonna hit and then kind of go towards there? Or are you gonna do the other one where,
+[00:35:09] and then after those two, you wanna decide, Okay, how am I going to enter? Okay, something like that.
+[00:35:19] Yeah, I can show an example of inverse variable, yeah. So, an inverse variable I get would be something like... Let's see.
+[00:35:32] If we're, like an inverse variable I get was just a normal variable I get, but we respect it. And then, let's say we break above this
+[00:35:42] to be kind of close above it that I look for a long out of this. But what I want to see a nice strong close out of this, right? And because I am kind of bullish and looking for a violation of this, it's not smart to look for an EU short. It's not smart to look for gold long, right? Because
+[00:36:00] the 3D analysis. So there's a lot more that goes into this than just calling a play. But I'm still waiting for this to be violated kind of here I want to be violated so that's
+[00:36:14] definitely something to notice and again I want to see this violated so again this EU trade is probably gonna fail because again well I don't want to take any use
+[00:36:25] short here if I'm kind of waiting for this to be violated right it makes no sense so there's there's also the point of 3D analysis and kind of understanding okay does this short make sense based on the other charts and this
+[00:36:37] one really doesn't. I have to say without looking at EAS, without looking on Q, this to me looked like a good short, right? But now that I'm kind of looking at other charts,
+[00:36:47] it's like, okay, this doesn't make sense versus when I alerted the long earlier in my premium, when I said I'm longing here, it made sense because I was actually bullish
+[00:36:56] on EAS at the same time, right? And I'm kind of expecting these to kind of move in unison And I'm kind of expecting these moving harmonies, so I'm expecting the same thing that happened versus now
+[00:37:08] It's a little different now, but Can you use MQ with both models? Yeah, I use MQ ADS
+[00:37:22] You say combine candles to form a higher time frame chart in your head. Yeah No inferno
+[00:37:33] When I say oh combine one minute candles and the five minute candles It's literally it's all objective right
+[00:37:43] You have to start at the times the five minute candle start right you have to imagine okay, this is the open
+[00:37:50] If I go to the five minute or if I go to like the 15 minute Right here, this is the open of the 2210 one minute candle, which means it must be the open of the five minute
+[00:38:09] of the five-minute candle as well, okay, which it is so it has to be 22 10 and the close
+[00:38:20] The close of this candle is Up here, so you can't just pick up you can't just pick a random spot has to be the time correlated Right so five minute
+[00:38:34] Candle is gonna for is gonna open it like 10. Oh five 15 20 25 and you have to do that. Yeah, you have to do that
+[00:38:47] Again, that's kind of you have to have a really good memory and Not a photographic memory beat us have to have a lot of screen time to do that And it's just it can be definitely very difficult sometimes
+[00:39:04] But yeah That's so yeah, I'm always in the one minute because I can visualize the higher time frames will be in the one minute and people are like
+[00:39:19] Oh go out to one minute, but I can already see the higher time frame We got some really nice low resistance equity and nastening up. So I think this is obviously gonna break soon
+[00:39:47] How advanced do models turtle soup definitely a lot more advanced because turtle soup is definitely harder to master no, okay Why would I buy under this lower? Why would I not?
+[00:39:58] Definitely not should be your first model, but turtle soup is another model. There's a reason I didn't go over that I think you should understand the other models first if I did guess I would guess
+[00:40:10] again don't take this as an alert but I guess this sure is going to work okay I don't it doesn't really make sense to me to show you here because of the
+[00:40:20] other charts I'm kind of looking at right now it does not make sense to short if I was just I miss without any 3d analysis definitely makes sense sure here but yeah i don't know and and dxy would definitely make sense for us to balance here in his equal highs
+[00:40:45] so again don't take this this is not really alert but like i said i'm pretty sure this low is going to be taken out but it doesn't make sense to short because i don't know i'm Q and E as i'm kind of
+[00:41:02] expecting upside-on which pretty sure makes this go up too. I think they generally do the same thing. Not all the time, but like last time EU dumped in...
+[00:41:17] EU dumped in ES is bullish, but I feel like they are correlated a little more in the overnight sessions which is interesting. That's something I realized, but it's not really during the day typically.
+[00:41:32] um, yeah I tend to see a lot of hype. Yeah, what about Nvidia?
+[00:41:42] Nvidia is definitely still bullish. It's at all time high. It's definitely not short this year. I'm waiting for a short on it.
+[00:41:48] I did not see any good short setups yet. It's probably going to take a while to play out. So it looks like this EU trade is going to fail. Okay.
+[00:41:56] Again, like I said, it didn't really make sense to short this right now. I'm just kind of tapering. But we should still hit this low. I'm guessing. I'm just not sure what
+[00:42:11] GBP that makes sense Maybe a little work actually let's see
+[00:42:28] Yeah, and I would expect the XY to bounce in the server. Yeah, but I don't expect you to dump here But yeah, no video definitely would not short this yet
+[00:42:43] You just got to wait for NQ to go what's NQ starts turning fair short no video And and honestly like I
+[00:42:53] I don't even know if the video is a good short even after that because the video is so strong Where I'm not sure if you're gonna get like a good short off that, you know, so I Don't know just up to you
+[00:43:04] What time do you usually live? Yeah? Well more like 830 or 9 just depends on the day I'll go live at like 830 if I see or I'll go live like 8 or 830 if I see some really good setups forming
+[00:43:18] And I'll kind of wait from 9 o'clock to a By the way, this is an inverse for every I get. This is why I think we're gonna reject here So
+[00:43:29] Right you asked me how to use in this inverse, right? It's this Bullish for me I got which I don't know why this pumped here. I was expecting this short to work But now that we kind of dumped back through this bearish bullish for every I got where I was not expecting to work
+[00:43:44] And I was expecting to hit this low It would make sense to short. This is an inverse and it lines up with a bearish one So yeah, it does look like this is working. Yeah, so
+[00:43:55] The xy completed the upside prediction and euro should complete this downside one We just got to break these equal highs
+[00:44:05] But yeah, nice little sculpt called there. I'll hopefully be this low But I definitely think this room lowered to on this as well
+[00:44:21] I just want this low. Okay, so dx y broke those equal high, so dx y can hit the scalp target, so let's see what happens now.
+[00:44:37] That's a whole different thing Marshall. I think for another thing, you're talking about BPRs. I think there's too much like cloudiness.
+[00:45:04] There's definitely way too much cloudiness when you refer to BPRs and verse free rally gaps.
+[00:45:11] think there's a from what I've learned I just there's too much subjectiveness you know there's not I've seen so many people say different things I've even I've caught
+[00:45:21] ICT say different things as well which is kind of fishy but like I've caught I'm saying different different things for that but yeah so you can see DXY hit the
+[00:45:38] target and just dumps out there and so it's important to scale internal liquidity and you can see this EU trade got stopped to break human
+[00:45:46] now, right? And yeah, this is also the close room over here in DXY. So, again, DXY is very good to use with euro unlike
+[00:45:59] Yes, you should not. I don't really rely heavily on DXY for ES, but I would suggest using with euro because Look at just the difference right this is perfectly uncorrelated right the opposite happens one dump candle
+[00:46:15] We just pump here right make so much sounds algorithmic theory that's the stuff the ICT concepts does Not really I don't really think you need it
+[00:46:26] I think it's all in price and that's all in the chart and you can see algorithmic theory to the chart But yeah, that's about it. I'm gonna get off now guys
+[00:46:38] And this will be recorded so you can go back and watch this. So yeah, I'll see you guys tomorrow and stream for, and yeah, see you guys later, peace.

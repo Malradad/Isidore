@@ -184,3 +184,133 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240228 | Tbqch_ezER4 | How I Passed an Evaluation Account in 1 Trade (100% Win Rate) | captions | done |
 | 20240225 | awBzQTJ0jD8 | How to Manage Risk EFFICIENTLY Using iFVGs | whisper | done |
 | 20240224 | VM_G3gKzjp4 | The Ultimate Hierarchy of iFVGs (Best Versus Worst iFVGS) | captions | done |
+| 20240216 | yQzkrfERAWY | Are You TRULY a Trader？ | captions | done |
+| 20240212 | oL5B8pdI3yI | Propulsion Block Explained in 5 Minutes (Simplified ICT Concepts) | captions | done |
+| 20240209 | ZW-ywpb5BAQ | 94% Win Rate iFVG Backtesting Session (Best Futures Strategy) | captions | done |
+| 20240208 | r131tzwJX94 | This Makes iFVGS 10x MORE Powerful | captions | done |
+| 20240204 | W-aLaQ4_bZk | The Most Powerful Psychology Lesson in Trading (Take Notes) | captions | done |
+| 20240203 | bS6jae1wfn0 | How to ACTUALLY ＊ENTER＊ Trades AFTER Finding the Bias | captions | done |
+| 20240202 | mXm3nGg-aos | The Best Setup in the World... (80+% Win Rate) | captions | done |
+| 20240131 | BumURb_alCE | The #1 Mistake ICT Traders Make + How to Fix it | captions | done |
+| 20240129 | zSJmrZuFUto | Simple Killzone Trick To Win More Trades - ICT Concepts | captions | done |
+| 20240128 | KVU_oPzNICc | Questions About iFVG Model - Sunday Class | captions | done |
+| 20240126 | WEiJvYvuGU0 | PM Session 30 Second iFVG + LRLR Live Commentary Execution | whisper | done |
+| 20240125 | xqAYHIEjsio | One Setup For Life! (Part 3) | captions | done |
+| 20240123 | 81MztES3exc | How to Trade When We Are at All Time Highs - ICT Concepts | captions | done |
+| 20240121 | KaG5Ieml_cE | 99% of ICT Traders Can't Do This： HTF Analysis! | captions | done |
+| 20240119 | gQ-sHPg9g7Y | This is the Best Trading Strategy⧸Model In The Entire World... | captions | done |
+| 20240117 | QJRdNW6xf98 | Comparing ICT ⧸ iFVG Model for Futures, Forex, and Crypto - ICT Concepts | captions | done |
+| 20240115 | B6NXqEmjjJ0 | How to Find ＊HIGHER＊ Probability Orderblocks Than the Typical ICT Trader | captions | done |
+| 20240115 | zamd8QaW6ws | The ＊EASIEST＊ Top Down Analysis for New York AM Session - ICT Concepts | captions | done |
+| 20240111 | Np5HXA4YTXE | The ＊BEST＊ ICT Liquidity Pool You Can Use 95% Of The Time | captions | done |
+| 20240110 | SIWQ5PSNcEM | 5 A+ Textbook Inversion Fair Value Gaps + Why They Are Textbook | whisper | done |
+| 20240107 | h-xIe-Rr-eA | This ＊SECRET＊ Tip Will Save You MANY Losses in ICT | whisper | done |
+| 20240104 | lAxmaUt6HgY | My ＂Enigma＂ In Finding the Daily Bias ⧸ Great ICT Setups | captions | done |
+| 20240103 | 3H0YG5X_s9o | How I Got A Payout With a 93% Win Rate On a Prop Firm | captions | done |
+| 20240102 | Z1axjGnzWDc | ICT Live Stream 1.2.24 ｜ 70 Point Alert + Educational ICT Stream | whisper | done |
+| 20240101 | Vj5bYrKfuvA | Time Based Liquidity - Monday Night Class 1.1.24 | captions | done |
+| 20231229 | Yv9JRIVfwYk | Hindsight Traders NEED To Know This Secret Trick for Better Live Trades - ICT Concepts | captions | done |
+| 20231227 | hBzy39WIsNU | My Ultimate High Win Rate Strategy ｜ Inversion Fair Value Gaps (How I Achieve 80+%) | captions | done |
+| 20231223 | os4_DOhgH0Y | Three of the ＊BEST＊ Liquidity Pools ALL ICT Traders Overlook | captions | done |
+| 20231221 | uInUui6Sie8 | My One Setup For Life Will ＊CHANGE＊ Your Trading (Part 2) - ICT Concepts | captions | done |
+| 20231219 | VwB8HDehmxk | How to Find ＊BETTER＊ ICT Trades ｜ You MUST Know This ICT Trick | captions | done |
+| 20231218 | sWh1tDd130M | The Importance of TIME⧸Killzones ｜ How to Utilize Liquidity from Previous Killzones | captions | done |
+| 20231216 | 1-TmVvndTGE | Why You Don't Understand the ICT Market Maker Model (MMXM) ｜ The MISSING Piece | whisper | done |
+| 20231216 | u1Kho5-9iWM | How to Correctly ＊IDENTIFY＊ a Market Maker Model (MMXM) Off ＊LIQUIDITY＊ ｜ IRL - ERL ｜ ERL - IRL | captions | done |
+| 20231214 | 7V3kYVHMMGg | 5 ＊PERFECT＊ Inversion Fair Value Gap Setups WITH Explanation | captions | done |
+| 20231213 | TeLYU3l1CA8 | ＊BEST WAY＊ To Use Change In State Of Delivery for a HIGH Win Rate + Perfect Bias (Orderblock Theory) | whisper | done |
+| 20231210 | g0PoTunZiXU | This is ＊WHY＊ the 2022 ICT Model Fails You Every Time! (How to Make it Better) | captions | done |
+| 20231205 | 1DZKS5ATeCI | ＊SIMPLEST＊ Standard Deviation Video You Will Watch - ICT Concepts | captions | done |
+| 20231204 | uw2CBF9qPHk | All About Me + My ICT Journey (Channel Trailer) | captions | done |
+| 20231203 | L5Gg16hFlfo | Discipline ⧸ Risk Management Discussion + Rules for Trading - Sunday Night Class | captions | done |
+| 20231130 | dbSEvucKIwg | This is Why Your Setups Fail After a Liquidity Sweep... | whisper | done |
+| 20231128 | HPHXw8ClFiE | Advanced Stop Loss Confluence Lecture - Sunday Night Class 11.26 | captions | done |
+| 20231128 | IFS_ljJ7KlQ | 100% Win Rate Strategy to EASILY Get Funded | captions | done |
+| 20231126 | H8pDnUlxTnI | How I Would Learn To Trade ICT in 2023 (If I Could Start Over) | captions | done |
+| 20231125 | hKLKdmxgvt4 | Standard Deviations (Projections) Study Session + Backtesting | captions | done |
+| 20231121 | R0oQsSWMyO4 | How I Used This Mechanical ICT Strategy for a 80% Win Rate ｜ The 10AM Inversion Strategy | captions | done |
+| 20231120 | T7wGXk0JfLY | How to Use 10AM Reversal + Macros - Sunday Night Class | captions | done |
+| 20231117 | a7ZUFs-h-gg | External Versus Internal FVGs - How to Save Yourself from Chop EVERY Time in ICT | whisper | done |
+| 20231114 | FAqkT1q_iFU | The ＊BEST＊ Trailing Stop Strategy in ICT | whisper | done |
+| 20231113 | L1bETmtn_Gg | How to Create a Weekly Outlook from ICT 2022 Mentorship - Sunday Night Class | captions | done |
+| 20231112 | aNcL_ybt1fA | Inversion FVGs ｜ Macro Times Only ｜ Backtest Session | whisper | done |
+| 20231110 | -J7Xayab8z8 | Educational Livestream + Index Futures Trading Signals + Alerts 11.9.23 | captions | done |
+| 20231110 | xr8H-xcz8IY | How to Expect AND Enter on Trend Days Using ICT Concepts! | whisper | done |
+| 20231108 | KrXXaOZow6Y | How to SCALP Back GREEN on a RED Day Using Fair Value Gaps | captions | done |
+| 20231106 | Sr2P-TZyMBk | How the Market ＊HAS TO MOVE＊ (Premium + Discount) - Sunday Night Class 11.5.23 | captions | done |
+| 20231103 | yfvabqpiAOA | How to Know What Inversion FVGs⧸BPRs to Take | captions | done |
+| 20231031 | 9e9-uzIAniQ | Data Highs & Data Lows — My New Trading Concept | captions | done |
+| 20231030 | bYcW3Hy4sKI | 5 Psychology Tips That Made Me a Better ICT Trader - Sunday Night Class Lecture | captions | done |
+| 20231028 | DNPgkleZmAM | How to Manage Risk Properly with the Inversion Setup | whisper | done |
+| 20231026 | Ug7YXlszxUA | ICT Educational Live Stream + Live Signals 10.26.23 | whisper | done |
+| 20231025 | af_4ysZRNns | ICT Inversion Model #2 (HIGHER RR Inversion Model) | whisper | done |
+| 20231023 | pRCe0LCVRTM | How to Start Futures Trading + ICT ＊EXTREMELY＊ Simplified | captions | done |
+| 20231023 | u8BMlV4q7-k | The Secret to Time + HTF Structure in ICT - Sunday Night Class | captions | done |
+| 20231020 | a6ROLAiT-Ug | The ＊TOP 3＊ ICT Concepts You Need to Know From ICT 2022 Mentorship | whisper | done |
+| 20231017 | Be7bhcLmtfs | Why Screen Time MATTERS When Learning ICT... | captions | done |
+| 20231016 | SKHJV2tHoB4 | How to Find Your Own ICT Model for a SUPER HIGH Win Rate | captions | done |
+| 20231013 | QdSdbE30hXo | ICT Educational Commentary + Education NQ⧸ES 10.13.23 | captions | done |
+| 20231012 | nWthsTWn-6I | The EASIEST Way to Anticipate Major Reversals ⧸ SMTs ⧸ Turtle Soups | captions | done |
+| 20231009 | PN5tb1Jxzdw | The Most Accurate Way To ＊KNOW＊ The Draw on Liquidity EVERY TIME | whisper | done |
+| 20231008 | HVKct1RVZns | Introduction to ICT - Study Material + Best Repeating Setup (Sunday Class) | captions | done |
+| 20231008 | aZz5LnWI2-E | ICT Live Trading + Educational Commentary 10.5.23 | captions | done |
+| 20231005 | UMEoTB_ELuQ | ICT Doesn't Want You To Know About These Secret Liquidity Pools... (SHHH!) | whisper | done |
+| 20231003 | oK2Zv-e1mv8 | How to Utilize the Judas Swing with the Inversion Model | captions | done |
+| 20231002 | PT0TkermCVI | You MUST Understand Liquidity to Use FVGs - Here's How (Sunday Night Class | captions | done |
+| 20230928 | 5ZIqR9dROD0 | How I Passed My Evaluation Account in ＊ONE＊ Trade (FACECAM VIDEO) | whisper | done |
+| 20230926 | T2HNen-5epc | How to Maintain 90+% Win Rate ＊EVERYDAY＊ Using ICT | whisper | done |
+| 20230925 | CHte9uZTmXY | Backtesting Cameron's Model + Extra ICT Gems - Sunday Night Class | captions | done |
+| 20230923 | kg9yMxFI-YI | NY AM Session ICT Commentary + Signals | captions | done |
+| 20230922 | Q9HmhoWlKUU | The A+ Ultimate Inversion Confirmation Setup | captions | done |
+| 20230921 | YE4VIIIduQM | The Most Banger Educational ICT Live Stream You Will Ever Watch - 9.21.23 | captions | done |
+| 20230920 | E-tHa-CdNlY | Cameron's (ICT's Son) A+ ICT Entry Model | captions | done |
+| 20230918 | x9a-kh44oo4 | A Multitude of ICT Gems... Sunday Night Class 9.18.23 | captions | done |
+| 20230917 | zY50Qx_Kpqo | Best Inversion Model A+ Checklist from ICT Mentorship | captions | done |
+| 20230912 | Xm79wfL8GGU | This Simple ICT Strategy Requires ＊NO＊ DAILY BIAS | captions | done |
+| 20230912 | yN-aHT_8TWo | Top Mistake People Make With Inversion FVG Setup | captions | done |
+| 20230911 | _5KmeGfPNQY | How to Place targets and Be More Open to Bias - Sunday Night Class ICT | captions | done |
+| 20230910 | 7Vzuq9x-XhM | How to Identify ⧸ Use Balanced Price Range (BPR) VS Inversion FVG | whisper | done |
+| 20230907 | 8LeQ88KTTNQ | Two ＊SIMPLE＊ Ways to Find the Daily Bias in ICT | captions | done |
+| 20230902 | P1eUueJ1DEA | How to Execute Trading Setups Without Getting Emotional 2023 | whisper | done |
+| 20230831 | 1VSIS3EnbcY | How to Conquer Trend Days and Find Easy Entries (Using Inverse FVGs) | whisper | done |
+| 20230830 | _Mrx6bltiKQ | When Do You Disregard an SMT？ (Short a Bullish SMT⧸Long a Bearish SMT) | whisper | done |
+| 20230828 | ks4zF3tzn08 | Inversion FVG - Golden SMT Rule Sunday Night Class 8.28.23 | captions | done |
+| 20230826 | ryV53SdwAgE | How to Anticipate Inversion FVGs Before Inversed (ICT Concepts) | captions | done |
+| 20230823 | 5AR3TVBYZ0g | When to Ignore FVGs + Take Off Your Chart | captions | done |
+| 20230821 | VEu4xi6DzOs | A More Complicated Inverse Model... Sunday Night Class 8.20.23 | captions | done |
+| 20230817 | njvsc3-P5S8 | How to Use Inverse FVG To Catch A ＊GIGANTIC＊ Play (Part 2) | whisper | done |
+| 20230816 | phtLY7okRUE | How To ＊EXECUTE＊ Inverse Fair Value Gap ⧸ BPR (Stop Loss Placement + Take Profit) | captions | done |
+| 20230815 | 9mZLF8M8Vhs | ICT Educational Live Tape Reading - 1 Hour Worth Of Live Gems You Do Not Want to Miss | whisper | done |
+| 20230815 | cVkGqe_EXss | The ＊TOP 3＊ ICT Strategies + Models You Should Learn for Guaranteed Profit | captions | done |
+| 20230814 | 1SPVgWxdOtQ | The Difference Between ＂MSS＂ + Inverse FVG (Win Rate Comparison) - Sunday Night Class | captions | done |
+| 20230812 | 6crL6dnUXb8 | ICT Educational Recap + Next Week Outlook 8.11.23 | whisper | done |
+| 20230810 | O-gOtXRPwKA | How to Use The Inverse FVG Model (Best ICT 90%+ Win Rate Strategy) [Everything You Need to Know] | captions | done |
+| 20230809 | lZZohDV62gA | Everything You Need to Know About Liquidity And How I Trade ICT With a High Win Rate Using Liquidity | captions | done |
+| 20230808 | uKpeQG91cik | ICT Free Live Stream + Alerts 8.7.23 | whisper | done |
+| 20230805 | 3aDFPO92iKI | How To Hit a Guaranteed Profit Trade ＊EVERY＊ ICT Play | captions | done |
+| 20230727 | M4M61R3Ci6E | ICT Live Stream + Trading Signals + Bias + Education 7.25.23 | captions | done |
+| 20230726 | HI4LtkFmb04 | Monday Night Class (I drop a lot of gems) - PO3 + Last Week Entries | whisper | done |
+| 20230722 | dsJQ0sIiQ7A | The Best + Most Simple ICT SMT Strategy | whisper | done |
+| 20230718 | sLgh4IRJI4k | My 100% Win Rate ICT Strategy | captions | done |
+| 20230714 | 4PEnA9T7zPk | The Best ICT Strategy (Time and Knowing When Not To Trade) | captions | done |
+| 20230629 | I1bRHtRMtgw | The Most Simplified ICT Draw on Liquidity You Will Ever Watch... | captions | done |
+| 20230629 | yARtr9Ie9sc | Top 3 Mistakes New ICT Traders Make | whisper | done |
+| 20230623 | 5PfyC8UzaJs | How to Use PD Array Violations to Determine Draw on Liquidity ICT 2023 | whisper | done |
+| 20230620 | 3ImsAdylT3g | Sunday Night Class 6.19 - Draw on Liquidity + Inverse FVGs | captions | done |
+| 20230608 | Z_VNokxQXxk | My Perfect Model - The Inverse FVG Model (How to Use them to have High Win Rate in ICT) | captions | done |
+| 20230605 | 3x7i4TmONj8 | Sunday Night ICT Class - MY Perfect ICT Model (In Depth Explanation) | captions | done |
+| 20230603 | LNXd8b0HVPA | The Best ICT Setup in 2023 - The Confirmation Setup | captions | done |
+| 20230530 | QHZ134fKtHI | Sunday Night ICT Class - Finding Your Model 5.29.23 | whisper | done |
+| 20230525 | LmeGDTUcOJg | How I Rate Different ICT Setups⧸Models from 2022 Mentorship (A+ through C) | captions | done |
+| 20230522 | wCkM9-ojHpc | ICT Sunday Night Class - Inverse FVGs 5.21.23 | captions | done |
+| 20230520 | Uvz4k3Ly5h4 | The Ultimate + ＊EASIEST＊ ICT Strategy to Maximize Your Win Rate | captions | done |
+| 20230518 | cDKWBR0klAY | 5.18 ICT Live Educational Stream + Tape Reading⧸Discord Alerts | captions | done |
+| 20230515 | FwlPbXdjv8c | The Best Risk Management Strategy for ICT (Sunday Night Class) | captions | done |
+| 20230508 | b5paZT8kjFs | The ＊KEY＊ to Higher Time Frame Analysis in ICT | whisper | done |
+| 20230506 | kQvtrACDPU8 | The Highest Probability Way of Using Orderblocks from ICT 2022 Mentorship (Updated 2023) | whisper | done |
+| 20230505 | Zny52Fmq1UQ | The Most Accurate ICT Trader on YouTube - 5.5.23 Livestream | captions | done |
+| 20230503 | _V6QFK1CVHQ | How to Use Low Resistance Liquidity (LRLR) in ICT | captions | done |
+| 20230501 | wC-xxDT1TMg | ICT Live Trading Session 5.1.23 (With Live Alert + Thought Process) (MIC IS LOUDER NOW) | captions | done |
+| 20230501 | xA-s1zb4z8s | How to Identify Trend Days - Sunday Night ICT Class 4.30.23 | whisper | done |
+| 20230429 | 75VZVuBxjMM | How I Do My Top-Down ICT Analysis Daily⧸Weekly | whisper | done |
+| 20230428 | 7HuUX6tK9Xg | How to Determine the Draw on Liquidity Using ＂Conditions＂ and Higher Time Frame PD Arrays ICT | captions | done |
