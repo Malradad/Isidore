@@ -293,3 +293,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230722 | dsJQ0sIiQ7A | The Best + Most Simple ICT SMT Strategy | whisper | done |
 | 20230718 | sLgh4IRJI4k | My 100% Win Rate ICT Strategy | captions | done |
 | 20230714 | 4PEnA9T7zPk | The Best ICT Strategy (Time and Knowing When Not To Trade) | captions | done |
+| 20230629 | I1bRHtRMtgw | The Most Simplified ICT Draw on Liquidity You Will Ever Watch... | captions | done |
