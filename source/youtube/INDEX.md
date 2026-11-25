@@ -330,3 +330,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230331 | 1ffEIKKLgAg | My Top 3 Rules When Trading ICT | whisper | done |
 | 20230329 | gh1Q2oJZQhc | Ultimate Guide to Volume Imbalances from ICT Mentorship | captions | done |
 | 20230318 | t5ffTARQjKc | The Mistake New ICT Traders Make With Market Structure Shifts (Advanced MSS Lecture) | whisper | done |
+| 20230313 | Q00U170M4pM | 3.3 Market Analysis + ICT Education (MMBM) | whisper | done |
