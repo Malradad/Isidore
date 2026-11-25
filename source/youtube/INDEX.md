@@ -295,3 +295,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230714 | 4PEnA9T7zPk | The Best ICT Strategy (Time and Knowing When Not To Trade) | captions | done |
 | 20230629 | I1bRHtRMtgw | The Most Simplified ICT Draw on Liquidity You Will Ever Watch... | captions | done |
 | 20230629 | yARtr9Ie9sc | Top 3 Mistakes New ICT Traders Make | whisper | done |
+| 20230623 | 5PfyC8UzaJs | How to Use PD Array Violations to Determine Draw on Liquidity ICT 2023 | whisper | done |
