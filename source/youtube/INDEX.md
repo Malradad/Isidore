@@ -337,3 +337,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230228 | AyJ4IvKEclk | How to Use Consequent Encroachment and Mean Threshold from ICT Mentorship | whisper | done |
 | 20230222 | cCqScSO-IX8 | How to Spot The Difference Between a MSS (Market Structure Shift) and Liquidity Purge ICT Mentorship | captions | done |
 | 20230221 | FJ_mp1aeulo | Backtesting Session Using Inversion Fair Value Gaps  + Live Thought Process⧸Executions | captions | done |
+| 20230220 | ivDBc7o5RdE | Top 3 Mistakes New ICT Students Make (+How to Fix Them) | captions | done |
