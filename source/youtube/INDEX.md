@@ -258,3 +258,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231003 | oK2Zv-e1mv8 | How to Utilize the Judas Swing with the Inversion Model | captions | done |
 | 20231002 | PT0TkermCVI | You MUST Understand Liquidity to Use FVGs - Here's How (Sunday Night Class | captions | done |
 | 20230928 | 5ZIqR9dROD0 | How I Passed My Evaluation Account in ＊ONE＊ Trade (FACECAM VIDEO) | whisper | done |
+| 20230926 | T2HNen-5epc | How to Maintain 90+% Win Rate ＊EVERYDAY＊ Using ICT | whisper | done |
