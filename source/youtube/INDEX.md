@@ -242,3 +242,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231031 | 9e9-uzIAniQ | Data Highs & Data Lows — My New Trading Concept | captions | done |
 | 20231030 | bYcW3Hy4sKI | 5 Psychology Tips That Made Me a Better ICT Trader - Sunday Night Class Lecture | captions | done |
 | 20231028 | DNPgkleZmAM | How to Manage Risk Properly with the Inversion Setup | whisper | done |
+| 20231026 | Ug7YXlszxUA | ICT Educational Live Stream + Live Signals 10.26.23 | whisper | done |
