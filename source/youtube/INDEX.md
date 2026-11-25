@@ -184,3 +184,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240228 | Tbqch_ezER4 | How I Passed an Evaluation Account in 1 Trade (100% Win Rate) | captions | done |
 | 20240225 | awBzQTJ0jD8 | How to Manage Risk EFFICIENTLY Using iFVGs | whisper | done |
 | 20240224 | VM_G3gKzjp4 | The Ultimate Hierarchy of iFVGs (Best Versus Worst iFVGS) | captions | done |
+| 20240216 | yQzkrfERAWY | Are You TRULY a Trader？ | captions | done |
