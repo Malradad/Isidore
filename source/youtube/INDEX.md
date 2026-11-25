@@ -313,3 +313,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230501 | wC-xxDT1TMg | ICT Live Trading Session 5.1.23 (With Live Alert + Thought Process) (MIC IS LOUDER NOW) | captions | done |
 | 20230501 | xA-s1zb4z8s | How to Identify Trend Days - Sunday Night ICT Class 4.30.23 | whisper | done |
 | 20230429 | 75VZVuBxjMM | How I Do My Top-Down ICT Analysis Daily⧸Weekly | whisper | done |
+| 20230428 | 7HuUX6tK9Xg | How to Determine the Draw on Liquidity Using ＂Conditions＂ and Higher Time Frame PD Arrays ICT | captions | done |
