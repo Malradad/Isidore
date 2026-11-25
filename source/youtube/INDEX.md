@@ -281,3 +281,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230817 | njvsc3-P5S8 | How to Use Inverse FVG To Catch A ＊GIGANTIC＊ Play (Part 2) | whisper | done |
 | 20230816 | phtLY7okRUE | How To ＊EXECUTE＊ Inverse Fair Value Gap ⧸ BPR (Stop Loss Placement + Take Profit) | captions | done |
 | 20230815 | 9mZLF8M8Vhs | ICT Educational Live Tape Reading - 1 Hour Worth Of Live Gems You Do Not Want to Miss | whisper | done |
+| 20230815 | cVkGqe_EXss | The ＊TOP 3＊ ICT Strategies + Models You Should Learn for Guaranteed Profit | captions | done |
