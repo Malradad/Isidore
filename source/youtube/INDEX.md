@@ -213,3 +213,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231227 | hBzy39WIsNU | My Ultimate High Win Rate Strategy ｜ Inversion Fair Value Gaps (How I Achieve 80+%) | captions | done |
 | 20231223 | os4_DOhgH0Y | Three of the ＊BEST＊ Liquidity Pools ALL ICT Traders Overlook | captions | done |
 | 20231221 | uInUui6Sie8 | My One Setup For Life Will ＊CHANGE＊ Your Trading (Part 2) - ICT Concepts | captions | done |
+| 20231219 | VwB8HDehmxk | How to Find ＊BETTER＊ ICT Trades ｜ You MUST Know This ICT Trick | captions | done |
