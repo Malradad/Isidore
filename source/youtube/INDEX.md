@@ -260,3 +260,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230928 | 5ZIqR9dROD0 | How I Passed My Evaluation Account in ＊ONE＊ Trade (FACECAM VIDEO) | whisper | done |
 | 20230926 | T2HNen-5epc | How to Maintain 90+% Win Rate ＊EVERYDAY＊ Using ICT | whisper | done |
 | 20230925 | CHte9uZTmXY | Backtesting Cameron's Model + Extra ICT Gems - Sunday Night Class | captions | done |
+| 20230923 | kg9yMxFI-YI | NY AM Session ICT Commentary + Signals | captions | done |
