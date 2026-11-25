@@ -390,6 +390,7 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Decided ~:** his edge is selection in context (day, bias, Judas/killzone timing), not a codable setup grade. Next:
   calibrate the blind reader on a training set of his clean winners, then shadow him live.
 
+
 ## 2026-11-23 · P9 grader vs his eye (started, blocked)
 - Built the audit: 119 audited NQ setups since Nov 2023 (34 takes, 85 timed skips) and an audit mode in the grader
   (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota
