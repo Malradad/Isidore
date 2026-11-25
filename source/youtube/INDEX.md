@@ -289,3 +289,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230808 | uKpeQG91cik | ICT Free Live Stream + Alerts 8.7.23 | whisper | done |
 | 20230805 | 3aDFPO92iKI | How To Hit a Guaranteed Profit Trade ＊EVERY＊ ICT Play | captions | done |
 | 20230727 | M4M61R3Ci6E | ICT Live Stream + Trading Signals + Bias + Education 7.25.23 | captions | done |
+| 20230726 | HI4LtkFmb04 | Monday Night Class (I drop a lot of gems) - PO3 + Last Week Entries | whisper | done |
