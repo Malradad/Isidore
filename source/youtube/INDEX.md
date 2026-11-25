@@ -288,3 +288,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230809 | lZZohDV62gA | Everything You Need to Know About Liquidity And How I Trade ICT With a High Win Rate Using Liquidity | captions | done |
 | 20230808 | uKpeQG91cik | ICT Free Live Stream + Alerts 8.7.23 | whisper | done |
 | 20230805 | 3aDFPO92iKI | How To Hit a Guaranteed Profit Trade ＊EVERY＊ ICT Play | captions | done |
+| 20230727 | M4M61R3Ci6E | ICT Live Stream + Trading Signals + Bias + Education 7.25.23 | captions | done |
