@@ -185,3 +185,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240225 | awBzQTJ0jD8 | How to Manage Risk EFFICIENTLY Using iFVGs | whisper | done |
 | 20240224 | VM_G3gKzjp4 | The Ultimate Hierarchy of iFVGs (Best Versus Worst iFVGS) | captions | done |
 | 20240216 | yQzkrfERAWY | Are You TRULY a Trader？ | captions | done |
+| 20240212 | oL5B8pdI3yI | Propulsion Block Explained in 5 Minutes (Simplified ICT Concepts) | captions | done |
