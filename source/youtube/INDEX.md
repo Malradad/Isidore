@@ -271,3 +271,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230911 | _5KmeGfPNQY | How to Place targets and Be More Open to Bias - Sunday Night Class ICT | captions | done |
 | 20230910 | 7Vzuq9x-XhM | How to Identify ⧸ Use Balanced Price Range (BPR) VS Inversion FVG | whisper | done |
 | 20230907 | 8LeQ88KTTNQ | Two ＊SIMPLE＊ Ways to Find the Daily Bias in ICT | captions | done |
+| 20230902 | P1eUueJ1DEA | How to Execute Trading Setups Without Getting Emotional 2023 | whisper | done |
