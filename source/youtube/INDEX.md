@@ -278,3 +278,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230826 | ryV53SdwAgE | How to Anticipate Inversion FVGs Before Inversed (ICT Concepts) | captions | done |
 | 20230823 | 5AR3TVBYZ0g | When to Ignore FVGs + Take Off Your Chart | captions | done |
 | 20230821 | VEu4xi6DzOs | A More Complicated Inverse Model... Sunday Night Class 8.20.23 | captions | done |
+| 20230817 | njvsc3-P5S8 | How to Use Inverse FVG To Catch A ＊GIGANTIC＊ Play (Part 2) | whisper | done |
