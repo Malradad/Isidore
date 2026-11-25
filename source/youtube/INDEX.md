@@ -263,3 +263,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230923 | kg9yMxFI-YI | NY AM Session ICT Commentary + Signals | captions | done |
 | 20230922 | Q9HmhoWlKUU | The A+ Ultimate Inversion Confirmation Setup | captions | done |
 | 20230921 | YE4VIIIduQM | The Most Banger Educational ICT Live Stream You Will Ever Watch - 9.21.23 | captions | done |
+| 20230920 | E-tHa-CdNlY | Cameron's (ICT's Son) A+ ICT Entry Model | captions | done |
