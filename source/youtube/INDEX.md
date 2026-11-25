@@ -233,3 +233,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231117 | a7ZUFs-h-gg | External Versus Internal FVGs - How to Save Yourself from Chop EVERY Time in ICT | whisper | done |
 | 20231114 | FAqkT1q_iFU | The ＊BEST＊ Trailing Stop Strategy in ICT | whisper | done |
 | 20231113 | L1bETmtn_Gg | How to Create a Weekly Outlook from ICT 2022 Mentorship - Sunday Night Class | captions | done |
+| 20231112 | aNcL_ybt1fA | Inversion FVGs ｜ Macro Times Only ｜ Backtest Session | whisper | done |
