@@ -200,3 +200,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240121 | KaG5Ieml_cE | 99% of ICT Traders Can't Do This： HTF Analysis! | captions | done |
 | 20240119 | gQ-sHPg9g7Y | This is the Best Trading Strategy⧸Model In The Entire World... | captions | done |
 | 20240117 | QJRdNW6xf98 | Comparing ICT ⧸ iFVG Model for Futures, Forex, and Crypto - ICT Concepts | captions | done |
+| 20240115 | zamd8QaW6ws | The ＊EASIEST＊ Top Down Analysis for New York AM Session - ICT Concepts | captions | done |
