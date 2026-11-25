@@ -190,3 +190,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240208 | r131tzwJX94 | This Makes iFVGS 10x MORE Powerful | captions | done |
 | 20240204 | W-aLaQ4_bZk | The Most Powerful Psychology Lesson in Trading (Take Notes) | captions | done |
 | 20240203 | bS6jae1wfn0 | How to ACTUALLY ＊ENTER＊ Trades AFTER Finding the Bias | captions | done |
+| 20240202 | mXm3nGg-aos | The Best Setup in the World... (80+% Win Rate) | captions | done |
