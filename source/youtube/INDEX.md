@@ -302,3 +302,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230603 | LNXd8b0HVPA | The Best ICT Setup in 2023 - The Confirmation Setup | captions | done |
 | 20230530 | QHZ134fKtHI | Sunday Night ICT Class - Finding Your Model 5.29.23 | whisper | done |
 | 20230525 | LmeGDTUcOJg | How I Rate Different ICT Setups⧸Models from 2022 Mentorship (A+ through C) | captions | done |
+| 20230522 | wCkM9-ojHpc | ICT Sunday Night Class - Inverse FVGs 5.21.23 | captions | done |
