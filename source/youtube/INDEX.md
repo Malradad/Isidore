@@ -321,3 +321,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230415 | 0HqUFJk8Eto | 4.14.23 Daily ICT Educational Analysis | captions | done |
 | 20230414 | JUch0Sfyx4s | How To Know When Price Will Reverse in ICT Using Momentum and Liquidity | captions | done |
 | 20230412 | SUbzS-iKXl4 | ICT CPI Live Trading Session 4.12.23 | captions | done |
+| 20230411 | hFExtBKGo4E | ICT Stop Loss Placements for Every PD Array | captions | done |
