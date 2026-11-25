@@ -1,0 +1,55 @@
+[00:00:00] and a lot of the other things that I'm not a financial advisor is not financial advice if you want to watch my live streams every single day, I do basically I'm teaching now but just a lifetime and I'll show you how to do it all and a lifetime so click the while blank in the description I will probably be late bracing the prices and a So make sure to get in that lastly if you want to start an apex account apex is running a 90% off Sarah
+[00:00:25] Now I think there's 11 days left or 12 days left Use the code and description the RB whatever it is. I'm gonna click the apex link Really good for practicing futures and practicing what I'm teaching specifically
+[00:00:43] So yeah, all right So for this video, I'm going to be showing you guys how to actually manage risk properly for an inversion set up and I'm going to actually use a Loss example of a loss. I took earlier this morning. I'm gonna show you guys what to do. So I
+[00:01:01] Kind of the proper way to do this is do this. Okay, so Let's say we're on account. Okay, and let's say I only want to risk $200 on this account. Okay, let's say this is a live account And I'm an M&Q
+[00:01:16] Okay Now let's say I only want to risk 200 Okay, well, what does that mean that means I can take up to however many contracts? Will not will however many contracts?
+[00:01:30] That will not go below 200 dollars if I stop out so for example if we have a price level here and this is 14,000 and let's say
+[00:01:40] We want to long here, okay, let's say you want to long in this level and The stop loss would be
+[00:01:50] Let's say 13,000 Let's say 980 okay, let's say there's like an order block here Let's say there's like a swing low here or whatever it may be okay now
+[00:02:02] Let's say that swing lows there and that's where we want to put your stop Okay, to me that would be a 20-point stop loss So I'd be willing to risk however many points I could get to not allow me to go to 200.
+[00:02:19] So if we took one micro here, okay, you can see it's a 20 point stop times 20 points times two dollars per micro.
+[00:02:28] So it's $40 per micro. You're going to lose here. So if I took one micro 14 K and lost and it hit the stop loss here, I'd be minus $40. And then I just do however many times I could lose $40 until it equals 200, which is obviously
+[00:02:42] 5, because 200 divided by 40 is 5. So we could take up the five contracts here, and if I took five contracts here and it was losing trade, I lose 200.
+[00:02:52] Okay. Now taking that logic, what I do for an inversion like this, okay, is this, right? If I see this inversion, this two million version, what I do is I typically market buy.
+[00:03:06] So I'm gonna go over both ways. I typically the short here, I short the close. So I'm shorting here, all right. And you can use the short position,
+[00:03:15] I'll show you how to do this in a second. And I like to guess where, okay, if I were to get stopped, the close could be about here, which would be best case scenario,
+[00:03:23] here worst case scenario, or here worst case scenario. So I meant, sorry, I meant to say middle case scenario. So worst case scenario, close is probably gonna be around here.
+[00:03:32] Best case, close brown here, middle case around here. So I'm going to count for that middle case right here and I'll risk however many contracts I want for like this middle area part.
+[00:03:44] Okay, so if I entered here and I wanted, let's say this low down here, okay, this low here, I'd basically just guesstimating where the, I think the close is going to be and you don't
+[00:03:57] know exactly where the close is going to be, but because I'm guesstimating, I kind of go in the middle where I think it's going to be. And if I hundred here, okay, you can see that's 14309, this is 14342, okay.
+[00:04:15] So that's about a 32 point stop loss. So if I only wanted to risk you a hundred, a 32 point stop loss times $2 per contract,
+[00:04:26] It's $64 per contract. Okay, means we could take about probably three 'cause 60, 120, 180, and then 192 if you had 12 for that.
+[00:04:38] So we could probably take about three contracts here. All right, and before this candle actually forms, okay, before this candle forms,
+[00:04:47] do you know where we're gonna close below? No, you don't. So you're gonna do the same thing. You're gonna say best case scenario we close here, middle case we close here,
+[00:04:56] worst case we close here, okay. You don't know we're gonna close. What I'll do sometimes is I'll let you put like a sell limit.
+[00:05:05] Okay, I'll let you just put a sell limit here and I'll do like three contracts, okay. And then I'll do like another sell limit
+[00:05:14] like right here with five, okay. Now, these are not sell limits I'm waiting for price for you to. These are sell limits where if we go here,
+[00:05:24] if we close here and it's close like this, that's going to make their wrist reward something like this. OK, so immediately if that that's better,
+[00:05:33] so I'll drag this red line and quickly, it'll just fill me. I'll just drag it down here. It'll just fill me.
+[00:05:39] It'll mark it by me in or mark it cover me or sell me in. OK, so I'm filled there. Now, if we get a close like here.
+[00:05:49] OK, I'll have this three ready. And you can see I have both ready. and I'll just be like, okay, the close is kind of low.
+[00:05:57] I'm only gonna go three contracts in here because the risk of war is worse. So I'm gonna have to size down to where, okay, if the stop loss is 32 points,
+[00:06:05] I'm only gonna be able to take three contracts versus, if the stop loss is right here, which would only be about 20 points, maybe I could take five.
+[00:06:13] So you kind of guess on where the close gonna be, and then wherever it is, you kind of have two limits ready. And if we get a close down here, now that's horrible.
+[00:06:22] that's a 42 point stop loss. Many, you'd only probably be able to take two contracts here. So I just delete one and then I just drag it down
+[00:06:30] and only get in two there instead of three. So do you see how like, you don't know we're gonna run the close, but you kind of have a couple of the case scenarios
+[00:06:37] and you have the contract amount ready for whichever one you think. And something you can do is if you right click this,
+[00:06:46] you can actually, you could actually do risk and you could do a percent of your counter number, or you could do dollar amount.
+[00:06:55] So what I'll do is I'll do risk 200 only. I'll click okay. And if we get here, you can see if we go to add, look at,
+[00:07:06] if I click the plus button, which you cannot see right now, let me see if you can take it off for you pay them up. So if I want to sort of hear what you can do is this,
+[00:07:15] right, right click do however much you want to risk, settings and then go on to risk 200 only. So now we can right click this click create limit order
+[00:07:26] and it already has six contracts here which is risking 177. Now if I move us down and then the right clicking create limit it changes at the three. See how that works. So you can already
+[00:07:39] have it automated to wherever the closes and then as soon as you get that close move it to wherever the closes and then do the create limit order and that's how you do it. But what I
+[00:07:49] show you guys a couple minutes ago right here you have the kind of yeah it's okay what's going to be the worst and what's going to be the best case scenario for for a close like that okay
+[00:08:00] so that's kind of how I do it I'll show you one more example but one more example so I'll do an example of let's see all right let's do an example of this right here okay so we have it one minute
+[00:08:15] inverse potential inverse right here okay and let's say I went along if we're gonna break this okay close above it I don't know where we're gonna close
+[00:08:24] above but I'm gonna put a long position there and I'll kind of wherever we close I'll put it but for the stop loss if we do close above it you want to think okay
+[00:08:37] what's gonna be the worst case closed worst case closed probably gonna be down here best place around here you're kind of just estimating and then best case there. So here's the middle case. So out account for the stop loss to be here. So depending on the
+[00:08:52] clothes. Okay, you don't need to know the clothes now because depending on the clothes you you're already going to have this set up where you can right click click settings and you're going to have
+[00:09:00] it automatically was 200 no matter where the clothes is. So now we can type in that 200 you click okay. Wherever the clothes is you move it to here and then you just click create limit order
+[00:09:11] whatever which you cannot do right now because we're in replay mode and it will probably do two contracts here or if you're done here I'll probably put put you in like four contracts so that's how I calculate the risk on inversions if you
+[00:09:24] want to be safe put it on the order box put it on the swing lows that's a much bigger stop loss though you can see like this is gonna be a much bigger stop loss it's up to you how to manage risk on this I prefer prefer the close above
+[00:09:36] below for the loss. But like I said, definitely up to you guys, doesn't really matter that much. And yeah, let me know if you have any questions about this. This can be a little complicated
+[00:09:47] risk-managing in versions because a lot of people say like, how do you know where the stop bus is going to be if you don't know we're going to close, right? That's why I draw these three lines you go in the middle, I just kind of guess. And if you don't like guessing, then just do 75% size
+[00:10:02] instead of full size, right? Because at least if you do 75% and we have a worst case scenario close, it's going to be the same as if you had a hard stop. Alright, so that's kind of how you
+[00:10:12] calculate risk with this inversion setup. Let me know if you guys have any questions about that and other than that, peace.
