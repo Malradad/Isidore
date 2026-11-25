@@ -296,3 +296,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230629 | I1bRHtRMtgw | The Most Simplified ICT Draw on Liquidity You Will Ever Watch... | captions | done |
 | 20230629 | yARtr9Ie9sc | Top 3 Mistakes New ICT Traders Make | whisper | done |
 | 20230623 | 5PfyC8UzaJs | How to Use PD Array Violations to Determine Draw on Liquidity ICT 2023 | whisper | done |
+| 20230620 | 3ImsAdylT3g | Sunday Night Class 6.19 - Draw on Liquidity + Inverse FVGs | captions | done |
