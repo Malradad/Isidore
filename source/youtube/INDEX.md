@@ -286,3 +286,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230812 | 6crL6dnUXb8 | ICT Educational Recap + Next Week Outlook 8.11.23 | whisper | done |
 | 20230810 | O-gOtXRPwKA | How to Use The Inverse FVG Model (Best ICT 90%+ Win Rate Strategy) [Everything You Need to Know] | captions | done |
 | 20230809 | lZZohDV62gA | Everything You Need to Know About Liquidity And How I Trade ICT With a High Win Rate Using Liquidity | captions | done |
+| 20230808 | uKpeQG91cik | ICT Free Live Stream + Alerts 8.7.23 | whisper | done |
