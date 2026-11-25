@@ -1,0 +1,68 @@
+[00:00:13] Let's get started with this video In this video I'll be going on the difference between the difference of consequence encroachment and mean threshold Okay, so starting right off. Okay, me threshold. Okay. If I go to yes, he's
+[00:00:28] Me threshold is for order blocks only. Okay, so if you don't own an order block is what an order block is It's basically if if the order flow is bullish if you're an uptrend
+[00:00:37] Abolish order block would be a down candle closed before and up move. Okay, so like Um, see like right here. Okay, this would be an order block. See how we create this down candle before the stop move. Okay, so
+[00:00:51] I like to draw it from just to open and close. Ideally, it's the whole candle Um
+[00:00:57] But this is basically when an order black is okay Um, it's just again. This is a bullshored black down candle before I move This is a bear short block. Okay. See how this is a green candle before a down move
+[00:01:09] Okay, we clearly displaced lower There's a huge change in order flow. As soon as you see this candle, you just kind of--
+[00:01:17] again, the magnitude of this dump is very bare, so this is the available order block, right? OK, so me threshold-- a lot of people get this mixed up.
+[00:01:26] A lot of people say, oh, me threshold of this wake is whatever, OK? Me threshold can only be for order block. So what that is, is if you take a fib,
+[00:01:35] and you draw the fib from the retracement from the open of the candle to the close, mean threshold is the 50% level.
+[00:01:43] Okay, so this is the 50% level. This is what mean threshold is. And how do you use this?
+[00:01:50] Well, for me personally, a lot of people they put their stops above this swing high, which for me personally, that's a little too much.
+[00:01:59] What I look for is I look for a candle close to not close above the five minute. I look for the five minute,
+[00:02:06] not the close above the mean threshold, which is this point, you represent area, okay? And it's harder than the one minute,
+[00:02:14] you really can't rely on the five minute and up is the best confirmation. If you get a five minute close above this mean threshold area, that's worse.
+[00:02:22] I've seen, I've seen closes above mean thresholds where we still dump, but most of the time, what I notice is if we don't get a close above,
+[00:02:31] that is still technically bearish in my opinion, okay? So like right here, my stop, Also, if we close above this meat threshold of this orb back and as you can see, we never did okay, so like right here
+[00:02:43] Can this order back you drop from the open? To the close okay meat threshold is 3.99.50 and if I see this five minute candle close to me a threshold
+[00:02:54] What does that mean that likely means we're gonna go tag some sort of liquidity okay? You can see we tagged this swing low and then we reversed so paying attention the meat threshold is very important because If you see us hold it and there's just no candle close above and the 500 are higher that likely means we will reverse
+[00:03:10] Okay, if there is a candle close below it that likely means we will Keep dumping or pumping or whatever whatever trend is in isn't and that's not a hundred percent of the time I have seen times when we do close below
+[00:03:22] Me threshold and then we end up pumping before hitting some sort of liquidity But I will say 90 80 90 90 percent of the time that will be closed below me threshold where you'll often go down and hit some low,
+[00:03:35] go up and hit some high, whatever. Okay, if we got a five minute candle close above 4,000 4.25 in this leg, we probably would hit this high, right?
+[00:03:43] So, again, me threshold is just a 50% of these ore blocks. Again, you don't draw them for the high low candle, you draw them for the open to close, right?
+[00:03:53] Okay, so contact queen encroachment, and you probably want to hard spell that. (keyboard clicking) So this is high spell, confident coachman, okay?
+[00:04:02] And I just say CE for short. Conto, confident coachman is the 50% level, but this will only be for inefficiencies, okay?
+[00:04:11] So what an inefficiency is, is very, very like gap. A normal gap, so new day opening gap,
+[00:04:21] or new week opening gap, okay, volume and balance, or some kind of wick, right?
+[00:04:29] So these are all inefficiencies, okay? You can only get consequent encroachment with these, okay? You cannot, there's no mean threshold to these.
+[00:04:37] It's just called consequent encroachment, okay? Same with the other way around. You can't get consequent encroachment or order block 'cause that's not an inefficiency, right?
+[00:04:45] So an inefficiency is one of those four things. So how do you draw a consequent encroachment? So it's the same thing with a word block, okay?
+[00:04:53] So if I see this is a very like gap, right? I see this is a very like gap, okay? I have been back testing where you can draw it from the fair valley gap itself and not the whole candle
+[00:05:07] Okay, and this would be CE but ideally you want to draw it from The open to the close of the fair valley gap. Okay
+[00:05:17] So the candle that the fair valley I've traded on I draw from the open the close and what does this tell me? Well, this tells me This first of all, this is an entry. Okay, so let's say you don't want to enter
+[00:05:29] as soon as you get into this for a really gap because I do agree like if you entered here okay your risk will be much more um see if you entered right when you entered the for a really gap see how your risk will be much more versus if
+[00:05:41] you waited for CE a little bit your risk reward goes up almost one okay so but that also means you might not get it as much so CE can be of an efficiency which
+[00:05:52] is this is a counts as an efficiency okay for your like it is an and efficiency in price. And what you ideally wanna see is you do not wanna see
+[00:06:00] candle close above it if you're bearish, okay? Any candle close above, I totally get yes, your stop is still gonna be up here wherever it is.
+[00:06:08] But ideally you do not wanna see candle close above. And what I do is if I usually see that, I usually just get out because I don't wanna risk it. So again, you wanna see when you draw the CE, okay?
+[00:06:21] Inside of Fermi, like yeah, if you wanna see price not close above this. and this works best for the five minute. Okay, if you do it in the one minute, okay?
+[00:06:28] If I just go to the one minute, draw this here to really yup, okay? So see this for really good.
+[00:06:35] If you're from the open to the close, you can see we do go above it and we do close above it with one candle. Again, the five minutes is probably
+[00:06:43] the best confirmation time frame, so wait for the five minute instead. But again, if you are in the one minute, you can't just use this in an entry,
+[00:06:51] have like a four point stop or whatever. but yeah this is how you see you and if I really gap okay so if I go to like the new day opening gap okay again CE would be um the open or the the close of the
+[00:07:05] previous day to the open of the new day so let me see if I can find it so the 24th I think it was yeah I was right here okay so this is Sunday night
+[00:07:18] opening. Okay you can see price closes at this three nights on four level so it'd be from there. Okay to the opening which is up here. Okay so this would be the gap
+[00:07:31] let me just draw a rectangle. You know if you didn't catch that how to draw these gaps is you draw them from the the close of the 1655 candle. Okay on the five
+[00:07:41] minute which I should probably say so this is the close in the five minute okay to the open of the five minutes so this whole thing is the gap okay okay so now
+[00:07:52] when I spread this over what do you notice okay the five minute never closes under this okay you can see the five minute never closes under this gap that
+[00:08:03] is bullish okay oftentimes if you do see close under that is bearish okay and And what I look for is I don't short automatically, but if I see clothes on or look for more downside, and then I look for this to be used as resistance, okay?
+[00:08:15] And then what I do is from here, I go to the one minute and look for some sort of short entry on the way down, and then I usually target whatever. So in this case, I probably target this freebie like gap or I target this low.
+[00:08:25] Um, I'd probably just target this freebie like a few runners and see what happened, okay? But I'm not automatically shorting if we do not close below this, but you can clearly
+[00:08:33] see we never close above this. bullish okay let me just show this over look look what happens today okay same thing today we never close under this okay that was so that was so so
+[00:08:50] bullish okay a lot of people this was it again this was at 135 140 overnight this was bullish okay and then when we came down again today we never even got into
+[00:09:02] this but I was still bullish as long as you hold this gap, okay? So this kind of helps you to turn on bias as long as you're holding the CE above it. You really want to see if I'm going to close this above. That means you are probably bullish. And again, any displacement
+[00:09:17] with a close below, that's probably bearish. You just want to wait for it to see if you get a short setup, which means if we dump below it, you want to see this user's resistance now and then you start looking for a short setup, okay? And that is CE of a gap, okay? There
+[00:09:31] that can be a CE of a vine and balance, I'm not going to show that because five of the answers are small anyways, like with a wick, um, like right now, okay, this is a little more advanced, don't really worry about this black right now, when we broke through this wick, okay what I did is then I mark CE of it. So for me to be bullish and hit this buy side,
+[00:09:51] I want to see us hold this 0.5, which is 104.278. I would not want to see a daily close under this,
+[00:09:59] or else I would kind of reassess. And maybe I draw this wick right here. So see how there's not really an order block right here?
+[00:10:07] I get, yes, this is a breaker block. And this is also an order block right here. But let's say there's no order block.
+[00:10:16] Then I usually rely on the wicks. I just want to see this wick right here. If it's a decent sized wick, you really just want to see this hold.
+[00:10:23] This is a decent sized wick. We end up breaking above it. So now what I'm looking for is a hold below the CE of the swick, which is the 0.50% of the swick.
+[00:10:32] Okay, so that's what CE is. Again, this is, you can't use me threshold in inefficiencies. It's always CE for inefficiencies. Me and threshold is for Orgbox, okay?
+[00:10:42] But yeah, other than that, let me know if you guys have any questions. my Discord links in the bio. The new month starts at two days for my patreon. After two days, I'm closing it down until my school lands, which will be a few months. But I do live trade every
+[00:10:58] day point this stuff out in my time. So again, alerts will not save you. I haven't been alerting that much, but I've been kind of pointing where price is going all day, this like channel called
+[00:11:08] index commentary. I'm gonna try to do some more market reviews for for y'all some Discord. So So if you join my discord, I do like free classes and I just kind of going on a marker
+[00:11:20] review some nights. It's not every night, but pop in, turn on my, there's a reaction role for the Dodgy's alert or whatever, okay?
+[00:11:27] And if you see me say, oh, I'm doing a class and reviewing today's price, okay? I will only do that if ICT does not, if ICT does it, then I would watch his review, okay?
+[00:11:38] But I've learned a lot from him so far. So I don't really watch too many of his videos anymore because I don't watch his live feeds as much because he's just going to mess up my bias because I know enough to kind of
+[00:11:51] determine my own bias, but yeah, so again, hope you guys enjoyed this video. Let me know if you learned anything other than that and we'll see you guys later. Peace out.
