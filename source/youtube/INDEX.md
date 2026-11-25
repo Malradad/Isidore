@@ -248,3 +248,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231023 | u8BMlV4q7-k | The Secret to Time + HTF Structure in ICT - Sunday Night Class | captions | done |
 | 20231020 | a6ROLAiT-Ug | The ＊TOP 3＊ ICT Concepts You Need to Know From ICT 2022 Mentorship | whisper | done |
 | 20231017 | Be7bhcLmtfs | Why Screen Time MATTERS When Learning ICT... | captions | done |
+| 20231016 | SKHJV2tHoB4 | How to Find Your Own ICT Model for a SUPER HIGH Win Rate | captions | done |
