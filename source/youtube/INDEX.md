@@ -223,3 +223,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231205 | 1DZKS5ATeCI | ＊SIMPLEST＊ Standard Deviation Video You Will Watch - ICT Concepts | captions | done |
 | 20231204 | uw2CBF9qPHk | All About Me + My ICT Journey (Channel Trailer) | captions | done |
 | 20231203 | L5Gg16hFlfo | Discipline ⧸ Risk Management Discussion + Rules for Trading - Sunday Night Class | captions | done |
+| 20231130 | dbSEvucKIwg | This is Why Your Setups Fail After a Liquidity Sweep... | whisper | done |
