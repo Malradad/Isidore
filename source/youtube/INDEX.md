@@ -204,3 +204,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240115 | zamd8QaW6ws | The ＊EASIEST＊ Top Down Analysis for New York AM Session - ICT Concepts | captions | done |
 | 20240111 | Np5HXA4YTXE | The ＊BEST＊ ICT Liquidity Pool You Can Use 95% Of The Time | captions | done |
 | 20240110 | SIWQ5PSNcEM | 5 A+ Textbook Inversion Fair Value Gaps + Why They Are Textbook | whisper | done |
+| 20240107 | h-xIe-Rr-eA | This ＊SECRET＊ Tip Will Save You MANY Losses in ICT | whisper | done |
