@@ -304,3 +304,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230525 | LmeGDTUcOJg | How I Rate Different ICT Setups⧸Models from 2022 Mentorship (A+ through C) | captions | done |
 | 20230522 | wCkM9-ojHpc | ICT Sunday Night Class - Inverse FVGs 5.21.23 | captions | done |
 | 20230520 | Uvz4k3Ly5h4 | The Ultimate + ＊EASIEST＊ ICT Strategy to Maximize Your Win Rate | captions | done |
+| 20230518 | cDKWBR0klAY | 5.18 ICT Live Educational Stream + Tape Reading⧸Discord Alerts | captions | done |
