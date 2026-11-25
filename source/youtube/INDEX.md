@@ -291,3 +291,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230727 | M4M61R3Ci6E | ICT Live Stream + Trading Signals + Bias + Education 7.25.23 | captions | done |
 | 20230726 | HI4LtkFmb04 | Monday Night Class (I drop a lot of gems) - PO3 + Last Week Entries | whisper | done |
 | 20230722 | dsJQ0sIiQ7A | The Best + Most Simple ICT SMT Strategy | whisper | done |
+| 20230718 | sLgh4IRJI4k | My 100% Win Rate ICT Strategy | captions | done |
