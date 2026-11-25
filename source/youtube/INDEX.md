@@ -197,3 +197,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240126 | WEiJvYvuGU0 | PM Session 30 Second iFVG + LRLR Live Commentary Execution | whisper | done |
 | 20240125 | xqAYHIEjsio | One Setup For Life! (Part 3) | captions | done |
 | 20240123 | 81MztES3exc | How to Trade When We Are at All Time Highs - ICT Concepts | captions | done |
+| 20240121 | KaG5Ieml_cE | 99% of ICT Traders Can't Do This： HTF Analysis! | captions | done |
