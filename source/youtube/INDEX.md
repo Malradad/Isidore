@@ -231,3 +231,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231121 | R0oQsSWMyO4 | How I Used This Mechanical ICT Strategy for a 80% Win Rate ｜ The 10AM Inversion Strategy | captions | done |
 | 20231120 | T7wGXk0JfLY | How to Use 10AM Reversal + Macros - Sunday Night Class | captions | done |
 | 20231117 | a7ZUFs-h-gg | External Versus Internal FVGs - How to Save Yourself from Chop EVERY Time in ICT | whisper | done |
+| 20231114 | FAqkT1q_iFU | The ＊BEST＊ Trailing Stop Strategy in ICT | whisper | done |
