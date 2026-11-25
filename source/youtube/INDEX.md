@@ -335,3 +335,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230308 | 85r1hR_t2bk | Using ICT PD Arrays as Inversions... | captions | done |
 | 20230306 | T2T-0bfKDrY | How to Use Power of 3 From ICT Mentorship | captions | done |
 | 20230228 | AyJ4IvKEclk | How to Use Consequent Encroachment and Mean Threshold from ICT Mentorship | whisper | done |
+| 20230222 | cCqScSO-IX8 | How to Spot The Difference Between a MSS (Market Structure Shift) and Liquidity Purge ICT Mentorship | captions | done |
