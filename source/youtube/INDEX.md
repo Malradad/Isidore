@@ -215,4 +215,5 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231221 | uInUui6Sie8 | My One Setup For Life Will ＊CHANGE＊ Your Trading (Part 2) - ICT Concepts | captions | done |
 | 20231219 | VwB8HDehmxk | How to Find ＊BETTER＊ ICT Trades ｜ You MUST Know This ICT Trick | captions | done |
 | 20231218 | sWh1tDd130M | The Importance of TIME⧸Killzones ｜ How to Utilize Liquidity from Previous Killzones | captions | done |
+| 20231216 | 1-TmVvndTGE | Why You Don't Understand the ICT Market Maker Model (MMXM) ｜ The MISSING Piece | whisper | done |
 | 20231216 | u1Kho5-9iWM | How to Correctly ＊IDENTIFY＊ a Market Maker Model (MMXM) Off ＊LIQUIDITY＊ ｜ IRL - ERL ｜ ERL - IRL | captions | done |
