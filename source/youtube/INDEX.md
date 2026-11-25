@@ -282,3 +282,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230816 | phtLY7okRUE | How To ＊EXECUTE＊ Inverse Fair Value Gap ⧸ BPR (Stop Loss Placement + Take Profit) | captions | done |
 | 20230815 | 9mZLF8M8Vhs | ICT Educational Live Tape Reading - 1 Hour Worth Of Live Gems You Do Not Want to Miss | whisper | done |
 | 20230815 | cVkGqe_EXss | The ＊TOP 3＊ ICT Strategies + Models You Should Learn for Guaranteed Profit | captions | done |
+| 20230814 | 1SPVgWxdOtQ | The Difference Between ＂MSS＂ + Inverse FVG (Win Rate Comparison) - Sunday Night Class | captions | done |
