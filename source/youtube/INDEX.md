@@ -318,3 +318,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230418 | i6pWtyipkeE | How to Play The Market With No Bias ICT | whisper | done |
 | 20230417 | -hs4EOZ0Ewo | 4.17.23 Live Trading ICT Discord Session | whisper | done |
 | 20230417 | 7gerur3bCek | Sunday Night ICT Class 4.16.23 - Higher Time Frame Analysis | whisper | done |
+| 20230415 | 0HqUFJk8Eto | 4.14.23 Daily ICT Educational Analysis | captions | done |
