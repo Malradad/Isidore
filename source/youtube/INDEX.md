@@ -217,3 +217,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231218 | sWh1tDd130M | The Importance of TIME⧸Killzones ｜ How to Utilize Liquidity from Previous Killzones | captions | done |
 | 20231216 | 1-TmVvndTGE | Why You Don't Understand the ICT Market Maker Model (MMXM) ｜ The MISSING Piece | whisper | done |
 | 20231216 | u1Kho5-9iWM | How to Correctly ＊IDENTIFY＊ a Market Maker Model (MMXM) Off ＊LIQUIDITY＊ ｜ IRL - ERL ｜ ERL - IRL | captions | done |
+| 20231214 | 7V3kYVHMMGg | 5 ＊PERFECT＊ Inversion Fair Value Gap Setups WITH Explanation | captions | done |
