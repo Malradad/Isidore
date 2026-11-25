@@ -267,3 +267,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230918 | x9a-kh44oo4 | A Multitude of ICT Gems... Sunday Night Class 9.18.23 | captions | done |
 | 20230917 | zY50Qx_Kpqo | Best Inversion Model A+ Checklist from ICT Mentorship | captions | done |
 | 20230912 | Xm79wfL8GGU | This Simple ICT Strategy Requires ＊NO＊ DAILY BIAS | captions | done |
+| 20230912 | yN-aHT_8TWo | Top Mistake People Make With Inversion FVG Setup | captions | done |
