@@ -29,7 +29,7 @@ pivLen     = input.int(3, "Swing strength", minval=1, group=G1)
 discMax    = input.float(0.4, "Discount: loc < x (long); premium: loc > 1-x (short)", step=0.05, group=G1)
 midMax     = input.float(0.6, "Mid-range upper bound", step=0.05, group=G1)
 chopMax    = input.float(2.6, "Chop index >= x = B", step=0.1, group=G1)
-rngMode    = input.string("Session (since 18:00)", "Dealing range", options=["Session (since 18:00)", "Prior day + today"], group=G1)
+rngMode    = input.string("Session (since 18:00)", "Dealing range", options=["Session (since 18:00)", "Prior day + today", "Impulse leg (his 0.5)"], group=G1)
 bufTicks   = input.int(2, "Hard-stop buffer (ticks)", group=G1)
 scaleR     = input.float(1.25, "Scale at R", step=0.25, group=G1)
 scaleFrac  = input.float(0.67, "Scale fraction", step=0.05, group=G1)
@@ -44,6 +44,17 @@ eqTolTicks = input.int(8, "d. equal tolerance (ticks)", group=G2)
 G3 = "P7"
 p7Mode     = input.string("Off", "P7: no short with equal highs / data high above (long: lows / data low below)", options=["Off", "Strict", "Data-wick override"], group=G3)
 newsMult   = input.float(1.5, "08:30 bar range >= x * avg = data candle", step=0.1, group=G3)
+G5 = "P9 audit mode (signals only near audited stream timestamps)"
+auditMode  = input.bool(false, "Audit mode: fire only within +/- N min of his audited setups, exit next bar", group=G5)
+auditWin   = input.int(2, "   N (minutes)", group=G5)
+G6 = "P9 loss-reason fixes (codex/playbook.md batch 2)"
+fxRange    = input.bool(false, "Dealing range = swept extreme -> opposite swing (his definition)", group=G6)
+fxBE       = input.bool(false, "Skip if no BE point (internal high/low) before the target", group=G6)
+fxProt     = input.bool(false, "Skip a protected-high/low target", group=G6)
+fxRev      = input.int(0, "Max candles sweep extreme -> inversion (0 = off)", group=G6)
+fxLeg      = input.bool(false, "Same leg: gap formed after the sweep extreme", group=G6)
+fxEng      = input.bool(false, "Target must be engineered (equal highs/lows)", group=G6)
+fxJudas    = input.bool(false, "Judas-only: 09:30-10:00 false move into a marked pool against the draw, then inversion; 1/day", group=G6)
 G4 = "Candle-closure score (his /10)"
 scoreSel   = input.string("All", "Score band", options=["All", ">=9", "8", "<=7"], group=G4)
 
@@ -53,7 +64,20 @@ tfMin = timeframe.in_seconds() / 60.0
 armBars = math.max(1, math.round(armMin / tfMin))
 gapAge  = math.max(2, math.round(gapAgeMin / tfMin))
 inSess(s) => not na(time(timeframe.period, s, "America/New_York"))
-inWin = (sessMode != "PM" and inSess(amS)) or (sessMode != "AM" and inSess(pmS))
+// audited stream timestamps (codex/teacher-audit.md, >= 2023-11-20, NQ, takes + skips), sorted; tools/audit/setups.py
+var AT = array.from(timestamp("America/New_York", 2023, 12, 19, 11, 3, 9), timestamp("America/New_York", 2023, 12, 19, 11, 26, 11), timestamp("America/New_York", 2024, 1, 12, 11, 4, 9), timestamp("America/New_York", 2024, 3, 1, 9, 16, 47), timestamp("America/New_York", 2024, 3, 1, 9, 38, 33), timestamp("America/New_York", 2024, 3, 1, 9, 52, 5), timestamp("America/New_York", 2024, 3, 1, 10, 5, 47), timestamp("America/New_York", 2024, 3, 1, 10, 21, 3), timestamp("America/New_York", 2024, 3, 1, 10, 26, 57), timestamp("America/New_York", 2024, 3, 1, 10, 46, 27), timestamp("America/New_York", 2024, 10, 30, 8, 48, 55), timestamp("America/New_York", 2024, 10, 30, 9, 0, 6), timestamp("America/New_York", 2024, 10, 30, 9, 9, 24), timestamp("America/New_York", 2024, 10, 30, 9, 12, 6), timestamp("America/New_York", 2024, 10, 30, 9, 35, 41), timestamp("America/New_York", 2024, 10, 30, 9, 55, 57), timestamp("America/New_York", 2024, 10, 30, 10, 53, 50), timestamp("America/New_York", 2024, 10, 30, 10, 56, 35), timestamp("America/New_York", 2024, 10, 30, 11, 24, 22), timestamp("America/New_York", 2024, 10, 30, 11, 54, 12), timestamp("America/New_York", 2024, 10, 30, 12, 8, 33), timestamp("America/New_York", 2025, 1, 22, 9, 34, 39), timestamp("America/New_York", 2025, 1, 22, 9, 45, 1), timestamp("America/New_York", 2025, 1, 22, 10, 1, 47), timestamp("America/New_York", 2025, 1, 22, 10, 6, 8), timestamp("America/New_York", 2025, 1, 22, 10, 57, 42), timestamp("America/New_York", 2025, 1, 22, 11, 8, 55), timestamp("America/New_York", 2025, 1, 22, 11, 15, 29), timestamp("America/New_York", 2025, 1, 22, 11, 21, 0), timestamp("America/New_York", 2025, 6, 11, 10, 13, 12), timestamp("America/New_York", 2025, 10, 9, 9, 13, 0), timestamp("America/New_York", 2025, 10, 9, 11, 0, 7), timestamp("America/New_York", 2025, 10, 15, 9, 42, 4), timestamp("America/New_York", 2025, 10, 15, 9, 44, 55), timestamp("America/New_York", 2025, 10, 15, 9, 51, 48), timestamp("America/New_York", 2025, 11, 14, 14, 30, 32), timestamp("America/New_York", 2026, 2, 11, 8, 52, 49), timestamp("America/New_York", 2026, 2, 11, 9, 29, 59), timestamp("America/New_York", 2026, 2, 11, 9, 35, 43), timestamp("America/New_York", 2026, 2, 11, 9, 47, 47), timestamp("America/New_York", 2026, 2, 11, 10, 0, 21), timestamp("America/New_York", 2026, 2, 11, 10, 6, 12), timestamp("America/New_York", 2026, 2, 11, 10, 9, 26), timestamp("America/New_York", 2026, 2, 11, 10, 15, 11), timestamp("America/New_York", 2026, 2, 13, 8, 34, 47), timestamp("America/New_York", 2026, 2, 13, 8, 36, 42), timestamp("America/New_York", 2026, 2, 13, 9, 39, 44), timestamp("America/New_York", 2026, 2, 13, 9, 43, 33), timestamp("America/New_York", 2026, 2, 13, 9, 55, 14), timestamp("America/New_York", 2026, 2, 13, 10, 26, 59), timestamp("America/New_York", 2026, 3, 6, 9, 34, 48), timestamp("America/New_York", 2026, 3, 6, 9, 40, 17), timestamp("America/New_York", 2026, 3, 11, 8, 41, 43), timestamp("America/New_York", 2026, 3, 11, 9, 5, 12), timestamp("America/New_York", 2026, 3, 11, 9, 59, 15), timestamp("America/New_York", 2026, 3, 11, 10, 32, 18), timestamp("America/New_York", 2026, 3, 11, 10, 51, 24), timestamp("America/New_York", 2026, 4, 3, 10, 25, 0), timestamp("America/New_York", 2026, 6, 5, 8, 38, 2), timestamp("America/New_York", 2026, 6, 5, 9, 7, 31), timestamp("America/New_York", 2026, 6, 5, 9, 31, 42), timestamp("America/New_York", 2026, 6, 5, 9, 35, 37), timestamp("America/New_York", 2026, 6, 5, 9, 44, 34), timestamp("America/New_York", 2026, 6, 5, 9, 51, 16), timestamp("America/New_York", 2026, 6, 5, 10, 36, 38), timestamp("America/New_York", 2026, 6, 5, 10, 45, 7), timestamp("America/New_York", 2026, 7, 14, 9, 23, 21), timestamp("America/New_York", 2026, 7, 14, 9, 30, 44), timestamp("America/New_York", 2026, 7, 14, 9, 37, 45), timestamp("America/New_York", 2026, 7, 14, 9, 45, 35), timestamp("America/New_York", 2026, 7, 14, 10, 23, 47), timestamp("America/New_York", 2026, 7, 14, 10, 47, 0), timestamp("America/New_York", 2026, 8, 7, 8, 44, 28), timestamp("America/New_York", 2026, 8, 7, 9, 26, 22), timestamp("America/New_York", 2026, 8, 7, 9, 31, 0), timestamp("America/New_York", 2026, 8, 7, 9, 36, 40), timestamp("America/New_York", 2026, 8, 7, 9, 49, 32), timestamp("America/New_York", 2026, 8, 7, 9, 55, 51), timestamp("America/New_York", 2026, 8, 7, 10, 8, 25), timestamp("America/New_York", 2026, 8, 7, 10, 16, 30), timestamp("America/New_York", 2026, 8, 12, 9, 35, 8), timestamp("America/New_York", 2026, 8, 12, 9, 41, 59), timestamp("America/New_York", 2026, 8, 12, 9, 49, 12), timestamp("America/New_York", 2026, 8, 12, 9, 53, 7), timestamp("America/New_York", 2026, 8, 12, 10, 6, 22), timestamp("America/New_York", 2026, 8, 12, 10, 18, 40), timestamp("America/New_York", 2026, 9, 4, 8, 37, 23), timestamp("America/New_York", 2026, 9, 4, 8, 44, 34), timestamp("America/New_York", 2026, 9, 4, 9, 14, 14), timestamp("America/New_York", 2026, 9, 4, 9, 29, 35), timestamp("America/New_York", 2026, 9, 4, 9, 31, 27), timestamp("America/New_York", 2026, 9, 4, 9, 37, 23), timestamp("America/New_York", 2026, 9, 4, 9, 42, 26), timestamp("America/New_York", 2026, 9, 4, 9, 50, 0), timestamp("America/New_York", 2026, 9, 4, 10, 14, 30), timestamp("America/New_York", 2026, 9, 4, 10, 29, 0), timestamp("America/New_York", 2026, 9, 4, 11, 19, 57), timestamp("America/New_York", 2026, 9, 11, 8, 38, 9), timestamp("America/New_York", 2026, 9, 11, 9, 31, 57), timestamp("America/New_York", 2026, 9, 11, 9, 34, 27), timestamp("America/New_York", 2026, 9, 11, 9, 46, 2), timestamp("America/New_York", 2026, 9, 11, 9, 49, 43), timestamp("America/New_York", 2026, 9, 11, 10, 7, 17), timestamp("America/New_York", 2026, 9, 11, 10, 21, 1), timestamp("America/New_York", 2026, 9, 29, 9, 31, 42), timestamp("America/New_York", 2026, 10, 2, 8, 38, 36), timestamp("America/New_York", 2026, 10, 2, 8, 43, 28), timestamp("America/New_York", 2026, 10, 2, 8, 48, 49), timestamp("America/New_York", 2026, 10, 2, 9, 33, 18), timestamp("America/New_York", 2026, 10, 2, 9, 39, 20), timestamp("America/New_York", 2026, 10, 2, 9, 42, 57), timestamp("America/New_York", 2026, 10, 2, 9, 59, 4), timestamp("America/New_York", 2026, 11, 2, 9, 33, 0), timestamp("America/New_York", 2026, 11, 2, 9, 39, 21), timestamp("America/New_York", 2026, 11, 2, 9, 54, 9), timestamp("America/New_York", 2026, 11, 2, 9, 56, 7), timestamp("America/New_York", 2026, 11, 2, 10, 1, 10), timestamp("America/New_York", 2026, 11, 2, 10, 10, 12), timestamp("America/New_York", 2026, 11, 2, 10, 31, 55))
+var int aPtr = 0
+bool adv = true
+while adv
+    adv := false
+    if aPtr < array.size(AT)
+        if array.get(AT, aPtr) < time_close - auditWin * 60000
+            aPtr += 1
+            adv := true
+bool inAudit = false
+if aPtr < array.size(AT)
+    inAudit := math.abs(array.get(AT, aPtr) - time_close) <= auditWin * 60000
+inWin = auditMode ? inAudit : (sessMode != "PM" and inSess(amS)) or (sessMode != "AM" and inSess(pmS))
 
 pdh = request.security(syminfo.tickerid, "D", high[1], lookahead=barmerge.lookahead_on)
 pdl = request.security(syminfo.tickerid, "D", low[1], lookahead=barmerge.lookahead_on)
@@ -89,6 +113,8 @@ var int   sslBar = na
 var int   bslBar = na
 var float sslExt = na
 var float bslExt = na
+var int   sslExtBar = na
+var int   bslExtBar = na
 var bool  tPDL = false
 var bool  tPDH = false
 var bool  tONL = false
@@ -122,13 +148,17 @@ if after5 and not na(lonH) and high > lonH
 if sweptL
     sslBar := bar_index
     sslExt := low
+    sslExtBar := bar_index
 else if not na(sslBar) and low < sslExt
     sslExt := low
+    sslExtBar := bar_index
 if sweptH
     bslBar := bar_index
     bslExt := high
+    bslExtBar := bar_index
 else if not na(bslBar) and high > bslExt
     bslExt := high
+    bslExtBar := bar_index
 lSweep = not na(sslBar) and bar_index - sslBar <= armBars
 sSweep = not na(bslBar) and bar_index - bslBar <= armBars
 
@@ -137,22 +167,53 @@ ph = ta.pivothigh(high, pivLen, pivLen)
 pl = ta.pivotlow(low, pivLen, pivLen)
 var array<float> phs = array.new_float()
 var array<float> pls = array.new_float()
+var array<bool>  phP = array.new_bool()
+var array<bool>  plP = array.new_bool()
+var float lastPH = na
+var float lastPL = na
+var int   lastPHbar = na
+var int   lastPLbar = na
+// protected = the swing took the previous swing and closed back inside (rejection)
 if not na(ph)
     array.push(phs, ph)
+    array.push(phP, not na(lastPH) and ph > lastPH and close[pivLen] < lastPH)
+    lastPH := ph
+    lastPHbar := bar_index - pivLen
     if array.size(phs) > 80
         array.shift(phs)
+        array.shift(phP)
 if not na(pl)
     array.push(pls, pl)
+    array.push(plP, not na(lastPL) and pl < lastPL and close[pivLen] > lastPL)
+    lastPL := pl
+    lastPLbar := bar_index - pivLen
     if array.size(pls) > 80
         array.shift(pls)
+        array.shift(plP)
 if array.size(phs) > 0
     for i = array.size(phs) - 1 to 0
         if high > array.get(phs, i)
             array.remove(phs, i)
+            array.remove(phP, i)
 if array.size(pls) > 0
     for i = array.size(pls) - 1 to 0
         if low < array.get(pls, i)
             array.remove(pls, i)
+            array.remove(plP, i)
+f_flagAt(array<float> a, array<bool> f, float v) =>
+    bool r = false
+    if array.size(a) > 0 and not na(v)
+        for i = 0 to array.size(a) - 1
+            if array.get(a, i) == v
+                r := array.get(f, i)
+    r
+f_nEqual(array<float> a, float v, float tol) =>
+    int n = 0
+    if array.size(a) > 0 and not na(v)
+        for i = 0 to array.size(a) - 1
+            if math.abs(array.get(a, i) - v) <= tol
+                n += 1
+    n
 f_above(array<float> a, float px) =>
     float best = na
     if array.size(a) > 0
@@ -219,8 +280,11 @@ if not na(uBot) and close < uBot
     uBot := na
 
 // dealing range and location
-rHi = rngMode == "Session (since 18:00)" ? sesH : math.max(sesH, nz(pdh, sesH))
-rLo = rngMode == "Session (since 18:00)" ? sesL : math.min(sesL, nz(pdl, sesL))
+// his location: the 0.5 of the latest impulse leg (last swing high <-> last swing low, extended as new extremes print)
+legHi = math.max(nz(lastPH, high), ta.highest(high, math.max(1, math.min(500, nz(bar_index - lastPHbar, 0) + 1))))
+legLo = math.min(nz(lastPL, low), ta.lowest(low, math.max(1, math.min(500, nz(bar_index - lastPLbar, 0) + 1))))
+rHi = rngMode == "Impulse leg (his 0.5)" ? legHi : rngMode == "Session (since 18:00)" ? sesH : math.max(sesH, nz(pdh, sesH))
+rLo = rngMode == "Impulse leg (his 0.5)" ? legLo : rngMode == "Session (since 18:00)" ? sesL : math.min(sesL, nz(pdl, sesL))
 loc = rHi > rLo ? (close - rLo) / (rHi - rLo) : 0.5
 chopN = 6
 chopIdx = (math.sum(high - low, chopN)[1]) / math.max(ta.highest(high, chopN)[1] - ta.lowest(low, chopN)[1], tick)
@@ -272,6 +336,33 @@ eqBelow = f_equal(pls, close, eqTolTicks * tick, false)
 eqAbove = f_equal(phs, close, eqTolTicks * tick, true)
 lP7 = p7Mode == "Off" or (not eqBelow and na(dataL)) or (p7Mode == "Data-wick override" and not na(dataH))
 sP7 = p7Mode == "Off" or (not eqAbove and na(dataH)) or (p7Mode == "Data-wick override" and not na(dataL))
+// Judas swing (his core trade): 09:30-10:00, a false move against the draw into a marked pool, then the inversion back
+var int   jBias = 0
+var bool  jSwL = false
+var bool  jSwH = false
+var float o930H = na
+var float o930L = na
+inJ = inSess("0930-1001")
+if newDay
+    jSwL := false
+    jSwH := false
+    jBias := 0
+    o930H := na
+    o930L := na
+if inSess("0930-0931") and na(o930H)
+    // draw = the nearer untaken prior-day extreme from the 09:30 open (~ Izzy)
+    dUp = not tPDH and not na(pdh) ? pdh - open : na
+    dDn = not tPDL and not na(pdl) ? open - pdl : na
+    jBias := na(dUp) and na(dDn) ? 0 : na(dDn) ? 1 : na(dUp) ? -1 : dUp <= dDn ? 1 : -1
+    o930H := high
+    o930L := low
+else if inJ
+    if low < pdl or low < ovnL or (not na(lonL) and low < lonL) or (not na(dataL[1]) and low < dataL[1]) or (not na(o930L) and low < o930L)
+        jSwL := true
+    if high > pdh or high > ovnH or (not na(lonH) and high > lonH) or (not na(dataH[1]) and high > dataH[1]) or (not na(o930H) and high > o930H)
+        jSwH := true
+judasL = inJ and jBias == 1 and jSwL
+judasS = inJ and jBias == -1 and jSwH
 lFiltOK = ovnOK and (not useFilt or (not eqBelow and not tPDH)) and lP7
 sFiltOK = ovnOK and (not useFilt or (not eqAbove and not tPDL)) and sP7
 
@@ -283,17 +374,37 @@ lDist = close - lSL
 lT1   = f_above(phs, close)
 lRun  = not na(pdh) and pdh > close + scaleR * lDist ? pdh : (na(lT1) ? na : f_above(phs, lT1))
 lQty  = lDist > 0 ? math.min(math.floor(riskUSD / (lDist * pv)), maxQty) : 0
-lGrade = f_grade(lSweep, loc)
+lHiR  = ta.highest(high, math.max(1, math.min(500, nz(bar_index - sslExtBar, 0) + armBars)))
+sLoR  = ta.lowest(low, math.max(1, math.min(500, nz(bar_index - bslExtBar, 0) + armBars)))
+lLoc2 = lSweep and lHiR > sslExt ? (close - sslExt) / (lHiR - sslExt) : loc
+sLoc2 = sSweep and bslExt > sLoR ? (bslExt - close) / (bslExt - sLoR) : 1 - loc
+lTgt  = nz(lRun, close + 3 * lDist)
+lBE   = not na(lT1) and lT1 < lTgt
+lProt = f_flagAt(phs, phP, lTgt)
+lRev  = lSweep ? bar_index - sslExtBar : 999
+lLeg  = lSweep and bBar >= sslExtBar
+lEng  = f_nEqual(phs, lTgt, eqTolTicks * tick) >= 2
+lGrade = f_grade(lSweep, fxRange ? lLoc2 : loc)
 sSL   = (sSweep ? math.max(bslExt, hh5) : hh5) + bufTicks * tick
 sDist = sSL - close
 sT1   = f_below(pls, close)
 sRun  = not na(pdl) and pdl < close - scaleR * sDist ? pdl : (na(sT1) ? na : f_below(pls, sT1))
 sQty  = sDist > 0 ? math.min(math.floor(riskUSD / (sDist * pv)), maxQty) : 0
-sGrade = f_grade(sSweep, 1 - loc)
+sTgt  = nz(sRun, close - 3 * sDist)
+sBE   = not na(sT1) and sT1 > sTgt
+sProt = f_flagAt(pls, plP, sTgt)
+sRev  = sSweep ? bar_index - bslExtBar : 999
+sLeg  = sSweep and uBar >= bslExtBar
+sEng  = f_nEqual(pls, sTgt, eqTolTicks * tick) >= 2
+sGrade = f_grade(sSweep, fxRange ? sLoc2 : 1 - loc)
 lScore = f_score(lEdge, lAge)
 sScore = f_score(sEdge, sAge)
-longOK  = inWin and longInv and lQty >= 1 and gradeOK(lGrade) and scoreOK(lScore) and lFiltOK
-shortOK = inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and scoreOK(sScore) and sFiltOK
+lFix = (not fxBE or lBE) and (not fxProt or not lProt) and (fxRev == 0 or lRev <= fxRev) and (not fxLeg or lLeg) and (not fxEng or lEng)
+sFix = (not fxBE or sBE) and (not fxProt or not sProt) and (fxRev == 0 or sRev <= fxRev) and (not fxLeg or sLeg) and (not fxEng or sEng)
+longOK  = fxJudas ? (judasL and longInv and lQty >= 1 and lFiltOK) : (inWin and longInv and lQty >= 1 and gradeOK(lGrade) and scoreOK(lScore) and lFiltOK and lFix)
+shortOK = fxJudas ? (judasS and shortInv and sQty >= 1 and sFiltOK) : (inWin and shortInv and sQty >= 1 and gradeOK(sGrade) and scoreOK(sScore) and sFiltOK and sFix)
+f_fx(float l2, bool be, bool pr, int rv, bool lg, bool en) =>
+    "|m" + str.tostring(math.round(l2 * 100)) + "|b" + (be ? "1" : "0") + "|p" + (pr ? "1" : "0") + "|v" + str.tostring(rv) + "|n" + (lg ? "1" : "0") + "|e" + (en ? "1" : "0")
 f_tag(string side, string g, float l, bool sw, float runR, int sc, float gap) =>
     side + "|" + g + "|k" + str.tostring(sc) + "|l" + str.tostring(math.round(l * 100)) + "|s" + (sw ? "1" : "0") + "|h" + str.tostring(chopIdx, "#.##") + "|g" + str.tostring(math.round(gap)) + "|r" + (na(runR) ? "na" : str.tostring(runR, "#.#"))
 
@@ -321,9 +432,11 @@ f_place(string id, int dir, int q, float sl, float runTarget, float d) =>
     if q - q1 > 0
         strategy.exit(id + "b", id, qty=q - q1, stop=sl, limit=runTarget)
 if barstate.isconfirmed
-    canTrade = strategy.position_size == 0 and nDay < maxDay and nLoss < maxLoss and not lastBar
+    if auditMode and strategy.position_size != 0
+        strategy.close_all(comment="audit")
+    canTrade = strategy.position_size == 0 and (auditMode or (nDay < (fxJudas ? 1 : maxDay) and nLoss < maxLoss)) and not lastBar
     if canTrade and longOK and not (shortOK and bslBar > sslBar)
-        strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist, lScore, lGapPts))
+        strategy.entry("L", strategy.long, qty=lQty, comment=f_tag("L", lGrade, loc, lSweep, na(lRun) ? na : (lRun - close) / lDist, lScore, lGapPts) + f_fx(lLoc2, lBE, lProt, lRev, lLeg, lEng))
         f_place("L", 1, lQty, lSL, nz(lRun, close + 3 * lDist), lDist)
         invLvl := lInvLvl
         t1 := lT1
@@ -334,7 +447,7 @@ if barstate.isconfirmed
         beSet := false
         nDay += 1
     else if canTrade and shortOK
-        strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sGrade, 1 - loc, sSweep, na(sRun) ? na : (close - sRun) / sDist, sScore, sGapPts))
+        strategy.entry("S", strategy.short, qty=sQty, comment=f_tag("S", sGrade, 1 - loc, sSweep, na(sRun) ? na : (close - sRun) / sDist, sScore, sGapPts) + f_fx(sLoc2, sBE, sProt, sRev, sLeg, sEng))
         f_place("S", -1, sQty, sSL, nz(sRun, close - 3 * sDist), sDist)
         invLvl := sInvLvl
         t1 := sT1
