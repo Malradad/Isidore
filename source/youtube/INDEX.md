@@ -332,3 +332,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230318 | t5ffTARQjKc | The Mistake New ICT Traders Make With Market Structure Shifts (Advanced MSS Lecture) | whisper | done |
 | 20230313 | Q00U170M4pM | 3.3 Market Analysis + ICT Education (MMBM) | whisper | done |
 | 20230310 | UXig1gw67xA | The Psychology of Breaker Blocks + How to Use Them | captions | done |
+| 20230308 | 85r1hR_t2bk | Using ICT PD Arrays as Inversions... | captions | done |
