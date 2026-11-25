@@ -314,3 +314,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230501 | xA-s1zb4z8s | How to Identify Trend Days - Sunday Night ICT Class 4.30.23 | whisper | done |
 | 20230429 | 75VZVuBxjMM | How I Do My Top-Down ICT Analysis Daily⧸Weekly | whisper | done |
 | 20230428 | 7HuUX6tK9Xg | How to Determine the Draw on Liquidity Using ＂Conditions＂ and Higher Time Frame PD Arrays ICT | captions | done |
+| 20230424 | ffJtAVe8szQ | Time & A Versus B Setups Sunday Night ICT Class | whisper | done |
