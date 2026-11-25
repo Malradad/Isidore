@@ -211,3 +211,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240101 | Vj5bYrKfuvA | Time Based Liquidity - Monday Night Class 1.1.24 | captions | done |
 | 20231229 | Yv9JRIVfwYk | Hindsight Traders NEED To Know This Secret Trick for Better Live Trades - ICT Concepts | captions | done |
 | 20231227 | hBzy39WIsNU | My Ultimate High Win Rate Strategy ｜ Inversion Fair Value Gaps (How I Achieve 80+%) | captions | done |
+| 20231223 | os4_DOhgH0Y | Three of the ＊BEST＊ Liquidity Pools ALL ICT Traders Overlook | captions | done |
