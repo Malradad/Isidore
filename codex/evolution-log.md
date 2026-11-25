@@ -364,3 +364,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   (fires only near his timestamps, logs grade and score). TradingView timed out on the 1m runs, then the daily quota
   ran out. No numbers yet. Plan: 6-month windows tomorrow, then the confusion table, then fix the coding his way.
 - **Maker:** P9 relayed ("do what you think is necessary"). Branch izzy/p9-grader-check-2026-11-23, not merged.
+
+## 2026-11-25 · P9 grader vs his eye (run)
+- **Learned ✓ (price):** the 1m grader fires on only 32/119 audited setups (6/24 of his A takes). His entries are
+  mostly on 30s/2m/3m, and his sweeps are often internal lows my engine doesn't count. Where it fires, it agrees with
+  his grade 56% of the time.
+- His loss reasons as fixes make my A's match his: window + reversal ≤ 6 gives 3/3 engine A's that are his A; window +
+  same leg gives 4/5. But on price (A+ 1m AM, May 2025 → Nov 2026) they only move PF 0.75 → 0.76 / 0.83. Still losing.
+- **Decided ~:** stop grading tweaks on 1m. Next: internal-liquidity sweeps, 5m/15m context, and a forward log of his
+  live streams.
+- **Maker:** P9 resumed at the maker's request (relayed). Branch izzy/p9-grader-check-2026-11-23, not merged.

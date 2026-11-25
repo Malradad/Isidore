@@ -1,4 +1,4 @@
-# P9 grader vs his eye, 2026-11-23 (in progress: blocked by the TradingView quota)
+# P9 grader vs his eye, 2026-11-23 → run 2026-11-25
 
 The main Izzy session relayed the request: the maker said "do what you think is necessary". Simulation only. The
 live strategy and alerts are untouched.
@@ -48,3 +48,75 @@ Each fix is coded as an input, so its effect can be shown on the audited setups 
 
 Order: first measure the v3 grader against his calls (step 1). Then add fixes 1–7 one at a time. Report each fix's
 change in agreement with his calls and its PF per half (A+ 1m AM).
+
+---
+
+## Results (run 2026-11-25, quota reset)
+Grader v6 (`tools/pine/izzy_grades.pine`; TradingView v6.0).
+- Audit mode ran on 1m in seven 3–6-month windows around the audited dates.
+- 37 engine fires. Matching and scoring: `tools/audit/grader_check.py`. Full output:
+  `2026-11-23-grader-check-audit.txt`.
+- Bug found and fixed: Pine evaluates both sides of `and`, so the timestamp pointer read past the end of the array.
+  That is why the first runs failed.
+
+### 1. Does the engine even see his setups?
+**Mostly not.** It fired on the same side within ±3 min on **32 of 119** audited setups, and on **6 of his 24 A-level
+takes**.
+- Coverage by his timeframe: 1m 13/35 · 30s 9/38 · 2m 4/13 · 3m 1/10 · 5m 2/6 · 15s 0/7.
+- His entries are mostly on 30s/2m/3m candles, which a 1m engine can't reproduce. TradingView can't backtest 30s,
+  2m or 3m.
+- A clear coding gap: his "sweep" is often an **internal** low/high, while mine is only PDH/PDL, overnight or London.
+  Example: 2 Oct 09:42, "sweep of sellside into 50% discount". My engine saw no sweep there and put it at 83% of the
+  session range.
+
+### 2. Where it fires (32 setups): his call vs mine
+| | engine A+/A | engine lower grade |
+|---|---|---|
+| his A-level (take ≥ A, or an A+/A he skipped for context) — 12 | **5** | 7 |
+| his below-A (take < A, or a quality skip) — 20 | **7** | 13 |
+
+Agreement is 18/32 (56%), barely better than chance. On the A+ setups he skipped only for context (bias, done for the
+day), the engine also said A+ in 4 of 6.
+
+### 3. His loss reasons as grader fixes (effect on the same 32 setups)
+| fix | his A kept | his below-A wrongly passed | read |
+|---|---|---|---|
+| v3 grader | 5/12 | 7/20 | — |
+| 1 dealing range = swept extreme → opposite swing | 3/12 | 7/20 | worse (my "opposite swing" coding ~) |
+| 2 BE point before target | 5/12 | 7/20 | no effect: as coded, almost every setup has one |
+| 3 no protected target | 4/12 | 6/20 | small |
+| 4 reversal ≤ 6 candles | 3/12 | 1/20 | **sharp**: fewer A's but almost no false ones |
+| 5 same leg | 4/12 | 3/20 | helps |
+| 6 engineered target (equal highs/lows) | 2/12 | 1/20 | sharp but drops most of his A's |
+| 7 window 09:30–11:00 | 5/12 | 3/20 | **helps, loses none** |
+| window + reversal ≤ 6 | 3/12 | **0/20** | every engine A is one of his |
+| window + same leg | 4/12 | 1/20 | 4 of 5 engine A's are his |
+
+**Read ~:** his loss reasons do make my "A" look like his. With window + reversal speed or window + same leg, nearly
+every engine A is a setup he'd call A. But that is on 12 vs 20 setups, so it is direction, not proof.
+
+### 4. Do those fixes add an edge on price? (A+ 1m AM, the out-of-sample half May 2025 → Nov 2026)
+Summed over three 6-month windows; 18-month windows time out with the heavier v6 script.
+
+| A+ 1m AM | records | PF |
+|---|---|---|
+| baseline (P8) | 378 | 0.75 |
+| + reversal ≤ 6 candles | 284 | **0.76** |
+| + same leg | 259 | **0.83** |
+
+Neither turns the second half positive, so neither passes "holds in both halves". The first half wasn't run (quota).
+
+## Verdict ~
+- The engine and his eye agree only where the engine can see what he sees, and that is a third of his setups.
+- Coding his loss reasons makes my A's look like his A's (precision up), but on price the A+ set still loses in
+  2025–26 (0.76–0.83).
+- Two possibilities remain:
+  - What he selects is mostly on sub-minute and 2–3-minute candles plus internal sweeps, which this setup can't test.
+  - His edge is in the day filter (first trade, unflagged day), not the setup grade.
+
+## Next (proposed)
+1. Internal-liquidity sweeps: an untaken swing low/high from the last 1–2 hours counts as the sweep, then re-audit.
+   This is the biggest coding gap found.
+2. 5m and 15m context on his setups (TradingView-testable), instead of trying to copy 30s entries.
+3. Forward-log his next streams with the grader live (v0.5 alerts already carry feel data) instead of more history
+   mining.
