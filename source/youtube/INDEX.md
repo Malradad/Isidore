@@ -209,3 +209,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240103 | 3H0YG5X_s9o | How I Got A Payout With a 93% Win Rate On a Prop Firm | captions | done |
 | 20240102 | Z1axjGnzWDc | ICT Live Stream 1.2.24 ｜ 70 Point Alert + Educational ICT Stream | whisper | done |
 | 20240101 | Vj5bYrKfuvA | Time Based Liquidity - Monday Night Class 1.1.24 | captions | done |
+| 20231229 | Yv9JRIVfwYk | Hindsight Traders NEED To Know This Secret Trick for Better Live Trades - ICT Concepts | captions | done |
