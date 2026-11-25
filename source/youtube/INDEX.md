@@ -226,3 +226,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231130 | dbSEvucKIwg | This is Why Your Setups Fail After a Liquidity Sweep... | whisper | done |
 | 20231128 | HPHXw8ClFiE | Advanced Stop Loss Confluence Lecture - Sunday Night Class 11.26 | captions | done |
 | 20231128 | IFS_ljJ7KlQ | 100% Win Rate Strategy to EASILY Get Funded | captions | done |
+| 20231126 | H8pDnUlxTnI | How I Would Learn To Trade ICT in 2023 (If I Could Start Over) | captions | done |
