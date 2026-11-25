@@ -237,3 +237,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231110 | -J7Xayab8z8 | Educational Livestream + Index Futures Trading Signals + Alerts 11.9.23 | captions | done |
 | 20231110 | xr8H-xcz8IY | How to Expect AND Enter on Trend Days Using ICT Concepts! | whisper | done |
 | 20231108 | KrXXaOZow6Y | How to SCALP Back GREEN on a RED Day Using Fair Value Gaps | captions | done |
+| 20231106 | Sr2P-TZyMBk | How the Market ＊HAS TO MOVE＊ (Premium + Discount) - Sunday Night Class 11.5.23 | captions | done |
