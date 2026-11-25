@@ -229,3 +229,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231126 | H8pDnUlxTnI | How I Would Learn To Trade ICT in 2023 (If I Could Start Over) | captions | done |
 | 20231125 | hKLKdmxgvt4 | Standard Deviations (Projections) Study Session + Backtesting | captions | done |
 | 20231121 | R0oQsSWMyO4 | How I Used This Mechanical ICT Strategy for a 80% Win Rate ｜ The 10AM Inversion Strategy | captions | done |
+| 20231120 | T7wGXk0JfLY | How to Use 10AM Reversal + Macros - Sunday Night Class | captions | done |
