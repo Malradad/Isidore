@@ -222,3 +222,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231210 | g0PoTunZiXU | This is ＊WHY＊ the 2022 ICT Model Fails You Every Time! (How to Make it Better) | captions | done |
 | 20231205 | 1DZKS5ATeCI | ＊SIMPLEST＊ Standard Deviation Video You Will Watch - ICT Concepts | captions | done |
 | 20231204 | uw2CBF9qPHk | All About Me + My ICT Journey (Channel Trailer) | captions | done |
+| 20231203 | L5Gg16hFlfo | Discipline ⧸ Risk Management Discussion + Rules for Trading - Sunday Night Class | captions | done |
