@@ -255,3 +255,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231008 | HVKct1RVZns | Introduction to ICT - Study Material + Best Repeating Setup (Sunday Class) | captions | done |
 | 20231008 | aZz5LnWI2-E | ICT Live Trading + Educational Commentary 10.5.23 | captions | done |
 | 20231005 | UMEoTB_ELuQ | ICT Doesn't Want You To Know About These Secret Liquidity Pools... (SHHH!) | whisper | done |
+| 20231003 | oK2Zv-e1mv8 | How to Utilize the Judas Swing with the Inversion Model | captions | done |
