@@ -379,3 +379,13 @@ _Session entries: date · what was learned · decision · maker response · perf
   the IFVG that matters". That backs the maker's read (strategy = entry confluence; edge = selection and liquidity).
   His "discount" is the 0.5 of the latest impulse leg — the dealing-range definition P8 lacked; sent to the backtester.
 - **Maker:** resumed work 2026-11-25. 70 videos left.
+
+## 2026-11-25 · Decision read round 2 + P9 grader check
+- **Round 2 (blind, chart + his pre-decision words):** 16 TAKE / 199 SKIP. On his playbook takes: 4 taken, all wins
+  (+1.40R); 0 of his 19 rule-breaking trades taken. Sharp but far too narrow. Its picks are post-news killzone and
+  09:30–10:00 Judas swings with bias. `journal/decisions/round2.md`.
+- **P9 (backtester, branch izzy/p9-grader-check-2026-11-23):** the 1m engine sees only 32 of 119 of his setups (his
+  entries are 30s/2m/3m, his sweeps often internal). Where it fires, agreement is 56%. Window + reversal ≤ 6 candles
+  makes every engine A one of his, but on price the A+ set still loses in 2025–26 (PF 0.76–0.83).
+- **Decided ~:** his edge is selection in context (day, bias, Judas/killzone timing), not a codable setup grade. Next:
+  calibrate the blind reader on a training set of his clean winners, then shadow him live.
