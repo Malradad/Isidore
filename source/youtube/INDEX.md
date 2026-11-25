@@ -298,3 +298,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230623 | 5PfyC8UzaJs | How to Use PD Array Violations to Determine Draw on Liquidity ICT 2023 | whisper | done |
 | 20230620 | 3ImsAdylT3g | Sunday Night Class 6.19 - Draw on Liquidity + Inverse FVGs | captions | done |
 | 20230608 | Z_VNokxQXxk | My Perfect Model - The Inverse FVG Model (How to Use them to have High Win Rate in ICT) | captions | done |
+| 20230605 | 3x7i4TmONj8 | Sunday Night ICT Class - MY Perfect ICT Model (In Depth Explanation) | captions | done |
