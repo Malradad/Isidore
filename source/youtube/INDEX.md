@@ -326,3 +326,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230410 | p9uUAGte1AA | Sunday Night ICT Class 4.9.23 + Weekly Predictions | captions | done |
 | 20230407 | MYc7d4ECoRo | How to Find the Draw on Liquidity - The Most Important Skill in Trading From ICT Mentorship | captions | done |
 | 20230404 | Tmyura9C9-Y | How To Predict SMT ⧸ Turtle Soup Entry Before It Happens ICT Mentorship | captions | done |
+| 20230403 | rhrsKLyhcZE | Sunday Night ICT Class 4.2.23 | whisper | done |

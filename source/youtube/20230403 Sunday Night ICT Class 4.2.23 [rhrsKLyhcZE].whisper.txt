@@ -1,0 +1,398 @@
+[00:00:00] , I'm half of this class I'll be long you guys ask questions, if you want I know I I know there's some people in here who kind of a the HHS MBA, I don't even know what it's called, like, I know he's in the trading chat a lot with nice setups, so, like, I do see some people who do know what they're doing, so, for you guys, I guess this is still worth it, just if you're bored, I guess, but some of this might be kind of basic, I'm not sure what your guys' knowledge is, so I'm going to be ICT stuff.
+[00:00:44] By the way, so this is a, what is this, a study room or live trading AM new?
+[00:00:54] No, this is just a room where I'm gonna be doing class tonight. So yeah, today, or tonight, rather,
+[00:01:03] this will be recorded. I will be going over kind of the drawn liquidity. One thing, okay, it's something people struggle with.
+[00:01:11] I'm also making a separate YouTube video about that. and I'll also go over kind of confirmation setups, okay? So I did go a little bit,
+[00:01:22] I did go over that a little bit last week. The confirmation setup thing,
+[00:01:29] but I feel like that's gonna be important because I know some of you new members, you're gonna see me out look for, I'm gonna say look for a confirmation setup
+[00:01:35] if you're gonna have no idea what that means. So yeah, and if you haven't already, make sure you've watched a lot of ICT mentorship, okay?
+[00:01:43] If you haven't, that's completely fine, okay? As long as you're starting and you kind of understand the basic, like, fairy valley gaps.
+[00:01:51] Just liquidity, fairy valley gaps. Okay, even the stuff, like, breaker blocks. Okay, it's not imperative to understand, obviously.
+[00:02:01] But, like, I would say, like, the part about, oh well. I'm so yeah, I'll just try to watch the mentorship, okay, I know some of you guys probably not watch the full mentorship yet. I would not recommend watching a lot of the same. I not recommend watching more than three or four videos a day. Again, I think that's, that's a lot.
+[00:02:41] if you really want to digest this content, you're going to have to, you're going to have to go through it, take notes, and I do want to give a shout out to this guy on Twitter. I'm going to show you guys this Twitter post real quick.
+[00:02:59] So someone on Twitter, they made an ICT workspace thing. All right, can everyone hear me type one if you can hear me. What was the last thing I said? I
+[00:03:17] Just realized I'm for you. Oh god Jeez so I so for my guys watching this I knew
+[00:03:34] No, I was not I was not preparing. I was letting you just talking to myself the whole time That's funny
+[00:03:44] I was like I was confused. I know it was answering me All right, yeah, that's better I didn't even realize I was in mute I looked at my like my green thing around my
+[00:03:57] My name and it wasn't going off. I'm like wait a minute. I'm not even talking So, geez, alright, well, we're off through a great start.
+[00:04:06] So people on YouTube, obviously, would have heard that whole spiel, I'll kind of say it again. So, yeah, so what I was saying was, again, there's some people in here who have probably
+[00:04:26] just started a mentorship, some people have finished it, today I'm going to be going over I'm gonna be quizzing some of you guys, so it's part of this is gonna be quiz and I'm gonna say where would the drawn liquidity be if this blah, blah, blah, blah. Okay, so part of this is gonna be quiz just to make sure you guys are understanding the content, again, it's kind of like in school, okay, never really understood anything unless I got homework to kind of understand it so it's gonna be kind of similar.
+[00:04:51] And then I'm gonna be going with that and then I'm also going to be going over confirmation setups, and I see Eric is in here Eric is the king of confirmation setups
+[00:05:02] But yeah, and I do want to give a I want to make sure for you for you new members, okay That joined I will be live okay Monday through Thursday this week. There's no trading on Friday and this week will be interesting
+[00:05:17] Okay, we have non-farm payroll on Friday with that basically means is it's it's going to make Wednesday AM session and after not a good time to trade okay so I'm still going to be live trading obviously
+[00:05:34] but I'm I'm likely not to take any trades or I'll just demo those two days we'll see I have traded those on those days before but I don't think it's good
+[00:05:43] habit to get into so I just want to make that clear right now but yeah for you I'm saying to you guys okay you're going to learn a lot from me and it's good to take
+[00:05:53] notes on stuff I say because I do say a lot I talk a little fast but this is being recorded so you can't go back to this and still this down okay so there's that and I'm just kind
+[00:06:06] of I don't I don't trade Asian session by the way I'm just kind of tapering right now. I noticed there's these equal highs above so I'm guessing these will be taken out before
+[00:06:15] more downside here so kind of watching for like a confirmation log set up off of either this and I was watching for confirmation log set up out of this but we never got one.
+[00:06:24] Okay so I'm going to be kind of showing you a confirmation log set up SARS versus kind of how to find the drill and liquidity and if you guys are a new member okay please read premium announcements okay I think it's very important to understand that and learn that
+[00:06:37] okay so just please read that and I do want to give a quick shout out to the student Twitter He made a very, very cool platform.
+[00:06:48] Some of you guys probably saw it. It's called the Inner Circle Workspace, OK? And it is from this guy, OK?
+[00:07:02] And it's pretty good. So I think it's this link.
+[00:07:12] I'll link in the chat. I'll link in the live chat. And I would honestly, I'm going to get it and see how it is, and I'll kind of judge it for myself, but this is, if you guys do not already journal, if you guys do not already have rules on plates, okay, those are the two most important things. Journaling and having rules, okay.
+[00:07:33] I get ICT, people think, "Oh, ICT is a Nigma of all trading, I'm going to have 100% win rate." Okay, that's not accurate.
+[00:07:39] You will have a much higher win rate, and you will know how the market moves, but you're not. you're not. I think journaling and having a rule sheet
+[00:07:48] is still going to be the biggest part. And for you guys in my premium section, if you did already, look at the rules template channel I made earlier.
+[00:07:58] So I made a list of examples of rules, and it's in the rules template channel.
+[00:08:05] So go check that out. And it kind of has an example of the basic starting rules you should use.
+[00:08:13] And it's not, they're not rules that you should obviously stick to yourself. You can change them up a little bit, but they're kind of the basics
+[00:08:20] where I think they're a good kind of base. And then I show you my personal rules. So again, you can go to the Google Doc
+[00:08:27] and you can kind of view that and edit that as well. So you can obviously do that if you want.
+[00:08:42] I'm sure-- I hope you guys got a thing to-- I hope you guys looked at that. OK, so we've got about some of the people here now.
+[00:08:54] All right, so the first thing I'm going to be going over is kind of confirmation setups. And for my premium members, if you look at index commentary now, what I mean by kind of a confirmation setup
+[00:09:09] is a setup within a setup. And if you want to be more risk sniper and not have too much drawdown,
+[00:09:18] and I'll show you what I mean by this in a second. Okay, so basically right here, okay. We have this Fair Valley gap.
+[00:09:25] And this Fair Valley gap, it is three points. Okay, three and a half, 3.25 points, right? And some people, okay.
+[00:09:33] Obviously a three point Fair Valley gap is not much, right? But some people, they do not want to long this because, oh, three points, how do you know where to enter?
+[00:09:41] and I'll kind of give a better example, okay. Right here. So let's say you wanted to log this for a valid gap, right?
+[00:09:50] This for a valid gap right here, okay. This is 4114 to 4102. And it kind of, if you came from supplying a man, okay.
+[00:09:59] Obviously, the man does supply zones are pretty big. And if you're an options trader, you would know maybe you would average up or average down
+[00:10:06] or you would just average in your position. Okay, in ICT, you're not really supposed to do that. you're supposed to take just one entry. Some people do pyramid your positions,
+[00:10:14] but that's after you get pretty advanced. Okay, you're taking one position in the Fair Valley gap and that's your trade and you have a stop
+[00:10:20] and you have a target. So let's say I wanted to take this Fair Valley gap. Well, a stop loss for any Fair Valley gap
+[00:10:27] you take is always gonna be below the swing low. So if I take this Fair Valley gap, again, if we know the definition of a swing low
+[00:10:34] is a high, higher high, right, and then a lower high. So, or a swing, sorry.
+[00:10:43] A low, lower low, and then a higher low. So it's this three V shift cannon formation. And the first swing low I see is right here.
+[00:10:51] Okay, this is a swing low by definition. So my step up, my personal stop, if I took this for a valley cap would be under this, right?
+[00:11:00] But here's the thing, if you entered here, four doesn't 102 to 4114. First thing, how do you know exactly we're entering here?
+[00:11:08] there's only like 10 points, right? You're not gonna, it's not, you're not gonna average in here, especially if you're in your futures account, okay?
+[00:11:15] It's not smart to average in here. It's kind of really dumb, okay? And here's where I kind of look for what I call a confirmation setup.
+[00:11:22] And as we know, as retail traders, and some of you get a bus coming from retail land, right? We know that a confirmation would be like,
+[00:11:30] if we got a break and then retest and we bounce off a retest, that would be a confirmation. Or confirmation would be a candle close above a fair value. or it can't close above a trend line, whatever, okay.
+[00:11:40] That's an example of confirmation. So in this situation, I'm not gonna just long randomly inside of this gap, even though I might be looking
+[00:11:49] for long in here, I'm not gonna long at 10 points on because first of all, I don't know where to put my limit. I mean, you could put it at CE, which is, consequent encroachment is just the .50 mark, okay.
+[00:12:01] This is something for your notes. CE is literally just a 0.50 mark of a body to body in a fair valley gap, but again,
+[00:12:09] you're not gonna know where to put your thing in here. I will argue this, okay? Sometimes if we go to pre-market or pre-market,
+[00:12:21] okay, so if I go down here, there may be moves down here
+[00:12:28] that you don't really require confirmation setup for. So like, one of my people that I was in a call with earlier, are they in the car right now, I do not see them.
+[00:12:40] Okay, so some of them in the call earlier, they said they longed this on in the London session, right, on Friday.
+[00:12:46] And when you longed this, okay, this very badly kept to me a small enough where if I'm entering, I'm just putting my stop
+[00:12:53] below the swing low, which would be right here, okay. So if you're entering, you're entering 4080, and this is a one point stop.
+[00:13:01] So I would accept the two points up here. So I'll probably just put them to this low. Okay, but this is a tight enough stop to where you do not need a confirmation setup.
+[00:13:10] Okay, so like a fair value get this small. Okay, you get an energetic displacement of a candle. Okay, with a fair value get.
+[00:13:16] Okay, you do not need a confirmation setup out of this. Although it could be nice, you really don't need it. Okay, a confirmation setup you'd wanna look for
+[00:13:27] an actual like bigger fair value gap or a bigger zone and then look for a setup. So like for example, right here.
+[00:13:35] Okay, right here, this is a giant fairy valley gap. Okay, can anyone tell me if you long this fairy valley gap, first of all, if you long this fairy valley gap,
+[00:13:44] I want you guys to answer two things in the class, comments, right, in the live chat. Tell me where you long the fairy valley gap
+[00:13:51] and tell me where the stop loss should be. Okay, just type in chat, what you think.
+[00:13:59] Okay, the, I'll just draw the levels out real quick. Okay, tell me where you think this stop should be
+[00:14:10] and where were you lying inside this reveal again. Yes, Eric, you can answer.
+[00:14:22] I guarantee you have these people are new to the ICT and you not know what they're doing. I know from at the end of the view of you guys, so I know a lot of you do okay
+[00:14:32] For my new members, I will maybe DM you if I get time and I will see how far you are at the mentorship Okay, I'm trying to create some demons in here. So
+[00:14:43] Um, onk if you if you troll I will uh mute you Okay, so
+[00:14:55] Hunter said it would have to be below that swing. So the stop loss would be below the swing Okay, which is technically the correct answer
+[00:15:06] Eric I don't know. This comes in here. He thinks he's funny, but he's not I'd get stopped. They like a tight stop exactly, but if you where would the actual stop loss be the ICT says
+[00:15:18] Okay, here's where your stop loss should be okay. No matter no matter if it's too big for you Where would the actual stop plus be if like I see t based?
+[00:15:28] It's the same answer every single time Yes, okay, so
+[00:15:39] Yes, all of you getting right besides Ariane said black and green candle What's up butters
+[00:15:52] Okay, so the answer is under the swing low So if you long this very bad gap no matter what fair value gap you long this stop is always under the swing low And if we look right if you visualize this on a higher time frame, right?
+[00:16:07] Here's what here's what new guys can't do as easily. This is something that's come through experience for me Okay, you have to even though I'm on the one minute right now
+[00:16:16] The reason why a lot of people get stuck in the one minute or suck in the woman is because they can't visualize in their heads what this is gonna look like in the five minute they can't
+[00:16:24] visualize what this is looking to look like on the 15 minute so right here this is a 30 and and this really starts at this is the start of the 15 minute candle
+[00:16:37] and the end of the 15 minute candle is right here it ends right here so if you imagine this as a 15 minute candle this would be a single candle all this chopper be a single candle so if you went to the 15 minute time frame the most
+[00:16:49] obvious low the most obvious swing low would be this low so if I went to the 15-minute right now let me just go back you can now see how much more obvious this low is so this would be your stop okay but again this is where me a trader
+[00:17:05] like myself I love the five point or less stops I hate hate big stops okay but this can't do them and if you I long this river I get let's say long CE
+[00:17:15] there's not so here there's not really a specific spot to long inside this for a bag gap, okay? Some people might long at CE, which again is if you drop from candle body, the candle body, so the opening of the clothes, right? Some people might say, okay,
+[00:17:30] I'm logging in the 50% retracement, which is fine, okay? But there's, you could long as soon as they get into the fair bag gap in case you kind of risk a, a, a IO fed entry.
+[00:17:43] So some people might, they might do this. So they might, they're entry would be right Here, stop while superior here.
+[00:17:51] And then obviously, their target would be right here, and then their target might be higher if they want to hold runners
+[00:17:57] or they see some sort of higher liquidity. Okay, but what's the issue? Can someone tell me what the issue with this is? Exactly, yep.
+[00:18:14] So the RR is trash, exactly. And so here's the thing, some people, they might, okay, they might say, okay, I'm gonna enter right when you get inside the Fair Valley gap or another possibility.
+[00:18:29] You can wait until we get to CE. So it doesn't matter, okay, but can someone tell me what the downside is of waiting till So we get the CEAs.
+[00:18:58] All right, good job, guys. I do have some buddies in here trolling right now, so... Most of the fareback isn't premium, yes, you are correct, so if I draw a premium discount,
+[00:19:13] most of it is premium. You are very, very correct, and that was the other thing I was going to talk about. Okay, so Jackson got it right, he said it may not get there.
+[00:19:23] So the downside of entering a CE of a fareback gap is it might not get there, but that's not really an issue because if you truly just care about risk of reward, okay, do you really
+[00:19:34] care if it gets there or not, because obviously you're looking for a good risk or word trade. So even if it doesn't get there, you're not going to get filled. You shouldn't feel FOMO because it just means if we bounce before it actually gets your entry, that's still
+[00:19:47] not going to be good risk or work. Okay, you're not going to change your risk, just a chase and entry. So you either get it or you don't. But the downside is sometimes a play might work out, but it might not hit the CE of this. Okay, so that's kind of a downside. And again,
+[00:20:01] risk the reward right here is also bad okay and again it's going to be different any setup and I'm going to actually go to a setup after this where it actually be better on okay so
+[00:20:12] yeah so again your stop loss would always be under the slow which you can see this is way too big so here's where the confirmation setup comes in and oh so I do want to mention premium discount real quick so basically what premium discount is is if you draw the
+[00:20:28] a fib from swing low down here to swing high, okay. Again, visualize the 15 minute timeframe here. Where's the obvious high and low? It's going to be here and here. Okay, this is just
+[00:20:39] going to be an internal low. You're probably not going to see this on the 15, but you're going to see this very clearly. You're going to see this very clearly, right? Because if you draw, if you draw this range, right from the side of this low, okay, we never actually
+[00:20:52] break this whole range until like an hour and a half later. So again, you have to you have to going to have it a visualizing these what the 15 minutes going to look like on the one minute,
+[00:21:02] and that's something that's a skill that's not going to come to you very easily, which came to me after a while. And it's just it's just something it's going to come to you. You just
+[00:21:14] can't learn it. But the more you watch timeframes, the more you'll kind of get used to that. So anyways, right here premium discount would be from this load of this high.
+[00:21:24] So discount is basically, again, where ICT teaches anything under the point five. And I'm expecting you guys to know this.
+[00:21:31] Okay. I'm not here to teach you ICT content. I'm here to reinforce it and kind of show you how I use it. Okay.
+[00:21:37] There's a difference. ICT's content is free. Okay. This is a free class because I am doing some teaching of ICT accounts up here. Okay.
+[00:21:45] That's why this is free. I'm not going to make that ever pay. That's just, this is dumb. Cause you can watch for free. I get some people have work and they can't watch ITCT videos or it's too long, whatever. But this is why I'm doing this.
+[00:21:56] So we have discount under the 0.5 and then premium over. And again, you want to long in discount because again, when you go to the store, right, you want to buy things in discount.
+[00:22:07] So you can now see that most of this actually all of this for Valley Gap, like David said, this is not a discount.
+[00:22:14] Okay. So this whole for Valley Gap is none of it is in discount, which is the first red flag of longing here. Okay, could we still get a bounce in premium off of February I guess.
+[00:22:25] Yes, we could and ideally it's not the best for us award take. It's not the most high of his probability take, but we could still obviously get some sort of bounce. We could
+[00:22:35] have gone like this. Okay, would that have me and I probably would have entered? Probably not. I usually want to see discount when I first and again, you can't feel FOMO even if this works. Okay, probably just one of my third and there's plays where I'm live trading
+[00:22:47] I'll already say okay even if this works. I don't care. I'm not entering okay, and I I don't give two shits, right? And over time you'll learn not to care. Okay, I used to be really mad and I know Eric
+[00:23:03] Yeah, so this was a nice confirmation. I Kind of explain this in a second. Okay, but do you see this big giant zone I have here?
+[00:23:12] Okay, this is where I was looking for confirmation off I don't care where we bouncing this for a valid gap, but if you look at the one that right now Confirmation set up would basically be a
+[00:23:22] second fair value gap, so There's not any good for bad gaps here. There's no good really displacement for your bag up Just this tiny one better really like this displacement
+[00:23:31] Okay, when I see this candle going through this bearish for a bad gap That's an inverse for a bad gap. Here's your confirmation set up to lawn. Okay, and I yourself would probably be it already break even. So I use this bigger zone to enter the smaller zone. So this is kind of what I'm getting
+[00:23:46] at over here. I'm thinking for point of the out area because I was waiting for that. Okay, so now if I go back to down here, right, I'm talking about discount premium. So because we had discount,
+[00:24:02] it's not going to be better long. Even if you tried getting a confirmation entry here, Okay confirmation entry would basically be like if I go into replay mode, okay a confirmation entry would
+[00:24:13] be like something like this so we get a high or low another high and then maybe SMT here or maybe run the logo and then a higher high and then a second fair value gap right here. So if I got a
+[00:24:29] confirmation set up like this okay now my restore world yo what's up John I see you in voice. Now my risk award would be, uh, okay, wait, this is going to be another gross question.
+[00:24:43] Type two, if this would be a risk award, okay? Type one, if this would be a risk award. you better answer. Okay, I said type two if this would be the risk award. If you've got
+[00:25:12] a confirmation, actually the fair value gap here. Type. Okay, the current one like this. Okay, and the reason why this would be the
+[00:25:25] Okay, the reason why one is crack waves, but are still here on a permanent stage The reason why this would be the answer is one obviously this is a much better risk of work
+[00:25:38] But if you remember what I said, where's the stop-loss always after Always have to make it very gap. Where's always a stop-loss? It's always gonna be swing low
+[00:25:47] So on the higher time frame and then this fair value gap the stop bus is gonna be here But when we get another low and then a market structure shift here with decent displacement Okay, now we have a new now even new fair value gap with the new low
+[00:26:01] So now you just move your stop up to the low below this fair value gap so now the risk reward would be much better and this is a big big part of my trading okay, this is how you kind of
+[00:26:15] This is how you make your risk rewards really good. Okay, this is probably I Think psychology and journaling and track your trades. I think that's the most important chart part of trading
+[00:26:26] Okay, I think one of the most key things you can do when learning ICT is doing exactly what I just said Not blending long in these five-minute giant zones
+[00:26:35] Okay, I'm waiting for the confirmation entry even though we might not get a confirmation sometimes Okay, even though you might not get a confirmation entry sometimes you're still gonna Be profitable because even when we don't get it, it's not like you're losing right you're not gonna lose when you're not getting confirmation entry
+[00:26:50] It's just you're not taking a play at all. So you're not losing you're not winning Okay, but if you do get a confirmation entry the chances are the risk of war is gonna be good Is pretty good and the chances didn't win is probably also going good. Okay, so if I ever see this usually this works out
+[00:27:08] Also as soon as we hit this high, okay, this is when I put my stop to break even So if we hit the fair value gap entry, which obviously I'm not gonna bottom ticket. I'll probably make it
+[00:27:17] I'll make it more realistic and put it right here. Okay, so I'm probably not gonna bottom take this but Because that's not again bottom taking everything is not realistic. Okay, let's say use
+[00:27:27] Million fibs. Okay, that's the only way you can bottom pick stuff Again every single time we re hit the internal high after getting a mad tree
+[00:27:37] This one I put my stop to break even okay, that's another thing you should remember Okay, I'm not putting my stop for break even right here. Okay, it depends on the play, but if This was actually like a five-point move. Okay. If from me my entry to here is a five-point move
+[00:27:54] Then yeah, maybe I'd put myself to break even if it's less than a five-point move I'm not putting myself to break even until we hit the internal high that we just made so now if we hit this The hand just requests to speak if you want to speak
+[00:28:08] Okay, so now I'm putting myself to break even as soon as it hit this high. Okay, most people don't understand Okay, if you put your stuff to break even before you hit the high. Okay, you you risk this could happen
+[00:28:22] okay Before you hit the high this could definitely happen and it kind of goes with another concept that kind of teach Okay, the concept being whenever you get very close to high and just don't hit it
+[00:28:34] We often come back and hit later. So that's kind of what you're risking here So that's why I wait to put myself to break even until we hit the high and once we hit the high Okay, I do not really expect price to go back down to entry if it does that's fine
+[00:28:47] Okay, once we eat the high usually off to I've taken like 25% of my cons off Anyways, and I'll just kind of hold the rest until this target up here. So I think that's another kind of useful tip When you think the fair value get right now
+[00:29:07] See, see how much we're running right now up this five minute zone. Once again, I got to update this Would you short this favor like up right now, I know the answer - what do you know?
+[00:29:22] This is see this is not like time anymore. Okay, obviously, what a short this when you guys short this favor like up right now Live time tell me the answer
+[00:29:37] (keyboard clicking) No, full port yes.
+[00:29:53] No, not yet, no, no, no. Here we go, sis, no. No, no.
+[00:30:07] okay yes okay we got one yes okay Vic why would you say yes why would you short this for a bag up right here breaker block okay ad says yes okay
+[00:30:26] ads there's equal lows below I get that this is to remember I don't hold as much weight on these equal lows and Asia session because it's Asia and there's low volume so we're going to get these okay as but there's equal highs above here too so
+[00:30:38] why would you so how do you know which one's going to be hit okay so Vic says break your block add says yes equal those below here Aleita says I miss
+[00:30:59] her okay we're getting all the times all the times of answers here okay so my answer is I want to see what Eric says so let's just kind of a trick question so
+[00:31:15] because this is easy session okay obviously I'm not taking any play here but if this was during market hours I would say it's it depends on your rules okay I
+[00:31:25] have a rule where if we have equal highs above and you can see right here is 1, 2, 3, 4, 5, 6, 7, 8 equal highs above, there's also equal lows below, 1, 2, 3. Let's say these weren't here, if these weren't here, then no, absolutely not, I would never
+[00:31:41] short this for every like app, okay. Even though, even though it's in premium, okay, I have a rule where if I see equal highs above, especially this many, there's like eight right here, I would not, I would not
+[00:31:55] short this. Okay, for you guys in my premium, can you tell me what I would use this for? It's also, you can see it's a bigger five-minute fair bag. Can you tell me,
+[00:32:22] my premium member, can you tell me what I would use this for? Hey, good job, good job. So this very, very, I'd be looking for this to be breaking above, okay, broken above,
+[00:32:47] and then I'd be looking for a potential long off it, okay, and here's where, if you look at this game candle right right now there is a fairy valley gap live inside of it okay
+[00:33:00] will this fairy valley gap last i don't know i'm gonna have to wait for the candle close but the best time to long an inverse fairy valley gap is is when we get a close above and we also leave another fairy valley gap overlapping with the the inversion one
+[00:33:14] so in this situation i'll be looking for something like this and and for you guys who said you would short this okay this is a fairy valley gap i have shorted myself many times and i've gotten wrecked
+[00:33:25] and I used to short stuff like this all the time and I get wrecked, okay? I later kind of knew why and a lot of more than I thought, more of you said no than I thought, okay? I was expecting a
+[00:33:36] little more yeses to short this for a very like yep, okay that's totally fine. The old me, I definitely would have shorted this for a very like yep. But this for a very like yep, because we have so many equal highs above, again, three equal highs are in the A's of chess and I just, I don't,
+[00:33:50] I don't put much weight on them, okay? We, we form a lot of equal lows and equal highs before the the Aza session. Okay. Um, and another reason, okay, when I, when I teach you guys to draw
+[00:34:04] on liquidity, okay, if I teach you guys to draw on liquidity, every time after we bounce off a fair value gap, right? So you can see we're clearly bouncing off this on the, on
+[00:34:16] the 500 timeframe, where is a drawn liquidity? If you see nice momentum candles off a fair I got where is typically the draw on the quality
+[00:34:27] It's the same answer every time Hi, how are you good? How are you?
+[00:34:46] Yeah, all right. Can someone tell me? Okay. I see one right answer. I see two right answers. I see one even better correct answer. Okay. So exactly. So because because I see we bounce off
+[00:35:09] this for a very gap. Okay. And here's the thing. This bounce off this for a very gap is this is Hines are you know, okay, so it's I could say oh we bounced off this for a fairly gap
+[00:35:18] I totally expected that okay, this is hindsight What's not hindsight is where I know the drawn liquidity is right now Okay, it is not hindsight where I'm saying the drawn liquidity is up here
+[00:35:29] Okay, because I see two nice momentum candles here We ripped through this for every leg gap like I was expecting. Okay. I am expecting the drawn liquidity to be these highs Okay, and because we still haven't hit them yet. Okay
+[00:35:44] This is not hindsight because I'm expecting us to sell hit these okay, and even though even favor like up up here again I have a rule I never short with
+[00:35:54] Equal I never short equal has above so if we even got to this favor I get which one is also above this order block Okay, you can see it's above the sword block. We have been breaking order blocks, which is bullish and
+[00:36:07] We'd always also be pretty close to these highs, right? So because this line looks like retail resistance, okay? The chance we're gonna hit this is pretty high So there'd be no point in shorting this for value gap. Okay, it's like a double top. This looks like a double top again
+[00:36:22] We'll break it Smooth edges made jagged. Does that hold true? I'm not sure you mean by that
+[00:36:33] So again, you can see in live time. I literally just told you guys in live time This is literally what I would do it in live trading. This is literally what I do all day I tell people I'm like, okay, I'm not longing this for a bad gap or I wouldn't long this for every like up
+[00:36:45] and here's why and I would say 60 70 80 percent of time it ends up failing after I say no, I won't long it, okay? And you can see right now we're excited for a bag up again
+[00:36:58] But this is gonna be the better risk reward So I've seen my first partial's target is this high. Okay, so maybe I'd expect us to go like this right now ideally the better risks of war would be something like this and then we hit this
+[00:37:12] high and then once we hit this high again that's when I put my runners to stop and break even and then I target this high up here so again I don't trade the Asia okay this is just kind of on paper right now I don't care what happens okay
+[00:37:24] this will not affect me in the morning but this is Lydia what I do in live trading I say okay here's a favor I get here and I say I would not short this
+[00:37:34] right? And the reason why I don't trade Asia is because this is pretty low probability. Again, let's get totally fail. I guarantee you if this is market hours, this would be pretty textbook-long setup. So again, I'm just tape
+[00:37:45] reading. We'll see what happens here. But again, I said I would not short this for a daily gap in my time. Okay, that was not hindsight, right? And we end up
+[00:37:56] blowing through it, okay? And this is obviously, we only went three points to it so it doesn't really matter too much but anyone during the market this would be probably a 10 point stop or five or probably seven points right and because
+[00:38:10] it's Asia it's not really that much right now so it doesn't really matter but that's kind of what I do and a lot of people they they trouble they they take fairy valley gaps and they fail and they kind of don't know why so what I tried
+[00:38:24] doing when I live trade is I say okay here's a fairy like gap I probably want take it because of this and this. Okay, that's kind of what I do. And in the bigger timeframe, okay, this is a bigger five minute Fair Valley gap. So this whole Fair Valley gap is technically
+[00:38:37] an inversion Fair Valley gap. You can just see, I drew the one minute one. And then this would be the Fair Valley gap inside of the version. So we'll see if you get a bounce here. Again,
+[00:38:49] I don't trade Asia. I don't care what happens here. As long as this holds, I'll say the drawn on the Quiddies up. Again, this is not, you should not be trading Asia.
+[00:38:58] When I first got a futures account, I was like, oh, no, I can trade Asia. I traded a few times, got wrecked on some really nice, nice textbook setups,
+[00:39:06] and that was that. I just stopped trading altogether because there's not enough volatility, there's not enough volume to kind of support some of these moves, okay?
+[00:39:14] I tell people, a guy living in Pakistan, a 14 year old living in Pakistan
+[00:39:22] can take their mom's computer and it buy three ES contracts and move the market right now, okay?
+[00:39:29] That is not what we want to be trading. So yeah, for you guys who do trade Asia and you are profitable during Asia,
+[00:39:37] I can mind you, I just don't think it's, it's very high probability. It's not a kill zone either, as Eric said, okay? I try to trade only during the kill zones,
+[00:39:44] which is two to five AM and two to five AM eight thirty till like 11 a.m. or I guess you could say 12 because 12 to start a
+[00:39:54] lunch. I'm usually done by 11 though. So this is kind of a live example happening right now. I'll say the drawn liquidity is this high and then these equal highs.
+[00:40:06] Again I want to see us hold these and let's see this was during live market hours. Okay if this was actually during live market hours. Okay I would probably not expect these to be equal lows. You can see these are triple equal lows. And
+[00:40:21] I do have a rule where I do not short with triple equal lows or I do not long with triple equal lows or more in the one minute. And I have that rule because I've longed a lot
+[00:40:33] with equal lows below and then the fairway gap just kind of gets wrecked. But if you really think about it, these equal lows are here just because of the low volume. So I
+[00:40:41] don't think they're going to hold as much weight as something like this. But if these We're truly here during the market open and we'd a lot of volume in these did form here I would have not along this but my guess is if this if there's a lot of volume here
+[00:40:55] These probably would not have formed okay, but if they did I would not have heard along this and What I do is okay. We see equal by the way this I would not take this for you like up either. Why?
+[00:41:06] Okay, someone tell me why I wouldn't short this very value gap. Hurry Because it's gonna fail I think and and you're gonna be like all the time tight So if we're balancing off a higher time frame PD array, which this is horrible, but I'm
+[00:41:27] going to go ahead and go ahead and go ahead and do that. So we're going to go ahead and do that. So we're going to go ahead and go ahead and do that. So we're going to go ahead and do that. Exactly.
+[00:41:33] Again, we came to this high. We almost hit it, but we didn't. So we're going to come back to it. Hit it later. I'm not sure when. Okay.
+[00:41:39] And we're also balancing off an order block. Right? So if we're balancing off a higher time frame PD array, which this is horrible, we're going Horrible okay, I just want to make this clear okay. We actually hit the bottom lower block
+[00:41:49] We even went to meet threshold, but again, this is low volume. So again, this is gonna be pretty choppy But again when I see us respecting or the block respecting for everybody gap okay in this case out argue
+[00:42:01] We respected so far. We're expecting this five minute inverse for everybody gap rate when I see this My first my first guess where the drum liquidity is is this high so and also another thing is
+[00:42:14] there's no market structure shift here okay we never get a market structure shift here so this would be low probability it would also be low risk okay there would be low risk because
+[00:42:23] the stop would be up here which i think is going to get hit some point tonight um but like right here uh there's no market structure shift there's not any low we're breaking with a lot of displacement
+[00:42:35] so even though this might work i do not care okay you got to get into that habit i do not care this works okay I do not care if this short works because never in a million
+[00:42:46] years would I ever take this short because we have equal highs above which I think are gonna be hit at some point and it's just it's not it's not high probability okay if we were in market hours and these were actually equal
+[00:42:58] lows and these were actually equal highs what I tell people is I say wait till one gets swept and then look to under position so if these were truly equal lows and we were in market hours I'll look for something like this so I'd
+[00:43:12] either wait till these get swept and then I look for long or if we swept these first maybe filled up the gap okay this is kind of what I don't want we filled
+[00:43:24] this gap all the way to the top then I'll look for a short back down to these equal lows so if you ever see equal highs in equal lows wait for one to get swept and then look for the setup. That would be my opinion. You can see right now we are holding
+[00:43:38] this volume and balance. This is another extra PD right here. So yeah, I learned never short of this. If we dump the hundred points off this
+[00:43:52] satellite gap, okay, would I care? Absolutely not. And you just have to get into the mindset. And that's not something I can teach you. That is something that you learn to experience. and that is something where the old me would have been like oh come on I missed a move I want to get
+[00:44:06] back in I want to revenge trade okay but you can't you can't be in that opinion um yo what's up Hunter I just see you're just doing uh so yeah that's that's my take on that um
+[00:44:18] so again the confirmation set up in this in this area in this kind of example was we have a higher time frame for everybody gap down here okay so once you bounce those five
+[00:44:28] I had time for you very really gap. I don't know exactly where we're going to bounce from this very very gap. I'm not a magician, right? I don't know like we could have bounced here. We could have bounced here. I don't know where we're going to bounce in this tiny zone. I just I just don't.
+[00:44:43] Okay, there's no way knowing where we're going to bounce into a very bad gap every time. But there is a thing a way to know when we get a confirmation set up, which would be right here. where now even if you don't know where we're gonna bounce in here the worst you
+[00:44:58] can do is enter right when we take in so if you can see this is the beginning of that right and then this is the point 50 so obviously this is not part of the fair breakup so you would have to put your limit right there which means you
+[00:45:10] probably would have maybe not gotten filled I'm not really sure okay but this is where I put would have put my limit and the thing with this is now that you
+[00:45:18] have the smaller zone now you're gonna know even if this doesn't work your stop is going to be much, much tighter and you're not going to risk a giant zone because obviously if you're entering here your stop would be much lower here. So that's kind of the key
+[00:45:33] to entering this right here. And GG's just posted that. I do agree with that. I do think whatever happens we're going to go like this or maybe this. I can see that too. It doesn't
+[00:45:48] that if it's not going to come out of me I don't care what happens overnight, I don't trade this. I do think this will be a nice target though.
+[00:45:59] But what GG is saying is he thinks we're going to come back down to this one minute and bounce on this. And the reason why this would be a plausible kind of prediction is because
+[00:46:13] now we have this intermediate term low right here. and then bouncing off a inverse favorite value gap, then going up.
+[00:46:20] It doesn't matter which order we do it. I'm not just going to short here just because, oh, I think we're going to go hit this. I prefer looking for long because I'll be more
+[00:46:29] confident in this height and then possibly this height right here. But when you get these lows created right before these favorite value gaps, those are other really good favorite value gaps to log.
+[00:46:40] I think there's a nice example. I think there's a nice example Friday. This session is an L. I used to think this session was awesome to trade.
+[00:46:58] I took a few nice winning setups and then I kept trading and trading it and I realized how bad it actually was. but yeah.
+[00:47:09] Let me see if I can quickly find an example from, I think there's an example where we create a low and then we hit a fair value gap, okay so like right here, right here.
+[00:47:26] This is not a fair value gap I'd ever really put a limit order in, okay but it's still, this is more of a hindsight fair value gap where you can see this one.
+[00:47:34] textbook but it's just not it's not something to advance ICG changes you're not just going to put your limit there okay I get oh you could have said oh we
+[00:47:43] bottom picked it and you okay you could have put it limit any fair value gap and it just happened we just bounce out of this one right so but in this example the reason why fair value gaps like this are so good is because we create this
+[00:47:55] low this low this low this low so now what I see is we actually never take that's what's going on. I'm
+[00:48:05] going to use these lows over here. So we never purged you lows. But the reason why fair value gaps under lows are so
+[00:48:13] good is because. Even even like good fit traders even good ICT traders right. They're going to be long here and they're going
+[00:48:21] to say oh I know I know the draws up here and we eventually hit it right. But what's going to happen is. They're going to
+[00:48:29] get stopped out and then we're can't avoid this. So sometimes what's going to happen is you're going to be like, Oh, there's a fair bag up right here, right? Let's say this is a fair bag up. It is actually
+[00:48:38] kind of a tiny one. I'll just, I'll just draw this one. So there's a fair bag up right here. We bounce off it. Let's say you're long right here. Okay. And let's say your target is this
+[00:48:48] high. Okay. But what happens before you hit this high? Okay. We were tracing to a deeper fair bag up and then bounce and then you're going to be all mad and be like, Oh, I never,
+[00:48:59] right. But this is gonna happen to a lot of good traders. It still happens to me, even though I'm- I know to expect it still happens to me time the time, right? Um, and it just- there's nothing to do about it. The only thing you can do about it is eventually reentering if you do get a reentry.
+[00:49:13] Um, but sometimes if you long this for a bit, like, obviously you're gonna take partials here and your final target's gonna be here. And oftentimes you're gonna get stopped out for your partials before we hit this high, right? So.
+[00:49:27] these are a lot of good for any of us to look for that if I get under highs and low so you can see this for me is clearly under a bunch of lows here case of which is why I consider this a nice for a get along this is again more behind sight thing I would never long as a lifetime
+[00:49:45] of because I would not have expected that, but that's another kind of like to look for. You can kind of even see with this. Where is it? Right here. Okay.
+[00:50:01] You can see this is a textbook, just textbook for every I get. But I know some people might premium. They did long this on Friday. This is a textbook for every I get. But what's going to happen? Every single time we bounce out of every I get like this, the low hanging
+[00:50:14] fruit was always going to be the high that we made before going to the for every I get. But once we hit the high, that's when I put my stop and break even. Or sometimes I'll just, I will take Prostrels here and then I'll target this high.
+[00:50:29] Okay, but you can see even though this is a textbook, it ends up going through it. But even, this is not really a complete fail because even though we don't hit the major
+[00:50:38] drawn liquidity here, we still hit the low hanging fruit. And once we bounce out this very bad, I come and hit the nearest term high, I would still that's what I'm going to do, I'm going to do a little bit more
+[00:50:51] than I'm going to do, but I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm
+[00:51:01] going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little
+[00:51:10] bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little bit more than I'm going to do a little this happens. Even right here. Okay, this is a textbook long right here.
+[00:51:23] I don't see a textbook long here. So, throw it by no way to get in before this move. Even like there's not even a retracement once we break over this inverse for a bad gap right here.
+[00:51:34] There's not even a retracement to it. So again, this is an example of a move where you would not get in. And if you say to me, oh, I would have gotten into that move.
+[00:51:43] say to me, oh, I would have gotten into that move, OK? Maybe that you probably don't trade ICT, because there's no ICT entry into this. OK, all I see is, oh, you pump out this for an AI gap.
+[00:51:52] There's no confirmation entry. There's no retracement for an AI gap until we get back down here. So what I notice here is we actually
+[00:52:01] create some nice equal highs, right? We create some nice equal highs, and then we hit premium. And I think it was a 5-minute fair value gap, OK?
+[00:52:12] It was a five minute fair value gap, which was right here. Then we hit premium, and then e-long.
+[00:52:22] And if we hit-- all right, so I'm going to answer this question. If we hit-- if we went like this, and then went like this, and then went like this, would you have long missed?
+[00:52:38] If we did something like this, would you have long missed? say yes or no chat. Even if we if if let's say just this week is higher than it really is right now let's say it's right here and this exactly happens in hindsight
+[00:52:54] when you've said oh this went 20 points when you've longed this in live time. So we got two yeses and everyone else is saying no.
+[00:53:13] OK, we got three yeses. All right, for the people that said yes, can you tell me why you belong this? And then I'll ask someone who said no.
+[00:53:29] It isn't discount, which is a very good sign. Jackson said absolutely not. Yes because it breaks the structures in seconds.
+[00:53:42] The question is if we hit this high and then came down to this and then went up would you have long missed in live time? You probably would have shorted okay.
+[00:53:57] Eric said no okay what for the people said yes can I know why I see your answer Marilith Eric says no, but people said yes. Why would you have long this? I'm curious
+[00:54:22] Discount FHE and order block, okay, so it isn't Uh, it's also kind of a breaker as well. It actually taps at the scent I see that, okay
+[00:54:33] But we took this high so why would you long this if we already took this high? an hourly, and an hourly, and an hourly, there's another high right here too. This was a high also in the hourly, keep that in mind.
+[00:54:53] This was a high in the hourly, and what if we re-took this high right here, and then you're still saying you're allowing this, even if we took a major high in the hourly and a high
+[00:55:03] right here. No logs. Okay, so here's the answer. So even though, even though that if this hit at this high, I would never loan this.
+[00:55:30] Okay, and the reason why is, again, I say, don't loan fairway line gaps after we hit buy side. So this high would be buy side,
+[00:55:39] and you don't short fairway line gaps after hitting sell side, okay? It's just, that's just common sense to me at this point. It should become sense to you at this point.
+[00:55:47] Even if we hit this high, and we hit this high already high, and even if this worked, I still probably would not have long missed, okay?
+[00:55:54] What, I don't care that you pumped off it. The only reason this was a good long is because, again, we have these equal highs. We actually never stop these guys out.
+[00:56:02] You can tell, this is a stop out candle. The magnitude of this candle does show us all these guys got stopped out.
+[00:56:10] The reason why it's so big is because this is a double stop. You can just tell these guys get stopped out just because of this candle alone. The only reason this long was good was because we actually never took this high.
+[00:56:24] If we did take this high, this long would have been a horrible long. Six times out of 10, this long would fail if we took this high and then we would treat us back down to this very big gap.
+[00:56:34] And Hunter said some days are just bullish, bro, and I do agree. So Friday was a classical trend day, which means from open the close, we should keep
+[00:56:45] going up. Even if we hit by a set of equity, we should still target higher balance and efficiency. No, Hunter, you actually, you're not wrong.
+[00:56:55] There usually is one Trend Day week or one Trend Day every two weeks where we will literally hit buy side in the hourly and just keep going up.
+[00:57:04] And that is planned, okay? And it's hard, it's definitely hard holding past buy side. It's definitely hard holding past buy side, but there will be days where we hit buy side
+[00:57:18] and keep going up and people will be like, "Oh, why didn't it hold longer?" And especially if you guys are doing these funded accounts, okay, I told someone really, I don't think it's personally a good idea, like if you long this very bad gap right here
+[00:57:29] and you're in a funded account trade, I don't think it's personally a good idea to hold past the double top or hold past the target, okay, especially if you hit major buy side.
+[00:57:40] And the reason why I think that is because if somehow you're up like this many points, and let's say there's buy side above here, and we end up never hitting it, and then we
+[00:57:50] go back down you're gonna be so much in profit for the last contract where by the time we get back down to the low okay that contract is gonna affect their trailing drawdown so that's why I would not recommend if you're doing the
+[00:58:04] trailing drawdown funded that's what I would say for those yes I'll drop to the one minute also look what happened okay remember what I said about this why
+[00:58:16] this would be why I would want something like this maybe okay we took this low we took this low and bounced off this inverse rate value gap so this was a
+[00:58:29] textbook long setup we should go and hit these highs right now the risk or word would be the the entry would be right at this low okay well actually I'd
+[00:58:41] Let's say you take below, but I'll put it right below. The stop-loss would be a close under this fair value gap. A stop-loss for any inverse fair value gap
+[00:58:51] is a close below it. It's not a wake below. We wake below it's fine. So a stop-loss right here would be close below this inverse fair value gap.
+[00:59:00] And then your take profit would be right here. And then this was the confirmation long. Okay, so I'm gonna actually move this up.
+[00:59:08] This was actually the confirmation long that I kind of talk about, okay, so if you do not feel comfortable longing this, this would be the confirmation law, and this is going to go over some of your heads, but this
+[00:59:18] is a volume imbalance, okay, so you see a volume imbalance at the bounce office for your bed, get taking a low, this would be the setup now, okay, so that's kind of, that's, that's
+[00:59:31] the confirmation law for this particular example, and because this is a session, if I actually did after this my stop would probably be a break even now because I would not
+[00:59:41] want to see us go back below this low crate in this vine balance once we hit a vine balance we have a strong nice momentum candle out we should not see back to the slow we should see just up us going straight to these highs right
+[00:59:53] now so I'll just put my stop break even at this point it'll be a free trade uh can you chart something in yours really quick yeah what's up five minute
+[01:00:15] also we still never wicked below the sibby so again this is a sibby in a larger time frame sibby just stands for south side and balanced bison and efficiency all the sibby is is a bearish
+[01:00:26] for your value gap. So any bearish value gap you can see is a SIVI and again when we go back over that it's used as an inverse. So I kind of mentioned it before but if you had a five minute SIVI
+[01:00:37] we close above it now we want to see it use the support no matter where inside this we bounce. fib tool and discount that SIVI, this one right here, from body to body.
+[01:00:59] The FPG, yeah, I did that. What about it? Wait, do you mean like that?
+[01:01:12] yeah what about it okay so there's the first partial target okay there's the candle is expecting so here would be my first partial target okay do you understand do you guys understand why this would be partial
+[01:01:25] target it's because this is such a major high here before this high so i'll be taking partials right here just in case um and you can see so far that was
+[01:01:35] almost a deep point move um so again this is one of my predictions and end up working nicely. This should hit the target. Again, if you, if you didn't long this or didn't
+[01:01:45] get in, don't get in now. If you did get in it, I think McGee said he longed it. So good job, McGee. I'm assuming your stop is a break even now.
+[01:02:00] Also, yeah, he's trying to point out that if you draw this five minute cibby right here if you draw a discount to premium from this low to this high which
+[01:02:13] i typically don't do i draw from the leg um it technically did go into discount right for it to go lower and break that swing would that be considered a higher resistance
+[01:02:24] liquidity at this point well i'm not going to lie that made no sense Also, now if you look at this vervega, I would not want to see back below this vervega.
+[01:02:40] Okay, so I do not want to see this break back below this. I want to see us hold this and then hit this high. If we break back below this vervega, that likely means a play may fail. And yes, good job, Jujis. You did call that.
+[01:02:54] And it was one of my predictions. So either way, both my predictions had us going back up to this high and I even said when I when I look for longs looking for longs under lows
+[01:03:11] inside for a bag up so I was kind of this example here which is located below and then the long was inside this inversion for a bag up which still causes for a
+[01:03:21] bag up under the slow so this is why it's such a good long hunter did you get in that trade to. No way.
+[01:03:33] So now we're retesting this. So if this were live market hours right now, okay, I'd probably try logging this if it was live market hours, but I'm not I'm not playing this, please no one
+[01:03:42] touch buttons here. Not even demo. I'm not I'm not demoing this. I'm not touching this. But see if this gets used as an inversion.
+[01:03:53] Again, if I was managing position here and I got into this I got in here, just for the sake of me managing my position, what I don't want to see us hold here. But you guys see why this was so important to take partial to that.
+[01:04:07] Look what happened. As soon as you hit this, we just went down again. Okay. And even though we have this high up here, this is still a good partial spot because, again, if you visualize the higher time frame here, if you visualize this as a 15 minute time frame,
+[01:04:22] frame. This is going to be such an obvious high in the 15 minute time frame where like if I go to the 15 minute right now. Okay. Look, this is see how obvious this high is. Okay.
+[01:04:35] It's really the only high you can see. This is why. Okay. Again, you have to visualize the higher time frames and this is why it's a good partial spot because it's such an obvious
+[01:04:43] high on the 15 minutes. So that's immediately when he hit, I was like, okay, this is where to take partials. Hunter, you did earlier? Okay. Yeah, it's, I mean, if you long this, I guess it's fine. I wouldn't get into the habit of trading Asia. It's nice to maybe
+[01:04:59] practice in demo. So far, there's no close below this fairy bag gap, which I like. Okay, I do not want to see a close under this fairy bag gap. If we do, that likely means the place
+[01:05:09] probably gonna fail. It's not gonna fail. It's just you would probably end up getting out the breakeven so it's just kind of another indicator to see what where the trade's going. Eric says I always have a take profit a tick or two also before
+[01:05:24] any high that is another thing I kind of say if we have ever equal highs like this okay my my take profit right here is not going to be that equal it's not going to be the equal highs because if we hit these equal highs and make more
+[01:05:38] equal highs and just go like this okay you're not going to get filled at the bed okay if it just sits like this and you're trying to get filled you're not gonna get filled probably so I always put it just to tick below just in case we
+[01:05:51] make more equal highs because sometimes what happens is okay we do this and then we go back up and let's say your entry was right here okay and we do this and
+[01:06:02] you don't get filled you're gonna go back below the entry and that's not gonna be obviously ideal. So that's another thing you should do. I always take profit of ticker too. Yeah so that's kind of that. Alright so I think this so far this is
+[01:06:18] gonna get session. You can see the one prediction. GD's kind of put in a chat which made sense. Kind of worked out and the one that I kind of show over again
+[01:06:29] we went under low inside of inverse for a bad gap and we got a nice log from it. And you see in this example, you see in this example, you would have taken partials here,
+[01:06:41] probably 50% of your position. The rest, you would have just gone stop the break even. And that's okay, it's not a losing trade, but that's how it's gonna work sometimes.
+[01:06:50] In case of the rest, you probably wouldn't gonna stop the break even. This is Aza Shusson, I don't care what happens, I don't trade this, as I said, for the multiple times.
+[01:06:58] Okay, but you can kind of see even in the live time, the algorithm is still kind of working here, where we use this inverse for every iPad gap is a nice long area, hit this partial spot,
+[01:07:08] and you can see, as soon as you hit it, I was like, okay, this would be spot to take partials, and that was pretty much top so far. I will expect to run up to the some point tonight.
+[01:07:19] Again, sometimes what's gonna happen is we're gonna hit a partial spot, we're gonna go way, way back down here, and then we just go up there later, okay,
+[01:07:25] and you can't control this. That's why taking partials is very important. You can't, you just can't control that sometimes where I've seen, I've seen moments where we
+[01:07:37] get so, so close to equal highs. And then we dump all the way back down to the lows and then we go back up and hit them. And I've seen that.
+[01:07:45] Okay. And that's why I express taking partials, although sometimes you just go right to the equal highs and if you don't do this, it's still a possibility, which is why you should always take partials, which is why immediately when we got right here, I was like, okay,
+[01:07:58] This is a good partial spot just in case this fails and it ends up just thumping after that. It's always important to take partials at these internal liquidity spots.
+[01:08:08] Any internal or external, again, the difference is this would be internal liquidity because it's in the middle of the range.
+[01:08:16] Ideally, this would be the external because it's outside of the range right here. This and this would be the external, but this inside of the range would be internal. would be internal right here. Okay, all these lows and highs in between this, these two
+[01:08:34] outside, these would all be internal. And trading inside internal danger, liquidity can be difficult sometimes. What I prefer is I like trading in the edges. So I'd like to see us hit external
+[01:08:49] and then have a nice long setup. Okay, I do trade in the internal sometimes, just depends in the day, but yeah. So does anyone kind of have any questions they would want to ask? Internals? Internals are good, but you can fade them. I fade them many times. Yeah, I know, John.
+[01:09:20] the house message of two I don't I don't think I don't know if I fit internals and look at them every day as does a joke
+[01:09:38] unicorn setups like the breaker blocks I can go for unicorns and unicorn setups another day yes this will be this is all recorded this does look okay this does look semi bearish here but something I always
+[01:09:53] look like to look at is okay are we getting a body closed but low and old for very gap and this is an old inverse first for very gap rate so far no body
+[01:10:04] close under technically this kill still could work okay but it doesn't look promising maybe expect the rejection here or something like that and this
+[01:10:14] just me reacting to live time even though I think these are gonna be hit eventually this is kind of me reacting live time Again, it's not something out short. Okay. I'm not gonna short this if I think we're gonna go hit these equal highs above
+[01:10:24] This makes no sense that means I'll just be going against my bias while I short if I think we're going higher than just Even if that worries, I don't care I
+[01:10:35] Prefer to trade the newer accession My YouTube if you guys type in YouTube daddy's DD That's my YouTube just type that in YouTube. That's where you can find my stuff
+[01:10:50] And by the way my premium is closing at Tomorrow morning before the market opens up close in it. So This is the cheapest will ever be again. I'm raising the prices probably next month
+[01:11:05] And the reason is I want a million more people joining so there has been a ton of demand So obviously supply money reads the prices, right?
+[01:11:14] Try to sign up a patreon, but it's not working I'm not sure you can try DME if you're trying to I don't know how patreon where someone just told me to use patreon when I started this That's what I did
+[01:11:26] Yeah, I'll share the youtube link and I'm always peeping it, um, I'm always peeping it when I'm in my chat talking to my people, um, and it seems like you have similar ideas as me, so it's nice to see.
+[01:12:00] I'm always peeping at when I'm in my chat talking to my people and it seems like you have similar ideas with me, so it's nice to see. Here's my YouTube, if you guys want to go watch that or whatever, I'll be uploaded later.
+[01:12:23] Is there certain number of ticks that are required to count as ticking out bicered? So what Neil is asking is, is if we went like this, like this, right?
+[01:12:37] And we rejected a chick above by side. Technically, yes, this is still running stops, but this is where I don't think people are actually
+[01:12:48] getting stopped. If I ever see a major candle like this, like where we go one or two points above, It's a nice pumping green candle then I'd be like okay this they're definitely getting stopped now
+[01:13:00] You'll kind of notice that they get stopped. They're not like I guarantee you over this will have a nice green candle at least a point above There's just no way we don't
+[01:13:10] But if it's like a tick above like this I'll consider yes, it's technically stop run, but these guys are still not stopped You can tell when they get stopped or not and this is something where this is kind of controversial where some people might say
+[01:13:24] Oh, they've got stopped. No, they didn't kind of controversial So right now you can see we're inside this inverse and find balance and it also lines up with this
+[01:13:37] Fair bag up right here. So obviously for me if I was bullish here, I want to see Reclaim this volume and balance
+[01:13:45] Reclaim this very bad gap. So I would not short this We're still obviously holding the inverse the inverse vervega -
+[01:13:54] Again, it just worked. I don't really care I'm not denying the fact that if I was bear share what's shorter, but I'm not because again, I rule I don't short with equal highs above So I ideally I want to see us reclaim this and have a nice giant green candle here
+[01:14:16] Is there any other questions anyone has Again, if you guys are premium you can ask me questions all morning. Tomorrow's I don't know if the president's gonna be good I'm using the FPG indicator. Let's go Lakers one
+[01:14:50] So you can see exactly what I thought was gonna happen is happening here now I want to see a nice can of clothes above here And you can see how we came very close to this highway never hit it. So I assume you're gonna go back and hit this at some point
+[01:15:07] This does kind of look like a little like a juda swing where we get consolidation and just a random dump out of nowhere Okay, usually when you see the setup, we just go fill this candle and go back above
+[01:15:18] But again, if I was bearish, I would short this but I'm not I'm bullish here, so And we still never closed under this favorite I get which I like
+[01:15:28] Again, I don't care what happens. I'm kind of make it sound like oh, this doesn't work. It's in the world, okay? I'm not in this trade. I'm just just watching here
+[01:15:39] So I like how we reclaim this mine imbalance You have one here now. So, the Fair Valley Gap indicator, that Fair Valley Gap indicator is fine, but it's
+[01:15:58] going to mark some Fair Valley gaps, which you should not expect to work. Like the Fair Valley gaps, the bearish Fair Valley gaps that mark this one right here. Okay, I'm not just going to short it just because you marked it.
+[01:16:10] Okay, this is a great, great, great question. So Parceval said, I thought you said in an earlier, another video on Twitter that you were thinking were bearish bias this week.
+[01:16:22] Okay, that is correct. I bearish bias this week. Okay, can someone answer, can someone answer for me? Why I'm bullish?
+[01:16:31] Just right now. Okay, can someone answer that question? That's a very good, I'm glad you said that. Exactly one person got it right.
+[01:16:56] Two people got it right. Exactly. The equal highs and liquidity above, anyone who had the new week opening gap. So if I'm bearish this week, I wanna see this filled,
+[01:17:06] I wanna see these equal highs hit, and I wanna see all this filled before I think about getting a dump. And because of right now, because there's times where,
+[01:17:15] I don't even need to know the weekly bias, then I still make money. Because if, let's say it just came into the market right now, okay, I don't know what the weekly looks like.
+[01:17:24] If I just looked at the two minute timeframe, or just looked at the one minute timeframe here, okay. And I don't know the bias.
+[01:17:32] Like just to me this alone. This is bullish here No matter what the weekly bias is and my reasoning would be we bounce off this. We have an inverse every I get here We've left over high up here. Let me almost hit but then we dumped we were hitting we equal highs up here
+[01:17:47] So like just because I may be bearish on a weekly timeframe doesn't mean I could still be bullish intraday Or maybe if I was trying to scalp I might be bullish for a scalp, okay, but because
+[01:18:00] Like in the in the lower timeframe if you're still allowed to be bullish if you're scalping even though your bias may be bearish And then I do that a lot. Okay
+[01:18:10] Dollars going down. Yes dollars going down. I do still expect to sit by side at some point this week You can see the dollar end up filling the gap
+[01:18:20] But yeah, so that's something I just want to address so even though I may be bearish for week I still might be bolus for intraday setups like intraday scalps if we have nice equal highs And during the day, and I see nice equal highs above
+[01:18:33] Okay, I don't care what the weekly is I'll target those equal highs for five to ten points and and get out for a nice scalp So that's kind of my take on that
+[01:18:47] Yeah, so that's that's a good question. I'm glad you asked that also see how you use this in the inverse to see this high hit. If this high hits a price, I'm a price they are on for like another five minutes, I'm going to see if this high gets hit. But this is kind of what I do, kind of when I live trade during the day all the time. I point out like this. I might not say I'm entering here, but I might just enter here. And I point out, okay, I think we're going to go for this high.
+[01:19:23] high and I'll be like okay I like how you didn't close into this this is still bullish to me and I kind of pointed the bias I point out some like possible entries I say what I want to see like I'll say like okay I want to see this
+[01:19:36] hold which means some people might long it it just that's kind of how I do sometimes I will say okay I'm literally logging at this level I'm litty-longing inside this really gap I probably won't because I got so many new
+[01:19:50] members I won't be as comfortable yet so I might not I did start learning a lot but that's because I started having people in there who have been with me
+[01:19:59] every day so they know how to trade okay for you guys they might not understand like where my stops might be okay so before I start alerting straight up alerts again which I still could do if I see an obvious setup I just want to
+[01:20:14] make sure everyone knows kind of what I do. Where do you mark the PD rate and take the equal highs high to low?
+[01:20:25] I don't know what you mean. If I see these equal highs above, I'm not marking any higher load or anything. This is just my target.
+[01:20:35] I don't know what you mean by that. Do we make these streams daily? And my premium my live stream daily and my YouTube I try to record like record like
+[01:20:52] Like reviews of the day or whatever so All right, this this might take a while so I'm just gonna get off here to be honest again
+[01:21:02] I don't care what happens, but this is kind of an example of I might want to see this. Okay, this is a show I don't really care, but I
+[01:21:09] Guess as long as you hold this I think we're gonna hit this high but yeah, I'm just I don't want to say here and wait for this to happen Anyways, if anyone has any more kind of questions just
+[01:21:26] Feel free to DM me shoot me a DM or whatever. This is being recorded so you can go back and watch this Again, this is not the greatest surprise action right now. I'm trying my best I can to kind of commentate
+[01:21:37] It's it's very difficult to commentate this shit Just you can even when he's you'm out you're gonna see how choppy this is if I go a five-minute time frame look How bad this price action is so trying to best here, but it's kind of hard in this sense
+[01:21:51] You can also see in the five minute. We did hold this for a bad gap here, which is good So yeah, I'll see you guys later. I'll see you guys for you guys who were in premium tomorrow, so yeah, peace out
