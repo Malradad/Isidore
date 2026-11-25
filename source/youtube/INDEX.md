@@ -194,3 +194,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20240131 | BumURb_alCE | The #1 Mistake ICT Traders Make + How to Fix it | captions | done |
 | 20240129 | zSJmrZuFUto | Simple Killzone Trick To Win More Trades - ICT Concepts | captions | done |
 | 20240128 | KVU_oPzNICc | Questions About iFVG Model - Sunday Class | captions | done |
+| 20240126 | WEiJvYvuGU0 | PM Session 30 Second iFVG + LRLR Live Commentary Execution | whisper | done |
