@@ -120,3 +120,40 @@ Neither turns the second half positive, so neither passes "holds in both halves"
 2. 5m and 15m context on his setups (TradingView-testable), instead of trying to copy 30s entries.
 3. Forward-log his next streams with the grader live (v0.5 alerts already carry feel data) instead of more history
    mining.
+
+---
+
+## Addendum 2 (relayed, 2026-11-25): his location and the Judas swing (codex/playbook.md "Video study, batch 3")
+Grader v7 (TradingView v7.0). MNQ 5m; costs as before; $600 risk, ≤ 20 micros. 5m was used because a whole half runs
+in one call (quota).
+
+**Location = 0.5 of the latest impulse leg** (`Dealing range = "Impulse leg (his 0.5)"`).
+- The leg runs between the last swing high and the last swing low (pivot strength 3), extended as new extremes print
+  (~ my reading of "the latest obvious leg").
+- Longs below 0.4 count as discount, as before.
+
+| A+ 5m AM | 2019–22 | 2023–26 |
+|---|---|---|
+| session range (P8) | 0.93 (190 rec, ~1.0/wk) | 0.81 (247, ~1.2/wk) |
+| **impulse-leg 0.5** | **0.85** (74, ~0.4/wk) | **1.15** (109, ~0.5/wk) |
+
+**Judas-only** (`fxJudas`), my coding ~:
+- Entry 09:30–10:00 (the 10:00 bar included), one per day, any grade.
+- The 09:30 draw = the nearer untaken prior-day extreme. Longs need the draw above; shorts below.
+- A false move between 09:30 and 10:00 must first take a marked pool against the draw: PDH/PDL, the pre-market
+  (18:00–09:30) high/low, the London high/low, a data-candle wick, or the 09:30 candle's high/low.
+- Then the usual inversion entry and management.
+
+| Judas-only 5m | trades/wk | PF 2019–22 | PF 2023–26 |
+|---|---|---|---|
+| all | 1.2 / 1.1 | **0.71** (216 rec) | **1.13** (229 rec) |
+| longs | | 0.62 | 1.39 |
+| shorts | | 0.78 | 0.74 |
+
+**Read ~:**
+- Both of his own definitions help in 2023–26 but lose in 2019–22, so neither holds in both halves.
+- The 2023–26 gain comes from longs (Judas longs 1.39), which matches the bull market of those years. That is a
+  warning sign, not an edge.
+- Frequency: Judas setups come about once a week on 5m, against his "every stat… 9:30–10".
+- Not tested (quota): 1m Judas, and a Judas + impulse-location combination. The draw/bias definition is the weakest
+  part of the coding. His bias comes from higher-timeframe FVG inversions, which I haven't coded.

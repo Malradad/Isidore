@@ -394,3 +394,8 @@ _Session entries: date · what was learned · decision · maker response · perf
 - **Decided ~:** stop grading tweaks on 1m. Next: internal-liquidity sweeps, 5m/15m context, and a forward log of his
   live streams.
 - **Maker:** P9 resumed at the maker's request (relayed). Branch izzy/p9-grader-check-2026-11-23, not merged.
+- **Addendum 2 (relayed, 2026-11-25) ✓ (price, 5m):**
+  - His impulse-leg 0.5 location: A+ PF 0.85 / 1.15 (vs 0.93 / 0.81).
+  - Judas-only (09:30–10:00 false move into a marked pool against the draw, 1/day): 0.71 / 1.13, ~1.1/wk.
+  - Both are better in 2023–26, worse in 2019–22, and driven by longs. Neither holds in both halves.
+  - Next: code his HTF bias (1h/4h FVG inversion) for the Judas draw; then 1m Judas.
