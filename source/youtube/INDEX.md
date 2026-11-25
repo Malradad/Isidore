@@ -307,3 +307,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230518 | cDKWBR0klAY | 5.18 ICT Live Educational Stream + Tape Reading⧸Discord Alerts | captions | done |
 | 20230515 | FwlPbXdjv8c | The Best Risk Management Strategy for ICT (Sunday Night Class) | captions | done |
 | 20230508 | b5paZT8kjFs | The ＊KEY＊ to Higher Time Frame Analysis in ICT | whisper | done |
+| 20230506 | kQvtrACDPU8 | The Highest Probability Way of Using Orderblocks from ICT 2022 Mentorship (Updated 2023) | whisper | done |
