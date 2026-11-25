@@ -1,0 +1,155 @@
+id,date,market_time,side,symbol,tf,frames_pre
+2023-02-24_XGuIB-0gn_A_1,2023-02-24,pre-08:44 (morning),short,ESH2023,1m/5m,
+2023-02-24_XGuIB-0gn_A_2,2023-02-24,10:12:42 → 10:15:33,short,ESH2023,15s/1m,
+2023-02-24_XGuIB-0gn_A_3,2023-02-24,~10:23:09 → ~10:24:39,long,ESH2023,1m,
+2023-02-24_XGuIB-0gn_A_4,2023-02-24,~10:24:39 → ~10:26:22,short,ESH2023,1m,
+2023-02-24_XGuIB-0gn_A_5,2023-02-24,09:40:26 / 10:04:38 / 10:37:14,long / short,ESH2023,1m/5m,
+2023-03-14_rr2qsQ5mRfM_1,2023-03-14,08:30:17,long,ES,5m,source/streams/frames/rr2qsQ5mRfM/00-11-53/00-11-53.jpg
+2023-03-14_rr2qsQ5mRfM_2,2023-03-14,08:49:41,long,ES,1m/3m,source/streams/frames/rr2qsQ5mRfM/00-31-17/00-31-17.jpg
+2023-03-14_rr2qsQ5mRfM_4,2023-03-14,10:00:50,long,ES,1m,source/streams/frames/rr2qsQ5mRfM/01-42-26/01-42-26.jpg
+2023-03-14_rr2qsQ5mRfM_5,2023-03-14,10:47:06 ~,long,ES/MES ~,1m,source/streams/frames/rr2qsQ5mRfM/02-28-42/02-28-42.jpg
+2023-03-14_rr2qsQ5mRfM_8,2023-03-14,10:57:59,short,ES,1m,source/streams/frames/rr2qsQ5mRfM/02-39-35/02-39-35.jpg
+2023-03-14_rr2qsQ5mRfM_9,2023-03-14,11:05:03,short,ES,,source/streams/frames/rr2qsQ5mRfM/02-46-39/02-46-39.jpg
+2023-03-24_ksztwIzHgcE_2,2023-03-24,09:18:46,short,NQ,1m,
+2023-03-24_ksztwIzHgcE_3,2023-03-24,09:38:53 → 09:45:17,short,ES/NQ,1m,
+2023-03-24_ksztwIzHgcE_5,2023-03-24,11:40:15,long,ES,1m,
+2023-09-04_ErsWq6j87uY_1,2023-09-04,21:45:58 → 22:13:24,long,NQU2023,1m/5m,
+2023-09-05_e7oYxdPNvhY_1,2023-09-05,09:12:35 → 09:14:29,short,NQU2023,1m,
+2023-09-05_e7oYxdPNvhY_3,2023-09-05,09:35:44 → 09:36:55,short,ESU2023,1m,
+2023-09-05_e7oYxdPNvhY_4,2023-09-05,10:11:45 → 10:15:49,long,NQU2023,1m,
+2023-09-05_e7oYxdPNvhY_5,2023-09-05,10:18:22 → 10:25:02,long,NQU2023,1m,
+2023-09-05_e7oYxdPNvhY_6,2023-09-05,10:36:13 → 10:42:02,short,ESU2023,3m,
+2023-09-05_e7oYxdPNvhY_7,2023-09-05,10:07:34 / 10:47:58,long,NQU2023,,
+2023-09-06_I3AJJI0RY00_1,2023-09-06,08:49:43 → 08:50:02,long,NQU2023,1m,
+2023-09-06_I3AJJI0RY00_4,2023-09-06,09:24:50 → 09:25:25,long,NQU2023,5m,
+2023-09-06_I3AJJI0RY00_5,2023-09-06,09:55:23 → 10:00:12,long,NQU2023,1m/2m,
+2023-09-06_I3AJJI0RY00_6,2023-09-06,10:18:41 → 10:24:42,long,NQU2023,1m,
+2023-09-06_I3AJJI0RY00_7,2023-09-06,10:23:45 / 10:29:47,short,ES / NQU2023,2m/3m,
+2023-12-19_SVeqDyk3DmA_1,2023-12-19,09:29:47 / 09:46:17 / 10:01:17,short/long,YM / NQ1!,1m–5m,
+2023-12-19_SVeqDyk3DmA_2,2023-12-19,10:54:29 → 11:00:19,long,NQ1!,1m,
+2023-12-19_SVeqDyk3DmA_3,2023-12-19,11:03:09 → 11:04:37,long,NQ1! (MNQ),30s,
+2023-12-19_SVeqDyk3DmA_4,2023-12-19,11:26:11 → 11:31:17,long,NQ1!,1m,
+2024-01-12_ZAlQEve_WnE_2,2024-01-12,11:04:09,long,MNQH2024,2m (3m not closed yet),
+2024-03-01_d1aj1D87IuM_1,2024-03-01,09:16:47,short,NQ1!,1m,
+2024-03-01_d1aj1D87IuM_2,2024-03-01,09:38:33 → 09:39:22,long,NQ1!,15s,
+2024-03-01_d1aj1D87IuM_3,2024-03-01,09:52:05 → 09:59:58,long,NQ1!,1m,
+2024-03-01_d1aj1D87IuM_4,2024-03-01,10:05:47 → 10:06:37,long,MNQH2024,30s/1m,
+2024-03-01_d1aj1D87IuM_7,2024-03-01,10:21:03,long,NQ1!,1m,
+2024-03-01_d1aj1D87IuM_8,2024-03-01,10:26:57,long,NQ1!,,
+2024-03-01_d1aj1D87IuM_9,2024-03-01,10:30:13,long,GC,5m,
+2024-03-01_d1aj1D87IuM_10,2024-03-01,10:46:27 → 10:55:47,long,NQ1!,2m/3m,
+2025-06-11_IF67n-KIDnA_1,2025-06-11,entered before 08:53 (overnight),long,BTC (futures via Tradovate/Ninja),—,
+2025-06-11_IF67n-KIDnA_2,2025-06-11,09:55:35 → 10:02:14,long,NQ1!,1m,
+2025-06-11_IF67n-KIDnA_3,2025-06-11,10:13:12 → 10:28:56,long,NQ1!,3m,
+2025-10-09_q-cngrviF2A_1,2025-10-09,"pre-market, before 09:13:45",short,NQZ2025,3m,
+2025-10-09_q-cngrviF2A_3,2025-10-09,09:49:51 → 09:51:58,long,NQZ2025,2m,
+2025-10-09_q-cngrviF2A_4,2025-10-09,09:53:15 → 09:59:52,short,YM,,
+2025-10-09_q-cngrviF2A_5,2025-10-09,10:23:33,long,NQZ2025,30s,
+2025-10-09_q-cngrviF2A_6,2025-10-09,10:49:51 → 10:50:03,long,GC (gold),5m,
+2025-10-09_q-cngrviF2A_8,2025-10-09,11:00:07 → 11:01:15 (clock),long,NQZ2025,5m,
+2025-11-14_imzrLPjXVxE_1,2025-11-14,14:30:32 → 14:31:49,long,NQ1!,1m,
+2025-11-14_imzrLPjXVxE_2,2025-11-14,14:49:07 → 14:49:47,short,NQ1!,1m (off 2m/3m gap),
+2025-11-14_imzrLPjXVxE_3,2025-11-14,15:06:59 → 15:10:06,short,NQ1!,30s,
+2026-02-11_8wgnYYcVHuc_1,2026-02-11,08:29:45,both (hedge + stop orders),NQ,2m,source/streams/frames/8wgnYYcVHuc/00-30-32/00-30-32.jpg
+2026-02-11_8wgnYYcVHuc_2,2026-02-11,08:52:49,long,NQ1!,15m/5m (inversion),source/streams/frames/8wgnYYcVHuc/00-53-36/00-53-36.jpg
+2026-02-11_8wgnYYcVHuc_5,2026-02-11,09:29:59,long,NQ1!,30s,source/streams/frames/8wgnYYcVHuc/01-30-46/01-30-46.jpg
+2026-02-11_8wgnYYcVHuc_6,2026-02-11,09:35:43,long,NQ1!,15s,source/streams/frames/8wgnYYcVHuc/01-36-30/01-36-30.jpg
+2026-02-11_8wgnYYcVHuc_7,2026-02-11,09:47:47,long,NQ1!,30s,source/streams/frames/8wgnYYcVHuc/01-48-34/01-48-34.jpg
+2026-02-11_8wgnYYcVHuc_8,2026-02-11,10:00:21,long,NQ1!,2m,source/streams/frames/8wgnYYcVHuc/02-01-08/02-01-08.jpg
+2026-02-11_8wgnYYcVHuc_9,2026-02-11,10:06:12,short,NQ1!,1m,source/streams/frames/8wgnYYcVHuc/02-06-59/02-06-59.jpg
+2026-02-11_8wgnYYcVHuc_10,2026-02-11,10:09:26,short,NQ1!,30s,source/streams/frames/8wgnYYcVHuc/02-10-13/02-10-13.jpg
+2026-02-11_8wgnYYcVHuc_11,2026-02-11,10:15:11,long,NQ1!,3m,source/streams/frames/8wgnYYcVHuc/02-15-58/02-15-58.jpg
+2026-02-11_8wgnYYcVHuc_12,2026-02-11,10:22:09,?,NQ1!,30s,
+2026-02-13_7w6pya1dubs_1,2026-02-13,08:20:39 → 08:30:27,both → long filled,NQ1!,2m,
+2026-02-13_7w6pya1dubs_2,2026-02-13,08:34:47,long,NQ1!,30s,
+2026-02-13_7w6pya1dubs_3,2026-02-13,08:36:42,short,NQ1!,1m,
+2026-02-13_7w6pya1dubs_4,2026-02-13,09:39:44 → 09:41:03,short,NQ1!,5m,
+2026-02-13_7w6pya1dubs_5,2026-02-13,09:43:33 → 09:47:41,long,NQ1!,1m,
+2026-02-13_7w6pya1dubs_6,2026-02-13,09:55:14 / 09:56:53,long,NQ1!,1m / 30s,
+2026-02-13_7w6pya1dubs_7,2026-02-13,10:11:19 → 10:12:05,long,NQ1!,1m,
+2026-02-13_7w6pya1dubs_9,2026-02-13,10:26:59 → 10:28:55,long,NQ1!,30s,
+2026-03-01_DqSuUNyjgwg_1,2026-03-01,18:00:00 → 18:01:02,short NQ + long gold,NQ1! / GC,1m,
+2026-03-11_Lprbu9HeOCI_1,2026-03-11,08:22:25 → 08:30:13,both → long filled,NQ1!,15m,
+2026-03-11_Lprbu9HeOCI_2,2026-03-11,08:41:43 → 09:00:02,short,NQ1!,1m,
+2026-03-11_Lprbu9HeOCI_3,2026-03-11,09:05:12 → 09:07:16,long,NQ1!,3m,
+2026-03-11_Lprbu9HeOCI_4,2026-03-11,09:49:00 → 09:52:07,short,MNQ,2m/5m,
+2026-03-11_Lprbu9HeOCI_6,2026-03-11,09:59:15 → 09:59:58,long,MNQ,4m,
+2026-03-11_Lprbu9HeOCI_8,2026-03-11,10:32:18 → 10:33:20,short,MNQ,1m,
+2026-03-11_Lprbu9HeOCI_10,2026-03-11,10:51:24,long,NQ1!,,
+2026-04-03_jOmHQ7INwFw_1,2026-04-03,08:17:51 → 08:30:05,both → long filled,NQ1!,3m,
+2026-06-05_f4LM3kNzquo_1,2026-06-05,08:25:16,short,GC (gold),15m,source/streams/frames/f4LM3kNzquo/00-25-13/00-25-13.jpg
+2026-06-05_f4LM3kNzquo_2,2026-06-05,08:30:23,both (straddle),NQ,—,source/streams/frames/f4LM3kNzquo/00-30-20/00-30-20.jpg
+2026-06-05_f4LM3kNzquo_3,2026-06-05,08:38:02,long,NQ1!,30s,source/streams/frames/f4LM3kNzquo/00-37-59/00-37-59.jpg
+2026-06-05_f4LM3kNzquo_8,2026-06-05,09:07:31,long ~,NQ1!,30s,source/streams/frames/f4LM3kNzquo/01-07-28/01-07-28.jpg
+2026-06-05_f4LM3kNzquo_9,2026-06-05,09:20:01,short,NQ/YM,5m,source/streams/frames/f4LM3kNzquo/01-19-58/01-19-58.jpg
+2026-06-05_f4LM3kNzquo_10,2026-06-05,09:31:42,long,NQ1!,,source/streams/frames/f4LM3kNzquo/01-31-39/01-31-39.jpg
+2026-06-05_f4LM3kNzquo_11,2026-06-05,09:35:37,short,NQ1!,30s,source/streams/frames/f4LM3kNzquo/01-35-34/01-35-34.jpg
+2026-06-05_f4LM3kNzquo_12,2026-06-05,09:44:34,long,NQ1!,1m,source/streams/frames/f4LM3kNzquo/01-44-31/01-44-31.jpg
+2026-06-05_f4LM3kNzquo_14,2026-06-05,09:51:16,long,NQ1!,30s/3m,source/streams/frames/f4LM3kNzquo/01-51-13/01-51-13.jpg
+2026-06-05_f4LM3kNzquo_15,2026-06-05,10:05:04,short,MNQ1!,1m,source/streams/frames/f4LM3kNzquo/02-05-01/02-05-01.jpg
+2026-06-05_f4LM3kNzquo_17,2026-06-05,10:12:47,short ~,MNQ1!,1m,
+2026-06-05_f4LM3kNzquo_18,2026-06-05,10:26:23,short,MNQ1!,3m/2m,source/streams/frames/f4LM3kNzquo/02-26-20/02-26-20.jpg
+2026-06-05_f4LM3kNzquo_19,2026-06-05,10:36:38,long,NQ1!,,source/streams/frames/f4LM3kNzquo/02-36-35/02-36-35.jpg
+2026-06-05_f4LM3kNzquo_20,2026-06-05,10:45:07,short,NQ1!,3m/2m,source/streams/frames/f4LM3kNzquo/02-45-04/02-45-04.jpg
+2026-08-07_qbHHGoPD6Yc_1,2026-08-07,08:15:40 → 08:30:25,both → long filled,NQ1!,1m,
+2026-08-07_qbHHGoPD6Yc_2,2026-08-07,08:44:28,short,NQ1!,,
+2026-08-07_qbHHGoPD6Yc_3,2026-08-07,09:26:22,long,NQ1!,30s,
+2026-08-07_qbHHGoPD6Yc_4,2026-08-07,09:31:00,long,NQ1!,1m,source/streams/frames/qbHHGoPD6Yc/01-28-42/01-28-42.jpg
+2026-08-07_qbHHGoPD6Yc_5,2026-08-07,09:36:40,short,NQ1!,2m,
+2026-08-07_qbHHGoPD6Yc_6,2026-08-07,09:49:32,short,NQ1!,1m,
+2026-08-07_qbHHGoPD6Yc_7,2026-08-07,09:55:51,short,NQ1!,2m,source/streams/frames/qbHHGoPD6Yc/01-53-33/01-53-33.jpg
+2026-08-07_qbHHGoPD6Yc_8,2026-08-07,10:08:25,short,NQ1!,30s,
+2026-08-07_qbHHGoPD6Yc_9,2026-08-07,10:16:30 → 10:17:26,long,NQ1!,2m/3m,
+2026-08-12_MHyNCqLCI7k_1,2026-08-12,08:11:27 → 08:30:07,both (stop orders),NQ1!,5m,
+2026-08-12_MHyNCqLCI7k_2,2026-08-12,08:32:11 → 08:34:47,long,NQ1!,30s,
+2026-08-12_MHyNCqLCI7k_5,2026-08-12,09:30:43 → 09:31:16,short,NQ1!,1m,
+2026-08-12_MHyNCqLCI7k_6,2026-08-12,09:35:08,short,NQ1!,2m,
+2026-08-12_MHyNCqLCI7k_7,2026-08-12,09:41:59,long,NQ1!,1m,
+2026-08-12_MHyNCqLCI7k_8,2026-08-12,09:49:12 → 09:51:03,long,NQ1!,1m (5m inverse),
+2026-08-12_MHyNCqLCI7k_9,2026-08-12,09:53:07,short,NQ1!,3m,
+2026-08-12_MHyNCqLCI7k_10,2026-08-12,10:06:22,long,NQ1!,30s,
+2026-08-12_MHyNCqLCI7k_11,2026-08-12,10:18:40,long,NQ1!,3m,
+2026-08-16_7ZBHfQC6Nss_1,2026-08-16,19:34:00 → 19:35:13,short,NQ1!,5m,
+2026-08-16_7ZBHfQC6Nss_2,2026-08-16,20:19:00 → 20:19:52,short,NQ1!,5m/3m,
+2026-08-16_7ZBHfQC6Nss_5,2026-08-16,21:01:49 → 21:02:35,long,NQ1!,3m,
+2026-09-04_N6eOC8wtapo_3,2026-09-04,before 09:50,long,NQ1!,1m,
+2026-09-04_N6eOC8wtapo_5,2026-09-04,10:00:11,long,NQ1!,1m,source/streams/frames/N6eOC8wtapo/00-09-58/00-09-58.jpg
+2026-09-04_N6eOC8wtapo_7,2026-09-04,10:14:30,long,NQ1!,30s,source/streams/frames/N6eOC8wtapo/00-24-17/00-24-17.jpg
+2026-09-04_N6eOC8wtapo_10,2026-09-04,~10:29,long,NQ1!,1m,
+2026-09-04_N6eOC8wtapo_11,2026-09-04,11:19:57,short,NQ1!,,
+2026-09-11_7vLdDIq4J0A_1,2026-09-11,08:27:22,straddle (buy stop + sell stop),NQ1!,2m,source/streams/frames/7vLdDIq4J0A/00-17-08/00-17-08.jpg
+2026-09-11_7vLdDIq4J0A_3,2026-09-11,08:34:37,long,NQ1!,1m,source/streams/frames/7vLdDIq4J0A/00-24-23/00-24-13.jpg;source/streams/frames/7vLdDIq4J0A/00-24-23/00-24-23.jpg
+2026-09-11_7vLdDIq4J0A_4,2026-09-11,08:38:09,long,NQ1!,1m,source/streams/frames/7vLdDIq4J0A/00-27-55/00-27-36.jpg;source/streams/frames/7vLdDIq4J0A/00-27-55/00-27-55.jpg
+2026-09-11_7vLdDIq4J0A_6,2026-09-11,09:31:57,long,NQ1!,2m,source/streams/frames/7vLdDIq4J0A/01-21-43/01-21-33.jpg;source/streams/frames/7vLdDIq4J0A/01-21-43/01-21-43.jpg
+2026-09-11_7vLdDIq4J0A_7,2026-09-11,09:34:27,long,NQ1!,1m,source/streams/frames/7vLdDIq4J0A/01-24-13/01-24-13.jpg
+2026-09-11_7vLdDIq4J0A_8,2026-09-11,09:46:02,long,NQ1!,30s,source/streams/frames/7vLdDIq4J0A/01-35-48/01-35-48.jpg
+2026-09-11_7vLdDIq4J0A_9,2026-09-11,09:49:43,long,NQ1!,15s,
+2026-09-11_7vLdDIq4J0A_10,2026-09-11,10:07:17,short,NQ1!,1m,source/streams/frames/7vLdDIq4J0A/01-57-03/01-56-53.jpg;source/streams/frames/7vLdDIq4J0A/01-57-03/01-57-03.jpg
+2026-09-11_7vLdDIq4J0A_11,2026-09-11,10:21:01,long,NQ1!,3m,source/streams/frames/7vLdDIq4J0A/02-10-47/02-10-37.jpg;source/streams/frames/7vLdDIq4J0A/02-10-47/02-10-47.jpg
+2026-09-29_oiJnEazL4Lg_1,2026-09-29,09:28:45,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/00-28-46/00-28-46.jpg
+2026-09-29_oiJnEazL4Lg_3,2026-09-29,09:31:42,short,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/00-31-43/00-31-43.jpg
+2026-09-29_oiJnEazL4Lg_6,2026-09-29,09:38:11,short,NQ1!,15s,source/streams/frames/oiJnEazL4Lg/00-38-12/00-38-12.jpg
+2026-09-29_oiJnEazL4Lg_8,2026-09-29,09:42:22,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/00-42-23/00-42-23.jpg
+2026-09-29_oiJnEazL4Lg_10,2026-09-29,09:51:29,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/00-51-30/00-51-30.jpg
+2026-09-29_oiJnEazL4Lg_13,2026-09-29,10:00:09,long,NQ1!,3m,source/streams/frames/oiJnEazL4Lg/01-00-10/01-00-10.jpg
+2026-09-29_oiJnEazL4Lg_14,2026-09-29,10:19:20,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/01-19-21/01-19-21.jpg
+2026-09-29_oiJnEazL4Lg_15,2026-09-29,10:20:58,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/01-20-59/01-20-59.jpg
+2026-09-29_oiJnEazL4Lg_16,2026-09-29,10:23:02,long,NQ1!,30s,source/streams/frames/oiJnEazL4Lg/01-23-03/01-23-03.jpg
+2026-09-29_oiJnEazL4Lg_18,2026-09-29,10:24:13,long,NQ1!,30s,source/streams/frames/oiJnEazL4Lg/01-24-14/01-24-14.jpg
+2026-09-29_oiJnEazL4Lg_20,2026-09-29,10:30:02,long,NQ1!,15s/1m,source/streams/frames/oiJnEazL4Lg/01-30-03/01-30-03.jpg
+2026-09-29_oiJnEazL4Lg_22,2026-09-29,10:51:06,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/01-51-07/01-51-07.jpg
+2026-09-29_oiJnEazL4Lg_23,2026-09-29,10:54:34,long,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/01-54-35/01-54-35.jpg
+2026-09-29_oiJnEazL4Lg_25,2026-09-29,11:01:01,short,NQ1!,3m/2m,source/streams/frames/oiJnEazL4Lg/02-01-02/02-01-02.jpg
+2026-09-29_oiJnEazL4Lg_27,2026-09-29,11:19:48,short,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/02-19-49/02-19-49.jpg
+2026-09-29_oiJnEazL4Lg_28,2026-09-29,11:47:19,short,NQ1!,1m,source/streams/frames/oiJnEazL4Lg/02-47-20/02-47-20.jpg
+2026-09-29_oiJnEazL4Lg_29,2026-09-29,11:53:08,short,NQ1!,30s/2m,source/streams/frames/oiJnEazL4Lg/02-53-09/02-53-09.jpg
+2026-09-29_oiJnEazL4Lg_30,2026-09-29,12:47:27,long,NQ1!,2m,source/streams/frames/oiJnEazL4Lg/03-47-28/03-47-28.jpg
+2026-09-29_oiJnEazL4Lg_32,2026-09-29,13:26:02,long,NQ1!,3m,source/streams/frames/oiJnEazL4Lg/04-26-03/04-26-03.jpg
+2026-09-29_oiJnEazL4Lg_35,2026-09-29,15:31:17,long,NQ1!,30s,source/streams/frames/oiJnEazL4Lg/06-31-18/06-31-18.jpg
+2026-11-02_KhQiTa8YxJk_1,2026-11-02,09:33:00,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-16-09/00-15-59.jpg;source/streams/frames/KhQiTa8YxJk/00-16-09/00-16-09.jpg
+2026-11-02_KhQiTa8YxJk_2,2026-11-02,09:39:21,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-22-30/00-22-20.jpg
+2026-11-02_KhQiTa8YxJk_5,2026-11-02,09:54:09,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-37-18/00-37-18.jpg
+2026-11-02_KhQiTa8YxJk_6,2026-11-02,09:56:07,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-39-16/00-39-06.jpg;source/streams/frames/KhQiTa8YxJk/00-39-16/00-39-16.jpg
+2026-11-02_KhQiTa8YxJk_7,2026-11-02,10:01:10,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-44-19/00-44-09.jpg;source/streams/frames/KhQiTa8YxJk/00-44-19/00-44-19.jpg
+2026-11-02_KhQiTa8YxJk_8,2026-11-02,10:10:12,long,NQ1!,30s,source/streams/frames/KhQiTa8YxJk/00-53-21/00-53-21.jpg
+2026-11-02_KhQiTa8YxJk_13,2026-11-02,10:31:55,short,NQ1!,1m,
