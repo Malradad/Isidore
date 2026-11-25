@@ -250,3 +250,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231017 | Be7bhcLmtfs | Why Screen Time MATTERS When Learning ICT... | captions | done |
 | 20231016 | SKHJV2tHoB4 | How to Find Your Own ICT Model for a SUPER HIGH Win Rate | captions | done |
 | 20231013 | QdSdbE30hXo | ICT Educational Commentary + Education NQ⧸ES 10.13.23 | captions | done |
+| 20231012 | nWthsTWn-6I | The EASIEST Way to Anticipate Major Reversals ⧸ SMTs ⧸ Turtle Soups | captions | done |
