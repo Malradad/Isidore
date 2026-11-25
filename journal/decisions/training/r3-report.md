@@ -28,6 +28,6 @@ sessions, the Minecraft/eval day, bad tape, after "done"), so many days have 0.
   pack in isolation, or trim words that refer back to earlier trades.
 - I briefly printed the header and first row of `labels-blind-r2.csv` (a blind label, not an outcome). No outcome files were opened.
 - I wrote all the labels from one script and pushed them once, not every ~30 rows.
-- I viewed the m000 frame for 40 decisions (the TAKE candidates and the close calls). The rest were judged from the
+- I viewed the m000 frame for 24 decisions (the TAKE candidates and the close calls). The rest were judged from the
   context packs, and `frames_used` says which. 3 ids have no frame strip.
 - I didn't score the test set.
