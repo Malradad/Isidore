@@ -309,3 +309,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230508 | b5paZT8kjFs | The ＊KEY＊ to Higher Time Frame Analysis in ICT | whisper | done |
 | 20230506 | kQvtrACDPU8 | The Highest Probability Way of Using Orderblocks from ICT 2022 Mentorship (Updated 2023) | whisper | done |
 | 20230505 | Zny52Fmq1UQ | The Most Accurate ICT Trader on YouTube - 5.5.23 Livestream | captions | done |
+| 20230503 | _V6QFK1CVHQ | How to Use Low Resistance Liquidity (LRLR) in ICT | captions | done |
