@@ -373,3 +373,9 @@ _Session entries: date · what was learned · decision · maker response · perf
   (+0.46R) vs Izzy-SKIP 17W/6BE/9L (+0.23R): weak separation. It avoided 15 of his 19 rule-breaking trades, but also
   skipped 4 of his 7 clean winners. Lessons into context.md (news-day killzone, day context first, second sweeps).
 - **Decided ~:** the chart alone isn't enough; selection lives in day context. Round 2 adds a "what he knew" pack.
+
+## 2026-11-25 · Step 3: video study, batch 3 (4 videos: Judas swing, BE method, premium/discount, student critiques)
+- **Learned ~:** by his own tracking, his live trades are almost all 09:30–10:00 Judas swings with a known bias; "it's not
+  the IFVG that matters". That backs the maker's read (strategy = entry confluence; edge = selection and liquidity).
+  His "discount" is the 0.5 of the latest impulse leg — the dealing-range definition P8 lacked; sent to the backtester.
+- **Maker:** resumed work 2026-11-25. 70 videos left.

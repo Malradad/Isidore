@@ -165,6 +165,30 @@ frame that shows the gap, the sweep, the inversion candle, entry, stop and targe
   - In the same video: "six figures a month from every stream" — affiliate codes, Discord, a $250k private loan.
     Trading isn't his main income.
 
+## Video study, batch 3: Judas swing, breakeven, premium/discount, student critiques (2026-11-25) ~
+- **His bread and butter is the Judas swing, not the IFVG** (youtube/20250818 3tznO7UHj74):
+  - "Every single stat I've tracked of my plays… they're all between 9:30 and 10 off of a false move when I know the bias."
+  - The false move runs against his bias into sell-side (or buy-side) and lasts up to ~30 min. 10:00 is the key reversal time.
+  - "React, not predict": take the first violent V off any marked zone.
+  - "It's not the IFVG that matters. It's the Judas swing, the liquidity sweep." The IFVG is just the way in (✓ the maker's view, 2026-11-24).
+- **Liquidity over the entry** (youtube/20250805 9wl9pSBf8fA): "I don't trade IFVGs… I'm really good at understanding
+  liquidity." He chases at quarter size, with no partials, when the reaction is strong and the draw is obvious, even
+  without the close.
+- **More from the student critiques (same video):**
+  - The **09:30 low/high is a liquidity pool, treated like a data wick.** Once it's swept and price blasts through, a protected high is no longer protected.
+  - **Trend-line liquidity needs 3+ touches.**
+  - After a big AM expansion, **stop for the day**: chop follows.
+  - An **obvious SMT** makes a setup A+.
+  - **Highs inside FVGs** are scale points.
+- **Breakeven method** (youtube/20241222 DaoxiH8Iykc): enter before the internal high/low prints; move to BE the moment
+  it's hit. "~60% of the time" price that comes back after the internal high stops you anyway ("a winning trade doesn't
+  pull back far"). Exception, from experience: at the low of day, after a sweep and a violent reaction, don't go BE early.
+- **Premium/discount = the 0.5 of the latest obvious impulse leg** (youtube/20250717 Cn57xwWxVAs), not the session range:
+  - Longs below the 0.5, shorts above it.
+  - A hammer reaction at the 0.5 → drop to a lower timeframe for the inversion.
+  - A knife through the 0.5 → it probably goes back to the low.
+  - A crude proxy: far below the 5m 200 SMA = discount.
+
 ## Mechanical model (his 2023 class) — testable as stated
 Source: streams/2023-09-04 ErsWq6j87uY @ 00:18:15–00:55:53. ~
 1. Mark the **previous day's high and low**. Never trade inside them.
