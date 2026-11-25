@@ -240,3 +240,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231106 | Sr2P-TZyMBk | How the Market ＊HAS TO MOVE＊ (Premium + Discount) - Sunday Night Class 11.5.23 | captions | done |
 | 20231103 | yfvabqpiAOA | How to Know What Inversion FVGs⧸BPRs to Take | captions | done |
 | 20231031 | 9e9-uzIAniQ | Data Highs & Data Lows — My New Trading Concept | captions | done |
+| 20231030 | bYcW3Hy4sKI | 5 Psychology Tips That Made Me a Better ICT Trader - Sunday Night Class Lecture | captions | done |
