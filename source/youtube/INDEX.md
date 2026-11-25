@@ -245,3 +245,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231026 | Ug7YXlszxUA | ICT Educational Live Stream + Live Signals 10.26.23 | whisper | done |
 | 20231025 | af_4ysZRNns | ICT Inversion Model #2 (HIGHER RR Inversion Model) | whisper | done |
 | 20231023 | pRCe0LCVRTM | How to Start Futures Trading + ICT ＊EXTREMELY＊ Simplified | captions | done |
+| 20231023 | u8BMlV4q7-k | The Secret to Time + HTF Structure in ICT - Sunday Night Class | captions | done |
