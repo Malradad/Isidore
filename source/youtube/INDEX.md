@@ -323,3 +323,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230412 | SUbzS-iKXl4 | ICT CPI Live Trading Session 4.12.23 | captions | done |
 | 20230411 | hFExtBKGo4E | ICT Stop Loss Placements for Every PD Array | captions | done |
 | 20230410 | l-dil1ZrXAM | ICT Live Trading From Discord 4.10 With Live Alerts + Bias (This Video is a Gem) | captions | done |
+| 20230410 | p9uUAGte1AA | Sunday Night ICT Class 4.9.23 + Weekly Predictions | captions | done |
