@@ -340,3 +340,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230220 | ivDBc7o5RdE | Top 3 Mistakes New ICT Students Make (+How to Fix Them) | captions | done |
 | 20230216 | lYxilR4U-Qw | Learning the Buy and Sell Models... (Key to Finding Liquidity) | captions | done |
 | 20230215 | wE3e0jaq97I | How To Know Which Fair Value Gaps Will Work from ICT 2022 Mentorship | captions | done |
+| 20230209 | u3I15N8hNNQ | How to Use SMTs the ＊RIGHT＊ Way From ICT 2022 Mentorship | whisper | done |
