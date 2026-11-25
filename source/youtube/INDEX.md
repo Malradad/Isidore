@@ -311,3 +311,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230505 | Zny52Fmq1UQ | The Most Accurate ICT Trader on YouTube - 5.5.23 Livestream | captions | done |
 | 20230503 | _V6QFK1CVHQ | How to Use Low Resistance Liquidity (LRLR) in ICT | captions | done |
 | 20230501 | wC-xxDT1TMg | ICT Live Trading Session 5.1.23 (With Live Alert + Thought Process) (MIC IS LOUDER NOW) | captions | done |
+| 20230501 | xA-s1zb4z8s | How to Identify Trend Days - Sunday Night ICT Class 4.30.23 | whisper | done |
