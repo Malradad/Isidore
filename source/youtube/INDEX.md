@@ -274,3 +274,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230902 | P1eUueJ1DEA | How to Execute Trading Setups Without Getting Emotional 2023 | whisper | done |
 | 20230831 | 1VSIS3EnbcY | How to Conquer Trend Days and Find Easy Entries (Using Inverse FVGs) | whisper | done |
 | 20230830 | _Mrx6bltiKQ | When Do You Disregard an SMT？ (Short a Bullish SMT⧸Long a Bearish SMT) | whisper | done |
+| 20230828 | ks4zF3tzn08 | Inversion FVG - Golden SMT Rule Sunday Night Class 8.28.23 | captions | done |
