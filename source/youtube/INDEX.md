@@ -252,3 +252,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20231013 | QdSdbE30hXo | ICT Educational Commentary + Education NQ⧸ES 10.13.23 | captions | done |
 | 20231012 | nWthsTWn-6I | The EASIEST Way to Anticipate Major Reversals ⧸ SMTs ⧸ Turtle Soups | captions | done |
 | 20231009 | PN5tb1Jxzdw | The Most Accurate Way To ＊KNOW＊ The Draw on Liquidity EVERY TIME | whisper | done |
+| 20231008 | HVKct1RVZns | Introduction to ICT - Study Material + Best Repeating Setup (Sunday Class) | captions | done |
