@@ -320,3 +320,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230417 | 7gerur3bCek | Sunday Night ICT Class 4.16.23 - Higher Time Frame Analysis | whisper | done |
 | 20230415 | 0HqUFJk8Eto | 4.14.23 Daily ICT Educational Analysis | captions | done |
 | 20230414 | JUch0Sfyx4s | How To Know When Price Will Reverse in ICT Using Momentum and Liquidity | captions | done |
+| 20230412 | SUbzS-iKXl4 | ICT CPI Live Trading Session 4.12.23 | captions | done |
