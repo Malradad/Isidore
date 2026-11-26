@@ -359,3 +359,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221118 | ULmIbL0RHaw | Best Way to Use Volume Imbalances from ICT | captions | done |
 | 20221115 | IEwqpYWcsv4 | How to Use Divergences on the Indexes with ICT | whisper | done |
 | 20221110 | nX-4N0E5IKY | Easy ICT Counter Trend Scalping Strategy Part 1 (With Examples) | captions | done |
+| 20221106 | iImB-bM3j50 | How to Use The Daily Time Frame to Formulate Bias (Higher Time Frame Bias) | captions | done |
