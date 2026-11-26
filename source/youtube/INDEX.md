@@ -372,3 +372,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221002 | Ln7YeZJvpTk | Breaker Block + FVG Setup Part 2 | captions | done |
 | 20220928 | HWXnqgOwUzc | How to Find Liquidity and Why It's BETTER Than Support⧸Resistance ⧸ Different Than MSS | captions | done |
 | 20220915 | 55CGWPWThyI | The Most Important ICT Concepts Explained In Only 20 Minutes | captions | done |
+| 20220812 | ZeMWAFbSgNQ | ICT + Market Structure Basics (Class #1) | whisper | done |
