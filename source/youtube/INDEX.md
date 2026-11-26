@@ -356,3 +356,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221202 | bFctTKGqAvM | What ICT Setups NOT To Take & Why Some Fail | captions | done |
 | 20221130 | Z2MTQCeRauA | The Best A+ Checklist for ICT 2022 Mentorship Setups | captions | done |
 | 20221128 | shVqMzL43o8 | Best Way to Place Stop Losses Using Any Strategy (Designed for ICT) | captions | done |
+| 20221118 | ULmIbL0RHaw | Best Way to Use Volume Imbalances from ICT | captions | done |
