@@ -347,3 +347,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230106 | JU8D5vVjyL0 | THE KEY TO KNOWING WHEN NOT TO TRADE | captions | done |
 | 20230104 | Y96IihyVTGk | Everything You Need to Know About ICT in 20 Minutes (Updated 2023 Version) | captions | done |
 | 20221230 | Ac5fWjsyHXg | How to Use the Box Setup with ICT (BPR) | captions | done |
+| 20221227 | zxuaQLD-NDg | Does ICT Work on Stocks？ (Back testing NVDA, AMZN, AAPL) | captions | done |
