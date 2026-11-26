@@ -354,3 +354,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221209 | AUDgXC8VVNA | How to Find Lower Time Frame Setups Using Higher Time Frame Using ICT Concepts | captions | done |
 | 20221206 | Up7qUkzodRI | How to Draw Discount VS Premium from ICT 2022 Mentorship (The RIGHT Way) | captions | done |
 | 20221202 | bFctTKGqAvM | What ICT Setups NOT To Take & Why Some Fail | captions | done |
+| 20221130 | Z2MTQCeRauA | The Best A+ Checklist for ICT 2022 Mentorship Setups | captions | done |
