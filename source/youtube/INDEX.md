@@ -351,3 +351,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221223 | 2lHl1aajY-M | How I Use IDR Combined with ICT Concepts | captions | done |
 | 20221220 | DmSgfn0OHlU | Everything You Should Know About ICT (Monday Class) | captions | done |
 | 20221213 | QPRqmimu1W4 | Best Ways to Play News Events #ICT | captions | done |
+| 20221209 | AUDgXC8VVNA | How to Find Lower Time Frame Setups Using Higher Time Frame Using ICT Concepts | captions | done |
