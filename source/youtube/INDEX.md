@@ -358,3 +358,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221128 | shVqMzL43o8 | Best Way to Place Stop Losses Using Any Strategy (Designed for ICT) | captions | done |
 | 20221118 | ULmIbL0RHaw | Best Way to Use Volume Imbalances from ICT | captions | done |
 | 20221115 | IEwqpYWcsv4 | How to Use Divergences on the Indexes with ICT | whisper | done |
+| 20221110 | nX-4N0E5IKY | Easy ICT Counter Trend Scalping Strategy Part 1 (With Examples) | captions | done |
