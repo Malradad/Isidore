@@ -368,3 +368,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221014 | S_dV0MJ_zI4 | How I Was Able to Perfectly Predict CPI Before it Happened | captions | done |
 | 20221014 | l0W3F95WYP4 | The TRUE Difference Between Mitigation Blocks and Breaker Blocks | captions | done |
 | 20221007 | N1vvOrkiz34 | The Key To Knowing WHERE Liquidity is + Where Price Wants To GO... | captions | done |
+| 20221002 | Ln7YeZJvpTk | Breaker Block + FVG Setup Part 2 | captions | done |
