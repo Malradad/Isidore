@@ -362,3 +362,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221106 | iImB-bM3j50 | How to Use The Daily Time Frame to Formulate Bias (Higher Time Frame Bias) | captions | done |
 | 20221103 | xL8HiIQrV40 | Key To Finding Liquidity + POIs (Part 2) | captions | done |
 | 20221029 | edMbhotLobs | ICT Balanced Price Range (BPR) Explained in 5 Minutes | captions | done |
+| 20221028 | 415OPJE7NZ4 | Important Tips For Spotting The ICT Buy Model and Sell Model in Real Time | captions | done |
