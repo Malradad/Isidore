@@ -364,3 +364,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221029 | edMbhotLobs | ICT Balanced Price Range (BPR) Explained in 5 Minutes | captions | done |
 | 20221028 | 415OPJE7NZ4 | Important Tips For Spotting The ICT Buy Model and Sell Model in Real Time | captions | done |
 | 20221024 | gshIajSzXlQ | My Favorite ICT Model That ICT Does Not Teach | whisper | done |
+| 20221022 | YRo2rGwIW5o | ICT Orderblocks Explained in 6 Minutes | whisper | done |
