@@ -342,3 +342,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230215 | wE3e0jaq97I | How To Know Which Fair Value Gaps Will Work from ICT 2022 Mentorship | captions | done |
 | 20230209 | u3I15N8hNNQ | How to Use SMTs the ＊RIGHT＊ Way From ICT 2022 Mentorship | whisper | done |
 | 20230203 | h6TTiwD9Fio | How to Identify and Read Orderflow Using Candlesticks | whisper | done |
+| 20230123 | 9rol9MNgHv8 | How I use Footprints with ICT to Fade Supply & Demand and OrderFlow Traders | captions | done |
