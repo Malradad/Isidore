@@ -350,3 +350,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221227 | zxuaQLD-NDg | Does ICT Work on Stocks？ (Back testing NVDA, AMZN, AAPL) | captions | done |
 | 20221223 | 2lHl1aajY-M | How I Use IDR Combined with ICT Concepts | captions | done |
 | 20221220 | DmSgfn0OHlU | Everything You Should Know About ICT (Monday Class) | captions | done |
+| 20221213 | QPRqmimu1W4 | Best Ways to Play News Events #ICT | captions | done |
