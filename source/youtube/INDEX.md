@@ -370,3 +370,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20221007 | N1vvOrkiz34 | The Key To Knowing WHERE Liquidity is + Where Price Wants To GO... | captions | done |
 | 20221002 | 5GxHhBkS_Ng | How to Find the Breaker Block + Fair Value Gap HIGH WIN RATE Setup | captions | done |
 | 20221002 | Ln7YeZJvpTk | Breaker Block + FVG Setup Part 2 | captions | done |
+| 20220928 | HWXnqgOwUzc | How to Find Liquidity and Why It's BETTER Than Support⧸Resistance ⧸ Different Than MSS | captions | done |
