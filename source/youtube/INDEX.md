@@ -344,3 +344,4 @@ Method-related videos from https://www.youtube.com/@DodgysDD/videos (titles abou
 | 20230203 | h6TTiwD9Fio | How to Identify and Read Orderflow Using Candlesticks | whisper | done |
 | 20230123 | 9rol9MNgHv8 | How I use Footprints with ICT to Fade Supply & Demand and OrderFlow Traders | captions | done |
 | 20230112 | B5F4Ag_4MmE | Counting Candles... (Secret Unknown Futures Strategy) | captions | done |
+| 20230106 | JU8D5vVjyL0 | THE KEY TO KNOWING WHEN NOT TO TRADE | captions | done |
